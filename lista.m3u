@@ -10,14 +10,14 @@ rtmp://109.206.96.209:1935/sk1_tv_247
 rtmp://109.206.96.209:1935/sk2_tv_247
 #EXTINF:-1,Sport Klub 3
 rtmp://109.206.96.209:1935/sk3_tv_247
-#EXTINF:-1, Arena Sport 1
-http://212.200.112.94:8000/play/a00l
-#EXTINF:-1, Arena Sport 2
-http://212.200.112.94:8000/play/a00m
-#EXTINF:-1, Arena Sport 3
-http://212.200.112.94:8000/play/a00n
-#EXTINF:-1, Arena Sport 4
-http://212.200.112.94:8000/play/a00o
-#EXTINF:-1, Arena Sport 5
-http://212.200.112.94:8000/play/a00y
+#EXTINF:-1,ARENA SPORT 1 SR
+http://185.93.1.41:8080/arena1/index.m3u8
+#EXTINF:-1,ARENA SPORT 2 SR
+http://185.93.1.41:8080/arena2/index.m3u8
+#EXTINF:-1,ARENA SPORT 3 SR
+http://185.93.1.41:8080/arena3/index.m3u8
+#EXTINF:-1,ARENA SPORT 4 SR
+http://185.93.1.41:8080/arena4/index.m3u8
+#EXTINF:-1,ARENA SPORT 5 SR
+http://185.93.1.41:8080/arena5/index.m3u8
 
