@@ -3,6 +3,54 @@
 skip
 #EXTINF:-1,[COLOR white]Tko želi platiti pivo>>>(paypal.me/bikerdaysHR)<<<[/COLOR]
 skip
+
+
+
+
+
+#EXTINF:-1,[COLOR green]---EXYU PROGRAMI---[/COLOR]
+skip
+
+
+
+#EXTINF:0,EXTINF:-1 HRT1
+http://66.70.129.43:8080/Hrt1/index.m3u8
+#EXTINF:0,EXTINF:-1 HRT2
+http://66.70.129.43:8080/Hrt2/index.m3u8
+#EXTINF:0,EXTINF:-1 RTS 1
+http://66.70.129.43:8080/Rts1/index.m3u8
+#EXTINF:0,EXTINF:-1 RTS2
+http://66.70.129.43:8080/Rts2/index.m3u8
+#EXTINF:0,BN
+http://212.200.112.94:8000/play/a020
+#EXTINF:0,RTV PULS HD
+http://212.200.112.94:8000/play/a001
+#EXTINF:0,National Geographic
+http://212.200.112.94:8000/play/a00b
+#EXTINF:0,DM sat
+http://212.200.112.94:8000/play/a01r
+#EXTINF:0,HRT 1
+http://212.200.112.94:8000/play/a01v
+#EXTINF:0,RTV PULS SD
+http://212.200.112.94:8000/play/a007
+#EXTINF:0,Nickelodeon Europe
+http://212.200.112.94:8000/play/a01t
+#EXTINF:0,Discovery Serbia
+http://212.200.112.94:8000/play/a00q
+#EXTINF:0,H2
+http://212.200.112.94:8000/play/a011
+#EXTINF:0,KCN Kopernikus 1
+http://212.200.112.94:8000/play/a00r
+#EXTINF:0,Arena Sport 5
+http://212.200.112.94:8000/play/a00y
+#EXTINF:0,MTV Europe
+http://212.200.112.94:8000/play/a01h
+#EXTINF:0,VH1
+http://212.200.112.94:8000/play/a01c
+#EXTINF:0,MTV Hits
+http://212.200.112.94:8000/play/a01d
+
+
 #EXTINF:-1,[COLOR green]---SPORTSKI PROGRAMI---[/COLOR]
 skip
 
@@ -36,3 +84,110 @@ http://65.254.55.10:4000/live/197/197.m3u8
 http://195.206.253.157:8001/eurosport2hd
 #EXTINF:-1,silk sport
 http://188.93.94.138/silk_sport4/index.m3u8
+
+
+
+#EXTINF:-1,MATCH TV HD
+http://d3a7691f.iptvbot.biz/iptv/QND49DL7Q43CL7/212/index.m3u8
+#EXTINF:-1,MATCH! ARENA
+http://d3a7691f.iptvbot.biz/iptv/QND49DL7Q43CL7/528/index.m3u8
+#EXTINF:-1,MATCH! ARENA HD
+http://d3a7691f.iptvbot.biz/iptv/QND49DL7Q43CL7/207/index.m3u8
+#EXTINF:-1,MATCH! FIGHTER
+http://d3a7691f.iptvbot.biz/iptv/QND49DL7Q43CL7/150/index.m3u8
+#EXTINF:-1,MATCH! A GAME
+http://d3a7691f.iptvbot.biz/iptv/QND49DL7Q43CL7/529/index.m3u8
+#EXTINF:-1,MATCH! FOOTBALL 2 HD
+http://d3a7691f.iptvbot.biz/iptv/QND49DL7Q43CL7/211/index.m3u8
+#EXTINF:-1,MATCH! FOOTBALL 3 HD
+http://d3a7691f.iptvbot.biz/iptv/QND49DL7Q43CL7/206/index.m3u8
+#EXTINF:-1,Match
+http://d3a7691f.iptvbot.biz/iptv/QND49DL7Q43CL7/535/index.m3u8
+#EXTINF:-1,Match! Our sport
+http://d3a7691f.iptvbot.biz/iptv/QND49DL7Q43CL7/107/index.m3u8
+#EXTINF:-1,Match! Planet
+http://d3a7691f.iptvbot.biz/iptv/QND49DL7Q43CL7/123/index.m3u8
+#EXTINF:-1,Match! Football 1
+http://d3a7691f.iptvbot.biz/iptv/QND49DL7Q43CL7/124/index.m3u8
+#EXTINF:-1,Match! Football 2
+http://d3a7691f.iptvbot.biz/iptv/QND49DL7Q43CL7/530/index.m3u8
+#EXTINF:-1,Match! Football 3
+http://d3a7691f.iptvbot.biz/iptv/QND49DL7Q43CL7/522/index.m3u8
+#EXTINF:-1,Viasat Sport 
+http://d3a7691f.iptvbot.biz/iptv/QND49DL7Q43CL7/160/index.m3u8
+#EXTINF:-1,Viasat Sport HD
+http://d3a7691f.iptvbot.biz/iptv/QND49DL7Q43CL7/208/index.m3u8
+#EXTINF:-1,Наш футбол HD
+http://d3a7691f.iptvbot.biz/iptv/QND49DL7Q43CL7/220/index.m3u8
+#EXTINF:-1,Матч! Футбол 1 HD
+http://d3a7691f.iptvbot.biz/iptv/QND49DL7Q43CL7/222/index.m3u8
+#EXTINF:-1,Матч! Игра HD
+http://d3a7691f.iptvbot.biz/iptv/QND49DL7Q43CL7/225/index.m3u8
+#EXTINF:-1,Eurosport 1 HD
+http://d3a7691f.iptvbot.biz/iptv/QND49DL7Q43CL7/228/index.m3u8
+#EXTINF:-1,Eurosport 2 North-East HD
+http://d3a7691f.iptvbot.biz/iptv/QND49DL7Q43CL7/234/index.m3u8
+#EXTINF:-1,Наш Детектив HD 
+http://d3a7691f.iptvbot.biz/iptv/QND49DL7Q43CL7/915/index.m3u8
+#EXTINF:-1,Наш футбол
+http://d3a7691f.iptvbot.biz/iptv/QND49DL7Q43CL7/531/index.m3u8
+#EXTINF:-1,KHL
+http://d3a7691f.iptvbot.biz/iptv/QND49DL7Q43CL7/519/index.m3u8
+#EXTINF:-1,Eurosport 1
+http://d3a7691f.iptvbot.biz/iptv/QND49DL7Q43CL7/141/index.m3u8
+#EXTINF:-1,Extreme Sports
+http://d3a7691f.iptvbot.biz/iptv/QND49DL7Q43CL7/144/index.m3u8
+#EXTINF:-1,Футбол 1 HD
+http://d3a7691f.iptvbot.biz/iptv/QND49DL7Q43CL7/800/index.m3u8
+#EXTINF:-1,Футбол 2 HD
+http://d3a7691f.iptvbot.biz/iptv/QND49DL7Q43CL7/801/index.m3u8
+#EXTINF:-1,XSPORT HD
+http://d3a7691f.iptvbot.biz/iptv/QND49DL7Q43CL7/996/index.m3u8
+#EXTINF:-1,XSPORT
+http://d3a7691f.iptvbot.biz/iptv/QND49DL7Q43CL7/997/index.m3u8
+
+
+
+
+#EXTINF:-1,[COLOR green]---ENGLESKI PROGRAMI---[/COLOR]
+skip
+
+
+#EXTINF:-1,Arise News
+http://contributionstreams.ashttp9.visionip.tv/live/visiontv-contributionstreams-arise-tv-hsslive-25f-16×9-SD/chunklist.m3u8
+#EXTINF:-1,BBC Radio One
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlow/ak/bbc_radio_one.m3u8
+#EXTINF:-1,BBC Radio Two
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlow/ak/bbc_radio_two.m3u8
+#EXTINF:-1,BBC Radio Four
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlow/ak/bbc_radio_fourfm.m3u8
+#EXTINF:-1,Sky News
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
+#EXTINF:-1,Sky News*
+http://d59pscns5ugc8.cloudfront.net/cdhls/skynewsamericas/1013/live/06.m3u8
+#EXTINF:-1,RT UK
+https://secure-streams.akamaized.net/rt-uk/index.m3u8
+#EXTINF:-1,Capital TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8
+#EXTINF:-1,Chelsea TV
+http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/master.m3u8
+#EXTINF:-1,Heart
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
+#EXTINF:-1,IdealWorld
+http://live.ccus.simplestreamcdn.com/live/isd_sdi3/bitrate1.isml/playlist.m3u8
+#EXTINF:-1,Insight
+http://ooyalahd2-f.akamaihd.net/i/intv02_delivery@346464/master.m3u8
+#EXTINF:-1,Jewellery Maker
+http://edge01.cdn.aws.subset.host/JewelleryMakerLive/JewelleryMakerLive/playlist.m3u8
+#EXTINF:-1,Kool London Radio
+http://w10.streamgb.com:1935/kool/kool/playlist.m3u8
+#EXTINF:-1,London Live
+http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master.m3u8
+#EXTINF:-1,QVC 1
+http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi8/3/prog_index.m3u8
+#EXTINF:-1,QVC 2
+http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi6/1/prog_index.m3u8
+#EXTINF:-1,QVC 3
+http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi5/1/prog_index.m3u8
+#EXTINF:-1,QVC 4
+http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi1/1/prog_index.m3u8
