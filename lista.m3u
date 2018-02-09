@@ -13,13 +13,13 @@ skip
 
 
 
-#EXTINF:0,EXTINF:-1 HRT1
+#EXTINF:0, HRT1
 http://66.70.129.43:8080/Hrt1/index.m3u8
-#EXTINF:0,EXTINF:-1 HRT2
+#EXTINF:0, HRT2
 http://66.70.129.43:8080/Hrt2/index.m3u8
-#EXTINF:0,EXTINF:-1 RTS 1
+#EXTINF:0, RTS 1
 http://66.70.129.43:8080/Rts1/index.m3u8
-#EXTINF:0,EXTINF:-1 RTS2
+#EXTINF:0, RTS2
 http://66.70.129.43:8080/Rts2/index.m3u8
 #EXTINF:0,BN
 http://212.200.112.94:8000/play/a020
@@ -60,16 +60,6 @@ rtmp://109.206.96.209:1935/sk1_tv_247
 rtmp://109.206.96.209:1935/sk2_tv_247
 #EXTINF:-1,Sport Klub 3
 rtmp://109.206.96.209:1935/sk3_tv_247
-#EXTINF:-1,ARENA SPORT 1 SR
-http://185.93.1.41:8080/arena1/index.m3u8
-#EXTINF:-1,ARENA SPORT 2 SR
-http://185.93.1.41:8080/arena2/index.m3u8
-#EXTINF:-1,ARENA SPORT 3 SR
-http://185.93.1.41:8080/arena3/index.m3u8
-#EXTINF:-1,ARENA SPORT 4 SR
-http://185.93.1.41:8080/arena4/index.m3u8
-#EXTINF:-1,ARENA SPORT 5 SR
-http://185.93.1.41:8080/arena5/index.m3u8
 #EXTINF:-1,Sportska TV
 http://wowza.h1telekom.hr:1935/sporttv/smil:sptv.smil/playlist.m3u8
 #EXTINF:-1,CANAL MOTOR
@@ -163,8 +153,6 @@ http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlo
 http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlow/ak/bbc_radio_fourfm.m3u8
 #EXTINF:-1,Sky News
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
-#EXTINF:-1,Sky News*
-http://d59pscns5ugc8.cloudfront.net/cdhls/skynewsamericas/1013/live/06.m3u8
 #EXTINF:-1,RT UK
 https://secure-streams.akamaized.net/rt-uk/index.m3u8
 #EXTINF:-1,Capital TV
