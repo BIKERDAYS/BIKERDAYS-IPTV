@@ -55,6 +55,23 @@ rtmp://109.206.96.209:1935/sk1_tv_247
 rtmp://109.206.96.209:1935/sk2_tv_247
 #EXTINF:-1,Sport Klub 3
 rtmp://109.206.96.209:1935/sk3_tv_247
+
+#EXTINF:-1,ARENA SPORT 1 
+http://66.70.129.43:8080/Arena1-SRB/index.m3u8
+#EXTINF:-1,ARENA SPORT 2 
+http://66.70.129.43:8080/Arena2-SRB/index.m3u8
+#EXTINF:-1,ARENA SPORT 3 
+http://66.70.129.43:8080/Arena3-SRB/index.m3u8
+#EXTINF:-1,ARENA SPORT 4 
+http://66.70.129.43:8080/Arena4-SRB/index.m3u8
+
+#EXTINF:-1,arenasport2
+http://195.222.48.168/arenasport2.m3u8
+#EXTINF:-1,arenasport3
+http://195.222.48.168/arenasport3.m3u8
+
+
+
 #EXTINF:-1,Sportska TV
 http://wowza.h1telekom.hr:1935/sporttv/smil:sptv.smil/playlist.m3u8
 #EXTINF:-1,CANAL MOTOR
@@ -70,66 +87,86 @@ http://195.206.253.157:8001/eurosport2hd
 #EXTINF:-1,silk sport
 http://188.93.94.138/silk_sport4/index.m3u8
 
+#EXTINF:-1, Матч! Футбол 2
+http://cdn.pointgroup.az/1000010/h9Gpqjjn63/40ea326f6adafd72e2a81d86cadb81a3/match-futbol-2.m3u8
 
+#EXTINF:-1, Матч! Футбол 2 HD
+http://cdn.pointgroup.az/1000010/h9Gpqjjn63/40ea326f6adafd72e2a81d86cadb81a3/match-futbol-2-hd.m3u8
 
-#EXTINF:-1,MATCH TV HD
-http://d3a7691f.iptvbot.biz/iptv/QND49DL7Q43CL7/212/index.m3u8
-#EXTINF:-1,MATCH! ARENA
-http://d3a7691f.iptvbot.biz/iptv/QND49DL7Q43CL7/528/index.m3u8
-#EXTINF:-1,MATCH! ARENA HD
-http://d3a7691f.iptvbot.biz/iptv/QND49DL7Q43CL7/207/index.m3u8
-#EXTINF:-1,MATCH! FIGHTER
-http://d3a7691f.iptvbot.biz/iptv/QND49DL7Q43CL7/150/index.m3u8
-#EXTINF:-1,MATCH! A GAME
-http://d3a7691f.iptvbot.biz/iptv/QND49DL7Q43CL7/529/index.m3u8
-#EXTINF:-1,MATCH! FOOTBALL 2 HD
-http://d3a7691f.iptvbot.biz/iptv/QND49DL7Q43CL7/211/index.m3u8
-#EXTINF:-1,MATCH! FOOTBALL 3 HD
-http://d3a7691f.iptvbot.biz/iptv/QND49DL7Q43CL7/206/index.m3u8
-#EXTINF:-1,Match
-http://d3a7691f.iptvbot.biz/iptv/QND49DL7Q43CL7/535/index.m3u8
-#EXTINF:-1,Match! Our sport
-http://d3a7691f.iptvbot.biz/iptv/QND49DL7Q43CL7/107/index.m3u8
-#EXTINF:-1,Match! Planet
-http://d3a7691f.iptvbot.biz/iptv/QND49DL7Q43CL7/123/index.m3u8
-#EXTINF:-1,Match! Football 1
-http://d3a7691f.iptvbot.biz/iptv/QND49DL7Q43CL7/124/index.m3u8
-#EXTINF:-1,Match! Football 2
-http://d3a7691f.iptvbot.biz/iptv/QND49DL7Q43CL7/530/index.m3u8
-#EXTINF:-1,Match! Football 3
-http://d3a7691f.iptvbot.biz/iptv/QND49DL7Q43CL7/522/index.m3u8
-#EXTINF:-1,Viasat Sport 
-http://d3a7691f.iptvbot.biz/iptv/QND49DL7Q43CL7/160/index.m3u8
-#EXTINF:-1,Viasat Sport HD
-http://d3a7691f.iptvbot.biz/iptv/QND49DL7Q43CL7/208/index.m3u8
-#EXTINF:-1,Наш футбол HD
-http://d3a7691f.iptvbot.biz/iptv/QND49DL7Q43CL7/220/index.m3u8
-#EXTINF:-1,Матч! Футбол 1 HD
-http://d3a7691f.iptvbot.biz/iptv/QND49DL7Q43CL7/222/index.m3u8
-#EXTINF:-1,Матч! Игра HD
-http://d3a7691f.iptvbot.biz/iptv/QND49DL7Q43CL7/225/index.m3u8
-#EXTINF:-1,Eurosport 1 HD
-http://d3a7691f.iptvbot.biz/iptv/QND49DL7Q43CL7/228/index.m3u8
-#EXTINF:-1,Eurosport 2 North-East HD
-http://d3a7691f.iptvbot.biz/iptv/QND49DL7Q43CL7/234/index.m3u8
-#EXTINF:-1,Наш Детектив HD 
-http://d3a7691f.iptvbot.biz/iptv/QND49DL7Q43CL7/915/index.m3u8
-#EXTINF:-1,Наш футбол
-http://d3a7691f.iptvbot.biz/iptv/QND49DL7Q43CL7/531/index.m3u8
-#EXTINF:-1,KHL
-http://d3a7691f.iptvbot.biz/iptv/QND49DL7Q43CL7/519/index.m3u8
-#EXTINF:-1,Eurosport 1
-http://d3a7691f.iptvbot.biz/iptv/QND49DL7Q43CL7/141/index.m3u8
-#EXTINF:-1,Extreme Sports
-http://d3a7691f.iptvbot.biz/iptv/QND49DL7Q43CL7/144/index.m3u8
-#EXTINF:-1,Футбол 1 HD
-http://d3a7691f.iptvbot.biz/iptv/QND49DL7Q43CL7/800/index.m3u8
-#EXTINF:-1,Футбол 2 HD
-http://d3a7691f.iptvbot.biz/iptv/QND49DL7Q43CL7/801/index.m3u8
-#EXTINF:-1,XSPORT HD
-http://d3a7691f.iptvbot.biz/iptv/QND49DL7Q43CL7/996/index.m3u8
-#EXTINF:-1,XSPORT
-http://d3a7691f.iptvbot.biz/iptv/QND49DL7Q43CL7/997/index.m3u8
+#EXTINF:-1, Eurosport 2 HD RU
+http://cdn.pointgroup.az/1000010/h9Gpqjjn63/40ea326f6adafd72e2a81d86cadb81a3/eurosport-2-hd-ru.m3u8
+
+#EXTINF:-1, Матч! Футбол 3
+http://cdn.pointgroup.az/1000010/h9Gpqjjn63/40ea326f6adafd72e2a81d86cadb81a3/match-futbol-3.m3u8
+
+#EXTINF:-1, Матч! Футбол 3 HD
+http://cdn.pointgroup.az/1000010/h9Gpqjjn63/40ea326f6adafd72e2a81d86cadb81a3/match-futbol-3-hd.m3u8
+
+#EXTINF:-1, Бокс ТВ
+http://cdn.pointgroup.az/1000010/h9Gpqjjn63/40ea326f6adafd72e2a81d86cadb81a3/boks-tv.m3u8
+
+#EXTINF:-1, Футбол 1 HD
+http://cdn.pointgroup.az/1000010/h9Gpqjjn63/40ea326f6adafd72e2a81d86cadb81a3/futbol-1-hd.m3u8
+
+#EXTINF:-1, Футбол 2 HD
+http://cdn.pointgroup.az/1000010/h9Gpqjjn63/40ea326f6adafd72e2a81d86cadb81a3/futbol-2-hd.m3u8
+
+#EXTINF:-1, Bein sport
+http://cdn.pointgroup.az/1000010/h9Gpqjjn63/40ea326f6adafd72e2a81d86cadb81a3/bein-sport.m3u8
+
+#EXTINF:-1, КХЛ
+http://cdn.pointgroup.az/1000010/h9Gpqjjn63/40ea326f6adafd72e2a81d86cadb81a3/khl.m3u8
+
+#EXTINF:-1, КХЛ HD 
+http://cdn.pointgroup.az/1000010/h9Gpqjjn63/40ea326f6adafd72e2a81d86cadb81a3/khl-hd.m3u8
+
+#EXTINF:-1, Sky sport 1 HD
+http://cdn.pointgroup.az/1000010/h9Gpqjjn63/40ea326f6adafd72e2a81d86cadb81a3/sky-sport-1-hd.m3u8
+
+#EXTINF:-1, Sky sport 2 HD
+http://cdn.pointgroup.az/1000010/h9Gpqjjn63/40ea326f6adafd72e2a81d86cadb81a3/sky-sport-2-hd.m3u8
+
+#EXTINF:-1, Viasat Sport
+http://cdn.pointgroup.az/1000010/h9Gpqjjn63/40ea326f6adafd72e2a81d86cadb81a3/viasat-sport.m3u8
+
+#EXTINF:-1, Viasat Sport RU
+http://cdn.pointgroup.az/1000010/h9Gpqjjn63/40ea326f6adafd72e2a81d86cadb81a3/viasat-sport-ru.m3u8
+#EXTINF:-1, TRT Spor
+http://cdn.pointgroup.az/1000010/h9Gpqjjn63/40ea326f6adafd72e2a81d86cadb81a3/trt-spor.m3u8
+#EXTINF:-1, Extreme Sports
+http://cdn.pointgroup.az/1000010/h9Gpqjjn63/40ea326f6adafd72e2a81d86cadb81a3/extreme-sports.m3u8
+
+#EXTINF:-1, Eurosport 1 
+http://cdn.pointgroup.az/1000010/h9Gpqjjn63/40ea326f6adafd72e2a81d86cadb81a3/eurosport-1.m3u8
+
+#EXTINF:-1, Eurosport 1 RU
+http://cdn.pointgroup.az/1000010/h9Gpqjjn63/40ea326f6adafd72e2a81d86cadb81a3/eurosport-1-ru.m3u8
+
+#EXTINF:-1, Матч! ТВ
+http://cdn.pointgroup.az/1000010/h9Gpqjjn63/40ea326f6adafd72e2a81d86cadb81a3/match-tv.m3u8
+
+#EXTINF:-1, Матч! ТВ HD
+http://cdn.pointgroup.az/1000010/h9Gpqjjn63/40ea326f6adafd72e2a81d86cadb81a3/match-tv-hd.m3u8
+
+#EXTINF:-1, Матч! Боец
+http://cdn.pointgroup.az/1000010/h9Gpqjjn63/40ea326f6adafd72e2a81d86cadb81a3/match-boets.m3u8
+
+#EXTINF:-1, Матч! Наш Спорт
+http://cdn.pointgroup.az/1000010/h9Gpqjjn63/40ea326f6adafd72e2a81d86cadb81a3/match-nash-sport.m3u8
+
+#EXTINF:-1, Матч! Планета
+http://cdn.pointgroup.az/1000010/h9Gpqjjn63/40ea326f6adafd72e2a81d86cadb81a3/match-planeta.m3u8
+
+#EXTINF:-1, Матч! Футбол 1
+http://cdn.pointgroup.az/1000010/h9Gpqjjn63/40ea326f6adafd72e2a81d86cadb81a3/match-futbol-1.m3u8
+
+#EXTINF:-1, Матч! Футбол 1 HD
+http://cdn.pointgroup.az/1000010/h9Gpqjjn63/40ea326f6adafd72e2a81d86cadb81a3/match-futbol-1-hd.m3u8
+
+#EXTINF:-1, NTV Spor
+http://cdn.pointgroup.az/1000010/h9Gpqjjn63/40ea326f6adafd72e2a81d86cadb81a3/ntv-spor.m3u8
+#EXTINF:-1, CBC Sport
+http://cdn.pointgroup.az/1000010/h9Gpqjjn63/40ea326f6adafd72e2a81d86cadb81a3/cbc-sport.m3u8
 
 
 
@@ -174,3 +211,31 @@ http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi6/1/prog_inde
 http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi5/1/prog_index.m3u8
 #EXTINF:-1,QVC 4
 http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi1/1/prog_index.m3u8
+
+
+
+#EXTINF:-1,[COLOR green]---XXX PROGRAMI---[/COLOR]
+skip
+
+
+
+#EXTINF:-1,Blue Hustler
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/268/index.m3u8
+#EXTINF:-1,Brazzers TV Europe
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/755/index.m3u8
+#EXTINF:-1,Brazzers TV Europe
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/346/index.m3u8
+#EXTINF:-1,Nuart TV
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/264/index.m3u8
+#EXTINF:-1,PRIVATE TV
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/354/index.m3u8
+#EXTINF:-1,XXL
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/500/index.m3u8
+#EXTINF:-1,Redlight TV 
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/501/index.m3u8
+#EXTINF:-1,??????? ????
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/266/index.m3u8
+#EXTINF:-1,Egoist
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/267/index.m3u8
+#EXTINF:-1,Hustler HD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/502/index.m3u8
