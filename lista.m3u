@@ -22,6 +22,8 @@ http://212.200.112.94:8000/play/a020
 http://212.200.112.94:8000/play/a001
 #EXTINF:0,National Geographic
 http://212.200.112.94:8000/play/a00b
+#EXTINF:-1,Nat Geo Wild 
+http://81.228.174.166:8001/natgeowild
 #EXTINF:0,DM sat
 http://212.200.112.94:8000/play/a01r
 #EXTINF:0,HRT 1
@@ -80,6 +82,8 @@ http://03.sf.bg.unistream.tv/test/canalmotor-hls/pl.m3u8?time=1462400376714
 http://212.200.102.3:5000/udp/239.99.99.99:23999
 #EXTINF:-1,chelsea tv
 http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/master.m3u8
+#EXTINF:-1,Eurosport 1 
+http://81.228.174.166:8003/eurosport1
 #EXTINF:-1,Eurosport 1 hd
 http://65.254.55.10:4000/live/197/197.m3u8
 #EXTINF:-1,EUROSPORT 2
@@ -239,3 +243,4 @@ http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/266/inde
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/267/index.m3u8
 #EXTINF:-1,Hustler HD
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/502/index.m3u8
+
