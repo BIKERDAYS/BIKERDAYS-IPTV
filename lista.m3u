@@ -464,6 +464,9 @@ skip
 #EXTINF:0,Hunting and Fishing
 http://str.trofey.net:1935/live/2_max.smil/chunklist_w158057594_b4000000.m3u8?id=2&session=5488c6087e1ea6.57082302
 
+#EXTINF:-1,Nat Geo Wild 
+http://81.228.174.166:8001/natgeowild
+
 #EXTINF:-1,travel hd
 http://31.13.223.103/travel/community.stream/playlist.m3u8?hash=943212345
 
