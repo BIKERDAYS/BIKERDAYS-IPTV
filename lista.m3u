@@ -194,6 +194,15 @@ skip
 
 
 
+#EXTINF:-1,MEZZO
+http://a6ef665f.ottclub.mobi/iptv/DPGK2RFY6XHPHF/707/index.m3u8
+
+#EXTINF:-1,VH-1 Classichttp://a6ef665f.ottclub.mobi/iptv/DPGK2RFY6XHPHF/724/index.m3u8
+
+#EXTINF:-1,VH1 European
+http://a6ef665f.ottclub.mobi/iptv/DPGK2RFY6XHPHF/536/index.m3u8
+
+
 #EXTINF:0,MTV hits
 http://91.149.172.100:80/channel?id=140&u=demo&p=demo
 
@@ -996,6 +1005,8 @@ http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/267/inde
 #EXTINF:-1,Hustler HD
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/502/index.m3u8
 
+
+
 #EXTINF:-1,YouPorn 24H	
 http://iptvnation.com/porn/video.mp4
 
@@ -1004,6 +1015,10 @@ http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
 
 #EXTINF:-1,JASMIN TV
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
+
+
+
+
 
 
 
