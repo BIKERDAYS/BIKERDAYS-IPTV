@@ -105,6 +105,9 @@ http://195.206.253.157:8001/eurosport2hd
 #EXTINF:-1,silk sport
 http://188.93.94.138/silk_sport4/index.m3u8
 
+#EXTINF:-1,Viasat_Sport
+http://89.28.21.85/Viasat_Sport/tracks-v1a1/index.m3u8?token=vsesuda
+
 #EXTINF:-1, Матч! Футбол 2
 http://cdn.pointgroup.az/1000010/h9Gpqjjn63/40ea326f6adafd72e2a81d86cadb81a3/match-futbol-2.m3u8
 
