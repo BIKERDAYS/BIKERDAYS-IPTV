@@ -108,6 +108,12 @@ http://188.93.94.138/silk_sport4/index.m3u8
 #EXTINF:-1,Viasat_Sport
 http://89.28.21.85/Viasat_Sport/tracks-v1a1/index.m3u8?token=vsesuda
 
+#EXTINF:-1,Xsport
+http://d3a7691f.iptvbot.biz/iptv/QND49DL7Q43CL7/997/index.m3u8
+
+#EXTINF:-1,Xsport HD
+http://d3a7691f.iptvbot.biz/iptv/QND49DL7Q43CL7/996/index.m3u8 
+
 #EXTINF:-1, Матч! Футбол 2
 http://cdn.pointgroup.az/1000010/h9Gpqjjn63/40ea326f6adafd72e2a81d86cadb81a3/match-futbol-2.m3u8
 
