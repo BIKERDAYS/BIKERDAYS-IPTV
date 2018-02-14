@@ -743,6 +743,16 @@ http://123tv.cdn.ses-ps.com/index.m3u8
 http://62.113.210.250/medienasa-live/_definst_/mp4:elbe_high/chunklist_w1146564478.m3u8
 
 
+#EXTINF:-1,CINE FILM rtmp
+rtmp://176.9.48.184:1935/cinefilmhd/CineFilm
+#EXTINF:-1,CINE FILM rtsp
+rtsp://176.9.48.184:1935/cinefilmhd/CineFilm
+#EXTINF:-1,CINE FILM m3u8
+http://176.9.48.184:1935/cinefilmhd/CineFilm/playlist.m3u8
+
+
+
+
 #EXTINF:-1,[COLOR green]--- FRANCUSKI PROGRAMI ---[/COLOR] 
 skip
 
