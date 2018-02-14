@@ -749,7 +749,8 @@ rtmp://176.9.48.184:1935/cinefilmhd/CineFilm
 rtsp://176.9.48.184:1935/cinefilmhd/CineFilm
 #EXTINF:-1,CINE FILM m3u8
 http://176.9.48.184:1935/cinefilmhd/CineFilm/playlist.m3u8
-
+#EXTINF:-1,RIC TV DE
+rtmp://80.237.191.232:1935/live/rictv
 
 
 
