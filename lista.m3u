@@ -196,6 +196,30 @@ http://cdn.pointgroup.az/1000010/h9Gpqjjn63/40ea326f6adafd72e2a81d86cadb81a3/ntv
 #EXTINF:-1, CBC Sport
 http://cdn.pointgroup.az/1000010/h9Gpqjjn63/40ea326f6adafd72e2a81d86cadb81a3/cbc-sport.m3u8
 
+#EXTINF:-1,sports
+http://185.39.194.4:4022/udp/224.176.0.22:10005
+#EXTINF:-1,sports
+http://185.39.194.4:4022/udp/224.176.0.2:10005
+#EXTINF:-1,sports
+http://185.39.194.4:4022/udp/224.176.0.23:10005
+#EXTINF:-1,sports
+http://185.39.194.4:4022/udp/224.176.0.24:10005
+#EXTINF:-1,sports
+http://185.39.194.4:4022/udp/224.176.0.27:10005
+#EXTINF:-1,sports
+http://185.39.194.4:4022/udp/224.176.0.37:10005
+#EXTINF:-1,sports
+http://185.39.194.4:4022/udp/224.176.0.38:10005
+#EXTINF:-1,sports
+http://185.39.194.4:4022/udp/224.176.0.157:10005
+#EXTINF:-1,sports
+http://185.39.194.4:4022/udp/224.176.0.233:10005
+#EXTINF:-1,sports
+http://185.39.194.4:4022/udp/224.176.0.235:10005
+
+
+
+
 
 
 #EXTINF:-1,[COLOR green]--- MUZIČKI PROGRAMI ---[/COLOR]
@@ -288,9 +312,6 @@ http://nodeb.gocaster.net:1935/CGL/_definst_/mp4:TODAYFM_TEST2/stream.m3u8
 #EXTINF:0,MUSIC CHOICE
 http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
 
-#EXTINF:0,DnBTV 
-rtmp://vs2.drumandbasslines.com/DnBTV/ch1
-
 #EXTINF:-1,VibeeTV
 http://46.101.21.42:8081/live/live2/playlist.m3u8
 
@@ -323,9 +344,6 @@ http://bl.webcaster.pro/media/start/free_9d6a8624a7702dddd15b6c4fbf272152_hd/65_
 
 #EXTINF:0,BRIDGE TV DANCE
 http://93.91.113.8:9999/play/a09a
-
-#EXTINF:-1,DFM
-http://tv.artcom-venture.de:1322/dmf/tv_360.m3u8
 
 #EXTINF:0,NRJ Hits 
 http://5.196.138.6:1935/live/nrjbelgique_720p/chunklist_w1562122761.m3u8
@@ -377,15 +395,6 @@ http://80.250.191.10:1935/live/hlsstream343/playlist.m3u8
 
 #EXTINF:0,Muzzone
 http://live.muzzone.cdnvideo.ru/muzzone/muzzone.sdp/playlist.m3u8
-
-#EXTINF:-1,OCKO
-http://ocko-live.service.cdn.cra.cz/playlist/live/ocko/live_lq.m3u8
-
-#EXTINF:-1,OCKO Gold
-http://ocko-live.service.cdn.cra.cz/playlist/live/ocko_gold/live_hq.m3u8
-
-#EXTINF:-1,OCKO Express
-http://ocko-live.service.cdn.cra.cz/playlist/live/ocko_expres/live_hq.m3u8
 
 #EXTINF:0,ESKA BEST MUSIC TV
 http://stream.cdn.smcloud.net/best-t/best_720p/playlist.m3u8
