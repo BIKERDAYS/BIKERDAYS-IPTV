@@ -93,6 +93,9 @@ http://212.200.102.3:5000/udp/239.99.99.99:23999
 #EXTINF:-1,chelsea tv
 http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/master.m3u8
 
+#EXTINF:-1,la liga
+http://185.231.160.49/614/1/index.m3u8
+
 #EXTINF:-1,Eurosport 1 
 http://81.228.174.166:8003/eurosport1
 
