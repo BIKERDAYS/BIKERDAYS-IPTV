@@ -193,6 +193,15 @@ http://195.252.68.245:1935/KLIKTV_2/smil:pink107.mf.smil/playlist.m3u8
 #EXTINF:-1,d
 http://195.252.68.245:1935/KLIKTV_2/smil:pink.mf.smil/playlist.m3u8
 
+#EXTINF:0,TV Slovenija 1
+rtmp://109.206.96.209:1935/tvslovenija1_tv_38
+#EXTINF:0,TV Slovenija 2
+rtmp://109.206.96.209:1935/tvslovenija2_tv_38
+#EXTINF:0,TV Slovenija 3
+rtmp://109.206.96.209:1935/tvslovenija3_tv_38
+
+
+
 
 #EXTINF:-1,[COLOR green]---SPORTSKI PROGRAMI---[/COLOR]
 skip
@@ -251,6 +260,16 @@ http://195.222.48.168/arenasport2.m3u8
 #EXTINF:-1,arenasport3
 http://195.222.48.168/arenasport3.m3u8
 
+#EXTINF:0,Arena Sport 1
+rtmp://109.206.96.209:1935/arena1_tv_247
+#EXTINF:0,Arena Sport 2
+rtmp://109.206.96.209:1935/arena2_tv_247
+#EXTINF:0,Arena Sport 3
+rtmp://109.206.96.209:1935/arena3_tv_247
+#EXTINF:0,Arena Sport 4
+rtmp://109.206.96.209:1935/arena4_tv_247
+
+
 #EXTINF:-1,Sportska TV
 http://wowza.h1telekom.hr:1935/sporttv/smil:sptv.smil/playlist.m3u8
 
@@ -262,6 +281,12 @@ http://212.200.102.3:5000/udp/239.99.99.99:23999
 
 #EXTINF:-1,chelsea tv
 http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/master.m3u8
+
+
+#EXTINF:0,Eurosport 1
+rtmp://109.206.96.209:1935/eurosport1_tv
+#EXTINF:0,Eurosport 2
+rtmp://109.206.96.209:1935/eurosport2_tv
 
 #EXTINF:-1,Eurosport 1 
 http://81.228.174.166:8003/eurosport1
@@ -407,32 +432,6 @@ http://159.89.5.141:8000/live/yacinedz/BEINSiptv2017/928.ts
 http://159.89.5.141:8000/live/yacinedz/BEINSiptv2017/929.ts
 #EXTINF:-1,BEIN SPORTS 10 HD
 http://159.89.5.141:8000/live/yacinedz/BEINSiptv2017/930.ts
-#EXTINF:-1,BEIN SPORTS 1
-http://159.89.5.141:8000/live/yacinedz/BEINSiptv2017/931.ts
-#EXTINF:-1,BEIN SPORTS 2
-http://159.89.5.141:8000/live/yacinedz/BEINSiptv2017/932.ts
-#EXTINF:-1,BEIN SPORTS 3
-http://159.89.5.141:8000/live/yacinedz/BEINSiptv2017/933.ts
-#EXTINF:-1,BEIN SPORTS 4
-http://159.89.5.141:8000/live/yacinedz/BEINSiptv2017/934.ts
-#EXTINF:-1,BEIN SPORTS 5
-http://159.89.5.141:8000/live/yacinedz/BEINSiptv2017/935.ts
-#EXTINF:-1,Mbc pro1
-http://159.89.5.141:8000/live/yacinedz/BEINSiptv2017/951.ts
-#EXTINF:-1,Mbc pro2
-http://159.89.5.141:8000/live/yacinedz/BEINSiptv2017/952.ts
-#EXTINF:-1,Mbc pro3
-http://159.89.5.141:8000/live/yacinedz/BEINSiptv2017/953.ts
-#EXTINF:-1,Sky Sport 2
-http://159.89.5.141:8000/live/yacinedz/BEINSiptv2017/975.ts
-#EXTINF:-1,Sky Sport 1 HD
-http://159.89.5.141:8000/live/yacinedz/BEINSiptv2017/974.ts
-#EXTINF:-1,lalig
-http://159.89.5.141:8000/live/yacinedz/BEINSiptv2017/972.ts
-#EXTINF:-1,EUROSPORT 1
-http://159.89.5.141:8000/live/yacinedz/BEINSiptv2017/976.ts
-#EXTINF:-1,bein sport
-http://159.89.5.141:8000/live/yacinedz/BEINSiptv2017/973.ts
 
 
 
@@ -867,6 +866,13 @@ http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
 #EXTINF:-1,[COLOR green]---TALIJANSKI PROGRAMI---[/COLOR]
 skip
 
+
+#EXTINF:0,Rai 1
+rtmp://109.206.96.209:1935/rai_tv_247
+#EXTINF:0,Rai 2
+rtmp://109.206.96.209:1935/rai2_tv_247
+#EXTINF:0,Rai 3
+rtmp://109.206.96.209:1935/rai3_tv_247
 
 #EXTINF:-1,canale 5
 http://hlslive.msf.ticdn.it/hls/CH13/live.m3u8?type=live-cupertino
