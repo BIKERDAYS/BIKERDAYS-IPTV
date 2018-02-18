@@ -392,6 +392,11 @@ http://cdn.pointgroup.az/1000010/h9Gpqjjn63/40ea326f6adafd72e2a81d86cadb81a3/ntv
 http://cdn.pointgroup.az/1000010/h9Gpqjjn63/40ea326f6adafd72e2a81d86cadb81a3/cbc-sport.m3u8
 
 
+#EXTINF:0,BEIN SPORT
+http://stream.sport-ch.com/16974f3ca2725490fa6655629eefe8f7/10081/index.m3u8
+
+
+
 #EXTINF:-1,Bein hd1
 http://159.89.5.141:8000/live/yacinedz/BEINSiptv2017/941.ts
 #EXTINF:-1,Bein hd2
