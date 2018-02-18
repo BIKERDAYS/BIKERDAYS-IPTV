@@ -982,15 +982,21 @@ skip
 
 #EXTINF:-1,ORF1 (vpn austria)
 http://apasfiisl.apa.at/ipad/orf1_q4a/orf.sdp/playlist.m3u8
-
 #EXTINF:-1,ORF2 (vpn austria)
 http://apasfiisl.apa.at/ipad/orf2_q4a/orf.sdp/playlist.m3u8
-
 #EXTINF:-1,ORF3 (vpn austria)
 http://apasfiisl.apa.at/ipad/orf3_q4a/orf.sdp/playlist.m3u8
-
 #EXTINF:-1,ORF sport (vpn austria)
 http://apasfiisl.apa.at/ipad/orfs_q4a/orf.sdp/playlist.m3u8
+
+
+#EXTINF:-1,ÖS-ORF-SPORT-TV (vpn austria)
+http://orfs.orf.cdn.ors.at/orfs/q8c.sdp/chunklist.m3u8
+#EXTINF:-1,ÖS-ORF-1HD+ (vpn austria)
+http://orf1.orf.cdn.ors.at/orf1/q8c.sdp/chunklist.m3u8
+#EXTINF:-1,ÖS-ORF-2HD+ (vpn austria)
+http://orf2.orf.cdn.ors.at/orf2/q8c.sdp/chunklist.m3u8
+
 
 #EXTINF:-1,blizz tv
 http://familytvblizz-lh.akamaihd.net/i/familytv_1@458351/master.m3u8
