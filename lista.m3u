@@ -278,9 +278,21 @@ http://03.sf.bg.unistream.tv/test/canalmotor-hls/pl.m3u8?time=1462400376714
 
 #EXTINF:-1,TV Partizan
 http://212.200.102.3:5000/udp/239.99.99.99:23999
-
 #EXTINF:-1,chelsea tv
 http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/master.m3u8
+#EXTINF:-1,Real Madrid TV
+http://rmtv24hweblive-lh.akamaihd.net:80/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8
+#EXTINF:-1,Sevilla fc
+http://sevillafc_live-lh.akamaihd.net:80/i/video_0@354142/master.m3u8
+
+#EXTINF:-1,RED BULL TV
+http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8
+#EXTINF:-1,PAC-12 Bay Area
+http://p12b-lh.akamaihd.net/i/bayarea_delivery@429334/master.m3u8
+
+
+#EXTINF:-1,Extreme Sports
+http://91.149.172.100:80/channel?id=24&u=demo&p=demo
 
 
 #EXTINF:0,Eurosport 1
@@ -305,52 +317,37 @@ http://89.28.21.85/Viasat_Sport/tracks-v1a1/index.m3u8?token=vsesuda
 
 #EXTINF:-1,Xsport
 http://d3a7691f.iptvbot.biz/iptv/QND49DL7Q43CL7/997/index.m3u8
-
 #EXTINF:-1,Xsport HD
 http://d3a7691f.iptvbot.biz/iptv/QND49DL7Q43CL7/996/index.m3u8 
 
 #EXTINF:-1, Матч! Футбол 2
 http://cdn.pointgroup.az/1000010/h9Gpqjjn63/40ea326f6adafd72e2a81d86cadb81a3/match-futbol-2.m3u8
-
 #EXTINF:-1, Матч! Футбол 2 HD
 http://cdn.pointgroup.az/1000010/h9Gpqjjn63/40ea326f6adafd72e2a81d86cadb81a3/match-futbol-2-hd.m3u8
-
 #EXTINF:-1, Eurosport 2 HD RU
 http://cdn.pointgroup.az/1000010/h9Gpqjjn63/40ea326f6adafd72e2a81d86cadb81a3/eurosport-2-hd-ru.m3u8
-
 #EXTINF:-1, Матч! Футбол 3
 http://cdn.pointgroup.az/1000010/h9Gpqjjn63/40ea326f6adafd72e2a81d86cadb81a3/match-futbol-3.m3u8
-
 #EXTINF:-1, Матч! Футбол 3 HD
 http://cdn.pointgroup.az/1000010/h9Gpqjjn63/40ea326f6adafd72e2a81d86cadb81a3/match-futbol-3-hd.m3u8
-
 #EXTINF:-1, Бокс ТВ
 http://cdn.pointgroup.az/1000010/h9Gpqjjn63/40ea326f6adafd72e2a81d86cadb81a3/boks-tv.m3u8
-
 #EXTINF:-1, Футбол 1 HD
 http://cdn.pointgroup.az/1000010/h9Gpqjjn63/40ea326f6adafd72e2a81d86cadb81a3/futbol-1-hd.m3u8
-
 #EXTINF:-1, Футбол 2 HD
 http://cdn.pointgroup.az/1000010/h9Gpqjjn63/40ea326f6adafd72e2a81d86cadb81a3/futbol-2-hd.m3u8
-
 #EXTINF:-1, Bein sport
 http://cdn.pointgroup.az/1000010/h9Gpqjjn63/40ea326f6adafd72e2a81d86cadb81a3/bein-sport.m3u8
-
 #EXTINF:-1, КХЛ
 http://cdn.pointgroup.az/1000010/h9Gpqjjn63/40ea326f6adafd72e2a81d86cadb81a3/khl.m3u8
-
 #EXTINF:-1, КХЛ HD 
 http://cdn.pointgroup.az/1000010/h9Gpqjjn63/40ea326f6adafd72e2a81d86cadb81a3/khl-hd.m3u8
-
 #EXTINF:-1, Sky sport 1 HD
 http://cdn.pointgroup.az/1000010/h9Gpqjjn63/40ea326f6adafd72e2a81d86cadb81a3/sky-sport-1-hd.m3u8
-
 #EXTINF:-1, Sky sport 2 HD
 http://cdn.pointgroup.az/1000010/h9Gpqjjn63/40ea326f6adafd72e2a81d86cadb81a3/sky-sport-2-hd.m3u8
-
 #EXTINF:-1, Viasat Sport
 http://cdn.pointgroup.az/1000010/h9Gpqjjn63/40ea326f6adafd72e2a81d86cadb81a3/viasat-sport.m3u8
-
 #EXTINF:-1, Viasat Sport RU
 http://cdn.pointgroup.az/1000010/h9Gpqjjn63/40ea326f6adafd72e2a81d86cadb81a3/viasat-sport-ru.m3u8
 #EXTINF:-1, TRT Spor
@@ -391,54 +388,13 @@ http://cdn.pointgroup.az/1000010/h9Gpqjjn63/40ea326f6adafd72e2a81d86cadb81a3/ntv
 #EXTINF:-1, CBC Sport
 http://cdn.pointgroup.az/1000010/h9Gpqjjn63/40ea326f6adafd72e2a81d86cadb81a3/cbc-sport.m3u8
 
-
 #EXTINF:0,BEIN SPORT
 http://stream.sport-ch.com/16974f3ca2725490fa6655629eefe8f7/10081/index.m3u8
 
-
-
-#EXTINF:-1,Bein hd1
-http://159.89.5.141:8000/live/yacinedz/BEINSiptv2017/941.ts
-#EXTINF:-1,Bein hd2
-http://159.89.5.141:8000/live/yacinedz/BEINSiptv2017/942.ts
-#EXTINF:-1,Bein hd3
-http://159.89.5.141:8000/live/yacinedz/BEINSiptv2017/943.ts
-#EXTINF:-1,Bein hd4
-http://159.89.5.141:8000/live/yacinedz/BEINSiptv2017/944.ts
-#EXTINF:-1,Bein hd5
-http://159.89.5.141:8000/live/yacinedz/BEINSiptv2017/945.ts
-#EXTINF:-1,Bein hd6
-http://159.89.5.141:8000/live/yacinedz/BEINSiptv2017/946.ts
-#EXTINF:-1,Bein hd7
-http://159.89.5.141:8000/live/yacinedz/BEINSiptv2017/947.ts
-#EXTINF:-1,Bein hd8
-http://159.89.5.141:8000/live/yacinedz/BEINSiptv2017/948.ts
-#EXTINF:-1,Bein hd9
-http://159.89.5.141:8000/live/yacinedz/BEINSiptv2017/949.ts
-#EXTINF:-1,Bein hd10
-http://159.89.5.141:8000/live/yacinedz/BEINSiptv2017/950.ts
-#EXTINF:-1,BEIN SPORTS 1 HD
-http://159.89.5.141:8000/live/yacinedz/BEINSiptv2017/884.ts
-#EXTINF:-1,BEIN SPORTS 2 HD
-http://159.89.5.141:8000/live/yacinedz/BEINSiptv2017/922.ts
-#EXTINF:-1,BEIN SPORTS 3 HD
-http://159.89.5.141:8000/live/yacinedz/BEINSiptv2017/923.ts
-#EXTINF:-1,BEIN SPORTS 4 HD
-http://159.89.5.141:8000/live/yacinedz/BEINSiptv2017/924.ts
-#EXTINF:-1,BEIN SPORTS 5 HD
-http://159.89.5.141:8000/live/yacinedz/BEINSiptv2017/925.ts
-#EXTINF:-1,BEIN SPORTS 6 HD
-http://159.89.5.141:8000/live/yacinedz/BEINSiptv2017/926.ts
-#EXTINF:-1,BEIN SPORTS 7 HD
-http://159.89.5.141:8000/live/yacinedz/BEINSiptv2017/927.ts
-#EXTINF:-1,BEIN SPORTS 8 HD
-http://159.89.5.141:8000/live/yacinedz/BEINSiptv2017/928.ts
-#EXTINF:-1,BEIN SPORTS 9 HD
-http://159.89.5.141:8000/live/yacinedz/BEINSiptv2017/929.ts
-#EXTINF:-1,BEIN SPORTS 10 HD
-http://159.89.5.141:8000/live/yacinedz/BEINSiptv2017/930.ts
-
-
+#EXTINF:-1,diema sport 1
+http://188.40.113.140:86/m3u8/webdiemasport_web.m3u8
+#EXTINF:-1,diema sport 2
+http://188.40.113.140:86/m3u8/webdiemasport2_web.m3u8
 
 
 #EXTINF:-1,Viasat_Sport
@@ -1005,35 +961,22 @@ http://orf2.orf.cdn.ors.at/orf2/q8c.sdp/chunklist.m3u8
 
 #EXTINF:-1,blizz tv
 http://familytvblizz-lh.akamaihd.net/i/familytv_1@458351/master.m3u8
-
 #EXTINF:-1,eo tv
 http://cdn-europe.smartcast.de:1935/eotv/eotvhd/playlist.m3u8
-
 #EXTINF:-1,tirol tv
 http://lb.hd-livestream.de:1935/live/TirolTV/playlist.m3u8
-
 #EXTINF:-1,weltderwunder
 http://live.vidoo.de/live/weltderwunder/f1tv.m3u8
-
 #EXTINF:-1,qwc.de
 http://ios-stream.qvc.de/qvc.m3u8
-
 #EXTINF:-1,baden tv
 http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
-
 #EXTINF:-1,123 tv
 http://123tv.cdn.ses-ps.com/index.m3u8
-
 #EXTINF:-1,elbe canal
 http://62.113.210.250/medienasa-live/_definst_/mp4:elbe_high/chunklist_w1146564478.m3u8
 
 
-#EXTINF:-1,CINE FILM rtmp
-rtmp://176.9.48.184:1935/cinefilmhd/CineFilm
-#EXTINF:-1,CINE FILM rtsp
-rtsp://176.9.48.184:1935/cinefilmhd/CineFilm
-#EXTINF:-1,CINE FILM m3u8
-http://176.9.48.184:1935/cinefilmhd/CineFilm/playlist.m3u8
 #EXTINF:-1,RIC TV DE
 rtmp://80.237.191.232:1935/live/rictv
 
@@ -1082,13 +1025,10 @@ skip
 
 #EXTINF:-1,Antena 3
 http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
-
 #EXTINF:-1,La Sexta
 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
-
 #EXTINF:-1,Canal Extremadura
 http://corporacionextremena-live.hls.adaptive.level3.net/hls-live/corporacionextremena-channel02/_definst_/live.m3u8
-
 #EXTINF:-1,TV.p Asturias
 http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8
 
@@ -1211,38 +1151,22 @@ http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/13/index
 #EXTINF:-1,Nash Futbol HD
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/25/index.m3u8
 
-#EXTINF:-1,Futbol 1 ua
-http://31.43.33.1:8100/ch109/index.m3u8
+
 
 #EXTINF:-1,Football 1 HD ua
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/867/index.m3u8
 
-#EXTINF:-1,Futbol 2 ua
-http://31.43.33.1:8100/ch110/index.m3u8
+
 
 #EXTINF:-1,Football 2 HD ua
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/868/index.m3u8
 
-#EXTINF:-1,Sport 1
-http://31.43.33.1:8100/ch106/index.m3u8
-
-#EXTINF:-1,MostvideoTV
-http://31.43.33.1:8100/ch155/index.m3u8
 
 #EXTINF:-1,Most Video TV HD
 http://w4.mostvideo.tv/tv/ch1.m3u8
 
-#EXTINF:-1,XSport
-http://31.43.33.1:8100/ch54/index.m3u8
-
 #EXTINF:-1,Xsport HD
 http://kz.light-iptv.ru:2017/play/xsport-hd?auth=iptv:zone
-
-#EXTINF:-1,Xsport
-http://31.43.33.1:8100/ch16/index.m3u8
-
-#EXTINF:-1,Eurosport olimpiada
-http://31.43.33.1:8100/ch107/index.m3u8
 
 #EXTINF:-1,Eurosport 1 HD
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/159/index.m3u8
@@ -1523,113 +1447,10 @@ http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/106/inde
 #EXTINF:-1,kanal 78 HD
 http://channel78.gcdn.co/channel78/index.m3u8
 
-#EXTINF:-1,News One
-http://31.43.33.1:8100/ch36/index.m3u8
-
-#EXTINF:-1,Newsone HD
-http://31.43.33.1:8100/ch75/index.m3u8
-
-#EXTINF:-1,112 ua
-http://31.43.33.1:8100/ch24/index.m3u8
 
 #EXTINF:-1,112 ua HD
 http://app.live.112.events/hls-ua/112hd_hi/index.m3u8
 
-#EXTINF:-1,ZIK
-http://31.43.33.1:8100/ch65/index.m3u8
-
-#EXTINF:-1,24 kanal
-http://31.43.33.1:8100/ch25/index.m3u8
-
-#EXTINF:-1,Pryamoy
-http://31.43.33.1:8100/ch35/index.m3u8
-
-#EXTINF:-1,Еспресо TV
-http://31.43.33.1:8100/ch29/index.m3u8
-
-#EXTINF:-1,Espresso HD
-http://31.43.33.1:8100/ch82/index.m3u8
-
-#EXTINF:-1,5 kanal
-http://31.43.33.1:8100/ch7/index.m3u8
-
-#EXTINF:-1,NewsNetwork
-http://31.43.33.1:8100/ch76/index.m3u8
-
-#EXTINF:-1,Unian
-http://31.43.33.1:8100/ch55/index.m3u8
-
-#EXTINF:-1,Hromadske TV
-http://31.43.33.1:8100/ch46/index.m3u8
-
-#EXTINF:-1,Pravda TUT
-http://31.43.33.1:8100/ch53/index.m3u8
-
-#EXTINF:-1,Persiy i era
-http://31.43.33.1:8100/ch1/index.m3u8
-
-#EXTINF:-1,Inter
-http://31.43.33.1:8100/ch2/index.m3u8
-
-#EXTINF:-1,1+1
-http://31.43.33.1:8100/ch3/index.m3u8
-
-#EXTINF:-1,2+2
-http://31.43.33.1:8100/ch17/index.m3u8
-
-#EXTINF:-1,ICTV
-http://31.43.33.1:8100/ch4/index.m3u8
-
-#EXTINF:-1,STB
-http://31.43.33.1:8100/ch5/index.m3u8
-
-#EXTINF:-1,Noviy kanal
-http://31.43.33.1:8100/ch6/index.m3u8
-
-#EXTINF:-1,Ukraina
-http://31.43.33.1:8100/ch28/index.m3u8
-
-#EXTINF:-1,К1
-http://31.43.33.1:8100/ch9/index.m3u8
-
-#EXTINF:-1,К2
-http://31.43.33.1:8100/ch10/index.m3u8
-
-#EXTINF:-1,NTN
-http://31.43.33.1:8100/ch11/index.m3u8
-
-#EXTINF:-1,TET
-http://31.43.33.1:8100/ch18/index.m3u8
-
-#EXTINF:-1,KRT
-http://31.43.33.1:8100/ch49/index.m3u8
-
-#EXTINF:-1,Oce
-http://31.43.33.1:8100/ch23/index.m3u8
-
-#EXTINF:-1,Solnce
-http://31.43.33.1:8100/ch26/index.m3u8
-
-#EXTINF:-1,PRO VSE
-http://31.43.33.1:8100/ch33/index.m3u8
-
-#EXTINF:-1,UA Krim
-http://31.43.33.1:8100/ch52/index.m3u8
-
-#EXTINF:-1,Tisa-1
-http://31.43.33.1:8100/ch56/index.m3u8
-
-#EXTINF:-1,TK Kiev
-http://31.43.33.1:8100/ch57/index.m3u8
-
-#EXTINF:-1,Do TV
-http://31.43.33.1:8100/ch61/index.m3u8
-
-#EXTINF:-1,Donbass
-http://31.43.33.1:8100/ch66/index.m3u8
-
-#EXTINF:-1,Persiy Zaxidniy
-http://31.43.33.1:8100/ch70/index.m3u8
 
 #EXTINF:-1,RODNOE Kino
 http://91.149.172.100:80/channel?id=74&u=demo&p=demo
@@ -1780,15 +1601,6 @@ http://22e67f5e.iptvspy.ru/iptv/8FDKXUQ5VZM9VL/546/index.m3u8
 
 #EXTINF:-1,kvn tv
 http://185.231.160.49/271/2/index.m3u8
-
-#EXTINF:-1,KVARTAL TV
-http://31.43.33.1:8100/ch122/index.m3u8
-
-#EXTINF:-1,Zoom
-http://31.43.33.1:8100/ch13/index.m3u8
-
-#EXTINF:-1,Zoom / Orion
-http://31.43.33.1:8100/ch79/index.m3u8
 
 #EXTINF:-1,Erelash HD
 http://51.15.0.6:1234/play/eralshhd?auth=larin:HKRKR8Jd
@@ -2398,8 +2210,23 @@ http://5.19.199.161:81/udp/235.10.10.250:1234
 http://5.19.199.161:81/udp/235.10.10.251:1234
 
 
+#EXTINF:-1,[COLOR green]---BUGARSKI PROGRAMI ---[/COLOR] 
+skip
 
-
+#EXTINF:-1,BGMUSIC
+http://87.246.0.130/m3u8/bgmusicchannelhd.m3u8
+#EXTINF:-1,Diema Sport FULL HD  
+http://87.246.0.130:88/m3u8/diamasporthd.m3u8
+#EXTINF:-1,F BG 
+http://87.246.0.130:88/m3u8/webfplus_web.m3u8
+#EXTINF:-1,HBO BG 
+http://87.246.0.130:88/m3u8/webhbo_web.m3u8
+#EXTINF:-1,History BG 
+http://87.246.0.130:88/m3u8/webhistory_web.m3u8
+#EXTINF:-1,Mtel Sport BG 
+http://87.246.0.130:88/m3u8/webmtelsport_web.m3u8
+#EXTINF:-1,Sport Plus HD 
+http://87.246.0.130:88/m3u8/websportplus_web.m3u8
 
 
 #EXTINF:-1,[COLOR green]---SLOVAČKI PROGRAMI ---[/COLOR] 
@@ -2494,13 +2321,10 @@ skip
 
 #EXTINF:0,TV 10 Sweden
 rtmp://cdn-kanal10.crossnet.net/kanal10//mpegts.stream
-
 #EXTINF:0,Himlen tv7
 http://vod.tv7.fi:1935/tv7-se/_definst_/mp4:tv7-se.stream_360p/playlist.m3u8
-
 #EXTINF:0,24 corren
 http://lw-ntm-live.lwcdn.com/live/amlst:2df87a73-e998-4be4-b469-8e1614976f3c_all/playlist.m3u8
-
 #EXTINF:0,FJORTON
 http://155.4.160.181:1935/fjwebb/live/playlist.m3u8
 
@@ -2531,13 +2355,10 @@ skip
 
 #EXTINF:-1,dusk 
 http://37.9.0.201:8890 
-
 #EXTINF:-1,ххх 
 http://37.9.0.201:8889 
-
 #EXTINF:-1,Cento X Cento 
 http://37.9.0.201:8811 
-
 #EXTINF:-1,Passion XXX 
 http://37.9.0.201:8888 
 
@@ -2562,6 +2383,26 @@ http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/266/inde
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/267/index.m3u8
 #EXTINF:-1,Hustler HD
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/502/index.m3u8
+
+
+#EXTINF:-1,EROXXX HD 
+http://84.22.33.24:8000/play/a07a
+#EXTINF:-1,DESIRE XXX
+http://84.22.33.24:8000/play/a06q
+#EXTINF:-1,XXX BIZARRE HD
+http://84.22.33.24:8000/play/a07u
+#EXTINF:-1,XXX BUNGA BUNGA HD
+http://84.22.33.24:8000/play/a07v
+#EXTINF:-1,XXX-Bizarre 
+http://84.22.33.24:8000/play/a03v
+#EXTINF:-1,XXX-Desire
+http://84.22.33.24:8000/play/a068
+#EXTINF:-1,XXX-BungaBunga 
+http://84.22.33.24:8000/play/a03w
+#EXTINF:-1,XXX EROX HD 
+http://84.22.33.24:8000/play/ab43
+
+
 
 #EXTINF:-1,Dorcel TV HD
 http://185.231.160.49/931/1/index.m3u8
