@@ -20,6 +20,9 @@ http://323569365.e.970705972.r.pluscdn.com/970705972/_definst_/rtl1.stream/playl
 #EXTINF:0, RTL 2
 rtmp://130.117.45.5:1935/P929594662/_definst_/rtl2.stream
 
+#EXTINF:0,NOVA TV
+rtmp://109.206.96.209:1935/nova_tv_247
+
 #EXTINF:0,RTV Banovina
 rtmp://video.radio-banovina.hr/live/myStream
 
