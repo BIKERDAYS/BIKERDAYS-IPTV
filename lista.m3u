@@ -389,8 +389,7 @@ http://92.60.230.199:9025/udp/239.1.1.131:22131
 http://92.60.230.199:9025/udp/239.1.1.132:22132
 #EXTINF:-1,TLC
 http://92.60.230.199:9025/udp/239.1.1.134:22134
-#EXTINF:-1,
-Sundance TV HD
+#EXTINF:-1,Sundance TV HD
 http://92.60.230.199:9025/udp/239.1.1.133:22133
 #EXTINF:-1,ShortsTV HD
 http://92.60.230.199:9025/udp/239.1.1.135:22135
@@ -624,7 +623,26 @@ http://173.212.226.236:8888/live/FREEIPTVLIST.COM/a/637.ts
 http://173.212.226.236:8888/live/FREEIPTVLIST.COM/a/638.ts
 
 
-
+#EXTINF:-1,BT Sport 1
+http://31.220.0.134:8081/live/jtvb1/playlist.m3u8
+#EXTINF:-1,BT Sport 2
+http://31.220.0.134:8081/live/jtvb2/playlist.m3u8
+#EXTINF:-1,BT Sport 3
+http://31.220.0.134:8081/live/jtvb3/playlist.m3u8
+#EXTINF:-1,SKY Sport 1
+http://31.220.0.134:8081/live/jtvs1/playlist.m3u8
+#EXTINF:-1,SKY Sport 2
+http://31.220.0.134:8081/live/jtvs2/playlist.m3u8
+#EXTINF:-1,SKY Sport 3
+http://31.220.0.134:8081/live/jtvs3/playlist.m3u8
+#EXTINF:-1,SKY Sport 4
+http://31.220.0.134:8081/live/jtvs4/playlist.m3u8
+#EXTINF:-1,SKY Sport 5
+http://31.220.0.134:8081/live/jtvs5/playlist.m3u8
+#EXTINF:-1,FS 1
+http://31.220.0.196:8081/live/fx11sx/chunks.m3u8
+#EXTINF:-1,FS 2
+http://31.220.0.196:8081/live/fx2sx/chunks.m3u8
 
 #EXTINF:-1,Sportska TV
 http://wowza.h1telekom.hr:1935/sporttv/smil:sptv.smil/playlist.m3u8
