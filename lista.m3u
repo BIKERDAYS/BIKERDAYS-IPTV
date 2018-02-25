@@ -669,6 +669,9 @@ http://81.228.174.166:8003/eurosport1
 #EXTINF:-1,Eurosport 1 hd
 http://65.254.55.10:4000/live/197/197.m3u8
 
+#EXTINF:-1,EUROSPORT 2 HD 
+http://46.149.176.142:9003/play/a009
+
 #EXTINF:-1,EUROSPORT 2
 http://195.206.253.157:8001/eurosport2hd
 
@@ -862,6 +865,8 @@ http://185.231.160.52/238/4/index.m3u8
 #EXTINF:-1,VH 1
 http://185.231.160.52/239/4/index.m3u8
 
+#EXTINF:-1,VH 1
+http://92.60.224.62:3014/udp/239.1.1.79:22079
 
 #EXTINF:0,MTV hits
 http://91.149.172.100:80/channel?id=140&u=demo&p=demo
