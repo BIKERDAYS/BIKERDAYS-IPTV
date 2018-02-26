@@ -601,6 +601,23 @@ rtmp://109.206.96.209:1935/arena3_tv_247
 #EXTINF:0,Arena Sport 4
 rtmp://109.206.96.209:1935/arena4_tv_247
 
+
+#EXTINF:-1,arena sport 1
+http://streams.iptv.zone:80/p/247973/c/45/u/11435/aF1JuXk7D2Zk0nzUyJvwquUKHN2th3
+#EXTINF:-1,arena sport 2
+http://streams.iptv.zone:80/p/247973/c/81/u/11435/aF1JuXk7D2Zk0nzUyJvwquUKHN2th3
+#EXTINF:-1,eurosport 1
+http://streams.iptv.zone:80/p/247973/c/60/u/11435/aF1JuXk7D2Zk0nzUyJvwquUKHN2th3
+#EXTINF:-1,eurosport 2
+http://streams.iptv.zone:80/p/247973/c/98/u/11435/aF1JuXk7D2Zk0nzUyJvwquUKHN2th3
+#EXTINF:-1,nova sport 1
+http://streams.iptv.zone:80/p/247973/c/61/u/11435/aF1JuXk7D2Zk0nzUyJvwquUKHN2th3
+#EXTINF:-1,sport 1 cz
+http://streams.iptv.zone:80/p/247973/c/62/u/11435/aF1JuXk7D2Zk0nzUyJvwquUKHN2th3
+#EXTINF:-1,sport 2 cz
+http://streams.iptv.zone:80/p/247973/c/154/u/11435/aF1JuXk7D2Zk0nzUyJvwquUKHN2th3
+
+
 #EXTINF:-1,Arena Sport 1
 http://173.212.226.236:8888/live/FREEIPTVLIST.COM/a/568.ts
 #EXTINF:-1,Arena Sport 2
