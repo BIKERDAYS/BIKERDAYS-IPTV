@@ -149,19 +149,7 @@ http://66.70.129.43:8080/Arena4-SRB/index.m3u8
 http://66.70.129.43:8080/Arena5-SRB/index.m3u8
 
 
-#EXTINF:-1,arenasport2
-http://195.222.48.168/arenasport2.m3u8
-#EXTINF:-1,arenasport3
-http://195.222.48.168/arenasport3.m3u8
 
-#EXTINF:0,Arena Sport 1
-rtmp://109.206.96.209:1935/arena1_tv_247
-#EXTINF:0,Arena Sport 2
-rtmp://109.206.96.209:1935/arena2_tv_247
-#EXTINF:0,Arena Sport 3
-rtmp://109.206.96.209:1935/arena3_tv_247
-#EXTINF:0,Arena Sport 4
-rtmp://109.206.96.209:1935/arena4_tv_247
 
 
 #EXTINF:-1,arena sport 1
@@ -200,6 +188,28 @@ http://173.212.226.236:8888/live/FREEIPTVLIST.COM/a/639.ts
 http://173.212.226.236:8888/live/FREEIPTVLIST.COM/a/637.ts
 #EXTINF:-1,Euro Sport 1 Deutschland
 http://173.212.226.236:8888/live/FREEIPTVLIST.COM/a/638.ts
+
+
+#EXTINF:0,ESPN
+http://fiderf77mr.llave2.tk/espn-q4.php
+#EXTINF:0,ESPN2
+http://fiderf77mr.llave2.tk/espn2-q4.php
+#EXTINF:0,ESPN3
+http://fiderf77mr.llave2.tk/espn3-q4.php
+#EXTINF:0,ESPN+
+http://fiderf77mr.llave2.tk/espn_plus-q4.php
+#EXTINF:0,Fox Sports
+http://fiderf77mr.llave2.tk/f0xsports-q4.php
+#EXTINF:0,Fox Sports MX
+http://fiderf77mr.llave2.tk/f0xsportsmx-q4.php
+#EXTINF:0,Fox Sports 2
+http://fiderf77mr.llave2.tk/f0xsports2-q4.php
+#EXTINF:0,Fox Sports 2 MX
+http://fiderf77mr.llave2.tk/f0xsports2mx-q4.php
+#EXTINF:0,Fox Sports 3
+http://fiderf77mr.llave2.tk/f0xsports3-q4.php
+#EXTINF:0,Fox Sports 3 MX
+http://fiderf77mr.llave2.tk/f0xsports3mx-q4.php
 
 
 
@@ -345,51 +355,6 @@ http://188.40.113.140:86/m3u8/webdiemasport2_web.m3u8
 http://178.194.123.182:8000/play/a04s
 
 
-#EXTINF:-1,Матч! Арена
-http://185.231.160.52/1/4/index.m3u8
-#EXTINF:-1,Матч! Боец
-http://185.231.160.52/2/4/index.m3u8
-#EXTINF:-1,Матч! Игра
-http://185.231.160.52/3/4/index.m3u8
-#EXTINF:-1,Матч! Наш Спорт
-http://185.231.160.52/4/4/index.m3u8
-#EXTINF:-1,Матч! Футбол 1
-http://185.231.160.52/5/4/index.m3u8
-#EXTINF:-1,Матч! Футбол 2
-http://185.231.160.52/6/4/index.m3u8
-#EXTINF:-1,Матч! Футбол 3
-http://185.231.160.52/7/4/index.m3u8
-#EXTINF:-1,НАШ ФУТБОЛ
-http://185.231.160.52/13/4/index.m3u8
-#EXTINF:-1,КХЛ
-http://185.231.160.52/17/4/index.m3u8
-#EXTINF:-1,Матч! Футбол 2
-http://185.231.160.52/23/4/index.m3u8
-#EXTINF:-1,Матч! Футбол 3
-http://185.231.160.52/24/4/index.m3u8
-#EXTINF:-1,НАШ ФУТБОЛ
-http://185.231.160.52/25/4/index.m3u8
-#EXTINF:-1,Матч! Футбол 1
-http://185.231.160.52/29/4/index.m3u8
-#EXTINF:-1,Viasat Sport
-http://185.231.160.52/44/4/index.m3u8
-#EXTINF:-1,Viasat Sport
-http://185.231.160.52/45/4/index.m3u8
-#EXTINF:-1,Extreme Sports
-http://185.231.160.52/46/4/index.m3u8
-#EXTINF:-1,Extreme Sports
-http://185.231.160.52/47/4/index.m3u8
-#EXTINF:-1,Viasat Golf
-http://185.231.160.52/59/4/index.m3u8
-#EXTINF:-1,Viasat Sport HD
-http://185.231.160.52/75/4/index.m3u8
-#EXTINF:-1,Viasat Sport HD
-http://185.231.160.52/76/4/index.m3u8
-#EXTINF:-1,Eurosport 2 HD
-http://185.231.160.52/77/4/index.m3u8
-#EXTINF:-1,Eurosport 2 HD
-http://185.231.160.52/78/4/index.m3u8
-
 
 
 #EXTINF:-1,Viasat_Sport
@@ -438,11 +403,6 @@ http://a6ef665f.ottclub.mobi/iptv/DPGK2RFY6XHPHF/724/index.m3u8
 #EXTINF:-1,VH1 European
 http://a6ef665f.ottclub.mobi/iptv/DPGK2RFY6XHPHF/536/index.m3u8
 
-
-#EXTINF:-1,VH 1 Classic
-http://185.231.160.52/238/4/index.m3u8
-#EXTINF:-1,VH 1
-http://185.231.160.52/239/4/index.m3u8
 
 #EXTINF:-1,VH 1
 http://92.60.224.62:3014/udp/239.1.1.79:22079
@@ -1633,7 +1593,46 @@ http://93.91.113.8:9999/play/a074
 skip
 
 
-
+#EXTINF:-1,XXX: Babes 1
+http://p5.giffy.be:8080/live/Abdi/1234/32342.m3u8
+#EXTINF:-1,XXX: Babes 18
+http://p5.giffy.be:8080/live/Abdi/1234/32333.m3u8
+#EXTINF:-1,XXX: Babes 3
+http://p5.giffy.be:8080/live/Abdi/1234/32340.m3u8
+#EXTINF:-1,XXX: Babes 4
+http://p5.giffy.be:8080/live/Abdi/1234/32339.m3u8
+#EXTINF:-1,XXX: Babes 5
+http://p5.giffy.be:8080/live/Abdi/1234/32338.m3u8
+#EXTINF:-1,XXX: Babes 6
+http://p5.giffy.be:8080/live/Abdi/1234/32337.m3u8
+#EXTINF:-1,XXX: Babes 8
+http://p5.giffy.be:8080/live/Abdi/1234/32335.m3u8
+#EXTINF:-1,XXX: Babes 9
+http://p5.giffy.be:8080/live/Abdi/1234/32334.m3u8
+#EXTINF:-1,XXX: BRAZZERS TV EUROPE
+http://p5.giffy.be:8080/live/Abdi/1234/32326.m3u8
+#EXTINF:-1,XXX: CHANNEL X 1
+http://p5.giffy.be:8080/live/Abdi/1234/32332.m3u8
+#EXTINF:-1,XXX: DAUGHTER SWAP
+http://p5.giffy.be:8080/live/Abdi/1234/32331.m3u8
+#EXTINF:-1,XXX: DORCEL
+http://p5.giffy.be:8080/live/Abdi/1234/32329.m3u8
+#EXTINF:-1,XXX: MIAMI TV
+http://p5.giffy.be:8080/live/Abdi/1234/32328.m3u8
+#EXTINF:-1,XXX: Penthouse
+http://p5.giffy.be:8080/live/Abdi/1234/32327.m3u8
+#EXTINF:-1,XXX: SUPERONE
+http://p5.giffy.be:8080/live/Abdi/1234/32330.m3u8
+#EXTINF:-1,CA | SHOWCASE
+http://p5.giffy.be:8080/live/Abdi/1234/32499.m3u8
+#EXTINF:-1,XXX DUSK
+http://p5.giffy.be:8080/live/Abdi/1234/35141.m3u8
+#EXTINF:-1,XXX EROTIC 2
+http://p5.giffy.be:8080/live/Abdi/1234/35138.m3u8
+#EXTINF:-1,XXX HOT 
+http://p5.giffy.be:8080/live/Abdi/1234/35139.m3u8
+#EXTINF:-1,XXX PLAYBOY 2
+http://p5.giffy.be:8080/live/Abdi/1234/35140.m3u8
 
 #EXTINF:-1,dusk 
 http://37.9.0.201:8890 
