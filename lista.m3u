@@ -419,6 +419,11 @@ http://91.149.172.100:80/channel?id=4&u=demo&p=demo
 #EXTINF:0,MTV
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 
+
+
+#EXTINF:0,play tv albania
+http://vtv.selfip.net:8080/live/playtv/playtv/1652.ts
+
 #EXTINF:0,SKY FOLK TV MAKEDONIA
 http://skyfolk.mk/live.m3u8
 
