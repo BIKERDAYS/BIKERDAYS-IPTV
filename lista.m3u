@@ -269,6 +269,30 @@ http://188.93.94.138/silk_sport4/index.m3u8
 
 
 
+
+#EXTINF:-1,BT Sport//ESPN
+http://94.46.245.190:8000/play/a00b
+#EXTINF:-1,BT Sport Extra 3
+http://94.46.245.190:8000/play/a006
+#EXTINF:-1,BT Sport Extra 4
+http://94.46.245.190:8000/play/a007
+#EXTINF:-1,Get Lucky TV
+http://94.46.245.190:8000/play/a004
+#EXTINF:-1,Studio 66
+http://94.46.245.190:8000/play/a002
+#EXTINF:-1,BT Sport Extra 2
+http://94.46.245.190:8000/play/a005
+#EXTINF:-1,BT Sport 2
+http://94.46.245.190:8000/play/a00a
+
+#EXTINF:-1,SBS SPORTS
+http://198.144.156.93:9083/live/CA42-live1/N5/Zi/N5ZiPBK3M6JnskdXwIWTXw==/live.m3u8
+#EXTINF:-1,SBS Golf
+http://198.144.156.93:9083/live/CA42-live1/aU/Zx/aUZxH_RUOehMBmBXwZjwjQ==/live.m3u8
+
+
+
+
 #EXTINF:-1,Xsport
 http://d3a7691f.iptvbot.biz/iptv/QND49DL7Q43CL7/997/index.m3u8
 #EXTINF:-1,Xsport HD
