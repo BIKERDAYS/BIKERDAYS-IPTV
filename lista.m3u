@@ -31,6 +31,16 @@ rtmp://video.radio-banovina.hr/live/myStream
 #EXTINF:0,trend tv
 rtmp://185.62.75.22:1935/trend/myStream
 
+#EXTINF:0,bht 1
+http://178.132.6.97/BA:BHT1SD/tracks-v1a1/index.m3u8
+#EXTINF:0,face tv
+http://178.132.6.97/FACETV/tracks-v1a1/index.m3u8
+#EXTINF:0,a1 balkan
+http://178.132.6.97/A1Balkan/tracks-v1a1/index.m3u8
+#EXTINF:0,al jazzera
+http://178.132.6.97/JazzeraAL/tracks-v1a1/index.m3u8
+
+
 #EXTINF:0, RTS 1
 http://66.70.129.43:8080/Rts1/index.m3u8
 
@@ -137,81 +147,6 @@ http://46.40.5.99:8000/arena_3_high
 #EXTINF:0,Arena Sport 4
 http://46.40.5.99:8000/arena_4_high
 
-#EXTINF:-1,ARENASPORT 1
-http://66.70.129.43:8080/Arena1-SRB/index.m3u8
-#EXTINF:-1,ARENASPORT 2
-http://66.70.129.43:8080/Arena2-SRB/index.m3u8
-#EXTINF:-1,ARENASPORT 3
-http://66.70.129.43:8080/Arena3-SRB/index.m3u8
-#EXTINF:-1,ARENASPORT 4
-http://66.70.129.43:8080/Arena4-SRB/index.m3u8
-#EXTINF:-1,ARENASPORT 5 
-http://66.70.129.43:8080/Arena5-SRB/index.m3u8
-
-
-
-
-
-#EXTINF:-1,arena sport 1
-http://streams.iptv.zone:80/p/247973/c/45/u/11435/aF1JuXk7D2Zk0nzUyJvwquUKHN2th3
-#EXTINF:-1,arena sport 2
-http://streams.iptv.zone:80/p/247973/c/81/u/11435/aF1JuXk7D2Zk0nzUyJvwquUKHN2th3
-#EXTINF:-1,eurosport 1
-http://streams.iptv.zone:80/p/247973/c/60/u/11435/aF1JuXk7D2Zk0nzUyJvwquUKHN2th3
-#EXTINF:-1,eurosport 2
-http://streams.iptv.zone:80/p/247973/c/98/u/11435/aF1JuXk7D2Zk0nzUyJvwquUKHN2th3
-#EXTINF:-1,nova sport 1
-http://streams.iptv.zone:80/p/247973/c/61/u/11435/aF1JuXk7D2Zk0nzUyJvwquUKHN2th3
-#EXTINF:-1,sport 1 cz
-http://streams.iptv.zone:80/p/247973/c/62/u/11435/aF1JuXk7D2Zk0nzUyJvwquUKHN2th3
-#EXTINF:-1,sport 2 cz
-http://streams.iptv.zone:80/p/247973/c/154/u/11435/aF1JuXk7D2Zk0nzUyJvwquUKHN2th3
-
-
-#EXTINF:-1,Arena Sport 1
-http://173.212.226.236:8888/live/FREEIPTVLIST.COM/a/568.ts
-#EXTINF:-1,Arena Sport 2
-http://173.212.226.236:8888/live/FREEIPTVLIST.COM/a/569.ts
-#EXTINF:-1,Arena Sport 3
-http://173.212.226.236:8888/live/FREEIPTVLIST.COM/a/570.ts
-#EXTINF:-1,Arena Sport4
-http://173.212.226.236:8888/live/FREEIPTVLIST.COM/a/571.ts
-#EXTINF:-1,Arena Sport 5
-http://173.212.226.236:8888/live/FREEIPTVLIST.COM/a/572.ts
-#EXTINF:-1,Sport 1 HD
-http://173.212.226.236:8888/live/FREEIPTVLIST.COM/a/640.ts
-#EXTINF:-1,Sky Sport 1
-http://173.212.226.236:8888/live/FREEIPTVLIST.COM/a/641.ts
-#EXTINF:-1,Sport 1 HD Deutschland
-http://173.212.226.236:8888/live/FREEIPTVLIST.COM/a/639.ts
-#EXTINF:-1,Bein Sport Espana
-http://173.212.226.236:8888/live/FREEIPTVLIST.COM/a/637.ts
-#EXTINF:-1,Euro Sport 1 Deutschland
-http://173.212.226.236:8888/live/FREEIPTVLIST.COM/a/638.ts
-
-
-#EXTINF:0,ESPN
-http://fiderf77mr.llave2.tk/espn-q4.php
-#EXTINF:0,ESPN2
-http://fiderf77mr.llave2.tk/espn2-q4.php
-#EXTINF:0,ESPN3
-http://fiderf77mr.llave2.tk/espn3-q4.php
-#EXTINF:0,ESPN+
-http://fiderf77mr.llave2.tk/espn_plus-q4.php
-#EXTINF:0,Fox Sports
-http://fiderf77mr.llave2.tk/f0xsports-q4.php
-#EXTINF:0,Fox Sports MX
-http://fiderf77mr.llave2.tk/f0xsportsmx-q4.php
-#EXTINF:0,Fox Sports 2
-http://fiderf77mr.llave2.tk/f0xsports2-q4.php
-#EXTINF:0,Fox Sports 2 MX
-http://fiderf77mr.llave2.tk/f0xsports2mx-q4.php
-#EXTINF:0,Fox Sports 3
-http://fiderf77mr.llave2.tk/f0xsports3-q4.php
-#EXTINF:0,Fox Sports 3 MX
-http://fiderf77mr.llave2.tk/f0xsports3mx-q4.php
-
-
 
 #EXTINF:-1,Sportska TV
 http://wowza.h1telekom.hr:1935/sporttv/smil:sptv.smil/playlist.m3u8
@@ -243,6 +178,9 @@ https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Winter_Olympic_Ch3/Winter_Olym
 #EXTINF:-1,Winter Olympics Ch 4
 https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Winter_Olympic_Ch4/Winter_Olympic_Ch4_800.m3u8
 
+#EXTINF:0,The Fight Network HD
+http://87.246.0.130:88/m3u8/The_Fight_Networkhd.m3u8
+
 #EXTINF:-1,Extreme Sports
 http://91.149.172.100:80/channel?id=24&u=demo&p=demo
 
@@ -268,23 +206,6 @@ http://195.206.253.157:8001/eurosport2hd
 http://188.93.94.138/silk_sport4/index.m3u8
 
 
-
-
-#EXTINF:-1,BT Sport//ESPN
-http://94.46.245.190:8000/play/a00b
-#EXTINF:-1,BT Sport Extra 3
-http://94.46.245.190:8000/play/a006
-#EXTINF:-1,BT Sport Extra 4
-http://94.46.245.190:8000/play/a007
-#EXTINF:-1,Get Lucky TV
-http://94.46.245.190:8000/play/a004
-#EXTINF:-1,Studio 66
-http://94.46.245.190:8000/play/a002
-#EXTINF:-1,BT Sport Extra 2
-http://94.46.245.190:8000/play/a005
-#EXTINF:-1,BT Sport 2
-http://94.46.245.190:8000/play/a00a
-
 #EXTINF:-1,SBS SPORTS
 http://198.144.156.93:9083/live/CA42-live1/N5/Zi/N5ZiPBK3M6JnskdXwIWTXw==/live.m3u8
 #EXTINF:-1,SBS Golf
@@ -299,65 +220,12 @@ http://d3a7691f.iptvbot.biz/iptv/QND49DL7Q43CL7/997/index.m3u8
 http://d3a7691f.iptvbot.biz/iptv/QND49DL7Q43CL7/996/index.m3u8 
 
 
-#EXTINF:1,Боец
-http://185.231.160.52/2/4/index.m3u8
 
-#EXTINF:-1, Матч! Футбол 2
-http://cdn.pointgroup.az/1000010/h9Gpqjjn63/40ea326f6adafd72e2a81d86cadb81a3/match-futbol-2.m3u8
-#EXTINF:-1, Матч! Футбол 2 HD
-http://cdn.pointgroup.az/1000010/h9Gpqjjn63/40ea326f6adafd72e2a81d86cadb81a3/match-futbol-2-hd.m3u8
-#EXTINF:-1, Eurosport 2 HD RU
-http://cdn.pointgroup.az/1000010/h9Gpqjjn63/40ea326f6adafd72e2a81d86cadb81a3/eurosport-2-hd-ru.m3u8
-#EXTINF:-1, Матч! Футбол 3
-http://cdn.pointgroup.az/1000010/h9Gpqjjn63/40ea326f6adafd72e2a81d86cadb81a3/match-futbol-3.m3u8
-#EXTINF:-1, Матч! Футбол 3 HD
-http://cdn.pointgroup.az/1000010/h9Gpqjjn63/40ea326f6adafd72e2a81d86cadb81a3/match-futbol-3-hd.m3u8
-#EXTINF:-1, Бокс ТВ
-http://cdn.pointgroup.az/1000010/h9Gpqjjn63/40ea326f6adafd72e2a81d86cadb81a3/boks-tv.m3u8
-#EXTINF:-1, Футбол 1 HD
-http://cdn.pointgroup.az/1000010/h9Gpqjjn63/40ea326f6adafd72e2a81d86cadb81a3/futbol-1-hd.m3u8
-#EXTINF:-1, Футбол 2 HD
-http://cdn.pointgroup.az/1000010/h9Gpqjjn63/40ea326f6adafd72e2a81d86cadb81a3/futbol-2-hd.m3u8
-#EXTINF:-1, Bein sport
-http://cdn.pointgroup.az/1000010/h9Gpqjjn63/40ea326f6adafd72e2a81d86cadb81a3/bein-sport.m3u8
-#EXTINF:-1, КХЛ
-http://cdn.pointgroup.az/1000010/h9Gpqjjn63/40ea326f6adafd72e2a81d86cadb81a3/khl.m3u8
-#EXTINF:-1, КХЛ HD 
-http://cdn.pointgroup.az/1000010/h9Gpqjjn63/40ea326f6adafd72e2a81d86cadb81a3/khl-hd.m3u8
-#EXTINF:-1, Sky sport 1 HD
-http://cdn.pointgroup.az/1000010/h9Gpqjjn63/40ea326f6adafd72e2a81d86cadb81a3/sky-sport-1-hd.m3u8
-#EXTINF:-1, Sky sport 2 HD
-http://cdn.pointgroup.az/1000010/h9Gpqjjn63/40ea326f6adafd72e2a81d86cadb81a3/sky-sport-2-hd.m3u8
-#EXTINF:-1, Viasat Sport
-http://cdn.pointgroup.az/1000010/h9Gpqjjn63/40ea326f6adafd72e2a81d86cadb81a3/viasat-sport.m3u8
-#EXTINF:-1, Viasat Sport RU
-http://cdn.pointgroup.az/1000010/h9Gpqjjn63/40ea326f6adafd72e2a81d86cadb81a3/viasat-sport-ru.m3u8
-#EXTINF:-1, TRT Spor
-http://cdn.pointgroup.az/1000010/h9Gpqjjn63/40ea326f6adafd72e2a81d86cadb81a3/trt-spor.m3u8
-#EXTINF:-1, Extreme Sports
-http://cdn.pointgroup.az/1000010/h9Gpqjjn63/40ea326f6adafd72e2a81d86cadb81a3/extreme-sports.m3u8
-#EXTINF:-1, Eurosport 1 
-http://cdn.pointgroup.az/1000010/h9Gpqjjn63/40ea326f6adafd72e2a81d86cadb81a3/eurosport-1.m3u8
-#EXTINF:-1, Eurosport 1 RU
-http://cdn.pointgroup.az/1000010/h9Gpqjjn63/40ea326f6adafd72e2a81d86cadb81a3/eurosport-1-ru.m3u8
-#EXTINF:-1, Матч! ТВ
-http://cdn.pointgroup.az/1000010/h9Gpqjjn63/40ea326f6adafd72e2a81d86cadb81a3/match-tv.m3u8
-#EXTINF:-1, Матч! ТВ HD
-http://cdn.pointgroup.az/1000010/h9Gpqjjn63/40ea326f6adafd72e2a81d86cadb81a3/match-tv-hd.m3u8
-#EXTINF:-1, Матч! Боец
-http://cdn.pointgroup.az/1000010/h9Gpqjjn63/40ea326f6adafd72e2a81d86cadb81a3/match-boets.m3u8
-#EXTINF:-1, Матч! Наш Спорт
-http://cdn.pointgroup.az/1000010/h9Gpqjjn63/40ea326f6adafd72e2a81d86cadb81a3/match-nash-sport.m3u8
-#EXTINF:-1, Матч! Планета
-http://cdn.pointgroup.az/1000010/h9Gpqjjn63/40ea326f6adafd72e2a81d86cadb81a3/match-planeta.m3u8
-#EXTINF:-1, Матч! Футбол 1
-http://cdn.pointgroup.az/1000010/h9Gpqjjn63/40ea326f6adafd72e2a81d86cadb81a3/match-futbol-1.m3u8
-#EXTINF:-1, Матч! Футбол 1 HD
-http://cdn.pointgroup.az/1000010/h9Gpqjjn63/40ea326f6adafd72e2a81d86cadb81a3/match-futbol-1-hd.m3u8
-#EXTINF:-1, NTV Spor
-http://cdn.pointgroup.az/1000010/h9Gpqjjn63/40ea326f6adafd72e2a81d86cadb81a3/ntv-spor.m3u8
-#EXTINF:-1, CBC Sport
-http://cdn.pointgroup.az/1000010/h9Gpqjjn63/40ea326f6adafd72e2a81d86cadb81a3/cbc-sport.m3u8
+
+
+
+
+
 
 #EXTINF:-1,beIN SPORTS HD
 http://46.245.179.198:8000/play/a04x/index.m3u8
@@ -375,8 +243,8 @@ http://188.40.113.140:86/m3u8/webdiemasport_web.m3u8
 #EXTINF:-1,diema sport 2
 http://188.40.113.140:86/m3u8/webdiemasport2_web.m3u8
 
-#EXTINF:-1,PFC 
-http://178.194.123.182:8000/play/a04s
+
+
 
 
 
@@ -1158,8 +1026,6 @@ http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
 http://123tv.cdn.ses-ps.com/index.m3u8
 #EXTINF:-1,elbe canal
 http://62.113.210.250/medienasa-live/_definst_/mp4:elbe_high/chunklist_w1146564478.m3u8
-
-
 #EXTINF:-1,RIC TV DE
 rtmp://80.237.191.232:1935/live/rictv
 
@@ -1215,7 +1081,10 @@ http://corporacionextremena-live.hls.adaptive.level3.net/hls-live/corporacionext
 #EXTINF:-1,TV.p Asturias
 http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8
 
-
+#EXTINF:-1,TVE 24h
+http://87.246.0.130:88/m3u8/canal24horas.m3u8
+#EXTINF:-1,TVE 24H
+http://hlsackdn_gl8-lh.akamaihd.net:80/i/hlsdvrlive_1@81183/index_0650_av-b.m3u8
 
 
 #EXTINF:-1,[COLOR green]--- RUSKI PROGRAMI---[/COLOR]
@@ -1519,7 +1388,212 @@ http://93.123.65.3:9257/257
 #EXTINF:0, hd sport+ bulgaria
 http://93.123.65.3:9262/262
 
-
+#EXTINF:0,F BG 
+http://87.246.0.130:88/m3u8/webfplus_web.m3u8
+#EXTINF:0,HBO BG 
+http://87.246.0.130:88/m3u8/webhbo_web.m3u8
+#EXTINF:0,History BG 
+http://87.246.0.130:88/m3u8/webhistory_web.m3u8
+#EXTINF:0,Mtel Sport BG
+http://87.246.0.130:88/m3u8/webmtelsport_web.m3u8
+#EXTINF:0,Sport Plus HD BG
+http://87.246.0.130:88/m3u8/websportplus_web.m3u8
+#EXTINF:0,Diema Sport FULL HD BG
+http://87.246.0.130/m3u8/diamasporthd.m3u8
+#EXTINF:0,F BG
+http://87.246.0.130/m3u8/webfplus_web.m3u8
+#EXTINF:0,HBO BG
+http://87.246.0.130/m3u8/webhbo_web.m3u8
+#EXTINF:0,History BG
+http://87.246.0.130/m3u8/webhistory_web.m3u8
+#EXTINF:0,Mtel Sport BG
+http://87.246.0.130/m3u8/webmtelsport_web.m3u8
+#EXTINF:0,Sport Plus HD BG
+http://87.246.0.130/m3u8/websportplus_web.m3u8
+#EXTINF:0,Bg Music Channel HD
+http://87.246.0.130:88/m3u8/bgmusicchannelhd.m3u8
+#EXTINF:0,BOX HD
+http://87.246.0.130:88/m3u8/boxhd.m3u8
+#EXTINF:0,BNT World HD
+http://87.246.0.130:88/m3u8/bntworldhd.m3u8
+#EXTINF:0,BNT 2 HD
+http://87.246.0.130:88/m3u8/bnt2hd.m3u8
+#EXTINF:0,Diema Sport 2 HD
+http://87.246.0.130:88/m3u8/diemasport2hd.m3u8
+#EXTINF:0,bTV HD
+http://87.246.0.130:88/m3u8/btvhd.m3u8
+#EXTINF:0,bTV Action HD
+http://87.246.0.130:88/m3u8/btvactionhd.m3u8
+#EXTINF:0,Planeta HD
+http://87.246.0.130:88/m3u8/planetahd.m3u8
+#EXTINF:0,Eurosport HD
+http://87.246.0.130:88/m3u8/eurosporthd.m3u8
+#EXTINF:0,Nat Geo HD
+http://87.246.0.130:88/m3u8/natgeohd.m3u8
+#EXTINF:0,Nat Geo Wild HD
+http://87.246.0.130:88/m3u8/natgeowildhd.m3u8
+#EXTINF:0,Balkanika HD
+http://87.246.0.130:88/m3u8/balkanikahd.m3u8
+#EXTINF:0,Ring BG HD
+http://87.246.0.130:88/m3u8/ringbghd.m3u8
+#EXTINF:0,FOX HD
+http://87.246.0.130:88/m3u8/foxhd.m3u8
+#EXTINF:0,FOX life HD
+http://87.246.0.130:88/m3u8/foxlivehd.m3u8
+#EXTINF:0,TV1 HD
+http://87.246.0.130:88/m3u8/tv1hd.m3u8
+#EXTINF:0,travel HD
+http://87.246.0.130:88/m3u8/travelhd.m3u8
+#EXTINF:0,B1B Action
+http://87.246.0.130:88/m3u8/B1B_Actionhd.m3u8
+#EXTINF:0,Deluxe Lounge
+http://87.246.0.130:88/m3u8/Deluxe_Loungehd.m3u8
+#EXTINF:0,Deluxe Music HD
+http://87.246.0.130:88/m3u8/Deluxe_Musichd.m3u8
+#EXTINF:0,Arena Sport 1
+http://87.246.0.130:88/m3u8/arenasport1.m3u8
+#EXTINF:0,Arena Sport 2
+http://87.246.0.130:88/m3u8/arenasport2.m3u8
+#EXTINF:0,Arena Sport 3
+http://87.246.0.130:88/m3u8/arenasport3.m3u8
+#EXTINF:0,Arena Sport 4
+http://87.246.0.130:88/m3u8/arenasport4.m3u8
+#EXTINF:0,Arena Sport 5
+http://87.246.0.130:88/m3u8/arenasport5.m3u8
+#EXTINF:0,The Fight Network HD
+http://87.246.0.130:88/m3u8/The_Fight_Networkhd.m3u8
+#EXTINF:0,arte HD
+http://87.246.0.130:88/m3u8/artehd.m3u8
+#EXTINF:0,Bloomberg BG HD
+http://87.246.0.130:88/m3u8/blumberg_bulgariahd.m3u8
+#EXTINF:0,BNT SD
+http://87.246.0.130:88/m3u8/bntsd.m3u8
+#EXTINF:0,24 Horas
+http://87.246.0.130:88/m3u8/canal24horas.m3u8
+#EXTINF:0,Porn
+http://87.246.0.130:88/m3u8/centoxcento.m3u8
+#EXTINF:0,Das erte HD
+http://87.246.0.130:88/m3u8/daserstehd.m3u8
+#EXTINF:0,Eurochannel HD
+http://87.246.0.130:88/m3u8/eurochannelhd.m3u8
+#EXTINF:0,Fashion HD
+http://87.246.0.130:88/m3u8/fashion_tvhd.m3u8
+#EXTINF:0,Porn
+http://87.246.0.130:88/m3u8/exoticatv.m3u8
+#EXTINF:0,TelePace HD
+http://87.246.0.130:88/m3u8/hdTelePacehd.m3u8
+#EXTINF:0,BiT HD
+http://87.246.0.130:88/m3u8/hdbithd.m3u8
+#EXTINF:0,Bloomberg
+http://87.246.0.130:88/m3u8/hdbloomberg.m3u8
+#EXTINF:0,BNT 1 HD
+http://87.246.0.130:88/m3u8/hdbnt1hd.m3u8
+#EXTINF:0,BNT HD
+http://87.246.0.130:88/m3u8/hdbnthd.m3u8
+#EXTINF:0,BNT
+http://87.246.0.130:88/m3u8/webbnt1_web.m3u8
+#EXTINF:0,BNT 2
+http://87.246.0.130:88/m3u8/webbnt2_web.m3u8
+#EXTINF:0,BNT HD
+http://87.246.0.130:88/m3u8/webbnthd_web.m3u8
+#EXTINF:0,bTV
+http://87.246.0.130:88/m3u8/webbtv_web.m3u8
+#EXTINF:0,bTV Action
+http://87.246.0.130:88/m3u8/webbtvaction_web.m3u8
+#EXTINF:0,bTV Cinema
+http://87.246.0.130:88/m3u8/webbtvcinema_web.m3u8
+#EXTINF:0,bTV Comedy
+http://87.246.0.130:88/m3u8/webbtvcomedy_web.m3u8
+#EXTINF:0,bTV Lady
+http://87.246.0.130:88/m3u8/webbtvlady_web.m3u8
+#EXTINF:0,Diema Sport
+http://87.246.0.130:88/m3u8/webdiemasport_web.m3u8
+#EXTINF:0,Diema Sport 2
+http://87.246.0.130:88/m3u8/webdiemasport2_web.m3u8
+#EXTINF:0,Eurosport
+http://87.246.0.130:88/m3u8/webeurosport_web.m3u8
+#EXTINF:0,Eurosport 2
+http://87.246.0.130:88/m3u8/webeurosport2_web.m3u8
+#EXTINF:0,Nova Sport
+http://87.246.0.130:88/m3u8/webnovasport_web.m3u8
+#EXTINF:0,Kino Nova
+http://87.246.0.130:88/m3u8/webkinonova_web.m3u8
+#EXTINF:0,Ring
+http://87.246.0.130:88/m3u8/webringbg_web.m3u8
+#EXTINF:0,Diema
+http://87.246.0.130:88/m3u8/webdiema_web.m3u8
+#EXTINF:0,Diema Family
+http://87.246.0.130:88/m3u8/webdiemafamily_web.m3u8
+#EXTINF:0,Nova
+http://87.246.0.130:88/m3u8/webnova_web.m3u8
+#EXTINF:0,K3
+http://87.246.0.130:88/m3u8/webkanal3_web.m3u8
+#EXTINF:0,Fox
+http://87.246.0.130:88/m3u8/webfox_web.m3u8
+#EXTINF:0,Fox Crime
+http://87.246.0.130:88/m3u8/webfoxcrime_web.m3u8
+#EXTINF:0,Fox life
+http://87.246.0.130:88/m3u8/webfoxlive_web.m3u8
+#EXTINF:0,AXN
+http://87.246.0.130:88/m3u8/webaxn_web.m3u8
+#EXTINF:0,AXN White
+http://87.246.0.130:88/m3u8/webaxnwhite_web.m3u8
+#EXTINF:0,Discovery
+http://87.246.0.130:88/m3u8/webdiscovery_web.m3u8
+#EXTINF:0,Nat Geo
+http://87.246.0.130:88/m3u8/webnatgeo_web.m3u8
+#EXTINF:0,Nat Geo Wild
+http://87.246.0.130:88/m3u8/webnatgeowild_web.m3u8
+#EXTINF:0,TLC
+http://87.246.0.130:88/m3u8/webtlc_web.m3u8
+#EXTINF:0,BiT
+http://87.246.0.130:88/m3u8/webbit_web.m3u8
+#EXTINF:0,Bloomberg
+http://87.246.0.130:88/m3u8/webbloomberg_web.m3u8
+#EXTINF:0,Evrokom
+http://87.246.0.130:88/m3u8/webevrokom_web.m3u8
+#EXTINF:0,SKAT
+http://87.246.0.130:88/m3u8/webskat_web.m3u8
+#EXTINF:0,Balkanika
+http://87.246.0.130:88/m3u8/webbalkanika_web.m3u8
+#EXTINF:0,BG Music Channel
+http://87.246.0.130:88/m3u8/webbgmusic_web.m3u8
+#EXTINF:0,BOX
+http://87.246.0.130:88/m3u8/webbox_web.m3u8
+#EXTINF:0,City TV
+http://87.246.0.130:88/m3u8/webcitytv_web.m3u8
+#EXTINF:0,The Voice
+http://87.246.0.130:88/m3u8/webthevoice_web.m3u8
+#EXTINF:0,Magic TV
+http://87.246.0.130:88/m3u8/webmagictv_web.m3u8
+#EXTINF:0,Planeta
+http://87.246.0.130:88/m3u8/webplaneta_web.m3u8
+#EXTINF:0,Planeta folk
+http://87.246.0.130:88/m3u8/webplanetafolk_web.m3u8
+#EXTINF:0,FEN TV
+http://87.246.0.130:88/m3u8/webfen_web.m3u8
+#EXTINF:0,Folklor TV
+http://87.246.0.130:88/m3u8/webfolklor_web.m3u8
+#EXTINF:0,Tiankov
+http://87.246.0.130:88/m3u8/webtiankov_web.m3u8
+#EXTINF:0,baby tv
+http://87.246.0.130:88/m3u8/webbabytv_web.m3u8
+#EXTINF:0,Еkids
+http://87.246.0.130:88/m3u8/webekids_web.m3u8
+#EXTINF:0,Disney
+http://87.246.0.130:88/m3u8/webdisney_web.m3u8
+#EXTINF:0,hobby
+http://87.246.0.130:88/m3u8/webhobby_web.m3u8
+#EXTINF:0,24Kitchen
+http://87.246.0.130:88/m3u8/web24kitchen_web.m3u8
+#EXTINF:0,ohotairibalka
+http://87.246.0.130:88/m3u8/webohotairibalka_web.m3u8
+#EXTINF:0,nickelodeon
+http://87.246.0.130:88/m3u8/webnickelodeon_web.m3u8
+#EXTINF:0,evropa
+http://87.246.0.130:88/m3u8/webevropa_web.m3u8
+#EXTINF:0,cn
+http://87.246.0.130:88/m3u8/webcn_web.m3u8
 
 
 #EXTINF:-1,[COLOR green]---SLOVAČKI PROGRAMI ---[/COLOR] 
@@ -1612,56 +1686,17 @@ http://95.67.8.22/hls/idfashion/index.m3u8
 #EXTINF:-1,WORLD FASHION
 http://cdn-01.bonus-tv.ru:9090/wfc/wfhd/type/none/eol/20200101T0000/hash/9a88dd19442705b52370171ff0c442e002c0e219/playlist.m3u8
 
-#EXTINF:-1,WORLD FASHION
-http://93.91.113.8:9999/play/a074
-
-
 
 
 #EXTINF:-1,[COLOR green]---XXX PROGRAMI---[/COLOR]
 skip
 
 
-#EXTINF:-1,XXX: Babes 1
-http://p5.giffy.be:8080/live/Abdi/1234/32342.m3u8
-#EXTINF:-1,XXX: Babes 18
-http://p5.giffy.be:8080/live/Abdi/1234/32333.m3u8
-#EXTINF:-1,XXX: Babes 3
-http://p5.giffy.be:8080/live/Abdi/1234/32340.m3u8
-#EXTINF:-1,XXX: Babes 4
-http://p5.giffy.be:8080/live/Abdi/1234/32339.m3u8
-#EXTINF:-1,XXX: Babes 5
-http://p5.giffy.be:8080/live/Abdi/1234/32338.m3u8
-#EXTINF:-1,XXX: Babes 6
-http://p5.giffy.be:8080/live/Abdi/1234/32337.m3u8
-#EXTINF:-1,XXX: Babes 8
-http://p5.giffy.be:8080/live/Abdi/1234/32335.m3u8
-#EXTINF:-1,XXX: Babes 9
-http://p5.giffy.be:8080/live/Abdi/1234/32334.m3u8
-#EXTINF:-1,XXX: BRAZZERS TV EUROPE
-http://p5.giffy.be:8080/live/Abdi/1234/32326.m3u8
-#EXTINF:-1,XXX: CHANNEL X 1
-http://p5.giffy.be:8080/live/Abdi/1234/32332.m3u8
-#EXTINF:-1,XXX: DAUGHTER SWAP
-http://p5.giffy.be:8080/live/Abdi/1234/32331.m3u8
-#EXTINF:-1,XXX: DORCEL
-http://p5.giffy.be:8080/live/Abdi/1234/32329.m3u8
-#EXTINF:-1,XXX: MIAMI TV
-http://p5.giffy.be:8080/live/Abdi/1234/32328.m3u8
-#EXTINF:-1,XXX: Penthouse
-http://p5.giffy.be:8080/live/Abdi/1234/32327.m3u8
-#EXTINF:-1,XXX: SUPERONE
-http://p5.giffy.be:8080/live/Abdi/1234/32330.m3u8
-#EXTINF:-1,CA | SHOWCASE
-http://p5.giffy.be:8080/live/Abdi/1234/32499.m3u8
-#EXTINF:-1,XXX DUSK
-http://p5.giffy.be:8080/live/Abdi/1234/35141.m3u8
-#EXTINF:-1,XXX EROTIC 2
-http://p5.giffy.be:8080/live/Abdi/1234/35138.m3u8
-#EXTINF:-1,XXX HOT 
-http://p5.giffy.be:8080/live/Abdi/1234/35139.m3u8
-#EXTINF:-1,XXX PLAYBOY 2
-http://p5.giffy.be:8080/live/Abdi/1234/35140.m3u8
+#EXTINF:0,sexsto senso
+http://87.246.0.130:88/m3u8/centoxcento.m3u8
+#EXTINF:0,dusk
+http://87.246.0.130:88/m3u8/exoticatv.m3u8
+
 
 #EXTINF:-1,dusk 
 http://37.9.0.201:8890 
@@ -1693,45 +1728,6 @@ http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/266/inde
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/267/index.m3u8
 #EXTINF:-1,Hustler HD
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/502/index.m3u8
-
-
-
-#EXTINF:-1,Dorcel TV HD
-http://185.231.160.49/931/1/index.m3u8
-#EXTINF:-1,??????? ????
-http://185.231.160.49/267/2/index.m3u8
-#EXTINF:-1,Dusk
-http://185.231.160.49/362/2/index.m3u8
-#EXTINF:-1,SCT
-http://185.231.160.49/363/2/index.m3u8
-#EXTINF:-1,CENTCENTO TV
-http://185.231.160.49/364/2/index.m3u8
-#EXTINF:-1,Sexto Senso
-http://185.231.160.49/365/2/index.m3u8
-#EXTINF:-1,Pink O TV
-http://185.231.160.49/368/2/index.m3u8
-#EXTINF:-1,Evil Angel TV
-http://185.231.160.49/361/6/index.m3u8
-#EXTINF:-1,Passion XXX
-http://185.231.160.49/366/6/index.m3u8
-#EXTINF:-1,Brazzers TV Europe
-http://185.231.160.49/348/6/index.m3u8
-#EXTINF:-1,Blue Hustler
-http://185.231.160.49/269/6/index.m3u8
-#EXTINF:-1,Nuart TV
-http://185.231.160.49/265/2/index.m3u8
-#EXTINF:-1,Hustler HD
-http://185.231.160.49/526/6/index.m3u8
-#EXTINF:-1,Private TV
-http://185.231.160.49/497/6/index.m3u8
-#EXTINF:-1,Redlight HD
-http://185.231.160.49/525/6/index.m3u8
-#EXTINF:-1,XXL
-http://185.231.160.49/524/6/index.m3u8
-#EXTINF:-1,EROX HD
-http://185.231.160.49/1027/6/index.m3u8
-#EXTINF:-1,Visit-X TV
-http://185.231.160.49/980/6/index.m3u8
 
 
 
