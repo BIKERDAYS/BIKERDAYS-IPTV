@@ -511,6 +511,13 @@ skip
 #EXTINF:0,Hunting and Fishing
 http://str.trofey.net:1935/live/2_max.smil/chunklist_w158057594_b4000000.m3u8?id=2&session=5488c6087e1ea6.57082302
 
+
+#EXTINF:0, tlc (srp)
+http://93.123.65.3:9148/148
+#EXTINF:0, animal planet (srp)
+http://93.123.65.3:9257/257
+
+
 #EXTINF:-1,Nat Geo Wild 
 http://81.228.174.166:8001/natgeowild
 
@@ -1032,6 +1039,99 @@ http://ec.playmedia.fr/gong-base/live/playlist.m3u8
 
 #EXTINF:-1,tvpi
 http://streamcast.oc3n.net:1935/TVPI/myStream700.sdp/live.m3u8
+
+#EXTINF:-1,W9
+http://144.217.253.140/W9/mpegts
+#EXTINF:-1,TF 1
+http://144.217.253.140/TF1/mpegts
+#EXTINF:-1,Piwi
+http://144.217.253.140/Piwi/mpegts
+#EXTINF:-1,NRJ 12
+http://144.217.253.140/NRJ12/mpegts
+#EXTINF:-1,MBC
+http://144.217.253.140/MBC/mpegts
+#EXTINF:-1,MBC MASR
+http://144.217.253.140/MBCMASR/mpegts
+#EXTINF:-1,MBC MAX
+http://144.217.253.140/MBCMAX/mpegts
+#EXTINF:-1,MBC DRAMA
+http://144.217.253.140/MBCDRAMA/mpegts
+#EXTINF:-1,MBC ACTION
+http://144.217.253.140/MBCACTION/mpegts
+#EXTINF:-1,MBC 4
+http://144.217.253.140/MBC4/mpegts
+#EXTINF:-1,MBC 2
+http://144.217.253.140/MBC2/mpegts
+#EXTINF:-1,M6
+http://144.217.253.140/M6/mpegts
+#EXTINF:-1,LBC
+http://144.217.253.140/LBC/mpegts
+#EXTINF:-1,LDC
+http://144.217.253.140/LDC/mpegts
+#EXTINF:-1,Gulli
+http://144.217.253.140/Gulli/mpegts
+#EXTINF:-1,France 4
+http://144.217.253.140/France4/mpegts
+#EXTINF:-1,France 3
+http://144.217.253.140/France3/mpegts
+#EXTINF:-1,France 2
+http://144.217.253.140/France2/mpegts
+#EXTINF:-1,C8
+http://144.217.253.140/C8/mpegts
+#EXTINF:-1,Cherie25
+http://144.217.253.140/Cherie25/mpegts
+#EXTINF:-1,tiji
+http://144.217.253.140/tiji/mpegts
+#EXTINF:-1,OTV
+http://144.217.253.140/OTV/mpegts
+#EXTINF:-1,Nickelodeon
+http://144.217.253.140/Nickelodeon/mpegts
+#EXTINF:-1,Nessma
+http://144.217.253.140/Nessma/mpegts
+#EXTINF:-1,NBN
+http://144.217.253.140/NBN/mpegts
+#EXTINF:-1,Mangas
+http://144.217.253.140/Mangas/mpegts
+#EXTINF:-1,Boomerang
+http://144.217.253.140/Boomerang/mpegts
+#EXTINF:-1,Boing
+http://144.217.253.140/Boing/mpegts
+#EXTINF:-1,TRT 1
+http://144.217.76.52:8080/TRT1/mpegts
+#EXTINF:-1,OTV
+http://144.217.76.52:8080/OTV/mpegts
+#EXTINF:-1,KTV 2
+http://144.217.76.52:8080/KTV2/mpegts
+#EXTINF:-1,CBC
+http://144.217.76.52:8080/CBC/mpegts
+#EXTINF:-1,LDC
+http://144.217.76.52:8080/LDC/mpegts
+#EXTINF:-1,natgeo
+http://144.217.74.192:8080/natgeo/mpegts
+#EXTINF:-1,zeemarathi
+http://144.217.74.192:8080/zeemarathi/mpegts
+#EXTINF:-1,syfy
+http://144.217.74.192:8080/syfy/mpegts
+#EXTINF:-1,AMC HD
+http://144.217.74.192:8080/AMCHD/mpegts
+#EXTINF:-1,SPIKE TV
+http://144.217.74.192:8080/SPIKETV/mpegts
+#EXTINF:-1,sky movies family
+http://144.217.74.192:8080/skymoviesfamily/mpegts
+#EXTINF:-1,pogo
+http://144.217.74.192:8080/pogo/mpegts
+#EXTINF:-1,comedy central
+http://144.217.74.192:8080/comedycentral/mpegts
+#EXTINF:-1,hbo comedy
+http://144.217.74.192:8080/hbocomedy/mpegts
+#EXTINF:-1,TSN 3 HD
+http://144.217.74.122:8080/TSN3HD/mpegts
+#EXTINF:-1,TSN 1 HD
+http://144.217.74.122:8080/TSN1HD/mpegts
+#EXTINF:-1,TSN 2 HD
+http://144.217.74.122:8080/TSN2HD/mpegts
+
+
 
 
 #EXTINF:-1,[COLOR green]--- ŠPANJOLSKI PROGRAMI ---[/COLOR]
