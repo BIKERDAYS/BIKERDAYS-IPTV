@@ -207,7 +207,8 @@ http://195.206.253.157:8001/eurosport2hd
 http://188.93.94.138/silk_sport4/index.m3u8
 
 
-
+#EXTINF:-1,boets
+http://serv25.vintera.tv:8081/sport/boets1e/chunklist.m3u8
 
 
 
