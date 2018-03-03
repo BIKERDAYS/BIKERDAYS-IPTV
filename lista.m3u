@@ -68,7 +68,8 @@ rtmp://84.20.77.50/live/livestream1
 #EXTINF:-1,plus tv
 http://141.136.14.18/kanal1/kanal1_1500/index.m3u8
 
-
+#EXTINF:-1,makedonija tv
+http://anglantennalive5-lh.akamaihd.net/i/live_1@424766/master.m3u8
 
 
 #EXTINF:0,TV Slovenija 1
@@ -206,10 +207,7 @@ http://195.206.253.157:8001/eurosport2hd
 http://188.93.94.138/silk_sport4/index.m3u8
 
 
-#EXTINF:-1,SBS SPORTS
-http://198.144.156.93:9083/live/CA42-live1/N5/Zi/N5ZiPBK3M6JnskdXwIWTXw==/live.m3u8
-#EXTINF:-1,SBS Golf
-http://198.144.156.93:9083/live/CA42-live1/aU/Zx/aUZxH_RUOehMBmBXwZjwjQ==/live.m3u8
+
 
 
 
@@ -220,33 +218,10 @@ http://d3a7691f.iptvbot.biz/iptv/QND49DL7Q43CL7/997/index.m3u8
 http://d3a7691f.iptvbot.biz/iptv/QND49DL7Q43CL7/996/index.m3u8 
 
 
-
-
-
-
-
-
-
-#EXTINF:-1,beIN SPORTS HD
-http://46.245.179.198:8000/play/a04x/index.m3u8
-#EXTINF:-1,beIN SPORTS HD4 MAX
-http://46.245.179.198:8000/play/a051/index.m3u8
-#EXTINF:-1,beIN SPORTS HD1 MAX
-http://46.245.179.198:8000/play/a04z/index.m3u8
-#EXTINF:-1,beIN SPORTS HD2 MAX
-http://46.245.179.198:8000/play/a050/index.m3u8
-#EXTINF:-1,beIN SPORTS NEWS HD
-http://46.245.179.198:8000/play/a04y/index.m3u8
-
 #EXTINF:-1,diema sport 1
 http://188.40.113.140:86/m3u8/webdiemasport_web.m3u8
 #EXTINF:-1,diema sport 2
 http://188.40.113.140:86/m3u8/webdiemasport2_web.m3u8
-
-
-
-
-
 
 
 #EXTINF:-1,Viasat_Sport
@@ -295,7 +270,6 @@ http://a6ef665f.ottclub.mobi/iptv/DPGK2RFY6XHPHF/724/index.m3u8
 #EXTINF:-1,VH1 European
 http://a6ef665f.ottclub.mobi/iptv/DPGK2RFY6XHPHF/536/index.m3u8
 
-
 #EXTINF:-1,VH 1
 http://92.60.224.62:3014/udp/239.1.1.79:22079
 
@@ -308,10 +282,8 @@ http://91.149.172.100:80/channel?id=20&u=demo&p=demo
 #EXTINF:0,MTV live hd
 http://91.149.172.100:80/channel?id=4&u=demo&p=demo
 
-#EXTINF:0,MTV
+#EXTINF:0,MTV (norg)
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
-
-
 
 #EXTINF:0,play tv albania
 http://vtv.selfip.net:8080/live/playtv/playtv/1652.ts
@@ -367,11 +339,7 @@ http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/index_5_av-p.m3u8?sd=10&r
 #EXTINF:0,Kiss Tv Music
 rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
 
-#EXTINF:-1,Amazing
-http://n-4-16.dcs.redcdn.pl/hls/mm/multimedia/live/amazing/live.livx/playlist.m3u8
 
-#EXTINF:-1,Atomic	
-rtmp://5.154.185.153:1935/live/live.flv
 
 #EXTINF:0,TOP CITY HITS
 http://nodeb.gocaster.net:1935/CGL/_definst_/mp4:TODAYFM_TEST2/stream.m3u8
@@ -568,12 +536,6 @@ https://cdn.rasset.ie/hls-live/_definst_/rtejr/rtejr-576.m3u8
 #EXTINF:-1,nickelodeon
 http://91.149.172.100:80/channel?id=11&u=demo&p=demo
 
-#EXTINF:-1,cartoon world
-http://bit.ly/2rvaV7Q
-
-#EXTINF:-1,CARTOON TV 
-http://web.onair-radio.eu:1935/cartoon/cartoon/playlist.m3u8
-
 #EXTINF:-1,anime tv
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
 
@@ -582,6 +544,10 @@ http://91.149.172.100:80/channel?id=25&u=demo&p=demo
 
 #EXTINF:-1,Smile of a Child
 http://acaooyalahd2-lh.akamaihd.net/i/TBN04_delivery@186242/master.m3u8
+
+#EXTINF:-1,KBVR TV
+http://klive-a.akamaihd.net/dc-0/live/hls/p/391241/e/0_bthpnu1j/sd/10000/t/YwqLo1YivB_aumq-LxAuWg/master.m3u8
+
 
 
 #EXTINF:-1,[COLOR green]--- CRTANI FILMOVI ---[/COLOR] 
@@ -1076,15 +1042,86 @@ skip
 http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
 #EXTINF:-1,La Sexta
 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
+#EXTINF:-1,MEGA
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8
+#EXTINF:-1,NEOX KIDS
+http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
+#EXTINF:-1,NOVA
+http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8
+
 #EXTINF:-1,Canal Extremadura
 http://corporacionextremena-live.hls.adaptive.level3.net/hls-live/corporacionextremena-channel02/_definst_/live.m3u8
+
 #EXTINF:-1,TV.p Asturias
 http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8
 
+#EXTINF:-1,ETB SAT
+http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
+
 #EXTINF:-1,TVE 24h
 http://87.246.0.130:88/m3u8/canal24horas.m3u8
+
 #EXTINF:-1,TVE 24H
 http://hlsackdn_gl8-lh.akamaihd.net:80/i/hlsdvrlive_1@81183/index_0650_av-b.m3u8
+
+
+#EXTINF:-1,[COLOR green]--- ALBANSKA + NJEMACKA LISTA---[/COLOR]
+skip
+
+
+#EXTINF:-1,ALSATM
+http://37.187.160.19:8080/ALSATM/index.m3u8
+#EXTINF:-1,ARTE
+http://37.187.160.19:8080/ARTEHD/index.m3u8
+#EXTINF:-1,BANBANG
+http://37.187.160.19:8080/BANGBANG/index.m3u8
+#EXTINF:-1,FILM AKSION
+http://37.187.160.19:8080/FILMAKSION/index.m3u8
+#EXTINF:-1,FILMDY
+http://37.187.160.19:8080/FILMDY/index.m3u8
+#EXTINF:-1,KIKA
+http://37.187.160.19:8080/KIKA/index.m3u8
+#EXTINF:-1,N24
+http://37.187.160.19:8080/N24/index.m3u
+#EXTINF:-1,RTK1
+http://37.187.160.19:8080/RTK1SAT/index.m3u8
+#EXTINF:-1,RTL NITRO
+http://37.187.160.19:8080/RTLNITRO/index.m3u8
+#EXTINF:-1,RTL CH
+http://37.187.160.19:8080/RTLCH/index.m3u8
+#EXTINF:-1,RTL 2 CH
+http://37.187.160.19:8080/RTL2CH/index.m3u8
+#EXTINF:-1,RTV21
+http://37.187.160.19:8080/RTV21/index.m3u8
+#EXTINF:-1,RTV21M
+http://37.187.160.19:8080/RTV21M/index.m3u8
+#EXTINF:-1,SAT 1
+http://37.187.160.19:8080/SAT1GOLD/index.m3u8
+#EXTINF:-1,SRF INFO
+http://37.187.160.19:8080/SRFINFO/index.m3u8
+#EXTINF:-1,SRF 1
+http://37.187.160.19:8080/SRF1/index.m3u8
+#EXTINF:-1,SRF 2
+http://37.187.160.19:8080/SRF2/index.m3u8
+#EXTINF:-1,SUPER RTL
+http://37.187.160.19:8080/SUPERRTL/index.m3u8
+#EXTINF:-1,TOP CHANNEL
+http://37.187.160.19:8080/TOPCHANNEL/index.m3u8
+#EXTINF:-1,TRING vk.com/iptv_iptv
+http://37.187.160.19:8080/TRINGSUPER/index.m3u8
+#EXTINF:-1,TRING
+http://37.187.160.19:8080/TRINGFANTASY/index.m3u8
+#EXTINF:-1,TRING
+http://37.187.160.19:8080/TRINGLIFE/index.m3u8
+#EXTINF:-1,TRING
+http://37.187.160.19:8080/TRINGPLANET/index.m3u8
+#EXTINF:-1,TRING
+http://37.187.160.19:8080/TRINGSHQIP/index.m3u8
+#EXTINF:-1,TRING
+http://37.187.160.19:8080/TRINGTRING/index.m3u8
+#EXTINF:-1,TRING
+http://37.187.160.19:8080/TRINGWORLD/index.m3u8
+
 
 
 #EXTINF:-1,[COLOR green]--- RUSKI PROGRAMI---[/COLOR]
