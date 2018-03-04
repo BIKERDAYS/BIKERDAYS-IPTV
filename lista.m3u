@@ -286,6 +286,15 @@ http://91.149.172.100:80/channel?id=4&u=demo&p=demo
 #EXTINF:0,MTV (norg)
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 
+#EXTINF:0,POLSAT MUSIC HD
+http://185.99.253.38:8002/play/a00p
+#EXTINF:0,4FUN GOLD HITS
+http://185.99.253.38:8002/play/a00m
+#EXTINF:0,4FUN DANCE
+http://185.99.253.38:8002/play/a00n
+#EXTINF:0,4FUN TV
+http://185.99.253.38:8002/play/a00l
+
 #EXTINF:0,play tv albania
 http://vtv.selfip.net:8080/live/playtv/playtv/1652.ts
 
