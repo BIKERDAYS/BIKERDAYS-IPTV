@@ -644,6 +644,8 @@ http://93.123.65.3:9148/148
 #EXTINF:0, animal planet (srp)
 http://93.123.65.3:9257/257
 
+#EXTINF:-1,Public TV
+http://cdn-11.bonus-tv.ru/publictv/index.m3u8
 
 #EXTINF:-1,Nat Geo Wild 
 http://81.228.174.166:8001/natgeowild
@@ -1946,6 +1948,8 @@ skip
 
 #EXTINF:-1,ID Fashion HD
 http://95.67.8.22/hls/idfashion/index.m3u8
+#EXTINF:-1,HD Fashion UA
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 
 #EXTINF:-1,WORLD FASHION
 http://cdn-01.bonus-tv.ru:9090/wfc/wfhd/type/none/eol/20200101T0000/hash/9a88dd19442705b52370171ff0c442e002c0e219/playlist.m3u8
