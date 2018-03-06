@@ -479,6 +479,8 @@ skip
 #EXTINF:0,Hunting and Fishing
 http://str.trofey.net:1935/live/2_max.smil/chunklist_w158057594_b4000000.m3u8?id=2&session=5488c6087e1ea6.57082302
 
+#EXTINF:0,RUSSIA TODAY DOCUMENTARY
+http://secure-streams.akamaized.net/rt-doc/index2500.m3u8
 
 #EXTINF:0, tlc (srp)
 http://93.123.65.3:9148/148
@@ -797,6 +799,9 @@ http://aljazeera-balkans-apple-live.adaptive.level3.net/apple/aljazeera/balkans/
 
 #EXTINF:-1,Russia Today UK
 https://secure-streams.akamaized.net/rt-uk/index.m3u8
+#EXTINF:-1,Russia Today NEWS
+http://secure-streams.akamaized.net/rt/index2500.m3u8
+
 
 #EXTINF:-1,RTE News Now
 http://wmsrtsp1.rte.ie/live/android.sdp/playlist.m3u8
@@ -829,6 +834,14 @@ rtmp://109.206.96.209:1935/rai2_tv_247
 #EXTINF:0,Rai 3
 rtmp://109.206.96.209:1935/rai3_tv_247
 
+
+
+
+
+
+#EXTINF:-1,canale 5
+http://live1-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch01)/Stream(04)/index.m3u8
+
 #EXTINF:-1,canale 5
 http://hlslive.msf.ticdn.it/hls/CH13/live.m3u8?type=live-cupertino
 
@@ -844,6 +857,9 @@ http://b2everyrai-lh.akamaihd.net/i/rai4_1@181951/master.m3u8
 #EXTINF:-1,RAI 4 (vpn italia)
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=75708
 
+#EXTINF:-1,rai5
+http://b2everyrai-lh.akamaihd.net/i/rai5_1@182695/master.m3u8
+
 #EXTINF:-1,rai5 (vpn italia)
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276
 
@@ -852,6 +868,9 @@ http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
 
 #EXTINF:-1,Rai Premium
 http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/index_1200_av-p.m3u8
+
+#EXTINF:-1,Rai YOYO
+http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/master.m3u8
 
 #EXTINF:-1,Rai Gulp
 http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/index_1200_av-p.m3u8
