@@ -770,7 +770,7 @@ http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_700_av-p.m3u8
 http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_1896_av-b.m3u8
 
 #EXTINF:-1,BBC World News
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_manifest.m3u8
 
 #EXTINF:-1,FRANCE 24 (EN)
 http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
@@ -833,14 +833,6 @@ https://liveprodeuwest.global.ssl.fastly.net/btv/desktop/eu_live.m3u8
 
 #EXTINF:-1,[COLOR green]---TALIJANSKI PROGRAMI---[/COLOR]
 skip
-
-
-#EXTINF:0,Rai 1
-rtmp://109.206.96.209:1935/rai_tv_247
-#EXTINF:0,Rai 2
-rtmp://109.206.96.209:1935/rai2_tv_247
-#EXTINF:0,Rai 3
-rtmp://109.206.96.209:1935/rai3_tv_247
 
 
 #EXTINF:0,cielo (vpn italia)
