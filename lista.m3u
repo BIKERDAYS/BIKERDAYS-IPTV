@@ -157,9 +157,6 @@ https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Winter_Olympic_Ch3/Winter_Olym
 #EXTINF:-1,Winter Olympics Ch 4
 https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Winter_Olympic_Ch4/Winter_Olympic_Ch4_800.m3u8
 
-#EXTINF:0,The Fight Network HD
-http://87.246.0.130:88/m3u8/The_Fight_Networkhd.m3u8
-
 #EXTINF:-1,Extreme Sports
 http://91.149.172.100:80/channel?id=24&u=demo&p=demo
 
@@ -195,32 +192,7 @@ http://188.40.113.140:86/m3u8/webdiemasport_web.m3u8
 http://188.40.113.140:86/m3u8/webdiemasport2_web.m3u8
 
 
-#EXTINF:-1,Viasat_Sport
-http://185.39.194.4:4022/udp/224.176.0.36:10005
-#EXTINF:-1,Viasat_Sport
-http://185.39.194.4:4022/udp/224.176.0.59:10005
-#EXTINF:1,Боец
-http://185.39.194.4:4022/udp/224.176.0.1:10005
-#EXTINF:-1,sports
-http://185.39.194.4:4022/udp/224.176.0.22:10005
-#EXTINF:-1,sports
-http://185.39.194.4:4022/udp/224.176.0.2:10005
-#EXTINF:-1,sports
-http://185.39.194.4:4022/udp/224.176.0.23:10005
-#EXTINF:-1,sports
-http://185.39.194.4:4022/udp/224.176.0.24:10005
-#EXTINF:-1,sports
-http://185.39.194.4:4022/udp/224.176.0.27:10005
-#EXTINF:-1,sports
-http://185.39.194.4:4022/udp/224.176.0.37:10005
-#EXTINF:-1,sports
-http://185.39.194.4:4022/udp/224.176.0.38:10005
-#EXTINF:-1,sports
-http://185.39.194.4:4022/udp/224.176.0.157:10005
-#EXTINF:-1,sports
-http://185.39.194.4:4022/udp/224.176.0.233:10005
-#EXTINF:-1,sports
-http://185.39.194.4:4022/udp/224.176.0.235:10005
+
 
 
 
