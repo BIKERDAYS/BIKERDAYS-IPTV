@@ -1835,10 +1835,25 @@ http://cdn-01.bonus-tv.ru:9090/wfc/wfhd/type/none/eol/20200101T0000/hash/9a88dd1
 skip
 
 
-#EXTINF:0,sexsto senso
-http://87.246.0.130:88/m3u8/centoxcento.m3u8
-#EXTINF:0,dusk
-http://87.246.0.130:88/m3u8/exoticatv.m3u8
+
+
+#EXTINF:-1,Brazzers TV Europe
+http://79.133.111.103:34040/udp/239.191.254.170:15285
+#EXTINF:-1,BRAZZERS TV 18+
+http://91.203.208.77:3371/udp/239.195.2.4:1234
+#EXTINF:-1,PLAYBOY TV
+http://91.203.208.77:3371/udp/239.195.2.5:1234
+#EXTINF:-1,Playboy TV
+http://37.194.183.113:81/udp/239.1.6.39:1234
+#EXTINF:-1,Playboy TV
+http://91.203.208.65:3371/udp/239.195.2.5:1234
+#EXTINF:-1,Frenchlover
+http://79.133.111.103:34040/udp/239.191.254.251:15285
+#EXTINF:-1,Ночной Клуб
+http://37.194.183.113:81/udp/239.1.6.33:1234
+#EXTINF:-1,Ola-la
+http://37.194.183.113:81/udp/239.1.6.34:1234
+
 
 
 #EXTINF:-1,dusk 
