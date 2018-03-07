@@ -74,6 +74,10 @@ http://141.136.14.18/kanal1/kanal1_1500/index.m3u8
 #EXTINF:-1,makedonija tv
 http://anglantennalive5-lh.akamaihd.net/i/live_1@424766/master.m3u8
 
+#EXTINF:-1,N1
+http://185.20.36.234:8080/stream?i=5NASdkA7imQ74SExK5xMGA&a=C2J-KsfDNkQ43uzstG1HaN69IIuhN8yyI7y66f5VFXyKNHJa4BWz0vNyVKDNmEDe7TCowHwegw-ti8G-IpqZY1SbsEvP6LLd9NXPkDaF1TpEzzRyQQVmwd5FNBt5ScRbY6a2FzzfKEefyJwEeRBgFDO97f_bEZXeeEaltcMJNnNhOK7Q3lFZrpPoT4hfqkT4F7MR0hfjqj_G_R0a8s1fPiEzqTU1eQ4qvYOFwr7wEmo7P1fF9D9RJlrD3r4SapoDHtEp2fOIhL-kIj4ygfwY7Vwhpbu5cYgjrQNyN7L40wQ&sp=n1info&u=n1info&session=e6ec35e2-496f-4e93-92eb-8a5aa9edf3c6&player=m3u8
+
+
 
 #EXTINF:0,TV Slovenija 1
 rtmp://109.206.96.209:1935/tvslovenija1_tv_38
