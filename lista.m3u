@@ -843,10 +843,25 @@ rtmp://109.206.96.209:1935/rai2_tv_247
 rtmp://109.206.96.209:1935/rai3_tv_247
 
 
+#EXTINF:0,cielo (vpn italia)
+https://skyanywhere3-i.akamaihd.net/hls/live/510693/cielo/stream2/streamPlaylist.m3u8
 
-
-
-
+#EXTINF:0,tgcom 24
+http://live1-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch10)/Stream(04)/index.m3u8
+#EXTINF:0,iris mediaset
+http://live1-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch06)/Stream(04)/index.m3u8
+#EXTINF:0,top crime
+http://live1-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch07)/Stream(04)/index.m3u8
+#EXTINF:0,mediaset extra
+http://live1-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch09)/Stream(04)/index.m3u8
+#EXTINF:0,la 5
+http://live1-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch04)/Stream(04)/index.m3u8
+#EXTINF:-1,rete 4
+http://live1-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch03)/Stream(04)/index.m3u8
+#EXTINF:-1,italia 1
+http://live1-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch02)/Stream(04)/index.m3u8
+#EXTINF:-1,italia 2
+http://live1-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch05)/Stream(04)/index.m3u8
 #EXTINF:-1,canale 5
 http://live1-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch01)/Stream(04)/index.m3u8
 
