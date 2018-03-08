@@ -25,9 +25,6 @@ http://851949745.e.929594662.r.pluscdn.com/929594662/_definst_/rtl2.stream/playl
 #EXTINF:0, RTL 2
 rtmp://130.117.45.5:1935/P929594662/_definst_/rtl2.stream
 
-#EXTINF:0,NOVA TV
-rtmp://109.206.96.209:1935/nova_tv_247
-
 #EXTINF:0,RTV Banovina
 rtmp://video.radio-banovina.hr/live/myStream
 
@@ -76,17 +73,6 @@ http://anglantennalive5-lh.akamaihd.net/i/live_1@424766/master.m3u8
 
 #EXTINF:-1,N1
 http://185.20.36.234:8080/stream?i=5NASdkA7imQ74SExK5xMGA&a=C2J-KsfDNkQ43uzstG1HaN69IIuhN8yyI7y66f5VFXyKNHJa4BWz0vNyVKDNmEDe7TCowHwegw-ti8G-IpqZY1SbsEvP6LLd9NXPkDaF1TpEzzRyQQVmwd5FNBt5ScRbY6a2FzzfKEefyJwEeRBgFDO97f_bEZXeeEaltcMJNnNhOK7Q3lFZrpPoT4hfqkT4F7MR0hfjqj_G_R0a8s1fPiEzqTU1eQ4qvYOFwr7wEmo7P1fF9D9RJlrD3r4SapoDHtEp2fOIhL-kIj4ygfwY7Vwhpbu5cYgjrQNyN7L40wQ&sp=n1info&u=n1info&session=e6ec35e2-496f-4e93-92eb-8a5aa9edf3c6&player=m3u8
-
-
-
-#EXTINF:0,TV Slovenija 1
-rtmp://109.206.96.209:1935/tvslovenija1_tv_38
-#EXTINF:0,TV Slovenija 2
-rtmp://109.206.96.209:1935/tvslovenija2_tv_38
-#EXTINF:0,TV Slovenija 3
-rtmp://109.206.96.209:1935/tvslovenija3_tv_38
-
-
 
 
 #EXTINF:-1,[COLOR green]---SPORTSKI PROGRAMI---[/COLOR]
@@ -147,15 +133,6 @@ http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8
 #EXTINF:-1,PAC-12 Bay Area
 http://p12b-lh.akamaihd.net/i/bayarea_delivery@429334/master.m3u8
 
-
-#EXTINF:-1,Winter Olympics Ch 1
-https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Winter_Olympic_Ch1/Winter_Olympic_Ch1_800.m3u8
-#EXTINF:-1,Winter Olympics Ch 2
-https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Winter_Olympic_Ch2/Winter_Olympic_Ch2_800.m3u8
-#EXTINF:-1,Winter Olympics Ch 3
-https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Winter_Olympic_Ch3/Winter_Olympic_Ch3_800.m3u8
-#EXTINF:-1,Winter Olympics Ch 4
-https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Winter_Olympic_Ch4/Winter_Olympic_Ch4_800.m3u8
 
 #EXTINF:-1,Extreme Sports
 http://91.149.172.100:80/channel?id=24&u=demo&p=demo
