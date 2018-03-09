@@ -75,15 +75,264 @@ http://anglantennalive5-lh.akamaihd.net/i/live_1@424766/master.m3u8
 http://185.20.36.234:8080/stream?i=5NASdkA7imQ74SExK5xMGA&a=C2J-KsfDNkQ43uzstG1HaN69IIuhN8yyI7y66f5VFXyKNHJa4BWz0vNyVKDNmEDe7TCowHwegw-ti8G-IpqZY1SbsEvP6LLd9NXPkDaF1TpEzzRyQQVmwd5FNBt5ScRbY6a2FzzfKEefyJwEeRBgFDO97f_bEZXeeEaltcMJNnNhOK7Q3lFZrpPoT4hfqkT4F7MR0hfjqj_G_R0a8s1fPiEzqTU1eQ4qvYOFwr7wEmo7P1fF9D9RJlrD3r4SapoDHtEp2fOIhL-kIj4ygfwY7Vwhpbu5cYgjrQNyN7L40wQ&sp=n1info&u=n1info&session=e6ec35e2-496f-4e93-92eb-8a5aa9edf3c6&player=m3u8
 
 
+
+#EXTINF:-1, ATV 
+http://185.93.1.41/atv/mpegts
+#EXTINF:-1, Kanal D 
+http://185.93.1.41/kanald/mpegts
+#EXTINF:-1, TRT1 
+http://185.93.1.41/trt1/mpegts
+#EXTINF:-1, VIVA 
+http://185.93.1.41/viva/mpegts
+#EXTINF:-1, FOX 
+http://185.93.1.41/fox/mpegts
+#EXTINF:-1, FOX life 
+http://185.93.1.41/foxlife/mpegts
+#EXTINF:-1, MTV 
+http://185.93.1.41/mtv/mpegts
+#EXTINF:-1, Prva Plus 
+http://185.93.1.41/prvaplus/mpegts
+#EXTINF:-1, RTRS 
+http://185.93.1.41/rtrs/mpegts
+#EXTINF:-1, RTS1 
+http://185.93.1.41/rts1/mpegts
+#EXTINF:-1, PINK3 
+http://185.93.1.41/pink3/mpegts
+#EXTINF:-1, PINK Kids 
+http://185.93.1.41/pinkkids/mpegts
+#EXTINF:-1, Pink Reality 
+http://185.93.1.41/pinkreality/mpegts
+#EXTINF:-1, SK2 
+http://185.93.1.41/sk2/mpegts
+#EXTINF:-1, Pink Action 
+http://185.93.1.41/pinkaction/mpegts
+#EXTINF:-1, Pink Comedy 
+http://185.93.1.41/pinkcomedy/mpegts
+#EXTINF:-1, Pink Romance 
+http://185.93.1.41/pinkromance/mpegts
+#EXTINF:-1, Pink Soar 
+http://185.93.1.41/pinksoap/mpegts
+#EXTINF:-1, Pink Thriller 
+http://185.93.1.41/pinkthriller/mpegts
+#EXTINF:-1, Cufo 
+http://185.93.1.41/cufo/mpegts
+#EXTINF:-1, Era TV 
+http://185.93.1.41/eratv/mpegts
+#EXTINF:-1, FOX Crime 
+http://185.93.1.41/foxcrime/mpegts
+#EXTINF:-1, KTV 
+http://185.93.1.41/ktv/mpegts
+#EXTINF:-1, NEWS24 
+http://185.93.1.41/news24/mpegts
+#EXTINF:-1, TOP Channel HD 
+http://185.93.1.41/topchannelhd/mpegts
+#EXTINF:-1, Balkanika
+http://185.93.1.41/balkanika/mpegts
+#EXTINF:-1, MyMusic 
+http://185.93.1.41/mymusic/mpegts
+#EXTINF:-1, Tring History 
+http://185.93.1.41/tringhistory/mpegts
+#EXTINF:-1, Tring Planet 
+http://185.93.1.41/tringplanet/mpegts
+#EXTINF:-1, Tring World 
+http://185.93.1.41/tringworld/mpegts
+#EXTINF:-1, Jolly HD 
+http://185.93.1.41/jollyhd/mpegts
+#EXTINF:-1, Tring Comedy 
+http://185.93.1.41/tringcomedy/mpegts
+#EXTINF:-1, Tring Fantasy 
+http://185.93.1.41/tringfantasy/mpegts
+#EXTINF:-1, Tring Life 
+http://185.93.1.41/tringlife/mpegts
+#EXTINF:-1, Tring Max 
+http://185.93.1.41/tringmax/mpegts
+#EXTINF:-1, Tring Shqip 
+http://185.93.1.41/tringshqip/mpegts
+#EXTINF:-1, Tring Super 
+http://185.93.1.41/tringsuper/mpegts
+#EXTINF:-1, HRT1 
+http://185.93.1.41/hrt1/mpegts
+#EXTINF:-1, HRT2 
+http://185.93.1.41/hrt2/mpegts
+#EXTINF:-1, HRT3 
+http://185.93.1.41/hrt3/mpegts
+#EXTINF:-1, HRT4 
+http://185.93.1.41/hrt4/mpegts
+#EXTINF:-1, MiniMax 
+http://185.93.1.41/minimax/mpegts
+#EXTINF:-1, CMC 
+http://185.93.1.41/cmc/mpegts
+#EXTINF:-1, Hayat PLUS 
+http://185.93.1.41/hayatplus/mpegts
+#EXTINF:-1, Hayat FOLK 
+http://185.93.1.41/hayatfolk/mpegts
+#EXTINF:-1, BN music 
+http://185.93.1.41/bnmusic/mpegts
+#EXTINF:-1, Hayat Music 
+http://185.93.1.41/hayatmusic/mpegts
+#EXTINF:-1, EB1 BiH 
+http://185.93.1.41/n1bih/mpegts
+#EXTINF:-1, TV1 
+http://185.93.1.41/tv1/mpegts
+#EXTINF:-1, Sitel3 
+http://185.93.1.41/sitel3/mpegts
+#EXTINF:-1, Telma 
+http://185.93.1.41/telma/mpegts
+#EXTINF:-1, RTCG 
+http://185.93.1.41/rtcg/mpegts
+#EXTINF:-1, SAT1 
+http://185.93.1.41/sat1/mpegts
+#EXTINF:-1, ZDF 
+http://185.93.1.41/zdf/mpegts
+#EXTINF:-1, OTV 
+http://185.93.1.41/otv/mpegts
+#EXTINF:-1, PeaceTV 
+http://185.93.1.41/peacetv/mpegts
+#EXTINF:-1, BN sat 
+http://185.93.1.41/bnsat/mpegts
+#EXTINF:-1, Pink Horor 
+http://185.93.1.41/pinkhoror/mpegts
+#EXTINF:-1, Kabel 1 
+http://185.93.1.41/kabel1/mpegts
+#EXTINF:-1, RTL 2 DE 
+http://185.93.1.41/rtl2de/mpegts
+#EXTINF:-1, KCN 3 
+http://185.93.1.41/kcn3/mpegts
+#EXTINF:-1, Pink Hits 2 
+http://185.93.1.41/pinkhits2/mpegts
+#EXTINF:-1, Pink Crime 
+http://185.93.1.41/pinkcrime/mpegts
+#EXTINF:-1, Pink Roll 
+http://185.93.1.41/pinkroll/mpegts
+#EXTINF:-1, SOS 
+http://185.93.1.41/sos/mpegts
+#EXTINF:-1, RTS SAT 
+http://185.93.1.41/rtssat/mpegts
+#EXTINF:-1, Pro7 
+http://185.93.1.41/pro7/mpegts
+#EXTINF:-1, TVT 
+http://185.93.1.41/tvt/mpegts
+#EXTINF:-1, Filmnje 
+http://185.93.1.41/filmnje/mpegts
+#EXTINF:-1, Hits 
+http://185.93.1.41/hits/mpegts
+#EXTINF:-1, Komedi 
+http://185.93.1.41/komedi/mpegts
+#EXTINF:-1, RAI 2 
+http://185.93.1.41/rai2/mpegts
+#EXTINF:-1, Hits 1 
+http://185.93.1.41/hits1/mpegts
+#EXTINF:-1, Thriller 
+http://185.93.1.41/thriller/mpegts
+#EXTINF:-1, Plus HD 
+http://185.93.1.41/plushd/mpegts
+#EXTINF:-1, Junior 
+http://185.93.1.41/junior/mpegts
+#EXTINF:-1, Natyra 
+http://185.93.1.41/natyra/mpegts
+#EXTINF:-1, Shkence 
+http://185.93.1.41/shkence/mpegts
+#EXTINF:-1, TVKlandD 
+http://185.93.1.41/tvklanhd/mpegts
+#EXTINF:-1, MRT 1 
+http://185.93.1.41/mrt1/mpegts
+#EXTINF:-1, TOP Sound 
+http://185.93.1.41/topsound/mpegts
+#EXTINF:-1, Duga 
+http://185.93.1.41/duga/mpegts
+#EXTINF:-1, Palma 
+http://185.93.1.41/palma/mpegts
+#EXTINF:-1, B92 info 
+http://185.93.1.41/b92info/mpegts
+#EXTINF:-1, AlfaMK 
+http://185.93.1.41/alfamk/mpegts
+#EXTINF:-1, 24 Vesti 
+http://185.93.1.41/24vesti/mpegts
+#EXTINF:-1, Disney 
+http://185.93.1.41/disney/mpegts
+#EXTINF:-1, Vojvodina 1 
+http://185.93.1.41/vojvodina1/mpegts
+#EXTINF:-1, KCN 2 
+http://185.93.1.41/kcn2/mpegts
+#EXTINF:-1, DM sat 
+http://185.93.1.41/dasmatv/mpegts
+#EXTINF:-1, RTK 2 
+http://185.93.1.41/rtk2/mpegts
+#EXTINF:-1, RTK 3 
+http://185.93.1.41/rtk3/mpegts
+#EXTINF:-1, RTK 5 
+http://185.93.1.41/rtk4/mpegts
+#EXTINF:-1, RTV 21 
+http://185.93.1.41/rtv21popullore/mpegts
+#EXTINF:-1, RTV Islam 
+http://185.93.1.41/rtvislam/mpegts
+#EXTINF:-1, TIPTV 
+http://185.93.1.41/tiptv/mpegts
+#EXTINF:-1, Smile 
+http://185.93.1.41/smile/mpegts
+#EXTINF:-1, Gold 
+http://185.93.1.41/gold/mpegts
+#EXTINF:-1, arena5 
+http://185.93.1.41/arena5/mpegts
+#EXTINF:-1, arena5 
+http://185.93.1.41/arena5/mpegts
+#EXTINF:-1, pinkhits2 
+http://185.152.65.129:8080/pinkhits2/mpegts
+#EXTINF:-1, pinkhits2 
+http://185.93.1.41/pinkhits2/mpegts
+#EXTINF:-1, pinkhits2 
+http://185.152.65.132:8080/pinkhits2/mpegts
+#EXTINF:-1, pinkhits2 
+http://185.93.1.41/pinkhits2/mpegts
+
+
+
 #EXTINF:-1,[COLOR green]---SPORTSKI PROGRAMI---[/COLOR]
 skip
 
-#EXTINF:-1,Sport Klub 1
-rtmp://109.206.96.209:1935/sk1_tv_247
-#EXTINF:-1,Sport Klub 2
-rtmp://109.206.96.209:1935/sk2_tv_247
-#EXTINF:-1,Sport Klub 3
-rtmp://109.206.96.209:1935/sk3_tv_247
+#EXTINF:1,ss1hd
+http://185.93.1.41/ss1hd/mpegts
+#EXTINF:1,ss2hd
+http://185.93.1.41/ss2hd/mpegts
+#EXTINF:1,ss3hd
+http://185.93.1.41/ss3hd/mpegts
+#EXTINF:1,ss4hd
+http://185.93.1.41/ss4hd/mpegts
+#EXTINF:1,ss5hd
+http://185.93.1.41/ss5hd/mpegts
+#EXTINF:1,ss6hd
+http://185.93.1.41/ss6hd/mpegts
+#EXTINF:1,ss1sd
+http://185.93.1.41/ss1sd/mpegts
+#EXTINF:1,ss2sd
+http://185.93.1.41/ss2sd/mpegts
+#EXTINF:1,ss3sd
+http://185.93.1.41/ss3sd/mpegts
+#EXTINF:1,ss4sd1
+http://185.93.1.41/ss4sd/mpegts
+
+#EXTINF:1,sport klub 1
+http://185.93.1.41/sk1/mpegts
+#EXTINF:1,sport klub 2
+http://185.93.1.41/sk2/mpegts
+#EXTINF:1,sport klub 3
+http://185.93.1.41/sk3/mpegts
+#EXTINF:1,sport klub 4
+http://185.93.1.41/sk4/mpegts
+#EXTINF:1,sport klub 5
+http://185.93.1.41/sk5/mpegts
+#EXTINF:1,/sport klub 6
+http://185.93.1.41/sk6/mpegts
+#EXTINF:1,Arena 1
+http://185.93.1.41/arena1/mpegts
+#EXTINF:1,Arena 2
+http://185.93.1.41/arena2/mpegts
+#EXTINF:1,Arena 3
+http://185.93.1.41/arena3/mpegts
+#EXTINF:1,Arena 4
+http://185.93.1.41/arena4/mpegts
+#EXTINF:1,Arena 5
+http://185.93.1.41/arena5/mpegts
 
 
 #EXTINF:-1,ARENA SPORT 1 
@@ -139,6 +388,21 @@ https://eventhlshttps-i.akamaihd.net/hls/live/263645/ssn-hd-https/indexvideo-340
 #EXTINF:-1,Extreme Sports
 http://91.149.172.100:80/channel?id=24&u=demo&p=demo
 
+#EXTINF:1,BeinSport1
+http://185.93.1.41/sportspecial1/mpegts
+#EXTINF:1,BeinSport2
+http://185.93.1.41/sportspecial2/mpegts
+#EXTINF:1,BeinSport3
+http://185.93.1.41/sportspecial3/mpegts
+#EXTINF:1,BeinSport4
+http://185.93.1.41/sportspecial4/mpegts
+
+
+#EXTINF:1,Eurosport1
+http://185.93.1.41/eurosport1/mpegts
+#EXTINF:1,Eurosport2
+http://185.93.1.41/eurosport2/mpegts
+
 
 #EXTINF:0,Eurosport 1
 rtmp://109.206.96.209:1935/eurosport1_tv
@@ -170,10 +434,126 @@ http://188.40.113.140:86/m3u8/webdiemasport_web.m3u8
 #EXTINF:-1,diema sport 2
 http://188.40.113.140:86/m3u8/webdiemasport2_web.m3u8
 
+#EXTINF:1,xsport
+http://83.142.232.246:1935/live/efir_live720p/playlist.m3u8
 
 
-
-
+#EXTINF:-1,Viasat Golf
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/59/index.m3u8
+#EXTINF:-1,Match
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/200/index.m3u8
+#EXTINF:-1,Match HD
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/113/index.m3u8
+#EXTINF:-1,m Arena
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/1/index.m3u8
+#EXTINF:-1,m Arena HD
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/289/index.m3u8
+#EXTINF:-1,m Igra
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/3/index.m3u8
+#EXTINF:-1,m Igra HD
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/287/index.m3u8
+#EXTINF:-1,m Nash sport
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/4/index.m3u8
+#EXTINF:-1,m Planeta
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/258/index.m3u8
+#EXTINF:-1,m Futbol 1
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/5/index.m3u8
+#EXTINF:-1,m Futbol 1 HD
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/29/index.m3u8
+#EXTINF:-1,m Futbol 2
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/6/index.m3u8
+#EXTINF:-1,m Futbol 3
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/7/index.m3u8
+#EXTINF:-1,m Futbol 3 HD
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/24/index.m3u8
+#EXTINF:-1,Hash Futbol
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/13/index.m3u8
+#EXTINF:-1,Nash Futbol HD
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/25/index.m3u8
+#EXTINF:-1,Football 1 HD ua
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/867/index.m3u8
+#EXTINF:-1,Football 2 HD ua
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/868/index.m3u8
+#EXTINF:-1,Eurosport 1 HD
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/159/index.m3u8
+#EXTINF:-1,Eurosport 2 Russia HD
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/77/index.m3u8
+#EXTINF:-1,Viasat Sport East
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/45/index.m3u8
+#EXTINF:-1,m Boes
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/2/index.m3u8
+#EXTINF:-1,Extreme Sports Channel
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/47/index.m3u8
+#EXTINF:-1,Viasat Sport East HD
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/75/index.m3u8
+#EXTINF:-1,Viasat Sport East HD
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/76/index.m3u8
+#EXTINF:-1,Eurosport 2 Russia HD
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/78/index.m3u8
+#EXTINF:-1,Konniy mir HD
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/112/index.m3u8
+#EXTINF:-1,Eurosport 1 HD
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/160/index.m3u8
+#EXTINF:-1,Eurosport 1 Russia
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/175/index.m3u8
+#EXTINF:-1,Avto plus
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/248/index.m3u8
+#EXTINF:-1,Sport 1 HD Deutschland
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/453/index.m3u8
+#EXTINF:-1,Sky Sport News Deutschland
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/460/index.m3u8
+#EXTINF:-1,Eurosport 2 HD
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/471/index.m3u8
+#EXTINF:-1,Eurosport 2 HD
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/472/index.m3u8
+#EXTINF:-1,Sky Sport Austria HD
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/475/index.m3u8
+#EXTINF:-1,Rai Sport
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/528/index.m3u8
+#EXTINF:-1,beIN Sports España HD
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/566/index.m3u8
+#EXTINF:-1,beIN LaLiga HD
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/574/index.m3u8
+#EXTINF:-1,M. Futbol HD
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/575/index.m3u8
+#EXTINF:-1,LaLiga TV Bar HD
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/581/index.m3u8
+#EXTINF:-1,M. Formula 1 HD
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/612/index.m3u8
+#EXTINF:-1,Movistar MotoGP HD
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/613/index.m3u8
+#EXTINF:-1,Automoto TV
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/635/index.m3u8
+#EXTINF:-1,EuroSport 1 Deutschland
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/682/index.m3u8
+#EXTINF:-1,EuroSport 1 Deutschland HD
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/704/index.m3u8
+#EXTINF:-1,Sky Champions
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/724/index.m3u8
+#EXTINF:-1,Sky Sport Bundesliga 1
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/725/index.m3u8
+#EXTINF:-1,Sky Sport 2 HD Deutschland
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/733/index.m3u8
+#EXTINF:-1,Sky Sport 1 HD Deutschland
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/737/index.m3u8
+#EXTINF:-1,Sport 1 Deutschland
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/774/index.m3u8
+#EXTINF:-1,M4 Sport HD Europa
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/864/index.m3u8
+#EXTINF:-1,Eurosport 1 HD Polska
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/891/index.m3u8
+#EXTINF:-1,Eurosport 1 Polska
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/895/index.m3u8
+#EXTINF:-1,Eurosport 1 Polska
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/896/index.m3u8
+#EXTINF:-1,beIN SPORTS HD
+http://playlist.onlybest.tv/en/channel/5dda7fe337281595bf436bc8592891be/566/index.m3u8
+#EXTINF:-1,beIN La Liga HD
+http://playlist.onlybest.tv/en/channel/5dda7fe337281595bf436bc8592891be/574/index.m3u8
+#EXTINF:-1,LaLiga HD
+http://playlist.onlybest.tv/en/channel/5dda7fe337281595bf436bc8592891be/581/index.m3u8
+#EXTINF:-1,Movistar Futbol HD
+http://playlist.onlybest.tv/en/channel/5dda7fe337281595bf436bc8592891be/575/index.m3u8
 
 
 
@@ -1529,8 +1909,7 @@ skip
 
 
 
-#EXTINF:-1,Brazzers TV Europe
-http://79.133.111.103:34040/udp/239.191.254.170:15285
+
 #EXTINF:-1,BRAZZERS TV 18+
 http://91.203.208.77:3371/udp/239.195.2.4:1234
 #EXTINF:-1,PLAYBOY TV
@@ -1539,8 +1918,6 @@ http://91.203.208.77:3371/udp/239.195.2.5:1234
 http://37.194.183.113:81/udp/239.1.6.39:1234
 #EXTINF:-1,Playboy TV
 http://91.203.208.65:3371/udp/239.195.2.5:1234
-#EXTINF:-1,Frenchlover
-http://79.133.111.103:34040/udp/239.191.254.251:15285
 #EXTINF:-1,Ночной Клуб
 http://37.194.183.113:81/udp/239.1.6.33:1234
 #EXTINF:-1,Ola-la
@@ -1578,6 +1955,68 @@ http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/266/inde
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/267/index.m3u8
 #EXTINF:-1,Hustler HD
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/502/index.m3u8
+
+
+#EXTINF:-1,XXX: 1
+rtmp://all1.noips.info:53/UfkFxz7pWY3N6jVJ/sextwo
+#EXTINF:-1,XXX: 2
+rtmp://all1.noips.info:53/UfkFxz7pWY3N6jVJ/sexthree
+#EXTINF:-1,XXX: 3
+rtmp://all1.noips.info:53/UfkFxz7pWY3N6jVJ/hustler
+#EXTINF:-1,XXX: 5
+rtmp://all1.noips.info:53/UfkFxz7pWY3N6jVJ/sexfour
+#EXTINF:-1,XXX: 6
+rtmp://all1.noips.info:53/UfkFxz7pWY3N6jVJ/sexfive
+#EXTINF:-1,XXX: 7
+rtmp://all1.noips.info:53/UfkFxz7pWY3N6jVJ/sexsix
+#EXTINF:-1,XXX: 8
+rtmp://all1.noips.info:53/UfkFxz7pWY3N6jVJ/sexgreece
+#EXTINF:-1,XXX: 9
+rtmp://all1.noips.info:53/UfkFxz7pWY3N6jVJ/sex_french_lover
+#EXTINF:-1,XXX: 10
+rtmp://all1.noips.info:53/UfkFxz7pWY3N6jVJ/SCTHD
+#EXTINF:-1,XXX: 11
+rtmp://all1.noips.info:53/UfkFxz7pWY3N6jVJ/sexone
+#EXTINF:-1,XXX: 12
+rtmp://all1.noips.info:53/UfkFxz7pWY3N6jVJ/HustlerHD
+#EXTINF:-1,XXX: 13
+rtmp://all1.noips.info:53/UfkFxz7pWY3N6jVJ/HustlerHD2
+#EXTINF:-1,XXX: 14
+rtmp://all1.noips.info:53/UfkFxz7pWY3N6jVJ/SCTHQ
+#EXTINF:-1,XXX: 15
+rtmp://all1.noips.info:53/UfkFxz7pWY3N6jVJ/sexp
+#EXTINF:-1,XXX: 16
+rtmp://all1.noips.info:53/UfkFxz7pWY3N6jVJ/Redlights
+#EXTINF:-1,XXX: 17
+rtmp://all1.noips.info:53/UfkFxz7pWY3N6jVJ/SCT7
+#EXTINF:-1,XXX: 18
+rtmp://all1.noips.info:53/UfkFxz7pWY3N6jVJ/SCT4
+#EXTINF:-1,XXX: 19
+rtmp://all1.noips.info:53/UfkFxz7pWY3N6jVJ/Playboy
+#EXTINF:-1,XXX: 20
+rtmp://all1.noips.info:53/UfkFxz7pWY3N6jVJ/SCT5
+
+#EXTINF:1,Erotic1
+http://185.93.1.41/erotic1/mpegts
+#EXTINF:1,Erotic2
+http://185.93.1.41/erotic2/mpegts
+#EXTINF:1,Erotic3
+http://185.93.1.41/erotic3/mpegts
+#EXTINF:1,Erotic4
+http://185.93.1.41/erotic4/mpegts
+#EXTINF:1,Erotic5
+http://185.93.1.41/erotic5/mpegts
+#EXTINF:1,X1
+http://185.93.1.41/x1/mpegts
+#EXTINF:1,X2
+http://185.93.1.41/x2/mpegts
+#EXTINF:1,X3
+http://185.93.1.41/x3/mpegts
+#EXTINF:1,X4
+http://185.93.1.41/x4/mpegts
+#EXTINF:1,X5
+http://185.93.1.41/x5/mpegts
+
 
 
 
