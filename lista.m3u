@@ -76,263 +76,15 @@ http://185.20.36.234:8080/stream?i=5NASdkA7imQ74SExK5xMGA&a=C2J-KsfDNkQ43uzstG1H
 
 
 
-#EXTINF:-1, ATV 
-http://185.93.1.41/atv/mpegts
-#EXTINF:-1, Kanal D 
-http://185.93.1.41/kanald/mpegts
-#EXTINF:-1, TRT1 
-http://185.93.1.41/trt1/mpegts
-#EXTINF:-1, VIVA 
-http://185.93.1.41/viva/mpegts
-#EXTINF:-1, FOX 
-http://185.93.1.41/fox/mpegts
-#EXTINF:-1, FOX life 
-http://185.93.1.41/foxlife/mpegts
-#EXTINF:-1, MTV 
-http://185.93.1.41/mtv/mpegts
-#EXTINF:-1, Prva Plus 
-http://185.93.1.41/prvaplus/mpegts
-#EXTINF:-1, RTRS 
-http://185.93.1.41/rtrs/mpegts
-#EXTINF:-1, RTS1 
-http://185.93.1.41/rts1/mpegts
-#EXTINF:-1, PINK3 
-http://185.93.1.41/pink3/mpegts
-#EXTINF:-1, PINK Kids 
-http://185.93.1.41/pinkkids/mpegts
-#EXTINF:-1, Pink Reality 
-http://185.93.1.41/pinkreality/mpegts
-#EXTINF:-1, SK2 
-http://185.93.1.41/sk2/mpegts
-#EXTINF:-1, Pink Action 
-http://185.93.1.41/pinkaction/mpegts
-#EXTINF:-1, Pink Comedy 
-http://185.93.1.41/pinkcomedy/mpegts
-#EXTINF:-1, Pink Romance 
-http://185.93.1.41/pinkromance/mpegts
-#EXTINF:-1, Pink Soar 
-http://185.93.1.41/pinksoap/mpegts
-#EXTINF:-1, Pink Thriller 
-http://185.93.1.41/pinkthriller/mpegts
-#EXTINF:-1, Cufo 
-http://185.93.1.41/cufo/mpegts
-#EXTINF:-1, Era TV 
-http://185.93.1.41/eratv/mpegts
-#EXTINF:-1, FOX Crime 
-http://185.93.1.41/foxcrime/mpegts
-#EXTINF:-1, KTV 
-http://185.93.1.41/ktv/mpegts
-#EXTINF:-1, NEWS24 
-http://185.93.1.41/news24/mpegts
-#EXTINF:-1, TOP Channel HD 
-http://185.93.1.41/topchannelhd/mpegts
-#EXTINF:-1, Balkanika
-http://185.93.1.41/balkanika/mpegts
-#EXTINF:-1, MyMusic 
-http://185.93.1.41/mymusic/mpegts
-#EXTINF:-1, Tring History 
-http://185.93.1.41/tringhistory/mpegts
-#EXTINF:-1, Tring Planet 
-http://185.93.1.41/tringplanet/mpegts
-#EXTINF:-1, Tring World 
-http://185.93.1.41/tringworld/mpegts
-#EXTINF:-1, Jolly HD 
-http://185.93.1.41/jollyhd/mpegts
-#EXTINF:-1, Tring Comedy 
-http://185.93.1.41/tringcomedy/mpegts
-#EXTINF:-1, Tring Fantasy 
-http://185.93.1.41/tringfantasy/mpegts
-#EXTINF:-1, Tring Life 
-http://185.93.1.41/tringlife/mpegts
-#EXTINF:-1, Tring Max 
-http://185.93.1.41/tringmax/mpegts
-#EXTINF:-1, Tring Shqip 
-http://185.93.1.41/tringshqip/mpegts
-#EXTINF:-1, Tring Super 
-http://185.93.1.41/tringsuper/mpegts
-#EXTINF:-1, HRT1 
-http://185.93.1.41/hrt1/mpegts
-#EXTINF:-1, HRT2 
-http://185.93.1.41/hrt2/mpegts
-#EXTINF:-1, HRT3 
-http://185.93.1.41/hrt3/mpegts
-#EXTINF:-1, HRT4 
-http://185.93.1.41/hrt4/mpegts
-#EXTINF:-1, MiniMax 
-http://185.93.1.41/minimax/mpegts
-#EXTINF:-1, CMC 
-http://185.93.1.41/cmc/mpegts
-#EXTINF:-1, Hayat PLUS 
-http://185.93.1.41/hayatplus/mpegts
-#EXTINF:-1, Hayat FOLK 
-http://185.93.1.41/hayatfolk/mpegts
-#EXTINF:-1, BN music 
-http://185.93.1.41/bnmusic/mpegts
-#EXTINF:-1, Hayat Music 
-http://185.93.1.41/hayatmusic/mpegts
-#EXTINF:-1, EB1 BiH 
-http://185.93.1.41/n1bih/mpegts
-#EXTINF:-1, TV1 
-http://185.93.1.41/tv1/mpegts
-#EXTINF:-1, Sitel3 
-http://185.93.1.41/sitel3/mpegts
-#EXTINF:-1, Telma 
-http://185.93.1.41/telma/mpegts
-#EXTINF:-1, RTCG 
-http://185.93.1.41/rtcg/mpegts
-#EXTINF:-1, SAT1 
-http://185.93.1.41/sat1/mpegts
-#EXTINF:-1, ZDF 
-http://185.93.1.41/zdf/mpegts
-#EXTINF:-1, OTV 
-http://185.93.1.41/otv/mpegts
-#EXTINF:-1, PeaceTV 
-http://185.93.1.41/peacetv/mpegts
-#EXTINF:-1, BN sat 
-http://185.93.1.41/bnsat/mpegts
-#EXTINF:-1, Pink Horor 
-http://185.93.1.41/pinkhoror/mpegts
-#EXTINF:-1, Kabel 1 
-http://185.93.1.41/kabel1/mpegts
-#EXTINF:-1, RTL 2 DE 
-http://185.93.1.41/rtl2de/mpegts
-#EXTINF:-1, KCN 3 
-http://185.93.1.41/kcn3/mpegts
-#EXTINF:-1, Pink Hits 2 
-http://185.93.1.41/pinkhits2/mpegts
-#EXTINF:-1, Pink Crime 
-http://185.93.1.41/pinkcrime/mpegts
-#EXTINF:-1, Pink Roll 
-http://185.93.1.41/pinkroll/mpegts
-#EXTINF:-1, SOS 
-http://185.93.1.41/sos/mpegts
-#EXTINF:-1, RTS SAT 
-http://185.93.1.41/rtssat/mpegts
-#EXTINF:-1, Pro7 
-http://185.93.1.41/pro7/mpegts
-#EXTINF:-1, TVT 
-http://185.93.1.41/tvt/mpegts
-#EXTINF:-1, Filmnje 
-http://185.93.1.41/filmnje/mpegts
-#EXTINF:-1, Hits 
-http://185.93.1.41/hits/mpegts
-#EXTINF:-1, Komedi 
-http://185.93.1.41/komedi/mpegts
-#EXTINF:-1, RAI 2 
-http://185.93.1.41/rai2/mpegts
-#EXTINF:-1, Hits 1 
-http://185.93.1.41/hits1/mpegts
-#EXTINF:-1, Thriller 
-http://185.93.1.41/thriller/mpegts
-#EXTINF:-1, Plus HD 
-http://185.93.1.41/plushd/mpegts
-#EXTINF:-1, Junior 
-http://185.93.1.41/junior/mpegts
-#EXTINF:-1, Natyra 
-http://185.93.1.41/natyra/mpegts
-#EXTINF:-1, Shkence 
-http://185.93.1.41/shkence/mpegts
-#EXTINF:-1, TVKlandD 
-http://185.93.1.41/tvklanhd/mpegts
-#EXTINF:-1, MRT 1 
-http://185.93.1.41/mrt1/mpegts
-#EXTINF:-1, TOP Sound 
-http://185.93.1.41/topsound/mpegts
-#EXTINF:-1, Duga 
-http://185.93.1.41/duga/mpegts
-#EXTINF:-1, Palma 
-http://185.93.1.41/palma/mpegts
-#EXTINF:-1, B92 info 
-http://185.93.1.41/b92info/mpegts
-#EXTINF:-1, AlfaMK 
-http://185.93.1.41/alfamk/mpegts
-#EXTINF:-1, 24 Vesti 
-http://185.93.1.41/24vesti/mpegts
-#EXTINF:-1, Disney 
-http://185.93.1.41/disney/mpegts
-#EXTINF:-1, Vojvodina 1 
-http://185.93.1.41/vojvodina1/mpegts
-#EXTINF:-1, KCN 2 
-http://185.93.1.41/kcn2/mpegts
-#EXTINF:-1, DM sat 
-http://185.93.1.41/dasmatv/mpegts
-#EXTINF:-1, RTK 2 
-http://185.93.1.41/rtk2/mpegts
-#EXTINF:-1, RTK 3 
-http://185.93.1.41/rtk3/mpegts
-#EXTINF:-1, RTK 5 
-http://185.93.1.41/rtk4/mpegts
-#EXTINF:-1, RTV 21 
-http://185.93.1.41/rtv21popullore/mpegts
-#EXTINF:-1, RTV Islam 
-http://185.93.1.41/rtvislam/mpegts
-#EXTINF:-1, TIPTV 
-http://185.93.1.41/tiptv/mpegts
-#EXTINF:-1, Smile 
-http://185.93.1.41/smile/mpegts
-#EXTINF:-1, Gold 
-http://185.93.1.41/gold/mpegts
-#EXTINF:-1, arena5 
-http://185.93.1.41/arena5/mpegts
-#EXTINF:-1, arena5 
-http://185.93.1.41/arena5/mpegts
-#EXTINF:-1, pinkhits2 
-http://185.152.65.129:8080/pinkhits2/mpegts
-#EXTINF:-1, pinkhits2 
-http://185.93.1.41/pinkhits2/mpegts
-#EXTINF:-1, pinkhits2 
-http://185.152.65.132:8080/pinkhits2/mpegts
-#EXTINF:-1, pinkhits2 
-http://185.93.1.41/pinkhits2/mpegts
+
 
 
 
 #EXTINF:-1,[COLOR green]---SPORTSKI PROGRAMI---[/COLOR]
 skip
 
-#EXTINF:1,ss1hd
-http://185.93.1.41/ss1hd/mpegts
-#EXTINF:1,ss2hd
-http://185.93.1.41/ss2hd/mpegts
-#EXTINF:1,ss3hd
-http://185.93.1.41/ss3hd/mpegts
-#EXTINF:1,ss4hd
-http://185.93.1.41/ss4hd/mpegts
-#EXTINF:1,ss5hd
-http://185.93.1.41/ss5hd/mpegts
-#EXTINF:1,ss6hd
-http://185.93.1.41/ss6hd/mpegts
-#EXTINF:1,ss1sd
-http://185.93.1.41/ss1sd/mpegts
-#EXTINF:1,ss2sd
-http://185.93.1.41/ss2sd/mpegts
-#EXTINF:1,ss3sd
-http://185.93.1.41/ss3sd/mpegts
-#EXTINF:1,ss4sd1
-http://185.93.1.41/ss4sd/mpegts
 
-#EXTINF:1,sport klub 1
-http://185.93.1.41/sk1/mpegts
-#EXTINF:1,sport klub 2
-http://185.93.1.41/sk2/mpegts
-#EXTINF:1,sport klub 3
-http://185.93.1.41/sk3/mpegts
-#EXTINF:1,sport klub 4
-http://185.93.1.41/sk4/mpegts
-#EXTINF:1,sport klub 5
-http://185.93.1.41/sk5/mpegts
-#EXTINF:1,/sport klub 6
-http://185.93.1.41/sk6/mpegts
-#EXTINF:1,Arena 1
-http://185.93.1.41/arena1/mpegts
-#EXTINF:1,Arena 2
-http://185.93.1.41/arena2/mpegts
-#EXTINF:1,Arena 3
-http://185.93.1.41/arena3/mpegts
-#EXTINF:1,Arena 4
-http://185.93.1.41/arena4/mpegts
-#EXTINF:1,Arena 5
-http://185.93.1.41/arena5/mpegts
+
 
 
 #EXTINF:-1,ARENA SPORT 1 
@@ -387,15 +139,6 @@ https://eventhlshttps-i.akamaihd.net/hls/live/263645/ssn-hd-https/indexvideo-340
 
 #EXTINF:-1,Extreme Sports
 http://91.149.172.100:80/channel?id=24&u=demo&p=demo
-
-#EXTINF:1,BeinSport1
-http://185.93.1.41/sportspecial1/mpegts
-#EXTINF:1,BeinSport2
-http://185.93.1.41/sportspecial2/mpegts
-#EXTINF:1,BeinSport3
-http://185.93.1.41/sportspecial3/mpegts
-#EXTINF:1,BeinSport4
-http://185.93.1.41/sportspecial4/mpegts
 
 
 #EXTINF:1,Eurosport1
@@ -1996,26 +1739,7 @@ rtmp://all1.noips.info:53/UfkFxz7pWY3N6jVJ/Playboy
 #EXTINF:-1,XXX: 20
 rtmp://all1.noips.info:53/UfkFxz7pWY3N6jVJ/SCT5
 
-#EXTINF:1,Erotic1
-http://185.93.1.41/erotic1/mpegts
-#EXTINF:1,Erotic2
-http://185.93.1.41/erotic2/mpegts
-#EXTINF:1,Erotic3
-http://185.93.1.41/erotic3/mpegts
-#EXTINF:1,Erotic4
-http://185.93.1.41/erotic4/mpegts
-#EXTINF:1,Erotic5
-http://185.93.1.41/erotic5/mpegts
-#EXTINF:1,X1
-http://185.93.1.41/x1/mpegts
-#EXTINF:1,X2
-http://185.93.1.41/x2/mpegts
-#EXTINF:1,X3
-http://185.93.1.41/x3/mpegts
-#EXTINF:1,X4
-http://185.93.1.41/x4/mpegts
-#EXTINF:1,X5
-http://185.93.1.41/x5/mpegts
+
 
 
 
