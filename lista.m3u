@@ -75,7 +75,14 @@ http://anglantennalive5-lh.akamaihd.net/i/live_1@424766/master.m3u8
 http://185.20.36.234:8080/stream?i=5NASdkA7imQ74SExK5xMGA&a=C2J-KsfDNkQ43uzstG1HaN69IIuhN8yyI7y66f5VFXyKNHJa4BWz0vNyVKDNmEDe7TCowHwegw-ti8G-IpqZY1SbsEvP6LLd9NXPkDaF1TpEzzRyQQVmwd5FNBt5ScRbY6a2FzzfKEefyJwEeRBgFDO97f_bEZXeeEaltcMJNnNhOK7Q3lFZrpPoT4hfqkT4F7MR0hfjqj_G_R0a8s1fPiEzqTU1eQ4qvYOFwr7wEmo7P1fF9D9RJlrD3r4SapoDHtEp2fOIhL-kIj4ygfwY7Vwhpbu5cYgjrQNyN7L40wQ&sp=n1info&u=n1info&session=e6ec35e2-496f-4e93-92eb-8a5aa9edf3c6&player=m3u8
 
 
-
+#EXTINF:-1,HRT 1
+http://185.174.208.12:10013
+#EXTINF:-1,FOX MOVIES (EN-MK)
+http://185.174.208.12:10011
+#EXTINF:-1,TLC (EN-AL-HR)
+http://185.174.208.12:10012
+#EXTINF:-1,FOX (AL)
+http://185.174.208.12:10010
 
 
 
@@ -141,10 +148,10 @@ https://eventhlshttps-i.akamaihd.net/hls/live/263645/ssn-hd-https/indexvideo-340
 http://91.149.172.100:80/channel?id=24&u=demo&p=demo
 
 
-#EXTINF:1,Eurosport1
-http://185.93.1.41/eurosport1/mpegts
-#EXTINF:1,Eurosport2
-http://185.93.1.41/eurosport2/mpegts
+
+#EXTINF:-1,EUROSPORT (EN)
+http://185.174.208.12:10014
+
 
 
 #EXTINF:0,Eurosport 1
@@ -166,6 +173,13 @@ http://195.206.253.157:8001/eurosport2hd
 
 #EXTINF:-1,silk sport
 http://188.93.94.138/silk_sport4/index.m3u8
+
+#EXTINF:-1,SILK SPORT 1
+http://31.146.176.210:8080/CHANNEL527/BITRATE0/playlist.m3u8
+#EXTINF:-1,SILK SPORT 2
+http://31.146.176.210:8080/CHANNEL532/BITRATE0/playlist.m3u8
+#EXTINF:-1,SILK SPORT 3
+http://31.146.176.210:8080/CHANNEL634/BITRATE0/playlist.m3u8
 
 
 #EXTINF:-1,boets
