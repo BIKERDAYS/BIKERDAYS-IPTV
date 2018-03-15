@@ -185,6 +185,14 @@ http://31.146.176.210:8080/CHANNEL634/BITRATE0/playlist.m3u8
 #EXTINF:-1,boets
 http://serv25.vintera.tv:8081/sport/boets1e/chunklist.m3u8
 
+#EXTINF:-1,fsports
+http://aovivo.futeboltv.com:8081/live/8/playlist.m3u8
+#EXTINF:-1,fsports
+http://aovivo.futeboltv.com:8081/live/3/playlist.m3u8
+#EXTINF:-1,fsports
+http://aovivo.futeboltv.com:8081/live/4/playlist.m3u8
+
+
 
 #EXTINF:-1,diema sport 1
 http://188.40.113.140:86/m3u8/webdiemasport_web.m3u8
