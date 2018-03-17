@@ -201,6 +201,11 @@ http://aovivo.futeboltv.com:8081/live/4/playlist.m3u8
 http://85.195.234.99:9981/stream/channelid/1225292884
 
 
+#EXTINF:0,Mtel Sport BG
+http://87.246.0.130/m3u8/webmtelsport_web.m3u8
+#EXTINF:0,Sport Plus HD BG
+http://87.246.0.130/m3u8/websportplus_web.m3u8
+
 #EXTINF:-1,diema sport 1
 http://188.40.113.140:86/m3u8/webdiemasport_web.m3u8
 #EXTINF:-1,diema sport 2
