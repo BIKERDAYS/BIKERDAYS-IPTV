@@ -84,7 +84,12 @@ http://185.174.208.12:10012
 #EXTINF:-1,FOX (AL)
 http://185.174.208.12:10010
 
-
+#EXTINF:-1,Top Channel
+http://5.135.92.130:36349/out/u/431_4.m3u8
+#EXTINF:-1,Klan Plus
+http://5.135.92.130:36349/out/u/106_1.m3u8
+#EXTINF:-1,Tv Klan
+http://5.135.92.130:36349/out/u/fnlkdfhhdgfdgag.m3u8
 
 
 #EXTINF:-1,[COLOR green]---SPORTSKI PROGRAMI---[/COLOR]
@@ -192,6 +197,8 @@ http://aovivo.futeboltv.com:8081/live/3/playlist.m3u8
 #EXTINF:-1,fsports
 http://aovivo.futeboltv.com:8081/live/4/playlist.m3u8
 
+#EXTINF:-1,Toros 
+http://85.195.234.99:9981/stream/channelid/1225292884
 
 
 #EXTINF:-1,diema sport 1
@@ -205,120 +212,147 @@ http://83.142.232.246:1935/live/efir_live720p/playlist.m3u8
 
 #EXTINF:-1,Viasat Golf
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/59/index.m3u8
+
 #EXTINF:-1,Match
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/200/index.m3u8
+
 #EXTINF:-1,Match HD
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/113/index.m3u8
+
 #EXTINF:-1,m Arena
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/1/index.m3u8
+
 #EXTINF:-1,m Arena HD
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/289/index.m3u8
+
 #EXTINF:-1,m Igra
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/3/index.m3u8
+
 #EXTINF:-1,m Igra HD
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/287/index.m3u8
+
 #EXTINF:-1,m Nash sport
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/4/index.m3u8
+
 #EXTINF:-1,m Planeta
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/258/index.m3u8
+
 #EXTINF:-1,m Futbol 1
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/5/index.m3u8
+
 #EXTINF:-1,m Futbol 1 HD
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/29/index.m3u8
+
 #EXTINF:-1,m Futbol 2
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/6/index.m3u8
+
 #EXTINF:-1,m Futbol 3
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/7/index.m3u8
+
 #EXTINF:-1,m Futbol 3 HD
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/24/index.m3u8
+
 #EXTINF:-1,Hash Futbol
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/13/index.m3u8
+
 #EXTINF:-1,Nash Futbol HD
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/25/index.m3u8
+
 #EXTINF:-1,Football 1 HD ua
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/867/index.m3u8
-#EXTINF:-1,Football 2 HD ua
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/868/index.m3u8
+
 #EXTINF:-1,Eurosport 1 HD
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/159/index.m3u8
+
 #EXTINF:-1,Eurosport 2 Russia HD
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/77/index.m3u8
+
 #EXTINF:-1,Viasat Sport East
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/45/index.m3u8
+
 #EXTINF:-1,m Boes
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/2/index.m3u8
+
 #EXTINF:-1,Extreme Sports Channel
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/47/index.m3u8
+
 #EXTINF:-1,Viasat Sport East HD
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/75/index.m3u8
+
 #EXTINF:-1,Viasat Sport East HD
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/76/index.m3u8
+
 #EXTINF:-1,Eurosport 2 Russia HD
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/78/index.m3u8
+
 #EXTINF:-1,Konniy mir HD
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/112/index.m3u8
+
 #EXTINF:-1,Eurosport 1 HD
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/160/index.m3u8
+
 #EXTINF:-1,Eurosport 1 Russia
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/175/index.m3u8
+
 #EXTINF:-1,Avto plus
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/248/index.m3u8
+
 #EXTINF:-1,Sport 1 HD Deutschland
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/453/index.m3u8
+
 #EXTINF:-1,Sky Sport News Deutschland
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/460/index.m3u8
-#EXTINF:-1,Eurosport 2 HD
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/471/index.m3u8
+
 #EXTINF:-1,Eurosport 2 HD
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/472/index.m3u8
+
 #EXTINF:-1,Sky Sport Austria HD
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/475/index.m3u8
+
 #EXTINF:-1,Rai Sport
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/528/index.m3u8
+
 #EXTINF:-1,beIN Sports España HD
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/566/index.m3u8
+
 #EXTINF:-1,beIN LaLiga HD
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/574/index.m3u8
+
 #EXTINF:-1,M. Futbol HD
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/575/index.m3u8
-#EXTINF:-1,LaLiga TV Bar HD
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/581/index.m3u8
+
 #EXTINF:-1,M. Formula 1 HD
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/612/index.m3u8
+
 #EXTINF:-1,Movistar MotoGP HD
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/613/index.m3u8
+
 #EXTINF:-1,Automoto TV
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/635/index.m3u8
+
 #EXTINF:-1,EuroSport 1 Deutschland
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/682/index.m3u8
-#EXTINF:-1,EuroSport 1 Deutschland HD
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/704/index.m3u8
+
 #EXTINF:-1,Sky Champions
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/724/index.m3u8
+
 #EXTINF:-1,Sky Sport Bundesliga 1
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/725/index.m3u8
+
 #EXTINF:-1,Sky Sport 2 HD Deutschland
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/733/index.m3u8
+
 #EXTINF:-1,Sky Sport 1 HD Deutschland
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/737/index.m3u8
+
 #EXTINF:-1,Sport 1 Deutschland
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/774/index.m3u8
+
 #EXTINF:-1,M4 Sport HD Europa
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/864/index.m3u8
-#EXTINF:-1,Eurosport 1 HD Polska
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/891/index.m3u8
+
 #EXTINF:-1,Eurosport 1 Polska
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/895/index.m3u8
-#EXTINF:-1,Eurosport 1 Polska
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/896/index.m3u8
-#EXTINF:-1,beIN SPORTS HD
-http://playlist.onlybest.tv/en/channel/5dda7fe337281595bf436bc8592891be/566/index.m3u8
-#EXTINF:-1,beIN La Liga HD
-http://playlist.onlybest.tv/en/channel/5dda7fe337281595bf436bc8592891be/574/index.m3u8
-#EXTINF:-1,LaLiga HD
-http://playlist.onlybest.tv/en/channel/5dda7fe337281595bf436bc8592891be/581/index.m3u8
-#EXTINF:-1,Movistar Futbol HD
-http://playlist.onlybest.tv/en/channel/5dda7fe337281595bf436bc8592891be/575/index.m3u8
 
 
 
@@ -337,9 +371,6 @@ http://a6ef665f.ottclub.mobi/iptv/DPGK2RFY6XHPHF/724/index.m3u8
 #EXTINF:-1,VH1 European
 http://a6ef665f.ottclub.mobi/iptv/DPGK2RFY6XHPHF/536/index.m3u8
 
-#EXTINF:-1,VH 1
-http://92.60.224.62:3014/udp/239.1.1.79:22079
-
 #EXTINF:0,MTV hits
 http://91.149.172.100:80/channel?id=140&u=demo&p=demo
 
@@ -351,15 +382,6 @@ http://91.149.172.100:80/channel?id=4&u=demo&p=demo
 
 #EXTINF:0,MTV (norg)
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
-
-#EXTINF:0,POLSAT MUSIC HD
-http://185.99.253.38:8002/play/a00p
-#EXTINF:0,4FUN GOLD HITS
-http://185.99.253.38:8002/play/a00m
-#EXTINF:0,4FUN DANCE
-http://185.99.253.38:8002/play/a00n
-#EXTINF:0,4FUN TV
-http://185.99.253.38:8002/play/a00l
 
 #EXTINF:0,play tv albania
 http://vtv.selfip.net:8080/live/playtv/playtv/1652.ts
@@ -415,8 +437,6 @@ http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/index_5_av-p.m3u8?sd=10&r
 #EXTINF:0,Kiss Tv Music
 rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
 
-
-
 #EXTINF:0,TOP CITY HITS
 http://nodeb.gocaster.net:1935/CGL/_definst_/mp4:TODAYFM_TEST2/stream.m3u8
 
@@ -425,9 +445,6 @@ http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/
 
 #EXTINF:-1,VibeeTV
 http://46.101.21.42:8081/live/live2/playlist.m3u8
-
-#EXTINF:-1,Hit TV
-http://tst.es.flash.glb.ipercast.net/tst.es-live/live/index.m3u8
 
 #EXTINF:-1, NRJ Hits Belgique
 rtsp://5.196.138.6:1935/live/nrjbelgique_360p
@@ -444,29 +461,11 @@ http://highvolume03.streampartner.nl:1935/vleugels_hd5/livestream/index.m3u8
 #EXTINF:0,XITE POP
 http://highvolume03.streampartner.nl:1935/vleugels_hd4/livestream/playlist.m3u8
 
-#EXTINF:-1,GO TV
-http://nstream17.gotv.at:1936/live/gotvlive_576p/playlist.m3u8
-
-#EXTINF:-1,HIHOP TV
-http://stream.cdn.smcloud.net/hiphoptv-p/stream1/playlist.m3u8
-
 #EXTINF:0,Bridge TV
 http://bl.webcaster.pro/media/start/free_9d6a8624a7702dddd15b6c4fbf272152_hd/65_91554723/6b805dbede42bab6bbb6c3b829e4a31b/4639979456.m3u8
 
-#EXTINF:0,BRIDGE TV DANCE
-http://93.91.113.8:9999/play/a09a
-
 #EXTINF:0,NRJ Hits 
 http://5.196.138.6:1935/live/nrjbelgique_720p/chunklist_w1562122761.m3u8
-
-#EXTINF:0, NR1 HD
-rtmp://mn-l.mncdn.com/birnumaramedya_live/nr1tv.sdp
-
-#EXTINF:0,Super Sonic TV
-http://str103.setplex.net:1935/228/stv_online/playlist.m3u8
-
-#EXTINF:0,RUSSIAN MUSIC BOX
-http://93.91.113.8:8080/Apple/RUSSIAN-MUSICBOX/.m3u8
 
 #EXTINF:-1,Music Box
 http://94.43.239.178:8080/CHANNEL470/BITRATE0/playlist.m3u8
@@ -494,9 +493,6 @@ http://rtmp.one.by:2300
 
 #EXTINF:0,RTI HD
 http://cdn.vsnw.net:8081/interradio/720i.m3u8
-
-#EXTINF:0,RU TV
-http://live.rmg.cdnvideo.ru/rmg/rmg.sdp/playlist.m3u8
 
 #EXTINF:-1,1 HD
 http://80.250.191.10:1935/live/hlsstream343/playlist.m3u8
@@ -569,6 +565,66 @@ http://flash2.streaming.xdevel.com/radiolineatv/radiolineatv/playlist.m3u8
 
 #EXTINF:-1,Radio Number One TV
 http://wma02.fluidstream.net/RN1TV/livestream/playlist.m3u8
+
+#EXTINF:-1,CALIFORNIA MUSIC CHANNEL
+http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8
+#EXTINF:-1,Capital TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_1500_av-b.m3u8
+#EXTINF:-1,Company Tv
+http://wma10.fluidstream.net/CompanyTV/_definst_/mp4:livestream_720p/playlist.m3u8
+#EXTINF:-1, FOX TV
+http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
+#EXTINF:-1, FRESH TV MUSIC
+http://wse.planeta-online.tv:1935/live/channel_4/playlist.m3u8
+#EXTINF:-1, Heart Tv
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
+#EXTINF:-1, Hit Music Channel
+http://1mstream.digicable.hu/hitmusic/hitmusic.m3u8
+#EXTINF:-1,Kiss Kiss Italia Tv
+http://wma05.fluidstream.net/KKTV01/livestream/playlist.m3u8
+#EXTINF:-1,Kiss Kiss Napoli Tv
+http://wma05.fluidstream.net/KKTVNapoli/livestream/playlist.m3u8
+#EXTINF:-1,Klik Tv
+http://92.62.234.201:2249/klik.flv
+#EXTINF:-1,MC Play
+http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
+#EXTINF:-1,Music Channel
+http://stream.1music.hu/stream/1music.m3u8
+#EXTINF:-1, MUSIX VOX TV
+http://stream.cdn.smcloud.net/vox2-p/stream1/playlist.m3u8
+#EXTINF:-1, O 2
+http://hls.mycdn0633430096.cdnvideo.ru/mycdn0633430096/stream1_sd.sdp/chunklist.m3u8
+#EXTINF:-1,POLO PARTY TV
+http://stream.cdn.smcloud.net/polo_party-t/polo_party_720p/playlist.m3u8
+#EXTINF:-1, Radio Contact Vision
+http://contact-lh.akamaihd.net/i/CONTACT_1@321283/index_1200_av-p.m3u8
+#EXTINF:-1,Radio Tv Azzurra Live
+http://188.165.224.142:1935/radiotivuazzurralive/radiotivuazzurralive/playlist.m3u8
+#EXTINF:-1,RADIO TV U
+http://cdn-live-egress.rbmtv.com/rightbrainmedia-live-109/mp4:radioutv_all/rightbrainmedia-live-109/radioutv1/chunks.m3u8
+#EXTINF:-1, Radio Universal Tv
+http://flash2.streaming.xdevel.com:80/radiouniversaltv/radiouniversaltv/playlist.m3u8
+#EXTINF:-1,RETRO MUSIC
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
+#EXTINF:-1,Rock Tv
+mmsh://mediatv2.topix.it/24RockOne66
+#EXTINF:-1,Rti Hd
+http://cdn.vsnw.net:8081/interradio/720i.m3u8
+#EXTINF:-1, Senzi
+http://109.74.144.130/live/senzihity/senzihity.m3u8
+#EXTINF:-1,THE COUNTRY NETWORK
+https://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/master.m3u8
+#EXTINF:-1,Vibeetv Music Pop
+http://46.101.21.42:8081/live/live2/playlist.m3u8
+#EXTINF:-1,Visual Radio Tv
+http://wms.shared.streamshow.it/visualradio/visualradio_mobile/playlist.m3u8
+#EXTINF:-1,VUEMME
+http://xvuemmetvx.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:-1, Xite
+http://highvolume03.streampartner.nl/vleugels_hd4/livestream/playlist.m3u8
+
+
+
 
 
 #EXTINF:-1,[COLOR green]--- FILMOVI+SERIJE ---[/COLOR] 
