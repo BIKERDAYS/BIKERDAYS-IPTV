@@ -171,17 +171,15 @@ https://eventhlshttps-i.akamaihd.net/hls/live/263645/ssn-hd-https/indexvideo-340
 #EXTINF:-1,Extreme Sports
 http://91.149.172.100:80/channel?id=24&u=demo&p=demo
 
-
-
+#EXTINF:0, hd super tennis
+http://93.123.65.3:9130/130
 #EXTINF:-1,EUROSPORT (EN)
 http://185.174.208.12:10014
+#EXTINF:0, eurosport 2 bl (srp)
+http://93.123.65.3:9146/146
+#EXTINF:0, hd sport+ bulgaria
+http://93.123.65.3:9262/262
 
-
-
-#EXTINF:0,Eurosport 1
-rtmp://109.206.96.209:1935/eurosport1_tv
-#EXTINF:0,Eurosport 2
-rtmp://109.206.96.209:1935/eurosport2_tv
 
 #EXTINF:-1,Eurosport 1 
 http://81.228.174.166:8003/eurosport1
