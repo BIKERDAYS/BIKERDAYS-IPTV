@@ -566,6 +566,9 @@ http://flash2.streaming.xdevel.com/radiolineatv/radiolineatv/playlist.m3u8
 #EXTINF:-1,Radio Number One TV
 http://wma02.fluidstream.net/RN1TV/livestream/playlist.m3u8
 
+#EXTINF:-1,MVTV
+http://www.evoiptv.com/hlsmvtv/hlsmvtv.m3u8
+
 #EXTINF:-1,CALIFORNIA MUSIC CHANNEL
 http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8
 #EXTINF:-1,Capital TV
