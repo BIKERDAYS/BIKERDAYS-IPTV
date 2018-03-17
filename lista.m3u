@@ -210,6 +210,20 @@ http://188.40.113.140:86/m3u8/webdiemasport2_web.m3u8
 http://83.142.232.246:1935/live/efir_live720p/playlist.m3u8
 
 
+#EXTINF: -1,BeinSports 1 Turquia
+https://edge.ambelbet.com/edge/601/playlist.m3u8
+#EXTINF: -1,BeinSports 2 Turquia
+https://edge.ambelbet.com/edge/602/playlist.m3u8
+#EXTINF: -1,BeinSports 3 Turquia
+https://edge.ambelbet.com/edge/603/playlist.m3u8
+#EXTINF: -1,tribu sport
+https://edge.ambelbet.com/edge/604/playlist.m3u8
+#EXTINF: -1,tivibu sport
+https://edge.ambelbet.com/edge/605/playlist.m3u8
+#EXTINF: -1,tivibu sport 3
+https://edge.ambelbet.com/edge/606/playlist.m3u8
+
+
 #EXTINF:-1,Viasat Golf
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/59/index.m3u8
 
