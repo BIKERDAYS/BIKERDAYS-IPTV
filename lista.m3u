@@ -118,6 +118,27 @@ http://31.220.0.196:8081/live/fx11sx/chunks.m3u8
 http://31.220.0.196:8081/live/fx2sx/chunks.m3u8
 
 
+#EXTINF:-1,SKY Sport 1 UK
+http://cdnv.cli.tn/iptv/ch922?code=610116485444847
+#EXTINF:-1,Sky Sport 2 UK
+http://cdnv.cli.tn/iptv/ch937?code=610116485444847
+#EXTINF:-1,SKY Sport 3 UK
+http://cdnv.cli.tn/iptv/ch914?code=610116485444847
+#EXTINF:-1,SKY Sport 4 UK
+http://cdnv.cli.tn/iptv/ch915?code=610116485444847
+#EXTINF:-1,SKY Sport 5 UK
+http://cdnv.cli.tn/iptv/ch916?code=610116485444847
+#EXTINF:-1,Sport Mix UK
+http://cdnv.cli.tn/iptv/ch931?code=610116485444847
+#EXTINF:-1,BT Sport 1
+http://cdnv.cli.tn/iptv/ch1828?code=610116485444847
+#EXTINF:-1,BT Sport 2
+http://cdnv.cli.tn/iptv/ch1829?code=610116485444847
+#EXTINF:-1,BT Sport Extra
+http://cdnv.cli.tn/iptv/ch1830?code=610116485444847
+
+
+
 #EXTINF:-1,ARENA SPORT 1 
 http://66.70.129.43:8080/Arena1-SRB/index.m3u8
 #EXTINF:-1,ARENA SPORT 2 
@@ -180,6 +201,8 @@ http://93.123.65.3:9146/146
 #EXTINF:0, hd sport+ bulgaria
 http://93.123.65.3:9262/262
 
+#EXTINF:-1,Eurosport 1
+http://86.82.79.91:8001/play/a00z
 
 #EXTINF:-1,Eurosport 1 
 http://81.228.174.166:8003/eurosport1
@@ -230,165 +253,6 @@ http://188.40.113.140:86/m3u8/webdiemasport2_web.m3u8
 
 #EXTINF:1,xsport
 http://83.142.232.246:1935/live/efir_live720p/playlist.m3u8
-
-
-#EXTINF: -1,BeinSports 1 Turquia
-https://edge.ambelbet.com/edge/601/playlist.m3u8
-#EXTINF: -1,BeinSports 2 Turquia
-https://edge.ambelbet.com/edge/602/playlist.m3u8
-#EXTINF: -1,BeinSports 3 Turquia
-https://edge.ambelbet.com/edge/603/playlist.m3u8
-#EXTINF: -1,tribu sport
-https://edge.ambelbet.com/edge/604/playlist.m3u8
-#EXTINF: -1,tivibu sport
-https://edge.ambelbet.com/edge/605/playlist.m3u8
-#EXTINF: -1,tivibu sport 3
-https://edge.ambelbet.com/edge/606/playlist.m3u8
-
-
-#EXTINF:-1,Viasat Golf
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/59/index.m3u8
-
-#EXTINF:-1,Match
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/200/index.m3u8
-
-#EXTINF:-1,Match HD
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/113/index.m3u8
-
-#EXTINF:-1,m Arena
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/1/index.m3u8
-
-#EXTINF:-1,m Arena HD
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/289/index.m3u8
-
-#EXTINF:-1,m Igra
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/3/index.m3u8
-
-#EXTINF:-1,m Igra HD
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/287/index.m3u8
-
-#EXTINF:-1,m Nash sport
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/4/index.m3u8
-
-#EXTINF:-1,m Planeta
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/258/index.m3u8
-
-#EXTINF:-1,m Futbol 1
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/5/index.m3u8
-
-#EXTINF:-1,m Futbol 1 HD
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/29/index.m3u8
-
-#EXTINF:-1,m Futbol 2
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/6/index.m3u8
-
-#EXTINF:-1,m Futbol 3
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/7/index.m3u8
-
-#EXTINF:-1,m Futbol 3 HD
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/24/index.m3u8
-
-#EXTINF:-1,Hash Futbol
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/13/index.m3u8
-
-#EXTINF:-1,Nash Futbol HD
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/25/index.m3u8
-
-#EXTINF:-1,Football 1 HD ua
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/867/index.m3u8
-
-#EXTINF:-1,Eurosport 1 HD
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/159/index.m3u8
-
-#EXTINF:-1,Eurosport 2 Russia HD
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/77/index.m3u8
-
-#EXTINF:-1,Viasat Sport East
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/45/index.m3u8
-
-#EXTINF:-1,m Boes
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/2/index.m3u8
-
-#EXTINF:-1,Extreme Sports Channel
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/47/index.m3u8
-
-#EXTINF:-1,Viasat Sport East HD
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/75/index.m3u8
-
-#EXTINF:-1,Viasat Sport East HD
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/76/index.m3u8
-
-#EXTINF:-1,Eurosport 2 Russia HD
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/78/index.m3u8
-
-#EXTINF:-1,Konniy mir HD
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/112/index.m3u8
-
-#EXTINF:-1,Eurosport 1 HD
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/160/index.m3u8
-
-#EXTINF:-1,Eurosport 1 Russia
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/175/index.m3u8
-
-#EXTINF:-1,Avto plus
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/248/index.m3u8
-
-#EXTINF:-1,Sport 1 HD Deutschland
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/453/index.m3u8
-
-#EXTINF:-1,Sky Sport News Deutschland
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/460/index.m3u8
-
-#EXTINF:-1,Eurosport 2 HD
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/472/index.m3u8
-
-#EXTINF:-1,Sky Sport Austria HD
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/475/index.m3u8
-
-#EXTINF:-1,Rai Sport
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/528/index.m3u8
-
-#EXTINF:-1,beIN Sports España HD
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/566/index.m3u8
-
-#EXTINF:-1,beIN LaLiga HD
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/574/index.m3u8
-
-#EXTINF:-1,M. Futbol HD
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/575/index.m3u8
-
-#EXTINF:-1,M. Formula 1 HD
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/612/index.m3u8
-
-#EXTINF:-1,Movistar MotoGP HD
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/613/index.m3u8
-
-#EXTINF:-1,Automoto TV
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/635/index.m3u8
-
-#EXTINF:-1,EuroSport 1 Deutschland
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/682/index.m3u8
-
-#EXTINF:-1,Sky Champions
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/724/index.m3u8
-
-#EXTINF:-1,Sky Sport Bundesliga 1
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/725/index.m3u8
-
-#EXTINF:-1,Sky Sport 2 HD Deutschland
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/733/index.m3u8
-
-#EXTINF:-1,Sky Sport 1 HD Deutschland
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/737/index.m3u8
-
-#EXTINF:-1,Sport 1 Deutschland
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/774/index.m3u8
-
-#EXTINF:-1,M4 Sport HD Europa
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/864/index.m3u8
-
-#EXTINF:-1,Eurosport 1 Polska
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/895/index.m3u8
 
 
 
