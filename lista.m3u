@@ -166,6 +166,20 @@ http://46.40.5.99:8000/arena_3_high
 http://46.40.5.99:8000/arena_4_high
 
 
+
+#EXTINF:-1, SPORT TV 1
+http://185.80.220.79:15214/streamM/CLANGj2Xof.stream/playlist.m3u8
+#EXTINF:-1,SPORT TV2
+http://185.80.220.79:15214/streamM/xZxIbGC9NR.stream/playlist.m3u8
+#EXTINF:-1,SPORT TV 2
+http://185.80.220.79:15214/streamM/0qZjb9kndn.stream/playlist.m3u8
+#EXTINF:-1,SPORT TV 3
+http://185.80.220.79:15214/streamM/0a6vDa0OYU.stream/playlist.m3u8
+#EXTINF:-1,SPORT TV
+http://185.80.220.79:15214/streamM/nnXWDzhPK1.stream/playlist.m3u8
+#EXTINF:-1,BENFICA TV 
+http://185.80.220.79:15214/streamM/9DOXhIxxsw.stream/playlist.m3u8
+
 #EXTINF:-1,Sportska TV
 http://wowza.h1telekom.hr:1935/sporttv/smil:sptv.smil/playlist.m3u8
 
