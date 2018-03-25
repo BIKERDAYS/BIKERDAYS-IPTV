@@ -275,8 +275,8 @@ http://83.142.232.246:1935/live/efir_live720p/playlist.m3u8
 skip
 
 
-#EXTINF:-1,VH1 European
-http://46.40.5.99:8000/vh1_high
+#EXTINF:-1,VH1European 
+http://164.132.136.176:8000/0205 
 
 
 #EXTINF:-1,Vh1 Classic
