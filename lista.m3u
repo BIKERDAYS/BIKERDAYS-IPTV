@@ -1186,32 +1186,89 @@ http://144.217.76.52:8080/LDC/mpegts
 #EXTINF:-1,[COLOR green]--- ŠPANJOLSKI PROGRAMI ---[/COLOR]
 skip
 
-
-#EXTINF:-1,Antena 3
-http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
-#EXTINF:-1,La Sexta
+#EXTINF:-1,LA SEXTA
 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
+#EXTINF:-1,M2O Music
+http://m2otv-lh.akamaihd.net:80/i/m2oTv_1@186074/index_600_av-b.m3u8
 #EXTINF:-1,MEGA
 http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8
-#EXTINF:-1,NEOX KIDS
+#EXTINF:-1,NEOX
 http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
+#EXTINF:-1,MEGA HD
+http://a3live-lh.akamaihd.net:80/i/mghds/geomega_1@328914/index_3_av-b.m3u8
+#EXTINF:-1,MEGA ESPANA
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_2_av-b.m3u8
+#EXTINF:-1,Neox HD
+http://a3live-lh.akamaihd.net:80/i/nxhds/geoneox_1@35261/index_4_av-b.m3u8
+#EXTINF:-1,NOVA HD
+http://a3live-lh.akamaihd.net:80/i/nvhds/geonova_1@379404/index_4_av-b.m3u8
+#EXTINF:-1,English: ANTENA 3 HD
+http://a3live-lh.akamaihd.net:80/i/antena3_1@35248/index_4_av-b.m3u8
+#EXTINF:-1,Spanish: Mega Tv – HD – ESP
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_3_av-b.m3u8
+#EXTINF:-1,English: Neox
+http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/index_1_av-p.m3u8
+#EXTINF:-1,Spanish: Neox – HD – ESP
+http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/index_4_av-b.m3u8
+#EXTINF:-1,English: Neox HD
+http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/index_3_av-b.m3u8
+#EXTINF:-1,MEGA
+http://a3live-lh.akamaihd.net:80/i/mghds/geomega_1@328914/index_4_av-b.m3u8
+#EXTINF:-1,N/A
+http://a3live-lh.akamaihd.net:80/i/nxhds/geoneox_1@35261/master.m3u8
+#EXTINF:-1,N/A
+http://a3live-lh.akamaihd.net:80/i/nvhds/geonova_1@379404/master.m3u8
+#EXTINF:-1,ESPANA NOVA HD
+http://a3live-lh.akamaihd.net:80/i/nvhds/geonova_1@379404/index_3_av-b.m3u8
+#EXTINF:-1,ESPANA NEOX KIDS
+http://a3live-lh.akamaihd.net:80/i/nxhds/geoneox_1@35261/index_3_av-b.m3u8
+#EXTINF:-1,ESPANA -MEGA
+http://a3live-lh.akamaihd.net:80/i/mghds/geomega_1@328914/index_2_av-b.m3u8
+#EXTINF:-1,ESPANA -ANTENA 3
+http://a3live-lh.akamaihd.net:80/i/antena3_1@35248/index_3_av-b.m3u8
+#EXTINF:-1,NOVA
+http://a3live-lh.akamaihd.net:80/i/nova/geonova_1@379404/index_3_av-p.m3u8
+#EXTINF:-1,Ocho TV (GDL)
+http://bcliveuniv-lh.akamaihd.net/i/Live_1@170324/master.m3u8
+#EXTINF:-1,AZTECA 13
+http://aztecalive-lh.akamaihd.net:80/i/0qm7cjvop_1@502476/index_1_av-p.m3u8
+#EXTINF:-1,Azteca 13
+http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
+#EXTINF:-1,TELEMUNDO
+http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/master.m3u8
+#EXTINF:-1,REAL MADRID TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8
+#EXTINF:-1,ANTENA3
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_2_av-b.m3u8
+#EXTINF:-1,CBN Espanol
+http://bcliveuniv-lh.akamaihd.net/i/iptv2_1@194050/master.m3u8
+#EXTINF:-1,Marti
+http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8
+#EXTINF:-1,ADN 40
+http://aztecalive-lh.akamaihd.net/i/0kus659k5_1@501884/master.m3u8
+#EXTINF:-1,ADN40
+http://aztecalive-lh.akamaihd.net/i/0kus659k5_1@501884/index_3_av-p.m3u8
+#EXTINF:-1,NOVA
+http://a3live-lh.akamaihd.net:80/i/nvhds/geonova_1@379404/index_1_av-b.m3u8
+#EXTINF:-1,MEGA
+http://a3live-lh.akamaihd.net:80/i/mghds/geomega_1@328914/index_1_av-p.m3u8
+#EXTINF:-1,MTV
+http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_4_av-p.m3u8
+#EXTINF:-1,NOVA
+http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_3_av-b.m3u8
+#EXTINF:-1,Atreseries
+http://a3live-lh.akamaihd.net:80/i/a3shds/geoa3series_1@122775/index_4_av-p.m3u8
+#EXTINF:-1,Antena 3
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
 #EXTINF:-1,NOVA
 http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8
-
-#EXTINF:-1,Canal Extremadura
-http://corporacionextremena-live.hls.adaptive.level3.net/hls-live/corporacionextremena-channel02/_definst_/live.m3u8
-
 #EXTINF:-1,TV.p Asturias
 http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8
-
 #EXTINF:-1,ETB SAT
 http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
-
-#EXTINF:-1,TVE 24h
-http://87.246.0.130:88/m3u8/canal24horas.m3u8
-
 #EXTINF:-1,TVE 24H
 http://hlsackdn_gl8-lh.akamaihd.net:80/i/hlsdvrlive_1@81183/index_0650_av-b.m3u8
+
 
 
 
