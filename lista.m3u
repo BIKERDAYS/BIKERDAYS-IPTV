@@ -275,11 +275,16 @@ http://83.142.232.246:1935/live/efir_live720p/playlist.m3u8
 skip
 
 
-
-
-
 #EXTINF:-1,VH1 European
 http://46.40.5.99:8000/vh1_high
+
+
+#EXTINF:-1,Vh1 Classic
+http://188.168.245.145:34040/udp/233.12.144.87:5050
+#EXTINF:-1,MTV Rocks 
+http://188.168.245.145:34040/udp/233.12.144.86:5050
+#EXTINF:-1,MTV HD
+http://188.168.245.145:34040/udp/233.12.144.84:5050
 
 #EXTINF:0,MTV hits
 http://91.149.172.100:80/channel?id=140&u=demo&p=demo
@@ -559,6 +564,31 @@ http://str.trofey.net:1935/live/2_max.smil/chunklist_w158057594_b4000000.m3u8?id
 #EXTINF:0,RUSSIA TODAY DOCUMENTARY
 http://secure-streams.akamaized.net/rt-doc/index2500.m3u8
 
+#EXTINF:-1,Discovery Channel 
+http://178.213.214.231:34040/udp/238.1.2.14:1234
+#EXTINF:-1,Animal Planet 
+http://178.213.214.231:34040/udp/238.1.1.25:1234 
+#EXTINF:-1,TLC 
+http://178.213.214.231:34040/udp/238.1.1.26:1234 
+
+
+#EXTINF:-1,Animal Planet HD 
+http://31.130.0.71:81/udp/238.1.2.128:1234 
+#EXTINF:-1,Travel+Adventure 
+http://31.130.0.71:81/udp/238.1.2.103:1234 
+#EXTINF:-1,Food Network HD 
+http://31.130.0.71:81/udp/238.1.2.98:1234 
+#EXTINF:-1,Nat Geo Wild 
+http://31.130.0.71:81/udp/238.1.2.35:1234 
+#EXTINF:-1,DTX 
+http://31.130.0.71:81/udp/238.1.2.31:1234 
+#EXTINF:-1,Discovery Science 
+http://31.130.0.71:81/udp/238.1.2.28:1234 
+#EXTINF:-1,ID Xtra 
+http://31.130.0.71:81/udp/238.1.2.131:1234 
+
+
+
 #EXTINF:0, tlc (srp)
 http://93.123.65.3:9148/148
 #EXTINF:0, animal planet (srp)
@@ -586,8 +616,24 @@ skip
 #EXTINF:0,rtl kockica
 rtmp://680111997.e.929594662.r.pluscdn.com/929594662/rtlkockica.stream
 
-#EXTINF:-1,RTE Jr
-https://cdn.rasset.ie/hls-live/_definst_/rtejr/rtejr-576.m3u8
+#EXTINF:-1,Nick Jr.
+http://188.168.245.145:34040/udp/233.12.144.85:5050
+#EXTINF:-1,Tiji
+http://188.168.245.145:34040/udp/233.12.144.118:5050
+#EXTINF:-1,Disney
+http://188.168.245.145:34040/udp/233.12.144.32:5050
+#EXTINF:-1,Nickelodeon
+http://188.168.245.145:34040/udp/233.12.144.12:5050
+
+
+#EXTINF:-1,Nick Jr. 
+http://31.130.0.71:81/udp/238.1.2.8:1234 
+#EXTINF:-1,Nick Jr. 
+http://31.130.0.71:81/udp/238.1.2.8:1234 
+#EXTINF:-1,Nickelodeon 
+http://31.130.0.71:81/udp/238.1.2.66:1234 
+
+
 
 #EXTINF:-1,nickelodeon
 http://91.149.172.100:80/channel?id=11&u=demo&p=demo
