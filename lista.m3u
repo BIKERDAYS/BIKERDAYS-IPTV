@@ -180,6 +180,12 @@ http://185.80.220.79:15214/streamM/nnXWDzhPK1.stream/playlist.m3u8
 #EXTINF:-1,BENFICA TV 
 http://185.80.220.79:15214/streamM/9DOXhIxxsw.stream/playlist.m3u8
 
+
+#EXTINF:-1,Extreme Sports
+http://46.158.55.180:6689/stream?cid=3675
+
+
+
 #EXTINF:-1,Sportska TV
 http://wowza.h1telekom.hr:1935/sporttv/smil:sptv.smil/playlist.m3u8
 
@@ -277,6 +283,26 @@ skip
 
 #EXTINF:-1,VH1European 
 http://164.132.136.176:8000/0205 
+
+#EXTINF:-1,VH1European
+http://a72d41e6.iptvbot.ru/iptv/H8P5TVLZRQA2H3/536/index.m3u8
+#EXTINF:-1,VH1Classic
+http://a72d41e6.iptvbot.ru/iptv/H8P5TVLZRQA2H3/724/index.m3u8
+#EXTINF:-1,MTVRocks
+http://a72d41e6.iptvbot.ru/iptv/H8P5TVLZRQA2H3/1038/index.m3u8
+#EXTINF:-1,MTVLiveHD
+http://a72d41e6.iptvbot.ru/iptv/H8P5TVLZRQA2H3/221/index.m3u8
+#EXTINF:-1,MTVHits
+http://a72d41e6.iptvbot.ru/iptv/H8P5TVLZRQA2H3/153/index.m3u8
+#EXTINF:-1,MTVDance
+http://a72d41e6.iptvbot.ru/iptv/H8P5TVLZRQA2H3/558/index.m3u8
+#EXTINF:-1,Mezzo
+http://a72d41e6.iptvbot.ru/iptv/H8P5TVLZRQA2H3/707/index.m3u8
+#EXTINF:-1,ТНТMUSIC
+http://a72d41e6.iptvbot.ru/iptv/H8P5TVLZRQA2H3/710/index.m3u8
+#EXTINF:-1,BRIDGETVDANCE
+http://a72d41e6.iptvbot.ru/iptv/H8P5TVLZRQA2H3/711/index.m3u8
+
 
 
 #EXTINF:-1,Vh1 Classic
@@ -950,6 +976,272 @@ https://liveprodeuwest.global.ssl.fastly.net/btv/desktop/eu_live.m3u8
 skip
 
 
+
+#EXTINF:-1,Rai 1 HD
+https://ift.tt/2ISKDVR
+
+#EXTINF:-1,Rai 2 HD
+https://ift.tt/2ISKEZV
+
+#EXTINF:-1,Rai 3 HD
+https://ift.tt/2ISKFwX
+
+#EXTINF:-1,Rete 4 HD
+https://ift.tt/2IVsYg7
+
+#EXTINF:-1,Canale 5 HD
+https://ift.tt/2ISKGB1
+
+#EXTINF:-1,Italia 1 HD
+https://ift.tt/2ISKIZF
+
+#EXTINF:-1,La7
+https://ift.tt/2ISKJwH
+
+#EXTINF:-1,RSI LA 1 HD
+https://ift.tt/2IVt1Zl
+
+#EXTINF:-1,RSI LA 2 HD
+https://ift.tt/2ISKL7N
+
+#EXTINF:-1,Rai 4 HD
+https://ift.tt/2IVt47t
+
+#EXTINF:-1,Rai 5
+https://ift.tt/2IVt739
+
+#EXTINF:-1,Rai Gulp
+https://ift.tt/2IVt8nJ
+
+#EXTINF:-1,Rai Movie
+https://ift.tt/2ISKRwb
+
+#EXTINF:-1,Rai Premium
+https://ift.tt/2IVtdrx
+
+#EXTINF:-1,Rai Sport 1
+https://ift.tt/2IVtdYz
+
+#EXTINF:-1,Mediaset Extra 2 GF
+https://ift.tt/2IVtgDJ
+
+#EXTINF:-1,EuroNews
+https://ift.tt/2ISL2aP
+
+#EXTINF:-1,Sky TG24 HD
+https://ift.tt/2IVtjPV
+
+#EXTINF:-1,Sky Cinema 1 HD
+https://ift.tt/2ITA6K7
+
+#EXTINF:-1,Sky Cinema 1 SD
+https://ift.tt/2IVTdmQ
+
+#EXTINF:-1,Sky Cinema  +1 HD
+https://ift.tt/2IVTd6k
+
+#EXTINF:-1,Sky Cinema  +1 SD
+https://ift.tt/2IT9wR3
+
+#EXTINF:-1,Sky Cinema  +24 HD
+https://ift.tt/2ISwjwt
+
+#EXTINF:-1,Sky Cinema  +24 SD
+https://ift.tt/2IVETuy
+
+#EXTINF:-1,Sky Cinema Classics HD
+https://ift.tt/2IUGdgX
+
+#EXTINF:-1,Sky Cinema Classics SD
+https://ift.tt/2IUGdNZ
+
+#EXTINF:-1,Sky Cinema Comedy HD
+https://ift.tt/2IUGeS3
+
+#EXTINF:-1,Sky Cinema Comedy SD
+https://ift.tt/2IUGgt9
+
+#EXTINF:-1,Sky Cinema Family HD
+https://ift.tt/2ISAybp
+
+#EXTINF:-1,Sky Cinema Family SD
+https://ift.tt/2ISwjMZ
+
+#EXTINF:-1,Sky Cinema Cult HD
+https://ift.tt/2ISG91e
+
+#EXTINF:-1,Sky Cinema Cult SD
+https://ift.tt/2IUGkZV
+
+#EXTINF:-1,Sky Cinema Hits HD
+https://ift.tt/2IUGm3Z
+
+#EXTINF:-1,Sky Cinema Hits SD
+https://ift.tt/2ITR9f0
+
+#EXTINF:-1,Sky Cinema Max HD
+https://ift.tt/2ITRaQ6
+
+#EXTINF:-1,Sky Cinema Max SD
+https://ift.tt/2IUGn83
+
+#EXTINF:-1,Sky Cinema Passion HD
+https://ift.tt/2IP2j4x
+
+#EXTINF:-1,Sky Cinema Passion SD
+https://ift.tt/2IVTdTS
+
+#EXTINF:-1,Sky Atlantic HD
+https://ift.tt/2IUGXCL
+
+#EXTINF:-1,Sky Atlantic SD
+https://ift.tt/2IUGuAv
+
+#EXTINF:-1,Cielo HD
+https://ift.tt/2ISwkk1
+
+#EXTINF:-1,Dmax HD
+https://ift.tt/2ITYjjw
+
+#EXTINF:-1,Gambero Rosso HD
+https://ift.tt/2IUGAYT
+
+#EXTINF:-1,Real Time HD
+https://ift.tt/2IUGD71
+
+#EXTINF:-1,Sky 3D
+https://ift.tt/2IRRuyQ
+
+#EXTINF:-1,Sky Arte HD
+https://ift.tt/2IUGHnh
+
+#EXTINF:-1,Sky Uno  +1 HD
+https://ift.tt/2IQtsnE
+
+#EXTINF:-1,Sky Uno HD
+https://ift.tt/2IUGIHR
+
+#EXTINF:-1,Sky Uno SD
+https://ift.tt/2IUGJLV
+
+#EXTINF:-1,Fox Animation HD
+https://ift.tt/2IUGKiX
+
+#EXTINF:-1,Fox Comedy HD
+https://ift.tt/2IUGLn1
+
+#EXTINF:-1,Fox Crime
+https://ift.tt/2IUGMr5
+
+#EXTINF:-1,Fox Crime  +1
+https://ift.tt/2IVTeHq
+
+#EXTINF:-1,Fox Crime HD
+https://ift.tt/2IVtpXN
+
+#EXTINF:-1,Fox HD
+https://ift.tt/2IUGPDh
+
+#EXTINF:-1,Sky Sport MotoGP HD
+https://ift.tt/2IUGTTx
+
+#EXTINF:-1,Sky Supercalcio HD
+https://ift.tt/2ITA8BJ
+
+#EXTINF:-1,Sky Sport 1 HD
+https://ift.tt/2IVTeXW
+
+#EXTINF:-1,Sky Sport 2 HD
+https://ift.tt/2IQQ0oo
+
+#EXTINF:-1,Sky Sport 3 HD
+https://ift.tt/2IVqmyG
+
+#EXTINF:-1,Sky Calcio 1 HD
+https://ift.tt/2ISAzMv
+
+#EXTINF:-1,Sky Calcio 2 HD
+https://ift.tt/2IVqoqi
+
+#EXTINF:-1,Fox Sport Plus HD
+https://ift.tt/2IP2mgJ
+
+#EXTINF:-1,Fox Sport SD
+https://ift.tt/2IRfqSO
+
+#EXTINF:-1,Fox Sports HD
+https://ift.tt/2IRRD5m
+
+#EXTINF:-1,Eurosport 1 HD
+https://ift.tt/2IQtvjk
+
+#EXTINF:-1,EuroSport 2 HD
+https://ift.tt/2IRRvTq
+
+#EXTINF:-1,Teleromagna Sport
+https://ift.tt/2IRRxuw
+
+#EXTINF:-1,Bike Channel
+https://ift.tt/2IVEXui
+
+#EXTINF:-1,Inter Channel
+https://ift.tt/2ISwoQN
+
+#EXTINF:-1,J | Juventus TV
+https://ift.tt/2IVqoGO
+
+#EXTINF:-1,Lazio Style
+https://ift.tt/2IP2mxf
+
+#EXTINF:-1,Roma Channel
+https://ift.tt/2ITA98L
+
+#EXTINF:-1,Milan Channel
+https://ift.tt/2IRRBug
+
+#EXTINF:-1,K2
+https://ift.tt/2IRfr9k
+
+#EXTINF:-1,Man-Ga
+https://ift.tt/2ISABUD
+
+#EXTINF:-1,Masha & Orso Channel
+https://ift.tt/2IVEW9I
+
+#EXTINF:-1,Nickelodeon
+https://ift.tt/2IUH1lZ
+
+#EXTINF:-1,NickJR
+https://ift.tt/2IPQ0oG
+
+#EXTINF:-1,Super
+https://ift.tt/2IT9zwd
+
+#EXTINF:-1,Boing
+https://ift.tt/2ITRePQ
+
+#EXTINF:-1,Cartonito
+https://ift.tt/2IVEXKO
+
+#EXTINF:-1,Disney Channel
+https://ift.tt/2ISACb9
+
+#EXTINF:-1,Dea Junior
+https://ift.tt/2IU6PPd
+
+#EXTINF:-1,Dea Kids
+https://ift.tt/2IVTg20
+
+#EXTINF:-1,Disney Channel HD
+https://ift.tt/2IPQ1ZM
+
+#EXTINF:-1,Disney HD
+https://ift.tt/2IRfrpQ
+
+#EXTINF:-1,Disney Junior
+https://ift.tt/2ISGb9m
+
+
 #EXTINF:0,cielo (vpn italia)
 https://skyanywhere3-i.akamaihd.net/hls/live/510693/cielo/stream2/streamPlaylist.m3u8
 
@@ -1078,6 +1370,33 @@ http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi6/1/prog_inde
 http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi5/1/prog_index.m3u8
 #EXTINF:-1,QVC 4
 http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi1/1/prog_index.m3u8
+
+
+
+#EXTINF:-1,Nat Geo Wild
+http://wowza2.mysoltv.com:1992/UK_ENG_nat_geo_wild_shsaa/index.m3u8
+#EXTINF:-1,HISTORY
+http://wowza2.mysoltv.com:1992/UK_ENG_history/index.m3u8
+#EXTINF:-1,PPV
+http://wowza2.mysoltv.com:1992/UK_BOX_OFFICE_PPV/index.m3u8
+#EXTINF:-1,SKY MOVIE DISNEY
+http://wowza2.mysoltv.com:1992/UK_ENG_Sky_Movie_disney/tracks-v1a1/index.m3u8
+#EXTINF:-1,SKY MOVIE COMEDY
+http://wowza2.mysoltv.com:1992/UK_ENG_Sky_Movie_comedy/tracks-v1a1/index.m3u8
+#EXTINF:-1,SKY MOVIE PREMIUM
+http://wowza2.mysoltv.com:1992/UK_ENG_Sky_Movie_premium/tracks-v1a1/index.m3u8
+#EXTINF:-1,SKY MOVIE GREATS
+http://wowza2.mysoltv.com:1992/UK_ENG_Sky_Movie_greats/tracks-v1a1/index.m3u8
+#EXTINF:-1,SKY MOVIE SHOWCASE
+http://wowza2.mysoltv.com:1992/UK_ENG_Sky_Movie_showcase/tracks-v1a1/index.m3u8
+#EXTINF:-1,SKY MOVIE FAMILY
+http://wowza2.mysoltv.com:1992/UK_ENG_Sky_Movie_family/tracks-v1a1/index.m3u8
+#EXTINF:-1,SKY MOVIE THRILLER
+http://wowza2.mysoltv.com:1992/UK_ENG_Sky_Movie_thriller/tracks-v1a1/index.m3u8
+#EXTINF:-1,SKY MOVIE SELECT
+http://wowza2.mysoltv.com:1992/UK_ENG_Sky_Movie_select/tracks-v1a1/index.m3u8
+
+
 
 
 #EXTINF:-1,[COLOR green]--- NJEMAČKI PROGRAMI ---[/COLOR]
