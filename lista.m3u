@@ -137,16 +137,7 @@ http://cdnv.cli.tn/iptv/ch1829?code=610116485444847
 #EXTINF:-1,BT Sport Extra
 http://cdnv.cli.tn/iptv/ch1830?code=610116485444847
 
-#EXTINF:-1,Arena Sport 1
-http://188.40.113.140:86/m3u8/arenasport1.m3u8
-#EXTINF:-1,Arena Sport 2
-http://188.40.113.140:86/m3u8/arenasport2.m3u8
-#EXTINF:-1,Arena Sport 3
-http://188.40.113.140:86/m3u8/arenasport3.m3u8
-#EXTINF:-1,Arena Sport 4
-http://188.40.113.140:86/m3u8/arenasport4.m3u8
-#EXTINF:-1,Arena Sport 5
-http://188.40.113.140:86/m3u8/arenasport5.m3u8
+
 
 #EXTINF:-1,ARENA SPORT 1 
 http://66.70.129.43:8080/Arena1-SRB/index.m3u8
