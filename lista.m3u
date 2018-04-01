@@ -137,7 +137,16 @@ http://cdnv.cli.tn/iptv/ch1829?code=610116485444847
 #EXTINF:-1,BT Sport Extra
 http://cdnv.cli.tn/iptv/ch1830?code=610116485444847
 
-
+#EXTINF:-1,Arena Sport 1
+http://188.40.113.140:86/m3u8/arenasport1.m3u8
+#EXTINF:-1,Arena Sport 2
+http://188.40.113.140:86/m3u8/arenasport2.m3u8
+#EXTINF:-1,Arena Sport 3
+http://188.40.113.140:86/m3u8/arenasport3.m3u8
+#EXTINF:-1,Arena Sport 4
+http://188.40.113.140:86/m3u8/arenasport4.m3u8
+#EXTINF:-1,Arena Sport 5
+http://188.40.113.140:86/m3u8/arenasport5.m3u8
 
 #EXTINF:-1,ARENA SPORT 1 
 http://66.70.129.43:8080/Arena1-SRB/index.m3u8
@@ -166,24 +175,82 @@ http://46.40.5.99:8000/arena_3_high
 http://46.40.5.99:8000/arena_4_high
 
 
+#EXTINF:-1,Диема Спорт (alfabass-tv)
+http://188.40.113.140:86/m3u8/webdiemasport_web.m3u8
+#EXTINF:-1,Диема Спорт 2 (alfabass-tv)
+http://188.40.113.140:86/m3u8/webdiemasport2_web.m3u8
+#EXTINF:-1,Mtel sport - 
+http://188.40.113.140:86/m3u8/webmtelsport_web.m3u8
+#EXTINF:-1,Sport Plus 
+http://188.40.113.140:86/m3u8/websportplus_web.m3u8
+#EXTINF:-1,Eurosport HD
+http://188.40.113.140:86/m3u8/eurosporthd.m3u8
+#EXTINF:-1,Ring BG HD
+http://188.40.113.140:86/m3u8/ringbghd.m3u8
+#EXTINF:-1,Arena Sport 1
+http://188.40.113.140:86/m3u8/arenasport1.m3u8
+#EXTINF:-1,Arena Sport 2
+http://188.40.113.140:86/m3u8/arenasport2.m3u8
+#EXTINF:-1,Arena Sport 3
+http://188.40.113.140:86/m3u8/arenasport3.m3u8
+#EXTINF:-1,Arena Sport 4
+http://188.40.113.140:86/m3u8/arenasport4.m3u8
+#EXTINF:-1,Arena Sport 5
+http://188.40.113.140:86/m3u8/arenasport5.m3u8
+#EXTINF:-1,Eurosport
+http://188.40.113.140:86/m3u8/webeurosport_web.m3u8
+#EXTINF:-1,Eurosport 2
+http://188.40.113.140:86/m3u8/webeurosport2_web.m3u8
+#EXTINF:-1,Nova Sport
+http://188.40.113.140:86/m3u8/webnovasport_web.m3u8
+#EXTINF:-1,Ring
+http://188.40.113.140:86/m3u8/webringbg_web.m3u8
 
-#EXTINF:-1, SPORT TV 1
-http://185.80.220.79:15214/streamM/CLANGj2Xof.stream/playlist.m3u8
-#EXTINF:-1,SPORT TV2
-http://185.80.220.79:15214/streamM/xZxIbGC9NR.stream/playlist.m3u8
-#EXTINF:-1,SPORT TV 2
-http://185.80.220.79:15214/streamM/0qZjb9kndn.stream/playlist.m3u8
-#EXTINF:-1,SPORT TV 3
-http://185.80.220.79:15214/streamM/0a6vDa0OYU.stream/playlist.m3u8
-#EXTINF:-1,SPORT TV
-http://185.80.220.79:15214/streamM/nnXWDzhPK1.stream/playlist.m3u8
-#EXTINF:-1,BENFICA TV 
-http://185.80.220.79:15214/streamM/9DOXhIxxsw.stream/playlist.m3u8
+
+
+#EXTINF:-1,SportKlub 1 (HR)
+http://str1.perfecttv.us:46801/live/310avni/29-09-13a/12035.ts
+#EXTINF:-1,SportKlub 2 (HR)
+http://str1.perfecttv.us:46801/live/310avni/29-09-13a/12036.ts
+#EXTINF:-1,SportKlub 3 (HR)
+http://str1.perfecttv.us:46801/live/310avni/29-09-13a/12037.ts
+
+#EXTINF:-1,Arena Sport 1 Sr
+http://93.87.85.10/PLTV/88888888/224/3221226643/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9vmgYnhd%2FQXVMovIFPNVfeGKQqJOc1YO5YOmiz7KWGr0%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100002275%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
+#EXTINF:-1,Arena Sport 2 Sr
+http://93.87.85.10/PLTV/88888888/224/3221226662/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9vmgYnhd%2FQXVMovIFPNVfeHaNbgVK65Yvvvdjpa6aN2o%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100001966%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
+#EXTINF:-1,Arena Sport 3 Sr
+http://93.87.85.10/PLTV/88888888/224/3221226664/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9vmgYnhd%2FQXVMovIFPNVfeKk0gNemuqqQ2V2Ec5VWmJs%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100001967%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
+#EXTINF:-1,Arena Sport 4 Sr
+http://93.87.85.10/PLTV/88888888/224/3221226661/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9vmgYnhd%2FQXVMovIFPNVfeK8DY8Ho%2FE6St%2BVWSvqrtEY%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100001968%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
+#EXTINF:-1,Arena Sport 5 Sr
+http://93.87.85.10/PLTV/88888888/224/3221226665/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9vmgYnhd%2FQXVMovIFPNVfeBiXPAaui6g8aIyeRBou9ik%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100001969%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
+
+#EXTINF:-1,Eurosport 1 SR
+http://93.87.85.10/PLTV/88888888/224/3221226583/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA94tjvcqC92jhgBqS37pLbNKZYq6KgtK15ylBMRSp7eH8%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100001768%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
+#EXTINF:-1,Eurosport 2 SR
+http://93.87.85.10/PLTV/88888888/224/3221226600/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9vmgYnhd%2FQXVMovIFPNVfeN2qgZPVA%2FLOJt%2FX8uiw5zk%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100001769%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
+
+
+
+#EXTINF:-1,NBA TV
+http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/12.ts
+
+#EXTINF:-1,PT1 SPORTTV4MOBILE
+http://www.bragatop.com:8080/live/1111/1111/15969.m3u8
+#EXTINF:-1,PT1 SPORTTV3MOBILE
+http://www.bragatop.com:8080/live/1111/1111/15970.m3u8
+#EXTINF:-1,PT1 SPORTTV5MOBILE
+http://www.bragatop.com:8080/live/1111/1111/15968.m3u8
+#EXTINF:-1,PT1 SPORTTV2MOBILE
+http://www.bragatop.com:8080/live/1111/1111/15971.m3u8
+
+#EXTINF:-1,Setanta Sports
+http://91.149.172.100:80/channel?id=146&u=demo&p=demo
 
 
 #EXTINF:-1,Extreme Sports
 http://46.158.55.180:6689/stream?cid=3675
-
 
 
 #EXTINF:-1,Sportska TV
@@ -203,8 +270,22 @@ http://sevillafc_live-lh.akamaihd.net:80/i/video_0@354142/master.m3u8
 
 #EXTINF:-1,RED BULL TV
 http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8
-#EXTINF:-1,PAC-12 Bay Area
+
+
+#EXTINF:0,Pac 12 Arizona
+http://p12a-lh.akamaihd.net/i/arizona_delivery@199730/master.m3u8
+#EXTINF:0,Pac 12 Bay Area
 http://p12b-lh.akamaihd.net/i/bayarea_delivery@429334/master.m3u8
+#EXTINF:0,Pac 12 Los Angeles
+http://p12l-lh.akamaihd.net/i/la_delivery@425541/master.m3u8
+#EXTINF:0,Pac 12 Mountain
+http://p12m-lh.akamaihd.net/i/mountain_delivery@428912/master.m3u8
+#EXTINF:0,Pac 12 Oregon
+http://p12o-lh.akamaihd.net/i/oregon_delivery@103261/master.m3u8
+#EXTINF:0,Pac 12 Washington
+http://p12w-lh.akamaihd.net/i/washington_delivery@426584/master.m3u8
+
+
 
 #EXTINF:-1,Sky Sport News
 https://eventhlshttps-i.akamaihd.net/hls/live/263645/ssn-hd-https/indexvideo-3400.m3u8
@@ -257,8 +338,7 @@ http://aovivo.futeboltv.com:8081/live/3/playlist.m3u8
 #EXTINF:-1,fsports
 http://aovivo.futeboltv.com:8081/live/4/playlist.m3u8
 
-#EXTINF:-1,Toros 
-http://85.195.234.99:9981/stream/channelid/1225292884
+
 
 
 #EXTINF:0,Mtel Sport BG
@@ -651,16 +731,6 @@ http://188.168.245.145:34040/udp/233.12.144.32:5050
 #EXTINF:-1,Nickelodeon
 http://188.168.245.145:34040/udp/233.12.144.12:5050
 
-
-#EXTINF:-1,Nick Jr. 
-http://31.130.0.71:81/udp/238.1.2.8:1234 
-#EXTINF:-1,Nick Jr. 
-http://31.130.0.71:81/udp/238.1.2.8:1234 
-#EXTINF:-1,Nickelodeon 
-http://31.130.0.71:81/udp/238.1.2.66:1234 
-
-
-
 #EXTINF:-1,nickelodeon
 http://91.149.172.100:80/channel?id=11&u=demo&p=demo
 
@@ -974,272 +1044,6 @@ https://liveprodeuwest.global.ssl.fastly.net/btv/desktop/eu_live.m3u8
 
 #EXTINF:-1,[COLOR green]---TALIJANSKI PROGRAMI---[/COLOR]
 skip
-
-
-
-#EXTINF:-1,Rai 1 HD
-https://ift.tt/2ISKDVR
-
-#EXTINF:-1,Rai 2 HD
-https://ift.tt/2ISKEZV
-
-#EXTINF:-1,Rai 3 HD
-https://ift.tt/2ISKFwX
-
-#EXTINF:-1,Rete 4 HD
-https://ift.tt/2IVsYg7
-
-#EXTINF:-1,Canale 5 HD
-https://ift.tt/2ISKGB1
-
-#EXTINF:-1,Italia 1 HD
-https://ift.tt/2ISKIZF
-
-#EXTINF:-1,La7
-https://ift.tt/2ISKJwH
-
-#EXTINF:-1,RSI LA 1 HD
-https://ift.tt/2IVt1Zl
-
-#EXTINF:-1,RSI LA 2 HD
-https://ift.tt/2ISKL7N
-
-#EXTINF:-1,Rai 4 HD
-https://ift.tt/2IVt47t
-
-#EXTINF:-1,Rai 5
-https://ift.tt/2IVt739
-
-#EXTINF:-1,Rai Gulp
-https://ift.tt/2IVt8nJ
-
-#EXTINF:-1,Rai Movie
-https://ift.tt/2ISKRwb
-
-#EXTINF:-1,Rai Premium
-https://ift.tt/2IVtdrx
-
-#EXTINF:-1,Rai Sport 1
-https://ift.tt/2IVtdYz
-
-#EXTINF:-1,Mediaset Extra 2 GF
-https://ift.tt/2IVtgDJ
-
-#EXTINF:-1,EuroNews
-https://ift.tt/2ISL2aP
-
-#EXTINF:-1,Sky TG24 HD
-https://ift.tt/2IVtjPV
-
-#EXTINF:-1,Sky Cinema 1 HD
-https://ift.tt/2ITA6K7
-
-#EXTINF:-1,Sky Cinema 1 SD
-https://ift.tt/2IVTdmQ
-
-#EXTINF:-1,Sky Cinema  +1 HD
-https://ift.tt/2IVTd6k
-
-#EXTINF:-1,Sky Cinema  +1 SD
-https://ift.tt/2IT9wR3
-
-#EXTINF:-1,Sky Cinema  +24 HD
-https://ift.tt/2ISwjwt
-
-#EXTINF:-1,Sky Cinema  +24 SD
-https://ift.tt/2IVETuy
-
-#EXTINF:-1,Sky Cinema Classics HD
-https://ift.tt/2IUGdgX
-
-#EXTINF:-1,Sky Cinema Classics SD
-https://ift.tt/2IUGdNZ
-
-#EXTINF:-1,Sky Cinema Comedy HD
-https://ift.tt/2IUGeS3
-
-#EXTINF:-1,Sky Cinema Comedy SD
-https://ift.tt/2IUGgt9
-
-#EXTINF:-1,Sky Cinema Family HD
-https://ift.tt/2ISAybp
-
-#EXTINF:-1,Sky Cinema Family SD
-https://ift.tt/2ISwjMZ
-
-#EXTINF:-1,Sky Cinema Cult HD
-https://ift.tt/2ISG91e
-
-#EXTINF:-1,Sky Cinema Cult SD
-https://ift.tt/2IUGkZV
-
-#EXTINF:-1,Sky Cinema Hits HD
-https://ift.tt/2IUGm3Z
-
-#EXTINF:-1,Sky Cinema Hits SD
-https://ift.tt/2ITR9f0
-
-#EXTINF:-1,Sky Cinema Max HD
-https://ift.tt/2ITRaQ6
-
-#EXTINF:-1,Sky Cinema Max SD
-https://ift.tt/2IUGn83
-
-#EXTINF:-1,Sky Cinema Passion HD
-https://ift.tt/2IP2j4x
-
-#EXTINF:-1,Sky Cinema Passion SD
-https://ift.tt/2IVTdTS
-
-#EXTINF:-1,Sky Atlantic HD
-https://ift.tt/2IUGXCL
-
-#EXTINF:-1,Sky Atlantic SD
-https://ift.tt/2IUGuAv
-
-#EXTINF:-1,Cielo HD
-https://ift.tt/2ISwkk1
-
-#EXTINF:-1,Dmax HD
-https://ift.tt/2ITYjjw
-
-#EXTINF:-1,Gambero Rosso HD
-https://ift.tt/2IUGAYT
-
-#EXTINF:-1,Real Time HD
-https://ift.tt/2IUGD71
-
-#EXTINF:-1,Sky 3D
-https://ift.tt/2IRRuyQ
-
-#EXTINF:-1,Sky Arte HD
-https://ift.tt/2IUGHnh
-
-#EXTINF:-1,Sky Uno  +1 HD
-https://ift.tt/2IQtsnE
-
-#EXTINF:-1,Sky Uno HD
-https://ift.tt/2IUGIHR
-
-#EXTINF:-1,Sky Uno SD
-https://ift.tt/2IUGJLV
-
-#EXTINF:-1,Fox Animation HD
-https://ift.tt/2IUGKiX
-
-#EXTINF:-1,Fox Comedy HD
-https://ift.tt/2IUGLn1
-
-#EXTINF:-1,Fox Crime
-https://ift.tt/2IUGMr5
-
-#EXTINF:-1,Fox Crime  +1
-https://ift.tt/2IVTeHq
-
-#EXTINF:-1,Fox Crime HD
-https://ift.tt/2IVtpXN
-
-#EXTINF:-1,Fox HD
-https://ift.tt/2IUGPDh
-
-#EXTINF:-1,Sky Sport MotoGP HD
-https://ift.tt/2IUGTTx
-
-#EXTINF:-1,Sky Supercalcio HD
-https://ift.tt/2ITA8BJ
-
-#EXTINF:-1,Sky Sport 1 HD
-https://ift.tt/2IVTeXW
-
-#EXTINF:-1,Sky Sport 2 HD
-https://ift.tt/2IQQ0oo
-
-#EXTINF:-1,Sky Sport 3 HD
-https://ift.tt/2IVqmyG
-
-#EXTINF:-1,Sky Calcio 1 HD
-https://ift.tt/2ISAzMv
-
-#EXTINF:-1,Sky Calcio 2 HD
-https://ift.tt/2IVqoqi
-
-#EXTINF:-1,Fox Sport Plus HD
-https://ift.tt/2IP2mgJ
-
-#EXTINF:-1,Fox Sport SD
-https://ift.tt/2IRfqSO
-
-#EXTINF:-1,Fox Sports HD
-https://ift.tt/2IRRD5m
-
-#EXTINF:-1,Eurosport 1 HD
-https://ift.tt/2IQtvjk
-
-#EXTINF:-1,EuroSport 2 HD
-https://ift.tt/2IRRvTq
-
-#EXTINF:-1,Teleromagna Sport
-https://ift.tt/2IRRxuw
-
-#EXTINF:-1,Bike Channel
-https://ift.tt/2IVEXui
-
-#EXTINF:-1,Inter Channel
-https://ift.tt/2ISwoQN
-
-#EXTINF:-1,J | Juventus TV
-https://ift.tt/2IVqoGO
-
-#EXTINF:-1,Lazio Style
-https://ift.tt/2IP2mxf
-
-#EXTINF:-1,Roma Channel
-https://ift.tt/2ITA98L
-
-#EXTINF:-1,Milan Channel
-https://ift.tt/2IRRBug
-
-#EXTINF:-1,K2
-https://ift.tt/2IRfr9k
-
-#EXTINF:-1,Man-Ga
-https://ift.tt/2ISABUD
-
-#EXTINF:-1,Masha & Orso Channel
-https://ift.tt/2IVEW9I
-
-#EXTINF:-1,Nickelodeon
-https://ift.tt/2IUH1lZ
-
-#EXTINF:-1,NickJR
-https://ift.tt/2IPQ0oG
-
-#EXTINF:-1,Super
-https://ift.tt/2IT9zwd
-
-#EXTINF:-1,Boing
-https://ift.tt/2ITRePQ
-
-#EXTINF:-1,Cartonito
-https://ift.tt/2IVEXKO
-
-#EXTINF:-1,Disney Channel
-https://ift.tt/2ISACb9
-
-#EXTINF:-1,Dea Junior
-https://ift.tt/2IU6PPd
-
-#EXTINF:-1,Dea Kids
-https://ift.tt/2IVTg20
-
-#EXTINF:-1,Disney Channel HD
-https://ift.tt/2IPQ1ZM
-
-#EXTINF:-1,Disney HD
-https://ift.tt/2IRfrpQ
-
-#EXTINF:-1,Disney Junior
-https://ift.tt/2ISGb9m
 
 
 #EXTINF:0,cielo (vpn italia)
@@ -1642,328 +1446,9 @@ skip
 
 
 
-#EXTINF:-1,BBC World News 
-http://46.36.223.221:7777/play/BBC_World_News/index.m3u8 
-#EXTINF:-1,CBC Radio One Добавляйтесь https://vk.com/free_tv_007 
-http://46.36.223.221:7777/play/CBC_Radio_One/index.m3u8 
-#EXTINF:-1,California Music Channel 
-http://46.36.223.221:7777/play/California_Music_Channel/index.m3u8 
-#EXTINF:-1,Deutsche Welle 
-http://46.36.223.221:7777/play/Deutsche_Welle/index.m3u8 
-#EXTINF:-1,Euronews Добавляйтесь https://vk.com/free_tv_007 
-http://46.36.223.221:7777/play/Euronews/index.m3u8 
-#EXTINF:-1,Fox TV 
-http://46.36.223.221:7777/play/Fox_TV/index.m3u8 
-#EXTINF:-1,ILand TV (Russian) 
-http://46.36.223.221:7777/play/ILand_TV_(Russian)/index.m3u8 
-#EXTINF:-1,London Live 
-http://46.36.223.221:7777/play/London_Live/index.m3u8 
-#EXTINF:-1,MSNBC (HD) USA 
-http://46.36.223.221:7777/play/MSNBC_(HD)_USA/index.m3u8 
-#EXTINF:-1,RU TV (HD) Добавляйтесь https://vk.com/free_tv_007 
-http://46.36.223.221:7777/play/RU_TV_(HD)/index.m3u8 
-#EXTINF:-1,TV 1000 Добавляйтесь https://vk.com/free_tv_007 
-http://46.36.223.221:7777/play/TV1000/index.m3u8 
-#EXTINF:-1,Tallinna TV 
-http://46.36.223.221:7777/play/Tallinna_TV/index.m3u8 
-#EXTINF:-1,Viasat Explorer 
-http://46.36.223.221:7777/play/Viasat_Explorer/index.m3u8 
-#EXTINF:-1,КИНОПРЕМЬЕРА HD Добавляйтесь https://vk.com/free_tv_007 
-http://46.36.223.221:7777/play/Kinopremera_HD/index.m3u8 
-#EXTINF:-1,Мир 24 
-http://46.36.223.221:7777/play/MIR24/index.m3u8
-
-#EXTINF:-1,DISKOWERY SHOWCESE HD 
-http://195.191.208.80:8085/udp/238.2.17.16:1234 
-#EXTINF:-1,DTX HD 
-http://195.191.208.80:8085/udp/238.2.16.211:1234 
-#EXTINF:-1,КИНОПРЕМИУМ HD 
-http://195.191.208.80:8085/udp/238.2.17.111:1234 
-#EXTINF:-1,ОСТРОСЮЖЕТНОЕ HD 
-http://195.191.208.80:8085/udp/238.2.17.112:1234 
-#EXTINF:-1,3D 2 HD 
-http://195.191.208.80:8085/udp/238.2.17.122:1234 
-#EXTINF:-1,3D 1 HD 
-http://195.191.208.80:8085/udp/238.2.17.123:1234 
-#EXTINF:-1,3D HD 
-http://195.191.208.80:8085/udp/238.2.17.124:1234 
-#EXTINF:-1,PARAMOUND CAMEDY HD 
-http://195.191.208.80:8085/udp/238.2.17.126:1234 
-#EXTINF:-1,PARAMOUNT CHANEL HD 
-http://195.191.208.80:8085/udp/238.2.17.127:1234 
-#EXTINF:-1,DISKAWERY SC HD 
-http://195.191.208.80:8085/udp/238.2.17.135:1234 
-#EXTINF:-1,ID HD 
-http://195.191.208.80:8085/udp/238.2.17.136:1234 
-#EXTINF:-1,КОННЫЙ МИР HD 
-http://195.191.208.80:8085/udp/238.2.17.138:1234 
-#EXTINF:-1,TRISK HD 
-http://195.191.208.80:8085/udp/238.2.17.242:1234 
-#EXTINF:-1,НАШЕ ЛЮБИМОЕ HD 
-http://195.191.208.80:8085/udp/238.2.17.243:1234
 
 
 
-#EXTINF:-1,МАТЧ! АРЕНА 
-http://37.9.0.194:1234/udp/225.225.101.1:1234 
-#EXTINF:-1,МАТЧ! БОЕЦ 
-http://37.9.0.194:1234/udp/225.225.101.2:1234 
-#EXTINF:-1,МАТЧ! ИГРА 
-http://37.9.0.194:1234/udp/225.225.101.3:1234 
-#EXTINF:-1,МАТЧ! НАШ СПОРТ 
-http://37.9.0.194:1234/udp/225.225.101.4:1234 
-#EXTINF:-1,Доктор 
-http://37.9.0.194:1234/udp/225.225.101.5:1234 
-#EXTINF:-1,Канал Disney 
-http://37.9.0.194:1234/udp/225.225.101.6:1234 
-#EXTINF:-1,НАШ ФУТБОЛ 
-http://37.9.0.194:1234/udp/225.225.101.7:1234 
-#EXTINF:-1,Телеканал 360 
-http://37.9.0.194:1234/udp/225.225.101.8:1234 
-#EXTINF:-1,Телеканал КХЛ 
-http://37.9.0.194:1234/udp/225.225.101.9:1234 
-#EXTINF:-1,ТНТ 
-http://37.9.0.194:1234/udp/225.225.101.10:1234 
-#EXTINF:-1,Ю-ТВ 
-http://37.9.0.194:1234/udp/225.225.101.11:1234 
-#EXTINF:-1,Супер 
-http://37.9.0.194:1234/udp/225.225.101.12:1234 
-#EXTINF:-1,World Fashion 
-http://37.9.0.194:1234/udp/225.225.101.13:1234 
-#EXTINF:-1,MTV Live HD 
-http://37.9.0.194:1234/udp/225.225.102.1:1234 
-#EXTINF:-1,Nickelodeon HD 
-http://37.9.0.194:1234/udp/225.225.102.2:1234 
-#EXTINF:-1,ДОМАШНИЕ ЖИВОТНЫЕ 
-http://37.9.0.194:1234/udp/225.225.103.2:1234 
-#EXTINF:-1,Точка отрыва (TECT) 
-http://37.9.0.194:1234/udp/225.225.103.3:1234 
-#EXTINF:-1,Усадьба-ТВ (TECT) 
-http://37.9.0.194:1234/udp/225.225.103.4:1234 
-#EXTINF:-1,Extreme Sports 
-http://37.9.0.194:1234/udp/225.225.103.5:1234 
-#EXTINF:-1,FOX https://vk.com/club_dryny 
-http://37.9.0.194:1234/udp/225.225.103.6:1234 
-#EXTINF:-1,Mezzo 
-http://37.9.0.194:1234/udp/225.225.103.7:1234 
-#EXTINF:-1,Nat Geo Wild 
-http://37.9.0.194:1234/udp/225.225.103.8:1234 
-#EXTINF:-1,Paramount Comedy 
-http://37.9.0.194:1234/udp/225.225.103.9:1234 
-#EXTINF:-1,Первый образовательный 
-http://37.9.0.194:1234/udp/225.225.104.2:1234 
-#EXTINF:-1,Euronews 
-http://37.9.0.194:1234/udp/225.225.104.3:1234 
-#EXTINF:-1,ОТР 
-http://37.9.0.194:1234/udp/225.225.104.4:1234 
-#EXTINF:-1,Extreme Sports 
-http://37.9.0.194:1234/udp/225.225.104.6:1234 
-#EXTINF:-1,Paramount Channel 
-http://37.9.0.194:1234/udp/225.225.104.7:1234 
-#EXTINF:-1,Моя Планета 
-http://37.9.0.194:1234/udp/225.225.106.1:1234 
-#EXTINF:-1,Наука 2.0 
-http://37.9.0.194:1234/udp/225.225.106.2:1234 
-#EXTINF:-1,MCM Top 
-http://37.9.0.194:1234/udp/225.225.106.3:1234 
-#EXTINF:-1,Outdoor Channel 
-http://37.9.0.194:1234/udp/225.225.106.4:1234 
-#EXTINF:-1,RTG TV 
-http://37.9.0.194:1234/udp/225.225.106.5:1234 
-#EXTINF:-1,Ювелирочка 
-http://37.9.0.194:1234/udp/225.225.106.6:1234 
-#EXTINF:-1,THT4https://vk.com/club_dryny 
-http://37.9.0.194:1234/udp/225.225.106.7:1234 
-#EXTINF:-1,RU.TV 
-http://37.9.0.194:1234/udp/225.225.106.8:1234 
-#EXTINF:-1,Санкт-Петербург 
-http://37.9.0.194:1234/udp/225.225.106.9:1234 
-#EXTINF:-1,Animal Planet HD 
-http://37.9.0.194:1234/udp/225.225.108.1:1234 
-#EXTINF:-1,2X2 
-http://37.9.0.194:1234/udp/225.225.110.1:1234 
-#EXTINF:-1,A1 
-http://37.9.0.194:1234/udp/225.225.110.2:1234 
-#EXTINF:-1,Диалоги о рыбалке (TECT) 
-http://37.9.0.194:1234/udp/225.225.110.3:1234 
-#EXTINF:-1,CBS Reality 
-http://37.9.0.194:1234/udp/225.225.110.4:1234 
-#EXTINF:-1,ЕвроКино 
-http://37.9.0.194:1234/udp/225.225.110.5:1234 
-#EXTINF:-1,Теленовелла 
-http://37.9.0.194:1234/udp/225.225.110.6:1234 
-#EXTINF:-1,Русский Иллюзион 
-http://37.9.0.194:1234/udp/225.225.110.7:1234 
-#EXTINF:-1,AMC 
-http://37.9.0.194:1234/udp/225.225.110.8:1234 
-#EXTINF:-1,ТВЦ 
-http://37.9.0.194:1234/udp/225.225.110.9:1234 
-#EXTINF:-1,Совершенно секретно 
-http://37.9.0.194:1234/udp/225.225.110.10:1234 
-#EXTINF:-1,BRIDGE TV 
-http://37.9.0.194:1234/udp/225.225.110.11:1234 
-#EXTINF:-1,BRIDGE TV Русский Хит 
-http://37.9.0.194:1234/udp/225.225.110.12:1234 
-#EXTINF:-1,TiJi 
-http://37.9.0.194:1234/udp/225.225.110.14:1234 
-#EXTINF:-1,Gulli Girl 
-http://37.9.0.194:1234/udp/225.225.110.15:1234 
-#EXTINF:-1,BBC World News 
-http://37.9.0.194:1234/udp/225.225.110.16:1234 
-#EXTINF:-1,Первый МЕТЕО 
-http://37.9.0.194:1234/udp/225.225.110.17:1234 
-#EXTINF:-1,НАШЕ ТВ 
-http://37.9.0.194:1234/udp/225.225.110.18:1234 
-#EXTINF:-1,Nat Geo Wild HD 
-http://37.9.0.194:1234/udp/225.225.111.1:1234 
-#EXTINF:-1,MGM HD 
-http://37.9.0.194:1234/udp/225.225.111.3:1234 
-#EXTINF:-1,Первый канал HD 
-http://37.9.0.194:1234/udp/225.225.111.4:1234 
-#EXTINF:-1,Россия 1 HD 
-http://37.9.0.194:1234/udp/225.225.111.5:1234 
-#EXTINF:-1,National Geographic HD 
-http://37.9.0.194:1234/udp/225.225.112.1:1234 
-#EXTINF:-1,Amedia Premium HD 
-http://37.9.0.194:1234/udp/225.225.112.2:1234 
-#EXTINF:-1,TLC HD 
-http://37.9.0.194:1234/udp/225.225.112.3:1234 
-#EXTINF:-1,Travel Channel HD 
-http://37.9.0.194:1234/udp/225.225.112.4:1234 
-#EXTINF:-1,ABTO24 
-http://37.9.0.194:1234/udp/225.225.113.1:1234 
-#EXTINF:-1,Детский мир/Телеклуб 
-http://37.9.0.194:1234/udp/225.225.113.2:1234 
-#EXTINF:-1,Bloomberg Television 
-http://37.9.0.194:1234/udp/225.225.113.3:1234 
-#EXTINF:-1,JimJam 
-http://37.9.0.194:1234/udp/225.225.113.4:1234 
-#EXTINF:-1,Nickelodeon 
-http://37.9.0.194:1234/udp/225.225.113.5:1234 
-#EXTINF:-1,SONY CHANNEL 
-http://37.9.0.194:1234/udp/225.225.113.6:1234 
-#EXTINF:-1,Sony Sci-Fi 
-http://37.9.0.194:1234/udp/225.225.113.7:1234 
-#EXTINF:-1,Загородная жизнь 
-http://37.9.0.194:1234/udp/225.225.113.9:1234 
-#EXTINF:-1,Мир сериала 
-http://37.9.0.194:1234/udp/225.225.113.10:1234 
-#EXTINF:-1,Eurosport 1 
-http://37.9.0.194:1234/udp/225.225.113.11:1234 
-#EXTINF:-1,Россия 1 
-http://37.9.0.194:1234/udp/225.225.114.1:1234 
-#EXTINF:-1,МАТЧ! https://vk.com/club_dryny 
-http://37.9.0.194:1234/udp/225.225.114.2:1234 
-#EXTINF:-1,Пятый канал 
-http://37.9.0.194:1234/udp/225.225.114.3:1234 
-#EXTINF:-1,РЕН ТВ 
-http://37.9.0.194:1234/udp/225.225.114.4:1234 
-#EXTINF:-1,Россия К 
-http://37.9.0.194:1234/udp/225.225.114.5:1234 
-#EXTINF:-1,СПАС 
-http://37.9.0.194:1234/udp/225.225.114.6:1234 
-#EXTINF:-1,ТВ-3 
-http://37.9.0.194:1234/udp/225.225.114.7:1234 
-#EXTINF:-1,ПЯТНИЦА 
-http://37.9.0.194:1234/udp/225.225.114.8:1234 
-#EXTINF:-1,МИР 
-http://37.9.0.194:1234/udp/225.225.114.9:1234 
-#EXTINF:-1,Россия 24 
-http://37.9.0.194:1234/udp/225.225.114.10:1234 
-#EXTINF:-1,Animal Planet 
-http://37.9.0.194:1234/udp/225.225.115.1:1234 
-#EXTINF:-1,Cartoon Network 
-http://37.9.0.194:1234/udp/225.225.115.2:1234 
-#EXTINF:-1,Discovery Channel 
-http://37.9.0.194:1234/udp/225.225.115.3:1234 
-#EXTINF:-1,DTX 
-http://37.9.0.194:1234/udp/225.225.115.4:1234 
-#EXTINF:-1,Fox Life 
-http://37.9.0.194:1234/udp/225.225.115.5:1234 
-#EXTINF:-1,Investigation Discovery 
-http://37.9.0.194:1234/udp/225.225.115.6:1234 
-#EXTINF:-1,MTV 
-http://37.9.0.194:1234/udp/225.225.115.7:1234 
-#EXTINF:-1,MTV Hits 
-http://37.9.0.194:1234/udp/225.225.115.8:1234 
-#EXTINF:-1,MTV Rocks 
-http://37.9.0.194:1234/udp/225.225.115.9:1234 
-#EXTINF:-1,National Geographic 
-http://37.9.0.194:1234/udp/225.225.115.10:1234 
-#EXTINF:-1,Nick Jr. 
-http://37.9.0.194:1234/udp/225.225.115.11:1234 
-#EXTINF:-1,TLC 
-http://37.9.0.194:1234/udp/225.225.115.12:1234 
-#EXTINF:-1,VH1 Classic 
-http://37.9.0.194:1234/udp/225.225.115.13:1234 
-#EXTINF:-1,БОБЁР 
-http://37.9.0.194:1234/udp/225.225.115.14:1234 
-#EXTINF:-1,Время: далекое и близкое 
-http://37.9.0.194:1234/udp/225.225.115.15:1234 
-#EXTINF:-1,Дом Кино 
-http://37.9.0.194:1234/udp/225.225.115.16:1234 
-#EXTINF:-1,Карусель 
-http://37.9.0.194:1234/udp/225.225.115.17:1234 
-#EXTINF:-1,Музыка Первого 
-http://37.9.0.194:1234/udp/225.225.115.18:1234 
-#EXTINF:-1,ТЕЛЕКАФЕ 
-http://37.9.0.194:1234/udp/225.225.115.19:1234 
-#EXTINF:-1,O! https://vk.com/club_dryny 
-http://37.9.0.194:1234/udp/225.225.115.20:1234 
-#EXTINF:-1,365 дней ТВ 
-http://37.9.0.194:1234/udp/225.225.116.1:1234 
-#EXTINF:-1,Авто Плюс 
-http://37.9.0.194:1234/udp/225.225.116.2:1234 
-#EXTINF:-1,ИНДИЙСКОЕ КИНО 
-http://37.9.0.194:1234/udp/225.225.116.3:1234 
-#EXTINF:-1,КИНОМИКС 
-http://37.9.0.194:1234/udp/225.225.116.4:1234 
-#EXTINF:-1,КИНОСВИДАНИЕ 
-http://37.9.0.194:1234/udp/225.225.116.5:1234 
-#EXTINF:-1,КИНОКОМЕДИЯ 
-http://37.9.0.194:1234/udp/225.225.116.6:1234 
-#EXTINF:-1,Кто есть кто 
-http://37.9.0.194:1234/udp/225.225.116.7:1234 
-#EXTINF:-1,Кухня ТВ 
-http://37.9.0.194:1234/udp/225.225.116.8:1234 
-#EXTINF:-1,Ля-минор ТВ 
-http://37.9.0.194:1234/udp/225.225.116.9:1234 
-#EXTINF:-1,КИНОСЕРИЯ 
-http://37.9.0.194:1234/udp/225.225.116.10:1234 
-#EXTINF:-1,МУЖСКОЕ КИНО 
-http://37.9.0.194:1234/udp/225.225.116.11:1234 
-#EXTINF:-1,НАШЕ НОВОЕ КИНО 
-http://37.9.0.194:1234/udp/225.225.116.12:1234 
-#EXTINF:-1,Ностальгия 
-http://37.9.0.194:1234/udp/225.225.116.13:1234 
-#EXTINF:-1,Русская ночь 
-http://37.9.0.194:1234/udp/225.225.116.14:1234 
-#EXTINF:-1,Hustler TV 
-http://37.9.0.194:1234/udp/225.225.116.15:1234 
-#EXTINF:-1,Первый канал 
-http://37.9.0.194:1234/udp/225.225.117.1:1234 
-#EXTINF:-1,Домашний 
-http://37.9.0.194:1234/udp/225.225.117.2:1234 
-#EXTINF:-1,СТС 
-http://37.9.0.194:1234/udp/225.225.117.3:1234 
-#EXTINF:-1,CTC Love 
-http://37.9.0.194:1234/udp/225.225.117.4:1234 
-#EXTINF:-1,ТДК 
-http://37.9.0.194:1234/udp/225.225.117.5:1234 
-#EXTINF:-1,Че 
-http://37.9.0.194:1234/udp/225.225.117.6:1234 
-#EXTINF:-1,Discovery Science 
-http://37.9.0.194:1234/udp/225.225.117.7:1234 
-#EXTINF:-1,HD Life 
-http://37.9.0.194:1234/udp/225.225.119.1:1234 
-#EXTINF:-1,МАТЧ! АРЕНА HD 
-http://37.9.0.194:1234/udp/225.225.119.2:1234 
-#EXTINF:-1,Discovery Channel HD 
-http://37.9.0.194:1234/udp/225.225.119.3:1234 
-#EXTINF:-1,Телеканал КХЛ HD 
-http://37.9.0.194:1234/udp/225.225.119.4:1234 
-#EXTINF:-1,Русский роман 
-http://37.9.0.194:1234/udp/225.225.120.2:1234
 
 
 
@@ -1992,89 +1477,6 @@ http://hls.goodgame.ru/hls/12949.m3u8
 http://hls.goodgame.ru/hls/5346.m3u8
 
 
-
-
-
-
-
-
-
-#EXTINF:-1,Первый канал
-http://streams.iptv.zone:80/p/342576/c/1/u/1807/1E93k7CQUA2gBac4VJKFwDtGt1dfm1
-#EXTINF:-1,Первый канал
-http://streams.iptv.zone:80/p/338936/c/13/u/1807/1E93k7CQUA2gBac4VJKFwDtGt1dfm1
-#EXTINF:-1,Первый канал (+2)
-http://streams.iptv.zone:80/p/340037/c/193/u/1807/1E93k7CQUA2gBac4VJKFwDtGt1dfm1
-#EXTINF:-1,Первый канал (+2)
-http://streams.iptv.zone:80/p/331490/c/16/u/1807/1E93k7CQUA2gBac4VJKFwDtGt1dfm1
-#EXTINF:-1,Первый канал (+4)
-http://streams.iptv.zone:80/p/331490/c/15/u/1807/1E93k7CQUA2gBac4VJKFwDtGt1dfm1
-#EXTINF:-1,Первый канал (+4)
-http://streams.iptv.zone:80/p/322724/c/112/u/1807/1E93k7CQUA2gBac4VJKFwDtGt1dfm1
-#EXTINF:-1,Первый канал (+4)
-http://streams.iptv.zone:80/p/277376/c/1/u/1807/1E93k7CQUA2gBac4VJKFwDtGt1dfm1
-#EXTINF:-1,Первый канал (+4)
-http://streams.iptv.zone:80/p/257735/c/177/u/1807/1E93k7CQUA2gBac4VJKFwDtGt1dfm1
-#EXTINF:-1,Первый канал (+4)
-http://streams.iptv.zone:80/p/337286/c/1/u/1807/1E93k7CQUA2gBac4VJKFwDtGt1dfm1
-#EXTINF:-1,Первый канал (+6)
-http://streams.iptv.zone:80/p/331490/c/14/u/1807/1E93k7CQUA2gBac4VJKFwDtGt1dfm1
-#EXTINF:-1,Первый канал (+6 Владивосток)
-http://streams.iptv.zone:80/p/251234/c/1/u/1807/1E93k7CQUA2gBac4VJKFwDtGt1dfm1
-#EXTINF:-1,Первый канал (+6 Хабаровск)
-http://streams.iptv.zone:80/p/249872/c/18/u/1807/1E93k7CQUA2gBac4VJKFwDtGt1dfm1
-#EXTINF:-1,Первый канал (+6 Благовещенск)
-http://streams.iptv.zone:80/p/226346/c/3/u/1807/1E93k7CQUA2gBac4VJKFwDtGt1dfm1
-#EXTINF:-1,Первый канал (+8)
-http://streams.iptv.zone:80/p/331490/c/13/u/1807/1E93k7CQUA2gBac4VJKFwDtGt1dfm1
-#EXTINF:-1,Первый канал (+8)
-http://streams.iptv.zone:80/p/291789/c/179/u/1807/1E93k7CQUA2gBac4VJKFwDtGt1dfm1
-#EXTINF:-1,Первый канал (+8)
-http://streams.iptv.zone:80/p/251234/c/250/u/1807/1E93k7CQUA2gBac4VJKFwDtGt1dfm1
-#EXTINF:-1,Россия 1
-http://streams.iptv.zone:80/p/342576/c/2/u/1807/1E93k7CQUA2gBac4VJKFwDtGt1dfm1
-#EXTINF:-1,Россия 1
-http://streams.iptv.zone:80/p/343817/c/93/u/1807/1E93k7CQUA2gBac4VJKFwDtGt1dfm1
-#EXTINF:-1,Россия 1 
-http://streams.iptv.zone:80/p/342457/c/86/u/1807/1E93k7CQUA2gBac4VJKFwDtGt1dfm1
-#EXTINF:-1,Россия 1
-http://streams.iptv.zone:80/p/338936/c/85/u/1807/1E93k7CQUA2gBac4VJKFwDtGt1dfm1
-#EXTINF:-1,Россия 1 (+2) (Урал)
-http://streams.iptv.zone:80/p/340037/c/202/u/1807/1E93k7CQUA2gBac4VJKFwDtGt1dfm1
-#EXTINF:-1,Россия 1 (+2) (Урал)
-http://streams.iptv.zone:80/p/329833/c/8/u/1807/1E93k7CQUA2gBac4VJKFwDtGt1dfm1
-#EXTINF:-1,Россия 1 (+2) (Югория)
-http://streams.iptv.zone:80/p/316448/c/232/u/1807/1E93k7CQUA2gBac4VJKFwDtGt1dfm1
-#EXTINF:-1,Россия 1 (+2) (Югория)
-http://streams.iptv.zone:80/p/278054/c/2/u/1807/1E93k7CQUA2gBac4VJKFwDtGt1dfm1.m3u8
-#EXTINF:-1,Россия 1 (+2) (Урал)
-http://streams.iptv.zone:80/p/250219/c/115/u/1807/1E93k7CQUA2gBac4VJKFwDtGt1dfm1
-#EXTINF:-1,Россия 1 (+2)
-http://streams.iptv.zone:80/p/146551/c/5/u/1807/1E93k7CQUA2gBac4VJKFwDtGt1dfm1
-#EXTINF:-1,Россия 1 (+4)
-http://streams.iptv.zone:80/p/337286/c/2/u/1807/1E93k7CQUA2gBac4VJKFwDtGt1dfm1
-#EXTINF:-1,Россия 1 (+4)
-http://streams.iptv.zone:80/p/292029/c/105/u/1807/1E93k7CQUA2gBac4VJKFwDtGt1dfm1
-#EXTINF:-1,РОССИЯ 1 (+4)
-http://streams.iptv.zone:80/p/63020/c/47/u/1807/1E93k7CQUA2gBac4VJKFwDtGt1dfm1.m3u8
-#EXTINF:-1,РОССИЯ 1 (+6)
-http://streams.iptv.zone:80/p/251234/c/206/u/1807/1E93k7CQUA2gBac4VJKFwDtGt1dfm1
-#EXTINF:-1,Россия 1 (+6)
-http://streams.iptv.zone:80/p/187977/c/108/u/1807/1E93k7CQUA2gBac4VJKFwDtGt1dfm1
-#EXTINF:-1,Россия 1 (+6)
-http://streams.iptv.zone:80/p/134861/c/2/u/1807/1E93k7CQUA2gBac4VJKFwDtGt1dfm1
-#EXTINF:-1,Россия 1 (+8)
-http://streams.iptv.zone:80/p/291789/c/5/u/1807/1E93k7CQUA2gBac4VJKFwDtGt1dfm1
-#EXTINF:-1,Россия 1 (+8)
-http://streams.iptv.zone:80/p/291230/c/5/u/1807/1E93k7CQUA2gBac4VJKFwDtGt1dfm1
-#EXTINF:-1,Россия 1 (+8)
-http://streams.iptv.zone:80/p/251234/c/3/u/1807/1E93k7CQUA2gBac4VJKFwDtGt1dfm1
-
-
-
-
-
-
 #EXTINF:-1,Most Video TV HD
 http://w4.mostvideo.tv/tv/ch1.m3u8
 
@@ -2083,12 +1485,6 @@ http://kz.light-iptv.ru:2017/play/xsport-hd?auth=iptv:zone
 
 
 
-#EXTINF:-1,Belorus 5
-http://91.149.172.100:80/channel?id=102&u=demo&p=demo
-#EXTINF:-1,Setanta Sports HD
-http://91.149.172.100:80/channel?id=145&u=demo&p=demo
-#EXTINF:-1,Setanta Sports+
-http://91.149.172.100:80/channel?id=146&u=demo&p=demo
 
 
 #EXTINF:-1,Setanta Sports
@@ -2153,30 +1549,7 @@ http://195.49.206.243:8000/udp/239.255.1.63:1234
 http://serv25.vintera.tv:8081/klasskino/k_kino/playlist.m3u8
 
 
-#EXTINF:-1,STAR CINEMA
-http://31.43.33.1:8100/ch45/index.m3u8
-#EXTINF:-1,BOLT
-http://31.43.33.1:8100/ch41/index.m3u8
-#EXTINF:-1,Drama
-http://31.43.33.1:8100/ch121/index.m3u8
-#EXTINF:-1,Detskiy mir
-http://31.43.33.1:8100/ch133/index.m3u8
-#EXTINF:-1,Gulli
-http://31.43.33.1:8100/ch158/index.m3u8
-#EXTINF:-1,Nick jr
-http://31.43.33.1:8100/ch159/index.m3u8
-#EXTINF:-1,Malyatko TV
-http://31.43.33.1:8100/ch34/index.m3u8
-#EXTINF:-1,Plyus Plyus
-http://31.43.33.1:8100/ch19/index.m3u8
-#EXTINF:-1,Piksel
-http://31.43.33.1:8100/ch14/index.m3u8
-#EXTINF:-1,Nickelodeon
-http://31.43.33.1:8100/ch123/index.m3u8
-#EXTINF:-1,Tiji
-http://31.43.33.1:8100/ch124/index.m3u8
-#EXTINF:-1,Malis
-http://31.43.33.1:8100/ch166/index.m3u8
+
 
 
 
