@@ -17,6 +17,9 @@ http://66.70.129.43:8080/Hrt2/index.m3u8
 #EXTINF:0,RTL LIVING
 http://66.70.129.43:8080/RTLLiving/index.m3u8
 
+#EXTINF:-1,DomaTV
+http://66.70.129.43:8080/Domatv/index.m3u8
+
 #EXTINF:0, RTL 1
 http://323569365.e.970705972.r.pluscdn.com/970705972/_definst_/rtl1.stream/playlist.m3u8
 #EXTINF:0, RTL 2
@@ -24,9 +27,6 @@ http://851949745.e.929594662.r.pluscdn.com/929594662/_definst_/rtl2.stream/playl
 
 #EXTINF:0, RTL 2
 rtmp://130.117.45.5:1935/P929594662/_definst_/rtl2.stream
-
-#EXTINF:-1,DomaTV
-http://66.70.129.43:8080/Domatv/index.m3u8
 
 #EXTINF:0,RTV Banovina
 rtmp://video.radio-banovina.hr/live/myStream
