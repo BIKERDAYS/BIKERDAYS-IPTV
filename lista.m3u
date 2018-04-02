@@ -25,6 +25,9 @@ http://851949745.e.929594662.r.pluscdn.com/929594662/_definst_/rtl2.stream/playl
 #EXTINF:0, RTL 2
 rtmp://130.117.45.5:1935/P929594662/_definst_/rtl2.stream
 
+#EXTINF:-1,DomaTV
+http://66.70.129.43:8080/Domatv/index.m3u8
+
 #EXTINF:0,RTV Banovina
 rtmp://video.radio-banovina.hr/live/myStream
 
@@ -492,6 +495,16 @@ http://nodeb.gocaster.net:1935/CGL/_definst_/mp4:TODAYFM_TEST2/stream.m3u8
 
 #EXTINF:0,MUSIC CHOICE
 http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
+#EXTINF:-1,Music Choice - KIDS ONLY 
+http://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/MC130/chunklist.m3u8 
+#EXTINF:-1,Music Choice - POP HITS 
+http://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/MC133/chunklist.m3u8 
+#EXTINF:-1,Music Choice - DANCE EDM 
+http://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/MC127/chunklist.m3u8 
+#EXTINF:-1,Music Choice - HIT LIST 
+http://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/MC100/chunklist.m3u8 
+#EXTINF:-1,Music Choice - INDIE 
+http://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/MC129/chunklist.m3u8 
 
 #EXTINF:-1,VibeeTV
 http://46.101.21.42:8081/live/live2/playlist.m3u8
