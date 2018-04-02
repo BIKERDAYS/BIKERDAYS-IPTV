@@ -227,18 +227,15 @@ http://93.87.85.10/PLTV/88888888/224/3221226600/index.m3u8?rrsip=93.87.85.10&zon
 #EXTINF:-1,NBA TV
 http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/12.ts
 
-#EXTINF:-1,PT1 SPORTTV4MOBILE
-http://www.bragatop.com:8080/live/1111/1111/15969.m3u8
-#EXTINF:-1,PT1 SPORTTV3MOBILE
-http://www.bragatop.com:8080/live/1111/1111/15970.m3u8
-#EXTINF:-1,PT1 SPORTTV5MOBILE
-http://www.bragatop.com:8080/live/1111/1111/15968.m3u8
-#EXTINF:-1,PT1 SPORTTV2MOBILE
-http://www.bragatop.com:8080/live/1111/1111/15971.m3u8
+#EXTINF:-1,SPORT TV 1 HD
+http://77.54.66.213:9981/stream/channelid/1542778601
+#EXTINF:-1,Sport TV 2 HD
+http://77.54.66.213:9981/stream/channelid/916008491
+#EXTINF:-1,Sport TV 4 HD
+http://77.54.66.213:9981/stream/channelid/365756802
 
 #EXTINF:-1,Setanta Sports
 http://91.149.172.100:80/channel?id=146&u=demo&p=demo
-
 
 #EXTINF:-1,Extreme Sports
 http://46.158.55.180:6689/stream?cid=3675
@@ -308,6 +305,20 @@ http://46.149.176.142:9003/play/a009
 #EXTINF:-1,EUROSPORT 2
 http://195.206.253.157:8001/eurosport2hd
 
+
+#EXTINF:-1,Euro D
+http://188.62.183.163:9981/stream/channelid/2071383364
+#EXTINF:-1,euronews F
+http://188.62.183.163:9981/stream/channelid/45242627
+#EXTINF:-1,Europe 1
+http://188.62.183.163:9981/stream/channelid/1562077472
+#EXTINF:-1,Eurosport 1
+http://188.62.183.163:9981/stream/channelid/1657577568
+#EXTINF:-1,Eurosport 1 F
+http://188.62.183.163:9981/stream/channelid/1772218774
+
+
+
 #EXTINF:-1,silk sport
 http://188.93.94.138/silk_sport4/index.m3u8
 
@@ -317,6 +328,33 @@ http://31.146.176.210:8080/CHANNEL527/BITRATE0/playlist.m3u8
 http://31.146.176.210:8080/CHANNEL532/BITRATE0/playlist.m3u8
 #EXTINF:-1,SILK SPORT 3
 http://31.146.176.210:8080/CHANNEL634/BITRATE0/playlist.m3u8
+
+
+#EXTINF:-1,Setanta 
+http://185.10.211.10:3000/45545446/ZtQkw8/472 
+#EXTINF:-1,SetantaEurasiaHD 
+http://185.10.211.10:3000/45545446/ZtQkw8/473 
+#EXTINF:-1,SetantaSportHD 
+http://185.10.211.10:3000/45545446/ZtQkw8/474 
+#EXTINF:-1,ElevenSports1HD 
+http://185.10.211.10:3000/45545446/ZtQkw8/457 
+#EXTINF:-1,PolsatSportHD 
+http://185.10.211.10:3000/45545446/ZtQkw8/469 
+#EXTINF:-1,ElevenSports2HD 
+http://185.10.211.10:3000/45545446/ZtQkw8/458 
+#EXTINF:-1,ElevenSports3HD 
+http://185.10.211.10:3000/45545446/ZtQkw8/459 
+#EXTINF:-1,ElevenSports4HD 
+http://185.10.211.10:3000/45545446/ZtQkw8/460
+
+
+#EXTINF:-1,Futbol 1 UA
+http://mag-aura.xyz:25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/199.m3u8
+#EXTINF:-1,Futbol 2 UA
+http://mag-aura.xyz:25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/198.m3u8
+#EXTINF:-1,НАw Futbol
+http://mag-aura.xyz:25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/61.m3u8 
+
 
 
 #EXTINF:-1,boets
@@ -1695,26 +1733,10 @@ http://cdn-01.bonus-tv.ru:9090/wfc/wfhd/type/none/eol/20200101T0000/hash/9a88dd1
 skip
 
 
-#EXTINF:-1,Brazzers TV Europe
-http://185.107.240.52:34040/udp/230.3.4.143:5678
-#EXTINF:-1,BRAZZERS TV 18+
-http://91.203.208.77:3371/udp/239.195.2.4:1234
-#EXTINF:-1,Frenchlover
-http://79.133.101.247:34040/udp/239.191.254.251:15285
-#EXTINF:-1,Playboy TV
-http://37.192.133.9:81/udp/239.1.6.39:1234
-#EXTINF:-1,Ночной Клуб
-http://37.192.133.9:81/udp/239.1.6.33:1234
-#EXTINF:-1,Ola-la
-http://37.192.133.9:81/udp/239.1.6.34:1234
-
-
-#EXTINF:-1,Brazzers TV Europe
-http://217.117.250.45:34040/udp/230.3.4.143:5678
+#EXTINF:-1,BRAZZERS TV 18+ 
+http://79.133.103.1:34040/udp/239.191.254.170:15285 
 #EXTINF:-1,BRAZZERS TV 18+
 http://109.248.75.133:3371/udp/239.195.2.4:1234
-#EXTINF:-1,BRAZZERS TV 18+
-http://95.85.88.230:34040/udp/239.191.254.170:15285
 #EXTINF:-1,РУССКАЯ НОЧЬ
 http://37.195.107.177:81/udp/239.1.6.32:1234
 #EXTINF:-1,Русская ночь
@@ -1722,39 +1744,13 @@ http://91.203.209.92:3371/udp/239.195.2.3:1234
 #EXTINF:-1,PLAYBOY TV
 http://109.248.75.133:3371/udp/239.195.2.5:1234
 #EXTINF:-1,Playboy TV
-http://37.192.31.121:81/udp/239.1.6.39:1234
-#EXTINF:-1,Playboy TV
 http://91.203.209.92:3371/udp/239.195.2.5:1234
-#EXTINF:-1,Frenchlover
-http://95.85.88.230:34040/udp/239.191.254.251:15285
-#EXTINF:-1,Ночной Клуб
-http://37.192.31.121:81/udp/239.1.6.33:1234
-#EXTINF:-1,Ola-la
-http://37.192.31.121:81/udp/239.1.6.34:1234
+#EXTINF:-1,Frenchlover 
+http://79.133.103.1:34040/udp/239.191.254.251:15285 
 
 
-
-#EXTINF:-1,PLAYBOY TV
-http://91.203.208.77:3371/udp/239.195.2.5:1234
-#EXTINF:-1,Playboy TV
-http://37.194.183.113:81/udp/239.1.6.39:1234
-#EXTINF:-1,Playboy TV
-http://91.203.208.65:3371/udp/239.195.2.5:1234
-#EXTINF:-1,Ночной Клуб
-http://37.194.183.113:81/udp/239.1.6.33:1234
-#EXTINF:-1,Ola-la
-http://37.194.183.113:81/udp/239.1.6.34:1234
-
-
-
-#EXTINF:-1,dusk 
-http://37.9.0.201:8890 
-#EXTINF:-1,ххх 
-http://37.9.0.201:8889 
-#EXTINF:-1,Cento X Cento 
-http://37.9.0.201:8811 
-#EXTINF:-1,Passion XXX 
-http://37.9.0.201:8888 
+#EXTINF:-1,DUSK
+http://188.40.113.140:86/m3u8/exoticatv.m3u8
 
 
 #EXTINF:-1,Blue Hustler
@@ -1777,50 +1773,6 @@ http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/266/inde
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/267/index.m3u8
 #EXTINF:-1,Hustler HD
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/502/index.m3u8
-
-
-#EXTINF:-1,XXX: 1
-rtmp://all1.noips.info:53/UfkFxz7pWY3N6jVJ/sextwo
-#EXTINF:-1,XXX: 2
-rtmp://all1.noips.info:53/UfkFxz7pWY3N6jVJ/sexthree
-#EXTINF:-1,XXX: 3
-rtmp://all1.noips.info:53/UfkFxz7pWY3N6jVJ/hustler
-#EXTINF:-1,XXX: 5
-rtmp://all1.noips.info:53/UfkFxz7pWY3N6jVJ/sexfour
-#EXTINF:-1,XXX: 6
-rtmp://all1.noips.info:53/UfkFxz7pWY3N6jVJ/sexfive
-#EXTINF:-1,XXX: 7
-rtmp://all1.noips.info:53/UfkFxz7pWY3N6jVJ/sexsix
-#EXTINF:-1,XXX: 8
-rtmp://all1.noips.info:53/UfkFxz7pWY3N6jVJ/sexgreece
-#EXTINF:-1,XXX: 9
-rtmp://all1.noips.info:53/UfkFxz7pWY3N6jVJ/sex_french_lover
-#EXTINF:-1,XXX: 10
-rtmp://all1.noips.info:53/UfkFxz7pWY3N6jVJ/SCTHD
-#EXTINF:-1,XXX: 11
-rtmp://all1.noips.info:53/UfkFxz7pWY3N6jVJ/sexone
-#EXTINF:-1,XXX: 12
-rtmp://all1.noips.info:53/UfkFxz7pWY3N6jVJ/HustlerHD
-#EXTINF:-1,XXX: 13
-rtmp://all1.noips.info:53/UfkFxz7pWY3N6jVJ/HustlerHD2
-#EXTINF:-1,XXX: 14
-rtmp://all1.noips.info:53/UfkFxz7pWY3N6jVJ/SCTHQ
-#EXTINF:-1,XXX: 15
-rtmp://all1.noips.info:53/UfkFxz7pWY3N6jVJ/sexp
-#EXTINF:-1,XXX: 16
-rtmp://all1.noips.info:53/UfkFxz7pWY3N6jVJ/Redlights
-#EXTINF:-1,XXX: 17
-rtmp://all1.noips.info:53/UfkFxz7pWY3N6jVJ/SCT7
-#EXTINF:-1,XXX: 18
-rtmp://all1.noips.info:53/UfkFxz7pWY3N6jVJ/SCT4
-#EXTINF:-1,XXX: 19
-rtmp://all1.noips.info:53/UfkFxz7pWY3N6jVJ/Playboy
-#EXTINF:-1,XXX: 20
-rtmp://all1.noips.info:53/UfkFxz7pWY3N6jVJ/SCT5
-
-
-
-
 
 
 #EXTINF:-1,YouPorn 24H	
