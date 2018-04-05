@@ -1819,6 +1819,17 @@ http://79.133.103.1:34040/udp/239.191.254.251:15285
 http://188.40.113.140:86/m3u8/exoticatv.m3u8
 
 
+#EXTINF:-1,XXL
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/500/index.m3u8
+#EXTINF:-1,Redlight
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/501/index.m3u8
+#EXTINF:-1,Hustler
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/502/index.m3u8
+#EXTINF:-1,Playboy TV
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/142/index.m3u8
+
+
+
 #EXTINF:-1,Blue Hustler
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/268/index.m3u8
 #EXTINF:-1,Brazzers TV Europe
