@@ -310,7 +310,12 @@ http://188.62.183.163:9981/stream/channelid/1657577568
 #EXTINF:-1,Eurosport 1 France
 http://188.62.183.163:9981/stream/channelid/1772218774
 
-
+#EXTINF:-1,Eurosport_2
+http://89.28.21.90/Eurosport_2/tracks-v1a1/index.m3u8?token=f8b3c6954d80c97f0f7190fcb84b538fd4d6202a
+#EXTINF:-1,Eurosport_HD
+http://89.28.21.90/Eurosport_HD/tracks-v1a1/index.m3u8?token=f8b3c6954d80c97f0f7190fcb84b538fd4d6202a
+#EXTINF:-1,Viasat_Sport
+http://89.28.21.90/Viasat_Sport/tracks-v1a1/index.m3u8?token=f8b3c6954d80c97f0f7190fcb84b538fd4d6202a
 
 #EXTINF:-1,silk sport
 http://188.93.94.138/silk_sport4/index.m3u8
@@ -1700,24 +1705,11 @@ http://cdn-01.bonus-tv.ru:9090/wfc/wfhd/type/none/eol/20200101T0000/hash/9a88dd1
 skip
 
 
-#EXTINF:-1,BRAZZERS TV 18+ 
-http://79.133.103.1:34040/udp/239.191.254.170:15285 
-#EXTINF:-1,BRAZZERS TV 18+
-http://109.248.75.133:3371/udp/239.195.2.4:1234
-#EXTINF:-1,РУССКАЯ НОЧЬ
-http://37.195.107.177:81/udp/239.1.6.32:1234
-#EXTINF:-1,Русская ночь
-http://91.203.209.92:3371/udp/239.195.2.3:1234
-#EXTINF:-1,PLAYBOY TV
-http://109.248.75.133:3371/udp/239.195.2.5:1234
-#EXTINF:-1,Playboy TV
-http://91.203.209.92:3371/udp/239.195.2.5:1234
-#EXTINF:-1,Frenchlover 
-http://79.133.103.1:34040/udp/239.191.254.251:15285 
 
-
-#EXTINF:-1,DUSK
-http://188.40.113.140:86/m3u8/exoticatv.m3u8
+#EXTINF:-1,Hustler_TV
+http://89.28.21.90/Hustler_TV/tracks-v1a1/index.m3u8?token=f8b3c6954d80c97f0f7190fcb84b538fd4d6202a
+#EXTINF:-1,Dorcel HD
+http://89.28.21.90/Dorcel_HD/tracks-v1a1/index.m3u8?token=f8b3c6954d80c97f0f7190fcb84b538fd4d6202a
 
 
 #EXTINF:-1,XXL
