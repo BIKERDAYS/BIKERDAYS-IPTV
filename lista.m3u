@@ -682,6 +682,29 @@ http://str.trofey.net:1935/live/2_max.smil/chunklist_w158057594_b4000000.m3u8?id
 #EXTINF:0,RUSSIA TODAY DOCUMENTARY
 http://secure-streams.akamaized.net/rt-doc/index2500.m3u8
 
+#EXTINF:-1,National Geographic 
+http://164.132.136.176:8000/0081 
+#EXTINF:-1,DiscoveryScience 
+http://164.132.136.176:8000/0061 
+#EXTINF:-1,Discovery Channel 
+http://164.132.136.176:8000/0076 
+#EXTINF:-1,Animal Planet 
+http://164.132.136.176:8000/0080 
+#EXTINF:-1,Investigation Discovery 
+http://164.132.136.176:8000/0199 
+#EXTINF:-1,DTX 
+http://164.132.136.176:8000/0197 
+#EXTINF:-1,ViasatHistory 
+http://164.132.136.176:8000/0050 
+#EXTINF:-1,ViasatExplore 
+http://164.132.136.176:8000/0049 
+#EXTINF:-1,ViasatNature 
+http://164.132.136.176:8000/0051 
+#EXTINF:-1,NatGeoWild 
+http://164.132.136.176:8000/0054 
+#EXTINF:-1,TLC 
+http://164.132.136.176:8000/0079 
+
 
 
 #EXTINF:0, tlc (srp)
@@ -1427,12 +1450,6 @@ skip
 
 
 
-
-
-
-
-
-
 #EXTINF:-1,100% news
 http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
 #EXTINF:-1,LIFE HD
@@ -1632,18 +1649,10 @@ skip
 
 #EXTINF:-1,ceskoslovensko hd
 http://65.254.55.10:4000/live/196/196.m3u8
-#EXTINF:-1,doma
-http://199.195.199.196:5000/live/368/368.m3u8
-#EXTINF:-1,stv 1
-http://199.195.199.196:5000/live/365/365.m3u8
-#EXTINF:-1,stv 2
-http://199.195.199.196:5000/live/366/366.m3u8
 #EXTINF:-1,nova action
 http://174.36.163.12:4000/live/304/304.m3u8
 #EXTINF:-1,prima max
 http://74.208.44.158:5000/live/518/518.m3u8
-#EXTINF:-1,spectrum home
-http://199.195.199.196:5000/live/312/312.m3u8
 #EXTINF:-1,nick
 http://65.254.55.10:4000/live/195/195.m3u8
 #EXTINF:-1,discovery
