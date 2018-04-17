@@ -201,13 +201,37 @@ http://46.40.5.99:8000/arena_3_high
 http://46.40.5.99:8000/arena_4_high
 
 
+#EXTINF:-1,Sport Klub 6
+http://82.214.119.228:8000/play/a08i/index.m3u8
+#EXTINF:-1,Sport Klub 5
+http://82.214.119.228:8000/play/a08h/index.m3u8
+#EXTINF:-1,Sport Klub 4
+http://82.214.119.228:8000/play/a08g/index.m3u8
+#EXTINF:-1,Sport Klub 3
+http://82.214.119.228:8000/play/a08f/index.m3u8
+#EXTINF:-1,Sport Klub 2
+http://82.214.119.228:8000/play/a00y/index.m3u8
+#EXTINF:-1,Sport Klub 1
+http://82.214.119.228:8000/play/a00x/index.m3u8
 
-#EXTINF:-1,SportKlub 1 (HR)
-http://str1.perfecttv.us:46801/live/310avni/29-09-13a/12035.ts
-#EXTINF:-1,SportKlub 2 (HR)
-http://str1.perfecttv.us:46801/live/310avni/29-09-13a/12036.ts
-#EXTINF:-1,SportKlub 3 (HR)
-http://str1.perfecttv.us:46801/live/310avni/29-09-13a/12037.ts
+#EXTINF:-1,Sport 1.HD
+http://blackhouse.sx/live1/tracks-v1a1/index.m3u8
+#EXTINF:-1,Sport 2.HD
+http://blackhouse.sx/live2/tracks-v1a1/index.m3u8
+#EXTINF:-1,Sport 3.HD
+http://blackhouse.sx/live3/tracks-v1a1/index.m3u8
+#EXTINF:-1,Sport 4.HD
+http://blackhouse.sx/live4/tracks-v1a1/index.m3u8
+#EXTINF:-1,Sport 5.HD
+http://blackhouse.sx/live5/tracks-v1a1/index.m3u8
+#EXTINF:-1,Sport 6.HD
+http://blackhouse.sx/live6/tracks-v1a1/index.m3u8
+#EXTINF:-1,Sport 7.HD
+http://blackhouse.sx/live7/tracks-v1a1/index.m3u8
+#EXTINF:-1,Sport 8.HD
+http://blackhouse.sx/live8/tracks-v1a1/index.m3u8
+
+
 
 #EXTINF:-1,Arena Sport 1 Sr
 http://93.87.85.10/PLTV/88888888/224/3221226643/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9vmgYnhd%2FQXVMovIFPNVfeGKQqJOc1YO5YOmiz7KWGr0%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100002275%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
@@ -226,8 +250,7 @@ http://93.87.85.10/PLTV/88888888/224/3221226583/index.m3u8?rrsip=93.87.85.10&zon
 http://93.87.85.10/PLTV/88888888/224/3221226600/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9vmgYnhd%2FQXVMovIFPNVfeN2qgZPVA%2FLOJt%2FX8uiw5zk%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100001769%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
 
 
-#EXTINF:-1,NBA TV
-http://pro.prox7.com:8080/live/bXtIcL3IZp/CXN8OH7VF2/12.ts
+
 
 #EXTINF:-1,SPORT 1 germany 
 http://188.62.183.163:9981/stream/channelid/1327376622
@@ -280,6 +303,9 @@ https://eventhlshttps-i.akamaihd.net/hls/live/263645/ssn-hd-https/indexvideo-340
 
 #EXTINF:-1,Extreme Sports
 http://91.149.172.100:80/channel?id=24&u=demo&p=demo
+#EXTINF:-1,Extreme Sports
+http://178.163.110.72:34040/udp/234.0.0.150:2000 
+
 
 #EXTINF:0, hd super tennis
 http://93.123.65.3:9130/130
@@ -310,6 +336,11 @@ http://188.62.183.163:9981/stream/channelid/1657577568
 #EXTINF:-1,Eurosport 1 France
 http://188.62.183.163:9981/stream/channelid/1772218774
 
+#EXTINF:0,EUROSPORT GOLD 
+http://94.245.178.251:4022/udp/239.4.1.149:2020
+
+
+
 #EXTINF:-1,Eurosport_2
 http://89.28.21.90/Eurosport_2/tracks-v1a1/index.m3u8?token=f8b3c6954d80c97f0f7190fcb84b538fd4d6202a
 #EXTINF:-1,Eurosport_HD
@@ -328,46 +359,11 @@ http://31.146.176.210:8080/CHANNEL532/BITRATE0/playlist.m3u8
 http://31.146.176.210:8080/CHANNEL634/BITRATE0/playlist.m3u8
 
 
-#EXTINF:-1,Super Sport 1
-http://5.135.92.130:36349/out/u/516_1.m3u8
-#EXTINF:-1,Super Sport 3
-http://5.135.92.130:36349/out/u/512_1.m3u8
-#EXTINF:-1,Super sport 2
-http://5.135.92.130:36349/out/u/509_1.m3u8
-#EXTINF:-1,Super Sport Kosova 1
-http://5.135.92.130:36349/out/u/506_1.m3u8
-#EXTINF:-1,TeleSport
-http://5.135.92.130:42575/out/u/telesp0rt!.m3u8
-
-
-#EXTINF:-1,Futbol 1 UA
-http://mag-aura.xyz:25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/199.m3u8
-#EXTINF:-1,Futbol 2 UA
-http://mag-aura.xyz:25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/198.m3u8
-#EXTINF:-1,НАw Futbol
-http://mag-aura.xyz:25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/61.m3u8 
-
-
-
 #EXTINF:-1,boets
 http://serv25.vintera.tv:8081/sport/boets1e/chunklist.m3u8
 
-#EXTINF:-1,fsports
-http://aovivo.futeboltv.com:8081/live/8/playlist.m3u8
-#EXTINF:-1,fsports
-http://aovivo.futeboltv.com:8081/live/3/playlist.m3u8
-#EXTINF:-1,fsports
-http://aovivo.futeboltv.com:8081/live/4/playlist.m3u8
-
-
-#EXTINF:-1,diema sport 1
-http://188.40.113.140:86/m3u8/webdiemasport_web.m3u8
-#EXTINF:-1,diema sport 2
-http://188.40.113.140:86/m3u8/webdiemasport2_web.m3u8
-
 #EXTINF:1,xsport
 http://83.142.232.246:1935/live/efir_live720p/playlist.m3u8
-
 
 
 
@@ -378,42 +374,34 @@ skip
 #EXTINF:-1,VH1European 
 http://46.40.5.99:8000/vh1_high
 
-#EXTINF:-1,VH1European
-http://a72d41e6.iptvbot.ru/iptv/H8P5TVLZRQA2H3/536/index.m3u8
-#EXTINF:-1,VH1Classic
-http://a72d41e6.iptvbot.ru/iptv/H8P5TVLZRQA2H3/724/index.m3u8
-#EXTINF:-1,MTVRocks
-http://a72d41e6.iptvbot.ru/iptv/H8P5TVLZRQA2H3/1038/index.m3u8
-#EXTINF:-1,MTVLiveHD
-http://a72d41e6.iptvbot.ru/iptv/H8P5TVLZRQA2H3/221/index.m3u8
-#EXTINF:-1,MTVHits
-http://a72d41e6.iptvbot.ru/iptv/H8P5TVLZRQA2H3/153/index.m3u8
-#EXTINF:-1,MTVDance
-http://a72d41e6.iptvbot.ru/iptv/H8P5TVLZRQA2H3/558/index.m3u8
-#EXTINF:-1,Mezzo
-http://a72d41e6.iptvbot.ru/iptv/H8P5TVLZRQA2H3/707/index.m3u8
-#EXTINF:-1,ТНТMUSIC
-http://a72d41e6.iptvbot.ru/iptv/H8P5TVLZRQA2H3/710/index.m3u8
-#EXTINF:-1,BRIDGETVDANCE
-http://a72d41e6.iptvbot.ru/iptv/H8P5TVLZRQA2H3/711/index.m3u8
+#EXTINF:-1,VH1
+http://82.214.119.228:8000/play/a096/index.m3u8
+
+
+#EXTINF:-1,MTV Hits 
+http://178.163.110.72:34040/udp/234.0.0.194:2000 
+#EXTINF:-1,1 Classic 
+http://178.163.110.72:34040/udp/234.0.0.223:2000 
+#EXTINF:-1,Europe+ TV 
+http://178.163.110.72:34040/udp/234.0.0.183:2000 
+#EXTINF:-1,ТНТ music 
+http://178.163.110.72:34040/udp/234.0.0.231:2000 
+#EXTINF:-1,MTV Dance 
+http://178.163.110.72:34040/udp/234.0.0.233:2000
 
 
 
-#EXTINF:-1,Vh1 Classic
-http://188.168.245.145:34040/udp/233.12.144.87:5050
-#EXTINF:-1,MTV Rocks 
-http://188.168.245.145:34040/udp/233.12.144.86:5050
-#EXTINF:-1,MTV HD
-http://188.168.245.145:34040/udp/233.12.144.84:5050
 
-#EXTINF:0,MTV hits
-http://91.149.172.100:80/channel?id=140&u=demo&p=demo
-
-#EXTINF:0,MTV dance
-http://91.149.172.100:80/channel?id=20&u=demo&p=demo
-
-#EXTINF:0,MTV live hd
-http://91.149.172.100:80/channel?id=4&u=demo&p=demo
+#EXTINF:-1,MTVHits 
+http://164.132.136.176:8000/0202 
+#EXTINF:-1,VH1European 
+http://164.132.136.176:8000/0205 
+#EXTINF:-1,MTVDance 
+http://164.132.136.176:8000/0201 
+#EXTINF:-1,MTVRocks 
+http://164.132.136.176:8000/0203 
+#EXTINF:-1,VH1Classic 
+http://164.132.136.176:8000/0204 
 
 #EXTINF:0,MTV (norg)
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
@@ -723,14 +711,6 @@ skip
 #EXTINF:0,rtl kockica
 rtmp://680111997.e.929594662.r.pluscdn.com/929594662/rtlkockica.stream
 
-#EXTINF:-1,Nick Jr.
-http://188.168.245.145:34040/udp/233.12.144.85:5050
-#EXTINF:-1,Tiji
-http://188.168.245.145:34040/udp/233.12.144.118:5050
-#EXTINF:-1,Disney
-http://188.168.245.145:34040/udp/233.12.144.32:5050
-#EXTINF:-1,Nickelodeon
-http://188.168.245.145:34040/udp/233.12.144.12:5050
 
 #EXTINF:-1,nickelodeon
 http://91.149.172.100:80/channel?id=11&u=demo&p=demo
@@ -1743,6 +1723,70 @@ http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/266/inde
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/267/index.m3u8
 #EXTINF:-1,Hustler HD
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/502/index.m3u8
+
+
+#EXTINF:-1,XXX Pinko TV XXX
+http://iptvtugapt.site:8080/live/edgar/edgar/5431.m3u8
+#EXTINF:-1,XXX Penthouse HD XXX
+http://iptvtugapt.site:8080/live/edgar/edgar/5432.m3u8
+#EXTINF:-1,XXX RedLight HD XXX
+http://iptvtugapt.site:8080/live/edgar/edgar/798.m3u8
+#EXTINF:-1,XXX Playboy XXX
+http://iptvtugapt.site:8080/live/edgar/edgar/577.m3u8
+#EXTINF:-1,XXX Dorcel XXX
+http://iptvtugapt.site:8080/live/edgar/edgar/835.m3u8
+#EXTINF:-1,XXX Venus XXX
+http://iptvtugapt.site:8080/live/edgar/edgar/576.m3u8
+#EXTINF:-1,XXX Sextreme XXX
+http://iptvtugapt.site:8080/live/edgar/edgar/8716.m3u8
+#EXTINF:-1,XXX Hot XXX
+http://iptvtugapt.site:8080/live/edgar/edgar/575.m3u8
+
+
+
+
+#EXTINF:-1,ADULT 1
+http://163.172.15.141:9732/live?channelId=260&uid=581&deviceUser=NFletcher&devicePass=180817
+#EXTINF:-1,ADULT 10
+http://163.172.15.141:9732/live?channelId=261&uid=581&deviceUser=NFletcher&devicePass=180817
+#EXTINF:-1,ADULT 11
+http://163.172.15.141:9732/live?channelId=262&uid=581&deviceUser=NFletcher&devicePass=180817
+#EXTINF:-1,ADULT 12
+http://163.172.15.141:9732/live?channelId=263&uid=581&deviceUser=NFletcher&devicePass=180817
+#EXTINF:-1,ADULT 13
+http://163.172.15.141:9732/live?channelId=264&uid=581&deviceUser=NFletcher&devicePass=180817
+#EXTINF:-1,ADULT 14
+http://163.172.15.141:9732/live?channelId=265&uid=581&deviceUser=NFletcher&devicePass=180817
+#EXTINF:-1,ADULT 15
+http://163.172.15.141:9732/live?channelId=266&uid=581&deviceUser=NFletcher&devicePass=180817
+#EXTINF:-1,ADULT 16
+http://163.172.15.141:9732/live?channelId=267&uid=581&deviceUser=NFletcher&devicePass=180817
+#EXTINF:-1,ADULT 2
+http://163.172.15.141:9732/live?channelId=268&uid=581&deviceUser=NFletcher&devicePass=180817
+#EXTINF:-1,ADULT 3
+http://163.172.15.141:9732/live?channelId=269&uid=581&deviceUser=NFletcher&devicePass=180817
+#EXTINF:-1,ADULT 4
+http://163.172.15.141:9732/live?channelId=270&uid=581&deviceUser=NFletcher&devicePass=180817
+#EXTINF:-1,ADULT 5
+http://163.172.15.141:9732/live?channelId=271&uid=581&deviceUser=NFletcher&devicePass=180817
+#EXTINF:-1,ADULT 6
+http://163.172.15.141:9732/live?channelId=272&uid=581&deviceUser=NFletcher&devicePass=180817
+#EXTINF:-1,ADULT 7
+http://163.172.15.141:9732/live?channelId=273&uid=581&deviceUser=NFletcher&devicePass=180817
+#EXTINF:-1,ADULT 8
+http://163.172.15.141:9732/live?channelId=274&uid=581&deviceUser=NFletcher&devicePass=180817
+#EXTINF:-1,ADULT 9
+http://163.172.15.141:9732/live?channelId=275&uid=581&deviceUser=NFletcher&devicePass=180817
+#EXTINF:-1,XXX ADULT 17
+http://163.172.15.141:9732/live?channelId=276&uid=581&deviceUser=NFletcher&devicePass=180817
+#EXTINF:-1,XXX ADULT 18
+http://163.172.15.141:9732/live?channelId=277&uid=581&deviceUser=NFletcher&devicePass=180817
+#EXTINF:-1,XXX ADULT 19
+http://163.172.15.141:9732/live?channelId=278&uid=581&deviceUser=NFletcher&devicePass=180817
+#EXTINF:-1,XXX ADULT 20
+http://163.172.15.141:9732/live?channelId=279&uid=581&deviceUser=NFletcher&devicePass=180817
+#EXTINF:-1,XXX ADULT 21
+http://163.172.15.141:9732/live?channelId=280&uid=581&deviceUser=NFletcher&devicePass=180817
 
 
 #EXTINF:-1,YouPorn 24H	
