@@ -173,6 +173,29 @@ http://31.220.0.196:8081/live/fx11sx/chunks.m3u8
 #EXTINF:-1,FS 2
 http://31.220.0.196:8081/live/fx2sx/chunks.m3u8
 
+#EXTINF:-1,BT SPORT 2
+http://31.220.0.196:8081/live/ctvb2/playlist.m3u8
+#EXTINF:-1,BT SPORT 1
+http://31.220.0.196:8081/live/ctvb1/playlist.m3u8
+
+#EXTINF:-1,_IPTV_beIN SPORTS HD1 
+http://31.223.180.226:1935/live/be1/hossam.m3u8
+#EXTINF:-1,CIVI_IPTV_beIN SPORTS HD2 
+http://31.223.180.226:1935/live/be2/hossam.m3u8
+#EXTINF:-1,CIVI_IPTV_beIN SPORTS HD3
+http://31.223.180.226:1935/live/be3/hossam.m3u8
+#EXTINF:-1,CIVI_IPTV_beIN SPORTS HD4 
+http://31.223.180.226:1935/live/be4/hossam.m3u8
+#EXTINF:-1,iptvbin.com beIN SPORTS HD5 
+http://31.223.180.226:1935/live/be5/hossam.m3u8
+#EXTINF:-1,CIVI_IPTV_beIN SPORTS HD6 
+http://31.223.180.226:1935/live/be6/hossam.m3u8
+#EXTINF:-1,CIVI_IPTV_beIN SPORTS HD7 
+http://31.223.180.226:1935/live/be7/hossam.m3u8
+#EXTINF:-1,CIVI_IPTV_beIN SPORTS HD8 
+http://31.223.180.226:1935/live/be8/hossam.m3u8
+#EXTINF:-1,CIVI_IPTV_beIN SPORTS HD9 
+http://31.223.180.226:1935/live/be9/hossam.m3u8
 
 #EXTINF:-1,ARENA SPORT 1 
 http://66.70.129.43:8080/Arena1-SRB/index.m3u8
