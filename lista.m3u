@@ -8,17 +8,7 @@ skip
 skip
 
 
-#EXTINF:0, HRT1
-http://66.70.129.43:8080/Hrt1/index.m3u8
 
-#EXTINF:0, HRT2
-http://66.70.129.43:8080/Hrt2/index.m3u8
-
-#EXTINF:0,RTL LIVING
-http://66.70.129.43:8080/RTLLiving/index.m3u8
-
-#EXTINF:-1,DomaTV
-http://66.70.129.43:8080/Domatv/index.m3u8
 
 #EXTINF:0, RTL 1
 http://323569365.e.970705972.r.pluscdn.com/970705972/_definst_/rtl1.stream/playlist.m3u8
@@ -31,8 +21,6 @@ rtmp://130.117.45.5:1935/P929594662/_definst_/rtl2.stream
 #EXTINF:0,RTV Banovina
 rtmp://video.radio-banovina.hr/live/myStream
 
-#EXTINF:0,trend tv
-rtmp://185.62.75.22:1935/trend/myStream
 
 #EXTINF:0,bht 1
 http://178.132.6.97/BA:BHT1SD/tracks-v1a1/index.m3u8
@@ -43,12 +31,6 @@ http://178.132.6.97/A1Balkan/tracks-v1a1/index.m3u8
 #EXTINF:0,al jazzera
 http://178.132.6.97/JazzeraAL/tracks-v1a1/index.m3u8
 
-
-#EXTINF:0, RTS 1
-http://66.70.129.43:8080/Rts1/index.m3u8
-
-#EXTINF:0, RTS2
-http://66.70.129.43:8080/Rts2/index.m3u8
 
 #EXTINF:-1,,Sarajevo 1 Tv
 rtmp://91.148.117.134:1935/radios/radiosweb.stream live=1
@@ -78,14 +60,7 @@ http://anglantennalive5-lh.akamaihd.net/i/live_1@424766/master.m3u8
 http://185.20.36.234:8080/stream?i=5NASdkA7imQ74SExK5xMGA&a=C2J-KsfDNkQ43uzstG1HaN69IIuhN8yyI7y66f5VFXyKNHJa4BWz0vNyVKDNmEDe7TCowHwegw-ti8G-IpqZY1SbsEvP6LLd9NXPkDaF1TpEzzRyQQVmwd5FNBt5ScRbY6a2FzzfKEefyJwEeRBgFDO97f_bEZXeeEaltcMJNnNhOK7Q3lFZrpPoT4hfqkT4F7MR0hfjqj_G_R0a8s1fPiEzqTU1eQ4qvYOFwr7wEmo7P1fF9D9RJlrD3r4SapoDHtEp2fOIhL-kIj4ygfwY7Vwhpbu5cYgjrQNyN7L40wQ&sp=n1info&u=n1info&session=e6ec35e2-496f-4e93-92eb-8a5aa9edf3c6&player=m3u8
 
 
-#EXTINF:-1,HRT 1
-http://185.174.208.12:10013
-#EXTINF:-1,FOX MOVIES (EN-MK)
-http://185.174.208.12:10011
-#EXTINF:-1,TLC (EN-AL-HR)
-http://185.174.208.12:10012
-#EXTINF:-1,FOX (AL)
-http://185.174.208.12:10010
+
 
 #EXTINF:-1,Top Channel
 http://5.135.92.130:36349/out/u/431_4.m3u8
@@ -93,58 +68,6 @@ http://5.135.92.130:36349/out/u/431_4.m3u8
 http://5.135.92.130:36349/out/u/106_1.m3u8
 #EXTINF:-1,Tv Klan
 http://5.135.92.130:36349/out/u/fnlkdfhhdgfdgag.m3u8
-
-
-#EXTINF:-1,Pink Hits 1
-http://93.87.85.10/PLTV/88888888/224/3221226895/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9qhnPnY%2FUD6cpSm7Svhhqwk9zDICvNdpYcMyhVHds2n8%3D%3A20180117221111%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117221111%2Curn%3AHuawei%3AliveTV%3AXTV100001938%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
-#EXTINF:-1,Pink Music
-http://93.87.85.10/PLTV/88888888/224/3221225875/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9kYRMs1r%2BM0SvNR7kUxeEgaakxQBS0eD07v1BkAeLxdU%3D%3A20180117221111%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117221111%2Curn%3AHuawei%3AliveTV%3AXTV100001194%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
-#EXTINF:-1,Pink Kids
-http://93.87.85.10/PLTV/88888888/224/3221225876/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9kYRMs1r%2BM0SvNR7kUxeEgU%2BPrHW5QXFq33jBVabAuBo%3D%3A20180117221111%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117221111%2Curn%3AHuawei%3AliveTV%3AXTV100001195%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
-#EXTINF:-1,Pink Pedia
-http://93.87.85.10/PLTV/88888888/224/3221226577/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA94tjvcqC92jhgBqS37pLbNNCt1ZCHpdLygVWIPIq7KpE%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100001934%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
-#EXTINF:-1,Pink Show
-http://93.87.85.10/PLTV/88888888/224/3221226757/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9i1EH7VYwsuy7vnYqs%2FHnzHTAP5dKhVqV00dkwh5qCMM%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100002596%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
-#EXTINF:-1,Pink Kuvar
-http://93.87.85.10/PLTV/88888888/224/3221226756/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9i1EH7VYwsuy7vnYqs%2FHnzOvBJWn%2Fg%2BCWTyDoL8Cbgvw%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100002595%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
-#EXTINF:-1,Pink Family
-http://93.87.85.10/PLTV/88888888/224/3221226889/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9qNtgfBDs7umS%2FENTcD6cSEWsLTPYLUR9nMAKKil8YA8%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100001204%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
-#EXTINF:-1,Pink 2
-http://93.87.85.10/PLTV/88888888/224/3221225882/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=yT3136xHyci%2F1Lwr9plJ6b4pEQwVtxY%2FuC5XlCvYDSwK11EyX4ZT%2F3rSRSjQzYryr5jnU6CWqZ44bsdSXtUhp5rRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA95AiUB8gWyh3Rm3Ze77Z83SjAHxkoJHYjy49iBtg39Ko%3D%3A20180117163907%3AUTC%2C667265279573212594%2C89.172.240.222%2C20180117163907%2Curn%3AHuawei%3AliveTV%3AXTV100001201%2C110E1005EC64BE6489BBA475683DED13%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
-#EXTINF:-1,Pink 3 Info
-http://93.87.85.10/PLTV/88888888/224/3221226573/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=yT3136xHyci%2F1Lwr9plJ6b4pEQwVtxY%2FuC5XlCvYDSwK11EyX4ZT%2F3rSRSjQzYryr5jnU6CWqZ44bsdSXtUhp5rRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9VAQe05Iuvgb0rcmheAIpBf%2B%2BMOz86asF0Y1DJGMg3bM%3D%3A20180117163907%3AUTC%2C667265279573212594%2C89.172.240.222%2C20180117163907%2Curn%3AHuawei%3AliveTV%3AXTV100001885%2C110E1005EC64BE6489BBA475683DED13%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
-#EXTINF:-1,Pink Premium
-http://93.87.85.10/PLTV/88888888/224/3221225891/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA97b8SNON%2F%2Bzx3zrPmWs1H9O01J1m4%2B3Ui%2BEpHdLGr9D0%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100001210%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
-#EXTINF:-1,Pink Movies
-http://93.87.85.10/PLTV/88888888/224/3221225901/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9r46nUhusGr3GuPY5pOLFIiRChuVAQiZiHaZqNK2THvQ%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100001221%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
-#EXTINF:-1,Pink Action
-http://93.87.85.10/PLTV/88888888/224/3221225900/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9r46nUhusGr3GuPY5pOLFIt2qgZPVA%2FLOJt%2FX8uiw5zk%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100001220%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
-#EXTINF:-1,Pink Thriller
-http://93.87.85.10/PLTV/88888888/224/3221226734/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9i1EH7VYwsuy7vnYqs%2FHnzDDs3KyMtyOtSNOsqnD5Wvg%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100001293%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
-#EXTINF:-1,Pink Crime
-http://93.87.85.10/PLTV/88888888/224/3221226787/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9i1EH7VYwsuy7vnYqs%2FHnzKkUhjtN2yvfjVdfQt5O1cg%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100001212%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
-#EXTINF:-1,Pink Comedy
-http://93.87.85.10/PLTV/88888888/224/3221226578/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA94tjvcqC92jhgBqS37pLbNA6kCCAGw49QdCyueXlgQCA%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100001914%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
-#EXTINF:-1,Pink Classic
-http://93.87.85.10/PLTV/88888888/224/3221226581/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA94tjvcqC92jhgBqS37pLbNGGRtPbXFga5VVbM9GY0hLg%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100001932%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
-#EXTINF:-1,Pink Western
-http://93.87.85.10/PLTV/88888888/224/3221226580/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA94tjvcqC92jhgBqS37pLbNHSRjQOMVG%2FFxbBJoISM0Cw%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100001930%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
-#EXTINF:-1,Pink Romence
-http://93.87.85.10/PLTV/88888888/224/3221226739/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9i1EH7VYwsuy7vnYqs%2FHnzDICkBmcCVx1qZLZQtwmVJY%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100001213%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
-#EXTINF:-1,Sci Fi & Fantasy
-http://93.87.85.10/PLTV/88888888/224/3221226752/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9i1EH7VYwsuy7vnYqs%2FHnzF%2F5MGRBVY1%2FJP5%2FMoM7b60%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100001214%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
-#EXTINF:-1,Pink Horror
-http://93.87.85.10/PLTV/88888888/224/3221226579/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA94tjvcqC92jhgBqS37pLbNPrUfzm%2FDS75jnn%2BDUkY%2FRI%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100001935%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
-#EXTINF:-1,Pink Cinema
-http://93.87.85.10/PLTV/88888888/224/3221226753/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9i1EH7VYwsuy7vnYqs%2FHnzAHuztqG7RpUCjAbZYG1RGI%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100002598%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
-#EXTINF:-1,Pink Film
-http://93.87.85.10/PLTV/88888888/224/3221226599/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA94tjvcqC92jhgBqS37pLbNMooM%2FRSkbiojbeMqAXvkq8%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100002295%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
-#EXTINF:-1,Pink Hits 1
-http://93.87.85.10/PLTV/88888888/224/3221226895/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9qhnPnY%2FUD6cpSm7Svhhqwk9zDICvNdpYcMyhVHds2n8%3D%3A20180117221111%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117221111%2Curn%3AHuawei%3AliveTV%3AXTV100001938%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
-#EXTINF:-1,Pink Serije
-http://93.87.85.10/PLTV/88888888/224/3221226788/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9i1EH7VYwsuy7vnYqs%2FHnzGE83hVeZnvlq6x3jl8IWAA%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100002597%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
-
-
 
 
 
@@ -178,33 +101,8 @@ http://31.220.0.196:8081/live/ctvb2/playlist.m3u8
 #EXTINF:-1,BT SPORT 1
 http://31.220.0.196:8081/live/ctvb1/playlist.m3u8
 
-#EXTINF:-1,_IPTV_beIN SPORTS HD1 
-http://31.223.180.226:1935/live/be1/hossam.m3u8
-#EXTINF:-1,CIVI_IPTV_beIN SPORTS HD2 
-http://31.223.180.226:1935/live/be2/hossam.m3u8
-#EXTINF:-1,CIVI_IPTV_beIN SPORTS HD3
-http://31.223.180.226:1935/live/be3/hossam.m3u8
-#EXTINF:-1,CIVI_IPTV_beIN SPORTS HD4 
-http://31.223.180.226:1935/live/be4/hossam.m3u8
-#EXTINF:-1,iptvbin.com beIN SPORTS HD5 
-http://31.223.180.226:1935/live/be5/hossam.m3u8
-#EXTINF:-1,CIVI_IPTV_beIN SPORTS HD6 
-http://31.223.180.226:1935/live/be6/hossam.m3u8
-#EXTINF:-1,CIVI_IPTV_beIN SPORTS HD7 
-http://31.223.180.226:1935/live/be7/hossam.m3u8
-#EXTINF:-1,CIVI_IPTV_beIN SPORTS HD8 
-http://31.223.180.226:1935/live/be8/hossam.m3u8
-#EXTINF:-1,CIVI_IPTV_beIN SPORTS HD9 
-http://31.223.180.226:1935/live/be9/hossam.m3u8
 
-#EXTINF:-1,ARENA SPORT 1 
-http://66.70.129.43:8080/Arena1-SRB/index.m3u8
-#EXTINF:-1,ARENA SPORT 2 
-http://66.70.129.43:8080/Arena2-SRB/index.m3u8
-#EXTINF:-1,ARENA SPORT 3 
-http://66.70.129.43:8080/Arena3-SRB/index.m3u8
-#EXTINF:-1,ARENA SPORT 4 
-http://66.70.129.43:8080/Arena4-SRB/index.m3u8
+
 
 #EXTINF:-1,ARENA SPORT 1 low
 http://46.40.5.99:8000/arena_1_low
@@ -224,35 +122,8 @@ http://46.40.5.99:8000/arena_3_high
 http://46.40.5.99:8000/arena_4_high
 
 
-#EXTINF:-1,Sport Klub 6
-http://82.214.119.228:8000/play/a08i/index.m3u8
-#EXTINF:-1,Sport Klub 5
-http://82.214.119.228:8000/play/a08h/index.m3u8
-#EXTINF:-1,Sport Klub 4
-http://82.214.119.228:8000/play/a08g/index.m3u8
-#EXTINF:-1,Sport Klub 3
-http://82.214.119.228:8000/play/a08f/index.m3u8
-#EXTINF:-1,Sport Klub 2
-http://82.214.119.228:8000/play/a00y/index.m3u8
-#EXTINF:-1,Sport Klub 1
-http://82.214.119.228:8000/play/a00x/index.m3u8
 
-#EXTINF:-1,Sport 1.HD
-http://blackhouse.sx/live1/tracks-v1a1/index.m3u8
-#EXTINF:-1,Sport 2.HD
-http://blackhouse.sx/live2/tracks-v1a1/index.m3u8
-#EXTINF:-1,Sport 3.HD
-http://blackhouse.sx/live3/tracks-v1a1/index.m3u8
-#EXTINF:-1,Sport 4.HD
-http://blackhouse.sx/live4/tracks-v1a1/index.m3u8
-#EXTINF:-1,Sport 5.HD
-http://blackhouse.sx/live5/tracks-v1a1/index.m3u8
-#EXTINF:-1,Sport 6.HD
-http://blackhouse.sx/live6/tracks-v1a1/index.m3u8
-#EXTINF:-1,Sport 7.HD
-http://blackhouse.sx/live7/tracks-v1a1/index.m3u8
-#EXTINF:-1,Sport 8.HD
-http://blackhouse.sx/live8/tracks-v1a1/index.m3u8
+
 
 
 
@@ -273,19 +144,8 @@ http://93.87.85.10/PLTV/88888888/224/3221226583/index.m3u8?rrsip=93.87.85.10&zon
 http://93.87.85.10/PLTV/88888888/224/3221226600/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9vmgYnhd%2FQXVMovIFPNVfeN2qgZPVA%2FLOJt%2FX8uiw5zk%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100001769%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
 
 
-
-
-#EXTINF:-1,SPORT 1 germany 
-http://188.62.183.163:9981/stream/channelid/1327376622
-#EXTINF:-1,SPORT 1+ germany
-http://188.62.183.163:9981/stream/channelid/754132398
-
 #EXTINF:-1,Setanta Sports
 http://91.149.172.100:80/channel?id=146&u=demo&p=demo
-
-#EXTINF:-1,Extreme Sports
-http://46.158.55.180:6689/stream?cid=3675
-
 
 #EXTINF:-1,Sportska TV
 http://wowza.h1telekom.hr:1935/sporttv/smil:sptv.smil/playlist.m3u8
@@ -320,30 +180,9 @@ http://p12o-lh.akamaihd.net/i/oregon_delivery@103261/master.m3u8
 http://p12w-lh.akamaihd.net/i/washington_delivery@426584/master.m3u8
 
 
-
-#EXTINF:-1,Sky Sport News
-https://eventhlshttps-i.akamaihd.net/hls/live/263645/ssn-hd-https/indexvideo-3400.m3u8
-
 #EXTINF:-1,Extreme Sports
 http://91.149.172.100:80/channel?id=24&u=demo&p=demo
-#EXTINF:-1,Extreme Sports
-http://178.163.110.72:34040/udp/234.0.0.150:2000 
 
-
-#EXTINF:0, hd super tennis
-http://93.123.65.3:9130/130
-#EXTINF:-1,EUROSPORT (EN)
-http://185.174.208.12:10014
-#EXTINF:0, eurosport 2 bl (srp)
-http://93.123.65.3:9146/146
-#EXTINF:0, hd sport+ bulgaria
-http://93.123.65.3:9262/262
-
-#EXTINF:-1,Eurosport 1
-http://86.82.79.91:8001/play/a00z
-
-#EXTINF:-1,Eurosport 1 
-http://81.228.174.166:8003/eurosport1
 
 #EXTINF:-1,Eurosport 1 hd
 http://65.254.55.10:4000/live/197/197.m3u8
@@ -353,14 +192,6 @@ http://46.149.176.142:9003/play/a009
 
 #EXTINF:-1,EUROSPORT 2
 http://195.206.253.157:8001/eurosport2hd
-
-#EXTINF:-1,Eurosport 1 germany
-http://188.62.183.163:9981/stream/channelid/1657577568
-#EXTINF:-1,Eurosport 1 France
-http://188.62.183.163:9981/stream/channelid/1772218774
-
-#EXTINF:0,EUROSPORT GOLD 
-http://94.245.178.251:4022/udp/239.4.1.149:2020
 
 
 
@@ -374,12 +205,7 @@ http://89.28.21.90/Viasat_Sport/tracks-v1a1/index.m3u8?token=f8b3c6954d80c97f0f7
 #EXTINF:-1,silk sport
 http://188.93.94.138/silk_sport4/index.m3u8
 
-#EXTINF:-1,SILK SPORT 1
-http://31.146.176.210:8080/CHANNEL527/BITRATE0/playlist.m3u8
-#EXTINF:-1,SILK SPORT 2
-http://31.146.176.210:8080/CHANNEL532/BITRATE0/playlist.m3u8
-#EXTINF:-1,SILK SPORT 3
-http://31.146.176.210:8080/CHANNEL634/BITRATE0/playlist.m3u8
+
 
 
 #EXTINF:-1,boets
@@ -396,35 +222,24 @@ skip
 
 #EXTINF:-1,VH1European 
 http://46.40.5.99:8000/vh1_high
+#EXTINF:-1,VH1 
+http://62.122.93.225:81/udp/238.1.2.20:1234
+
+#EXTINF:-1,VH+1 
+http://185.57.68.14:8091/126/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,MTV Rocks 
+http://62.122.93.225:81/udp/238.1.2.33:1234
+
+#EXTINF:-1,MTV Dance 
+http://185.57.68.14/105/tracks-v1a1/index.m3u8
+
 
 #EXTINF:-1,VH1
-http://82.214.119.228:8000/play/a096/index.m3u8
-
-
-#EXTINF:-1,MTV Hits 
-http://178.163.110.72:34040/udp/234.0.0.194:2000 
-#EXTINF:-1,1 Classic 
-http://178.163.110.72:34040/udp/234.0.0.223:2000 
-#EXTINF:-1,Europe+ TV 
-http://178.163.110.72:34040/udp/234.0.0.183:2000 
-#EXTINF:-1,ТНТ music 
-http://178.163.110.72:34040/udp/234.0.0.231:2000 
-#EXTINF:-1,MTV Dance 
-http://178.163.110.72:34040/udp/234.0.0.233:2000
+http://82.214.119.228:8000/play/a096/index.m3u
 
 
 
-
-#EXTINF:-1,MTVHits 
-http://164.132.136.176:8000/0202 
-#EXTINF:-1,VH1European 
-http://164.132.136.176:8000/0205 
-#EXTINF:-1,MTVDance 
-http://164.132.136.176:8000/0201 
-#EXTINF:-1,MTVRocks 
-http://164.132.136.176:8000/0203 
-#EXTINF:-1,VH1Classic 
-http://164.132.136.176:8000/0204 
 
 #EXTINF:0,MTV (norg)
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
@@ -728,19 +543,6 @@ http://164.132.136.176:8000/0054
 #EXTINF:-1,TLC 
 http://164.132.136.176:8000/0079 
 
-
-
-#EXTINF:0, tlc (srp)
-http://93.123.65.3:9148/148
-#EXTINF:0, animal planet (srp)
-http://93.123.65.3:9257/257
-
-#EXTINF:-1,Public TV
-http://cdn-11.bonus-tv.ru/publictv/index.m3u8
-
-#EXTINF:-1,Nat Geo Wild 
-http://81.228.174.166:8001/natgeowild
-
 #EXTINF:-1,travel hd
 http://31.13.223.103/travel/community.stream/playlist.m3u8?hash=943212345
 
@@ -977,14 +779,8 @@ http://wms.shared.streamshow.it/canale7/canale7/playlist.m3u8
 #EXTINF:-1,nhk world hd
 https://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
 
-#EXTINF:-1,EURONEWS
-http://evronovosti.mediacdn.ru/sr1/evronovosti/chunklist_b2658304.m3u8
-
 #EXTINF:-1,arise news
 http://contributionstreams.ashttp9.visionip.tv/live/visiontv-contributionstreams-arise-tv-hsslive-25f-16x9-SD/chunklist.m3u8
-
-#EXTINF:-1,TV5 MONDE
-http://hlslive.lcdn.une.net.co:80/v1/AUTH_HLSLIVE/TV5/tu1_manifest.m3u8
 
 #EXTINF:-1,Deutsche Welle
 http://www.metafilegenerator.de/DWelle/tv-asia/ios/master.m3u8
@@ -1007,9 +803,6 @@ http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_700_av-p.m3u8
 #EXTINF:-1,MSNBC
 http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_1896_av-b.m3u8
 
-#EXTINF:-1,BBC World News
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_manifest.m3u8
-
 #EXTINF:-1,FRANCE 24 (EN)
 http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 
@@ -1018,9 +811,6 @@ http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
 
 #EXTINF:-1,SKY NEWS
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
-
-#EXTINF:-1,ABC NEWS
-http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
 
 #EXTINF:-1,RAI NEWS
 http://b2everyrai-lh.akamaihd.net/i/rainews_1@179616/master.m3u8
@@ -1072,9 +862,6 @@ https://liveprodeuwest.global.ssl.fastly.net/btv/desktop/eu_live.m3u8
 #EXTINF:-1,[COLOR green]---TALIJANSKI PROGRAMI---[/COLOR]
 skip
 
-
-#EXTINF:0,cielo (vpn italia)
-https://skyanywhere3-i.akamaihd.net/hls/live/510693/cielo/stream2/streamPlaylist.m3u8
 
 #EXTINF:0,tgcom 24
 http://live1-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch10)/Stream(04)/index.m3u8
@@ -1183,49 +970,16 @@ http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8
 http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/master.m3u8
 #EXTINF:-1,Heart
 http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
-#EXTINF:-1,IdealWorld
-http://live.ccus.simplestreamcdn.com/live/isd_sdi3/bitrate1.isml/playlist.m3u8
-#EXTINF:-1,Insight
-http://ooyalahd2-f.akamaihd.net/i/intv02_delivery@346464/master.m3u8
 #EXTINF:-1,Jewellery Maker
 http://edge01.cdn.aws.subset.host/JewelleryMakerLive/JewelleryMakerLive/playlist.m3u8
 #EXTINF:-1,Kool London Radio
 http://w10.streamgb.com:1935/kool/kool/playlist.m3u8
 #EXTINF:-1,London Live
 http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master.m3u8
-#EXTINF:-1,QVC 1
-http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi8/3/prog_index.m3u8
-#EXTINF:-1,QVC 2
-http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi6/1/prog_index.m3u8
-#EXTINF:-1,QVC 3
-http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi5/1/prog_index.m3u8
-#EXTINF:-1,QVC 4
-http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi1/1/prog_index.m3u8
 
 
 
-#EXTINF:-1,Nat Geo Wild
-http://wowza2.mysoltv.com:1992/UK_ENG_nat_geo_wild_shsaa/index.m3u8
-#EXTINF:-1,HISTORY
-http://wowza2.mysoltv.com:1992/UK_ENG_history/index.m3u8
-#EXTINF:-1,PPV
-http://wowza2.mysoltv.com:1992/UK_BOX_OFFICE_PPV/index.m3u8
-#EXTINF:-1,SKY MOVIE DISNEY
-http://wowza2.mysoltv.com:1992/UK_ENG_Sky_Movie_disney/tracks-v1a1/index.m3u8
-#EXTINF:-1,SKY MOVIE COMEDY
-http://wowza2.mysoltv.com:1992/UK_ENG_Sky_Movie_comedy/tracks-v1a1/index.m3u8
-#EXTINF:-1,SKY MOVIE PREMIUM
-http://wowza2.mysoltv.com:1992/UK_ENG_Sky_Movie_premium/tracks-v1a1/index.m3u8
-#EXTINF:-1,SKY MOVIE GREATS
-http://wowza2.mysoltv.com:1992/UK_ENG_Sky_Movie_greats/tracks-v1a1/index.m3u8
-#EXTINF:-1,SKY MOVIE SHOWCASE
-http://wowza2.mysoltv.com:1992/UK_ENG_Sky_Movie_showcase/tracks-v1a1/index.m3u8
-#EXTINF:-1,SKY MOVIE FAMILY
-http://wowza2.mysoltv.com:1992/UK_ENG_Sky_Movie_family/tracks-v1a1/index.m3u8
-#EXTINF:-1,SKY MOVIE THRILLER
-http://wowza2.mysoltv.com:1992/UK_ENG_Sky_Movie_thriller/tracks-v1a1/index.m3u8
-#EXTINF:-1,SKY MOVIE SELECT
-http://wowza2.mysoltv.com:1992/UK_ENG_Sky_Movie_select/tracks-v1a1/index.m3u8
+
 
 
 
@@ -1309,73 +1063,6 @@ http://ec.playmedia.fr/gong-base/live/playlist.m3u8
 #EXTINF:-1,tvpi
 http://streamcast.oc3n.net:1935/TVPI/myStream700.sdp/live.m3u8
 
-#EXTINF:-1,W9
-http://144.217.253.140/W9/mpegts
-#EXTINF:-1,TF 1
-http://144.217.253.140/TF1/mpegts
-#EXTINF:-1,Piwi
-http://144.217.253.140/Piwi/mpegts
-#EXTINF:-1,NRJ 12
-http://144.217.253.140/NRJ12/mpegts
-#EXTINF:-1,MBC
-http://144.217.253.140/MBC/mpegts
-#EXTINF:-1,MBC MASR
-http://144.217.253.140/MBCMASR/mpegts
-#EXTINF:-1,MBC MAX
-http://144.217.253.140/MBCMAX/mpegts
-#EXTINF:-1,MBC DRAMA
-http://144.217.253.140/MBCDRAMA/mpegts
-#EXTINF:-1,MBC ACTION
-http://144.217.253.140/MBCACTION/mpegts
-#EXTINF:-1,MBC 4
-http://144.217.253.140/MBC4/mpegts
-#EXTINF:-1,MBC 2
-http://144.217.253.140/MBC2/mpegts
-#EXTINF:-1,M6
-http://144.217.253.140/M6/mpegts
-#EXTINF:-1,LBC
-http://144.217.253.140/LBC/mpegts
-#EXTINF:-1,LDC
-http://144.217.253.140/LDC/mpegts
-#EXTINF:-1,Gulli
-http://144.217.253.140/Gulli/mpegts
-#EXTINF:-1,France 4
-http://144.217.253.140/France4/mpegts
-#EXTINF:-1,France 3
-http://144.217.253.140/France3/mpegts
-#EXTINF:-1,France 2
-http://144.217.253.140/France2/mpegts
-#EXTINF:-1,C8
-http://144.217.253.140/C8/mpegts
-#EXTINF:-1,Cherie25
-http://144.217.253.140/Cherie25/mpegts
-#EXTINF:-1,tiji
-http://144.217.253.140/tiji/mpegts
-#EXTINF:-1,OTV
-http://144.217.253.140/OTV/mpegts
-#EXTINF:-1,Nickelodeon
-http://144.217.253.140/Nickelodeon/mpegts
-#EXTINF:-1,Nessma
-http://144.217.253.140/Nessma/mpegts
-#EXTINF:-1,NBN
-http://144.217.253.140/NBN/mpegts
-#EXTINF:-1,Mangas
-http://144.217.253.140/Mangas/mpegts
-#EXTINF:-1,Boomerang
-http://144.217.253.140/Boomerang/mpegts
-#EXTINF:-1,Boing
-http://144.217.253.140/Boing/mpegts
-#EXTINF:-1,TRT 1
-http://144.217.76.52:8080/TRT1/mpegts
-#EXTINF:-1,OTV
-http://144.217.76.52:8080/OTV/mpegts
-#EXTINF:-1,KTV 2
-http://144.217.76.52:8080/KTV2/mpegts
-#EXTINF:-1,CBC
-http://144.217.76.52:8080/CBC/mpegts
-#EXTINF:-1,LDC
-http://144.217.76.52:8080/LDC/mpegts
-
 
 
 
@@ -1430,8 +1117,6 @@ http://bcliveuniv-lh.akamaihd.net/i/Live_1@170324/master.m3u8
 http://aztecalive-lh.akamaihd.net:80/i/0qm7cjvop_1@502476/index_1_av-p.m3u8
 #EXTINF:-1,Azteca 13
 http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
-#EXTINF:-1,TELEMUNDO
-http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/master.m3u8
 #EXTINF:-1,REAL MADRID TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8
 #EXTINF:-1,ANTENA3
@@ -1488,8 +1173,6 @@ http://nano.teleservice.su:8080/hls/luxury.m3u8
 #EXTINF:-1,relax tv
 http://wse.planeta-online.tv:1935/live/channel_3/playlist.m3u8
 
-
-
 #EXTINF:0,КиноЗаказ 1
 https://hls.goodgame.ru/hls/114023.m3u8
 #EXTINF:0,КиноЗаказ 2
@@ -1497,16 +1180,11 @@ http://hls.goodgame.ru/hls/12949.m3u8
 #EXTINF:0,КиноЗаказ 3
 http://hls.goodgame.ru/hls/5346.m3u8
 
-
 #EXTINF:-1,Most Video TV HD
 http://w4.mostvideo.tv/tv/ch1.m3u8
 
 #EXTINF:-1,Xsport HD
 http://kz.light-iptv.ru:2017/play/xsport-hd?auth=iptv:zone
-
-
-
-
 
 #EXTINF:-1,Setanta Sports
 http://109.248.219.251:89/channel43.m3u8
@@ -1515,16 +1193,11 @@ http://109.248.236.41:4433/udp/238.1.1.116:1234
 #EXTINF:-1,KazSport
 http://109.248.219.251:88/channel17.m3u8
 
-
 #EXTINF:-1,Gruziya sport 4
 http://188.93.94.141/silk_sport4/index.m3u8
 
-
-
 #EXTINF:-1,VOLGA TV
 rtmp://volga-tv.ru:1935/live/live.stream_576p
-
-
 
 #EXTINF:-1,47 kanal
 http://194.190.88.34:1935/videowhisper/47channel_live_broadcast.stream/playlist.m3u8
@@ -1535,24 +1208,11 @@ http://188.243.103.228:81/udp/239.239.3.44:5239
 #EXTINF:-1,krasnaya liniya
 http://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/playlist.m3u8
 
-
-
-#EXTINF:-1,Peres
-http://kz.light-iptv.ru:2017/play/perets?auth=iptv:zone
-
 #EXTINF:-1,Peres int
 http://91.149.172.100:80/channel?id=88&u=demo&p=demo
 
-
-
-
-#EXTINF:-1,kanal 78 HD
-http://channel78.gcdn.co/channel78/index.m3u8
-
-
 #EXTINF:-1,112 ua HD
 http://app.live.112.events/hls-ua/112hd_hi/index.m3u8
-
 
 #EXTINF:-1,RODNOE Kino
 http://91.149.172.100:80/channel?id=74&u=demo&p=demo
@@ -1561,23 +1221,14 @@ http://91.149.172.100:80/channel?id=108&u=demo&p=demo
 #EXTINF:-1,KINOKOMEDIYA
 http://91.149.172.100:80/channel?id=80&u=demo&p=demo
 
-
 #EXTINF:-1,Cinema tv
 http://195.49.206.243:8000/udp/239.255.1.63:1234
-
 
 #EXTINF:-1,Klassika kino
 http://serv25.vintera.tv:8081/klasskino/k_kino/playlist.m3u8
 
-
-
-
-
-
 #EXTINF:-1,BOLT
 http://178.209.65.146:4321/udp/239.0.0.28:1234
-
-
 
 #EXTINF:-1,Kino zakaz 1
 https://hls.goodgame.ru/hls/114023.m3u8
@@ -1585,44 +1236,6 @@ https://hls.goodgame.ru/hls/114023.m3u8
 http://hls.goodgame.ru/hls/12949.m3u8
 #EXTINF:-1,Kino zakaz 3
 http://hls.goodgame.ru/hls/5346.m3u8
-
-
-
-#EXTINF:-1,[COLOR green]---BUGARSKI PROGRAMI ---[/COLOR] 
-skip
-
-#EXTINF:-1,BGMUSIC
-http://87.246.0.130/m3u8/bgmusicchannelhd.m3u8
-#EXTINF:-1,Diema Sport FULL HD  
-http://87.246.0.130:88/m3u8/diamasporthd.m3u8
-#EXTINF:-1,F BG 
-http://87.246.0.130:88/m3u8/webfplus_web.m3u8
-#EXTINF:-1,HBO BG 
-http://87.246.0.130:88/m3u8/webhbo_web.m3u8
-#EXTINF:-1,History BG 
-http://87.246.0.130:88/m3u8/webhistory_web.m3u8
-#EXTINF:-1,Mtel Sport BG 
-http://87.246.0.130:88/m3u8/webmtelsport_web.m3u8
-#EXTINF:-1,Sport Plus HD 
-http://87.246.0.130:88/m3u8/websportplus_web.m3u8
-
-
-#EXTINF:0, film+ bulgaria
-http://93.123.65.3:9124/124
-#EXTINF:0, hd super tennis
-http://93.123.65.3:9130/130
-#EXTINF:0, f+ bulgaria
-http://93.123.65.3:9143/143
-#EXTINF:0, eurosport 2 bl (srp)
-http://93.123.65.3:9146/146
-#EXTINF:0, tlc (srp)
-http://93.123.65.3:9148/148
-#EXTINF:0, hd tivibu spor
-http://93.123.65.3:9246/246
-#EXTINF:0, animal planet (srp)
-http://93.123.65.3:9257/257
-#EXTINF:0, hd sport+ bulgaria
-http://93.123.65.3:9262/262
 
 
 
@@ -1717,11 +1330,33 @@ http://cdn-01.bonus-tv.ru:9090/wfc/wfhd/type/none/eol/20200101T0000/hash/9a88dd1
 skip
 
 
+#EXTINF:-1,Playboy 
+http://81.177.254.23:9996/play/Playboy/index.m3u 
+#EXTINF:-1,Passion_X 
+http://81.177.254.23:9996/play/Passion_X/index.m3u8 
+#EXTINF:-1,SCT 
+http://81.177.254.23:9996/play/SCT/index.m3u8 
+#EXTINF:-1,Visit-X_HD 
+http://81.177.254.23:9996/play/Visit-X_HD/index.m3u8 
+#EXTINF:-1,FRENCHLOVER 
+http://81.177.254.23:9996/play/FRENCHLOVER/index.m3u8 
+#EXTINF:-1,Hustler_HD 
+http://81.177.254.23:9996/play/Hustler_HD/index.m3u8 
+#EXTINF:-1,O-la-la 
+http://81.177.254.23:9996/play/O-la-la/index.m3u8 
+#EXTINF:-1,Penthouse_HD_1 
+http://81.177.254.23:9996/play/Penthouse_HD_1/index.m3u8 
+#EXTINF:-1,Penthouse_HD_2 
+http://81.177.254.23:9996/play/Penthouse_HD_2/index.m3u8 
+#EXTINF:-1,Playboy 
+http://81.177.254.23:9996/play/Playboy/index.m3u8 
+#EXTINF:-1,Private 
+http://81.177.254.23:9996/play/Private/index.m3u8 
+#EXTINF:-1,Reality_Kings 
+http://81.177.254.23:9996/play/Reality_Kings/index.m3u8 
+#EXTINF:-1,Redlight_HD 
+http://81.177.254.23:9996/play/Redlight_HD/index.m3u8
 
-#EXTINF:-1,Hustler_TV
-http://89.28.21.90/Hustler_TV/tracks-v1a1/index.m3u8?token=f8b3c6954d80c97f0f7190fcb84b538fd4d6202a
-#EXTINF:-1,Dorcel HD
-http://89.28.21.90/Dorcel_HD/tracks-v1a1/index.m3u8?token=f8b3c6954d80c97f0f7190fcb84b538fd4d6202a
 
 
 #EXTINF:-1,XXL
@@ -1755,70 +1390,6 @@ http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/266/inde
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/267/index.m3u8
 #EXTINF:-1,Hustler HD
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/502/index.m3u8
-
-
-#EXTINF:-1,XXX Pinko TV XXX
-http://iptvtugapt.site:8080/live/edgar/edgar/5431.m3u8
-#EXTINF:-1,XXX Penthouse HD XXX
-http://iptvtugapt.site:8080/live/edgar/edgar/5432.m3u8
-#EXTINF:-1,XXX RedLight HD XXX
-http://iptvtugapt.site:8080/live/edgar/edgar/798.m3u8
-#EXTINF:-1,XXX Playboy XXX
-http://iptvtugapt.site:8080/live/edgar/edgar/577.m3u8
-#EXTINF:-1,XXX Dorcel XXX
-http://iptvtugapt.site:8080/live/edgar/edgar/835.m3u8
-#EXTINF:-1,XXX Venus XXX
-http://iptvtugapt.site:8080/live/edgar/edgar/576.m3u8
-#EXTINF:-1,XXX Sextreme XXX
-http://iptvtugapt.site:8080/live/edgar/edgar/8716.m3u8
-#EXTINF:-1,XXX Hot XXX
-http://iptvtugapt.site:8080/live/edgar/edgar/575.m3u8
-
-
-
-
-#EXTINF:-1,ADULT 1
-http://163.172.15.141:9732/live?channelId=260&uid=581&deviceUser=NFletcher&devicePass=180817
-#EXTINF:-1,ADULT 10
-http://163.172.15.141:9732/live?channelId=261&uid=581&deviceUser=NFletcher&devicePass=180817
-#EXTINF:-1,ADULT 11
-http://163.172.15.141:9732/live?channelId=262&uid=581&deviceUser=NFletcher&devicePass=180817
-#EXTINF:-1,ADULT 12
-http://163.172.15.141:9732/live?channelId=263&uid=581&deviceUser=NFletcher&devicePass=180817
-#EXTINF:-1,ADULT 13
-http://163.172.15.141:9732/live?channelId=264&uid=581&deviceUser=NFletcher&devicePass=180817
-#EXTINF:-1,ADULT 14
-http://163.172.15.141:9732/live?channelId=265&uid=581&deviceUser=NFletcher&devicePass=180817
-#EXTINF:-1,ADULT 15
-http://163.172.15.141:9732/live?channelId=266&uid=581&deviceUser=NFletcher&devicePass=180817
-#EXTINF:-1,ADULT 16
-http://163.172.15.141:9732/live?channelId=267&uid=581&deviceUser=NFletcher&devicePass=180817
-#EXTINF:-1,ADULT 2
-http://163.172.15.141:9732/live?channelId=268&uid=581&deviceUser=NFletcher&devicePass=180817
-#EXTINF:-1,ADULT 3
-http://163.172.15.141:9732/live?channelId=269&uid=581&deviceUser=NFletcher&devicePass=180817
-#EXTINF:-1,ADULT 4
-http://163.172.15.141:9732/live?channelId=270&uid=581&deviceUser=NFletcher&devicePass=180817
-#EXTINF:-1,ADULT 5
-http://163.172.15.141:9732/live?channelId=271&uid=581&deviceUser=NFletcher&devicePass=180817
-#EXTINF:-1,ADULT 6
-http://163.172.15.141:9732/live?channelId=272&uid=581&deviceUser=NFletcher&devicePass=180817
-#EXTINF:-1,ADULT 7
-http://163.172.15.141:9732/live?channelId=273&uid=581&deviceUser=NFletcher&devicePass=180817
-#EXTINF:-1,ADULT 8
-http://163.172.15.141:9732/live?channelId=274&uid=581&deviceUser=NFletcher&devicePass=180817
-#EXTINF:-1,ADULT 9
-http://163.172.15.141:9732/live?channelId=275&uid=581&deviceUser=NFletcher&devicePass=180817
-#EXTINF:-1,XXX ADULT 17
-http://163.172.15.141:9732/live?channelId=276&uid=581&deviceUser=NFletcher&devicePass=180817
-#EXTINF:-1,XXX ADULT 18
-http://163.172.15.141:9732/live?channelId=277&uid=581&deviceUser=NFletcher&devicePass=180817
-#EXTINF:-1,XXX ADULT 19
-http://163.172.15.141:9732/live?channelId=278&uid=581&deviceUser=NFletcher&devicePass=180817
-#EXTINF:-1,XXX ADULT 20
-http://163.172.15.141:9732/live?channelId=279&uid=581&deviceUser=NFletcher&devicePass=180817
-#EXTINF:-1,XXX ADULT 21
-http://163.172.15.141:9732/live?channelId=280&uid=581&deviceUser=NFletcher&devicePass=180817
 
 
 #EXTINF:-1,YouPorn 24H	
