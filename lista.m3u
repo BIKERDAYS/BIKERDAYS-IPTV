@@ -179,10 +179,29 @@ http://p12o-lh.akamaihd.net/i/oregon_delivery@103261/master.m3u8
 #EXTINF:0,Pac 12 Washington
 http://p12w-lh.akamaihd.net/i/washington_delivery@426584/master.m3u8
 
+#EXTINF:-1,МАТЧ! ПЛАНЕТА 
+http://ns1.telehouse-ua.net:19123/ott/52:1122 
+#EXTINF:-1,МАТЧ! ФУТБОЛ 1 
+http://ns1.telehouse-ua.net:19123/ott/53:1122 
+#EXTINF:-1,МАТЧ! ФУТБОЛ 2 
+http://ns1.telehouse-ua.net:19123/ott/56:1122 
+#EXTINF:-1,Viasat Golf 
+http://ns1.telehouse-ua.net:19123/ott/55:1122 
+#EXTINF:-1,МАТЧ! АРЕНА 
+http://ns1.telehouse-ua.net:19123/ott/83:1122 
+#EXTINF:-1,МАТЧ! ИГРА 
+http://ns1.telehouse-ua.net:19123/ott/84:1122 
 
-#EXTINF:-1,Extreme Sports
+
+#EXTINF:-1,EUROSPORT 1 
+http://185.57.68.14:8091/118/tracks-v1a1/index.m3u8
+
+
+#EXTINF:-1,extreme sport
+http://185.57.68.14/135/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,extreme sport
 http://91.149.172.100:80/channel?id=24&u=demo&p=demo
-
 
 #EXTINF:-1,Eurosport 1 hd
 http://65.254.55.10:4000/live/197/197.m3u8
@@ -224,19 +243,22 @@ skip
 http://46.40.5.99:8000/vh1_high
 #EXTINF:-1,VH1 
 http://62.122.93.225:81/udp/238.1.2.20:1234
-
+#EXTINF:-1,VH1
+http://82.214.119.228:8000/play/a096/index.m3u
 #EXTINF:-1,VH+1 
 http://185.57.68.14:8091/126/tracks-v1a1/index.m3u8
 
 #EXTINF:-1,MTV Rocks 
 http://62.122.93.225:81/udp/238.1.2.33:1234
-
 #EXTINF:-1,MTV Dance 
 http://185.57.68.14/105/tracks-v1a1/index.m3u8
 
+#EXTINF:-1,MTV Hits 
+http://ns1.telehouse-ua.net:19123/ott/64:1122 
+#EXTINF:-1,MTV Rocks 
+http://ns1.telehouse-ua.net:19123/ott/68:1122 
 
-#EXTINF:-1,VH1
-http://82.214.119.228:8000/play/a096/index.m3u
+
 
 
 
