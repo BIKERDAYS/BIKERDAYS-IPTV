@@ -1524,32 +1524,7 @@ http://cdn-01.bonus-tv.ru:9090/wfc/wfhd/type/none/eol/20200101T0000/hash/9a88dd1
 skip
 
 
-#EXTINF:-1,Playboy 
-http://81.177.254.23:9996/play/Playboy/index.m3u 
-#EXTINF:-1,Passion_X 
-http://81.177.254.23:9996/play/Passion_X/index.m3u8 
-#EXTINF:-1,SCT 
-http://81.177.254.23:9996/play/SCT/index.m3u8 
-#EXTINF:-1,Visit-X_HD 
-http://81.177.254.23:9996/play/Visit-X_HD/index.m3u8 
-#EXTINF:-1,FRENCHLOVER 
-http://81.177.254.23:9996/play/FRENCHLOVER/index.m3u8 
-#EXTINF:-1,Hustler_HD 
-http://81.177.254.23:9996/play/Hustler_HD/index.m3u8 
-#EXTINF:-1,O-la-la 
-http://81.177.254.23:9996/play/O-la-la/index.m3u8 
-#EXTINF:-1,Penthouse_HD_1 
-http://81.177.254.23:9996/play/Penthouse_HD_1/index.m3u8 
-#EXTINF:-1,Penthouse_HD_2 
-http://81.177.254.23:9996/play/Penthouse_HD_2/index.m3u8 
-#EXTINF:-1,Playboy 
-http://81.177.254.23:9996/play/Playboy/index.m3u8 
-#EXTINF:-1,Private 
-http://81.177.254.23:9996/play/Private/index.m3u8 
-#EXTINF:-1,Reality_Kings 
-http://81.177.254.23:9996/play/Reality_Kings/index.m3u8 
-#EXTINF:-1,Redlight_HD 
-http://81.177.254.23:9996/play/Redlight_HD/index.m3u8
+
 
 
 
@@ -1561,8 +1536,6 @@ http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/501/inde
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/502/index.m3u8
 #EXTINF:-1,Playboy TV
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/142/index.m3u8
-
-
 
 #EXTINF:-1,Blue Hustler
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/268/index.m3u8
@@ -1584,6 +1557,44 @@ http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/266/inde
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/267/index.m3u8
 #EXTINF:-1,Hustler HD
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/502/index.m3u8
+
+
+#EXTINF:-1,BRAZZERS TV 18+
+http://109.248.71.141:3371/udp/239.195.2.4:1234
+
+#EXTINF:-1,Русская ночь
+http://185.57.68.14/208/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,Русская ночь
+http://81.177.254.23:9996/play/Russkaya_noch/index.m3u8
+
+#EXTINF:-1,PLAYBOY TV
+http://109.248.79.74:3371/udp/239.195.2.5:1234
+
+#EXTINF:-1,Playboy TV
+http://109.248.71.141:3371/udp/239.195.2.5:1234
+
+#EXTINF:-1,Playboy TV
+http://91.203.208.64:3371/udp/239.195.2.5:1234
+
+#EXTINF:-1,Playboy
+http://81.177.254.23:9996/play/Playboy/index.m3u8
+
+#EXTINF:-1,Passion_X
+http://81.177.254.23:9996/play/Passion_X/index.m3u8
+
+#EXTINF:-1,FRENCHLOVER
+http://81.177.254.23:9996/play/FRENCHLOVER/index.m3u8
+
+#EXTINF:-1,Hustler_HD
+http://81.177.254.23:9996/play/Hustler_HD/index.m3u8
+
+#EXTINF:-1,O-la-la
+http://81.177.254.23:9996/play/O-la-la/index.m3u8
+
+#EXTINF:-1,Redlight_HD
+http://81.177.254.23:9996/play/Redlight_HD/index.m3u8
+
 
 
 #EXTINF:-1,YouPorn 24H	
