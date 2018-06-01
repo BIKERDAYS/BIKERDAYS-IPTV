@@ -351,6 +351,34 @@ http://p12o-lh.akamaihd.net/i/oregon_delivery@103261/master.m3u8
 #EXTINF:0,Pac 12 Washington
 http://p12w-lh.akamaihd.net/i/washington_delivery@426584/master.m3u8
 
+#EXTINF:-1,КХЛ
+http://51.15.42.158:8081/tv/khl/playlist.m3u8
+#EXTINF:-1,ТНТ
+http://51.15.42.158:8081/tv/tnt/playlist.m3u8
+#EXTINF:-1,Матч!Футбол 1
+http://51.15.42.158:8081/tv/mutch-fut-1/playlist.m3u8
+#EXTINF:-1,Наш Футбол
+http://51.15.42.158:8081/tv/nash-futboll/playlist.m3u8
+#EXTINF:-1,Матч!Боец
+http://51.15.42.158:8081/tv/match-boec/playlist.m3u8
+#EXTINF:-1,Матч!Футбол 3
+http://51.15.42.158:8081/tv/match-fut-3/playlist.m3u8
+#EXTINF:-1,Eurosport 1
+http://51.15.42.158:8081/tv/eurosport-1/playlist.m3u8
+#EXTINF:-1,МАТЧ! ФУТБОЛ 2
+http://51.15.42.158:8081/tv/match-fut-2/playlist.m3u8
+#EXTINF:-1,МАТЧ ТВ https://www.iptvbin.com
+http://51.15.42.158:8081/tv/mutch-tv/chunks.m3u8
+#EXTINF:-1,МАТЧ! ИГРА
+http://51.15.42.158:8081/tv/match-igra/playlist.m3u8
+#EXTINF:-1,МАТЧ! НАШ СПОРТ
+http://51.15.42.158:8081/tv/match-nash-sport/playlist.m3u8
+#EXTINF:-1,EUROSPORT 2
+http://51.15.42.158:8081/tv/eurosport-2/playlist.m3u8
+#EXTINF:-1,МАТЧ! АРЕНА
+http://51.15.42.158:8081/tv/match-arena/playlist.m3u8
+
+
 #EXTINF:-1,МАТЧ! ПЛАНЕТА 
 http://ns1.telehouse-ua.net:19123/ott/52:1122 
 #EXTINF:-1,МАТЧ! ФУТБОЛ 1 
@@ -378,8 +406,6 @@ http://91.149.172.100:80/channel?id=24&u=demo&p=demo
 #EXTINF:-1,Eurosport 1 hd
 http://65.254.55.10:4000/live/197/197.m3u8
 
-#EXTINF:-1,EUROSPORT 2 HD 
-http://46.149.176.142:9003/play/a009
 
 #EXTINF:-1,EUROSPORT 2
 http://195.206.253.157:8001/eurosport2hd
@@ -413,15 +439,10 @@ skip
 
 #EXTINF:-1,VH1European 
 http://46.40.5.99:8000/vh1_high
-#EXTINF:-1,VH1 
-http://62.122.93.225:81/udp/238.1.2.20:1234
-#EXTINF:-1,VH1
-http://82.214.119.228:8000/play/a096/index.m3u
+
+
 #EXTINF:-1,VH+1 
 http://185.57.68.14:8091/126/tracks-v1a1/index.m3u8
-
-#EXTINF:-1,MTV Rocks 
-http://62.122.93.225:81/udp/238.1.2.33:1234
 #EXTINF:-1,MTV Dance 
 http://185.57.68.14/105/tracks-v1a1/index.m3u8
 
@@ -714,28 +735,7 @@ http://str.trofey.net:1935/live/2_max.smil/chunklist_w158057594_b4000000.m3u8?id
 #EXTINF:0,RUSSIA TODAY DOCUMENTARY
 http://secure-streams.akamaized.net/rt-doc/index2500.m3u8
 
-#EXTINF:-1,National Geographic 
-http://164.132.136.176:8000/0081 
-#EXTINF:-1,DiscoveryScience 
-http://164.132.136.176:8000/0061 
-#EXTINF:-1,Discovery Channel 
-http://164.132.136.176:8000/0076 
-#EXTINF:-1,Animal Planet 
-http://164.132.136.176:8000/0080 
-#EXTINF:-1,Investigation Discovery 
-http://164.132.136.176:8000/0199 
-#EXTINF:-1,DTX 
-http://164.132.136.176:8000/0197 
-#EXTINF:-1,ViasatHistory 
-http://164.132.136.176:8000/0050 
-#EXTINF:-1,ViasatExplore 
-http://164.132.136.176:8000/0049 
-#EXTINF:-1,ViasatNature 
-http://164.132.136.176:8000/0051 
-#EXTINF:-1,NatGeoWild 
-http://164.132.136.176:8000/0054 
-#EXTINF:-1,TLC 
-http://164.132.136.176:8000/0079 
+
 
 #EXTINF:-1,travel hd
 http://31.13.223.103/travel/community.stream/playlist.m3u8?hash=943212345
@@ -1307,10 +1307,6 @@ http://a3live-lh.akamaihd.net:80/i/antena3_1@35248/index_3_av-b.m3u8
 http://a3live-lh.akamaihd.net:80/i/nova/geonova_1@379404/index_3_av-p.m3u8
 #EXTINF:-1,Ocho TV (GDL)
 http://bcliveuniv-lh.akamaihd.net/i/Live_1@170324/master.m3u8
-#EXTINF:-1,AZTECA 13
-http://aztecalive-lh.akamaihd.net:80/i/0qm7cjvop_1@502476/index_1_av-p.m3u8
-#EXTINF:-1,Azteca 13
-http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
 #EXTINF:-1,REAL MADRID TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8
 #EXTINF:-1,ANTENA3
@@ -1341,8 +1337,7 @@ http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8
 http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8
 #EXTINF:-1,ETB SAT
 http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
-#EXTINF:-1,TVE 24H
-http://hlsackdn_gl8-lh.akamaihd.net:80/i/hlsdvrlive_1@81183/index_0650_av-b.m3u8
+
 
 
 
@@ -1377,8 +1372,6 @@ http://hls.goodgame.ru/hls/5346.m3u8
 #EXTINF:-1,Most Video TV HD
 http://w4.mostvideo.tv/tv/ch1.m3u8
 
-#EXTINF:-1,Xsport HD
-http://kz.light-iptv.ru:2017/play/xsport-hd?auth=iptv:zone
 
 #EXTINF:-1,Setanta Sports
 http://109.248.219.251:89/channel43.m3u8
@@ -1390,8 +1383,6 @@ http://109.248.219.251:88/channel17.m3u8
 #EXTINF:-1,Gruziya sport 4
 http://188.93.94.141/silk_sport4/index.m3u8
 
-#EXTINF:-1,VOLGA TV
-rtmp://volga-tv.ru:1935/live/live.stream_576p
 
 #EXTINF:-1,47 kanal
 http://194.190.88.34:1935/videowhisper/47channel_live_broadcast.stream/playlist.m3u8
@@ -1421,8 +1412,7 @@ http://195.49.206.243:8000/udp/239.255.1.63:1234
 #EXTINF:-1,Klassika kino
 http://serv25.vintera.tv:8081/klasskino/k_kino/playlist.m3u8
 
-#EXTINF:-1,BOLT
-http://178.209.65.146:4321/udp/239.0.0.28:1234
+
 
 #EXTINF:-1,Kino zakaz 1
 https://hls.goodgame.ru/hls/114023.m3u8
@@ -1477,17 +1467,58 @@ http://live.tvlux.sk:1935/lux/lux.stream_360p/chunklist_w1295439472.m3u8
 #EXTINF:-1,[COLOR green]--- CESKI PROGRAMI ---[/COLOR] 
 skip
 
-#EXTINF:-1,ceskoslovensko hd
+#EXTINF:-1,PrimaHD
+http://65.254.55.10:4000/live/115/115.m3u8
+#EXTINF:-1,CeskoslovenskoHD
 http://65.254.55.10:4000/live/196/196.m3u8
-#EXTINF:-1,nova action
-http://174.36.163.12:4000/live/304/304.m3u8
-#EXTINF:-1,prima max
-http://74.208.44.158:5000/live/518/518.m3u8
-#EXTINF:-1,nick
+#EXTINF:-1,DokuCZ
 http://65.254.55.10:4000/live/195/195.m3u8
-#EXTINF:-1,discovery
+#EXTINF:-1,Eurosport
+http://65.254.55.10:4000/live/197/197.m3u8
+#EXTINF:-1,CT1
+http://65.254.55.10:4000/live/176/176.m3u8
+#EXTINF:-1,CT2
+http://65.254.55.10:4000/live/78/78.m3u8
+#EXTINF:-1,JOJSD
+http://65.254.55.10:4000/live/141/141.m3u8
+#EXTINF:-1,STV1
+http://65.254.55.10:4000/live/177/177.m3u8
+#EXTINF:-1,NickHU
+http://65.254.55.10:4000/live/195/195.m3u8
+#EXTINF:-1,MARKIZA
+http://74.81.71.186:4000/live/36/36.m3u8
+#EXTINF:-1,NOVA
+http://74.81.71.186:4000/live/60/60.m3u8
+#EXTINF:-1,CT2
+http://74.81.71.186:4000/live/78/78.m3u8
+#EXTINF:-1,DISCOVERY
 http://74.81.71.186:4000/live/138/138.m3u8
-
+#EXTINF:-1,CT1
+http://74.81.71.186:4000/live/176/176.m3u8
+#EXTINF:-1,CT1
+http://108.168.175.182:5000/live/176/176.m3u8
+#EXTINF:-1,CT2
+http://108.168.175.182:5000/live/78/78.m3u8
+#EXTINF:-1,RIK
+http://5.63.149.252:5000/live/499/499.m3u8
+#EXTINF:-1,PRIMAMAX
+http://74.208.44.158:5000/live/518/518.m3u8
+#EXTINF:-1,MARKIZA
+http://74.81.71.186:4000/live/36/36.m3u8
+#EXTINF:-1,NOVA
+http://74.81.71.186:4000/live/60/60.m3u8
+#EXTINF:-1,DISCOVERY
+http://74.81.71.186:4000/live/138/138.m3u8
+#EXTINF:-1,JOJHD
+http://nn2.joj.sk/hls/joj-720.m3u8
+#EXTINF:-1,JOJPLUS
+http://nn2.joj.sk/hls/jojplus-540.m3u8
+#EXTINF:-1,WAU
+http://nn2.joj.sk/hls/wau-540.m3u8
+#EXTINF:-1,JOJFAMILY
+http://nn2.joj.sk/hls/family-540.m3u8
+#EXTINF:-1,RIK
+http://nn2.joj.sk/hls/rik-540.m3u8
 
 
 #EXTINF:-1,[COLOR green]--- SKANDINAVIJA ---[/COLOR] 
