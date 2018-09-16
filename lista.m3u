@@ -156,84 +156,30 @@ http://anglantennalive5-lh.akamaihd.net/i/live_1@424766/master.m3u8
 
 #EXTINF:-1,N1
 http://185.20.36.234:8080/stream?i=5NASdkA7imQ74SExK5xMGA&a=C2J-KsfDNkQ43uzstG1HaN69IIuhN8yyI7y66f5VFXyKNHJa4BWz0vNyVKDNmEDe7TCowHwegw-ti8G-IpqZY1SbsEvP6LLd9NXPkDaF1TpEzzRyQQVmwd5FNBt5ScRbY6a2FzzfKEefyJwEeRBgFDO97f_bEZXeeEaltcMJNnNhOK7Q3lFZrpPoT4hfqkT4F7MR0hfjqj_G_R0a8s1fPiEzqTU1eQ4qvYOFwr7wEmo7P1fF9D9RJlrD3r4SapoDHtEp2fOIhL-kIj4ygfwY7Vwhpbu5cYgjrQNyN7L40wQ&sp=n1info&u=n1info&session=e6ec35e2-496f-4e93-92eb-8a5aa9edf3c6&player=m3u8
+EXTINF:-1,eurosport 1 sr
+http://93.87.85.10/PLTV/88888888/224/3221226583/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA94tjvcqC92jhgBqS37pLbNKZYq6KgtK15ylBMRSp7eH8%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100001768%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
 
-#EXTINF:-1,BT Sport 1
-http://31.220.0.134:8081/live/jtvb1/playlist.m3u8
+EXTINF:-1,eurosport 1
+http://iptv-area-51.tv:2095/live/WHMCSMAG:WHMCS:15952/w2Z7ibx7O8/4695.m3u8
+EXTINF:-1,eurosport 2
+http://iptv-area-51.tv:2095/live/WHMCSMAG:WHMCS:15952/w2Z7ibx7O8/4696.m3u8
 
-#EXTINF:-1,BT Sport 2
-http://31.220.0.134:8081/live/jtvb2/playlist.m3u8
 
-#EXTINF:-1,BT Sport 3
-http://31.220.0.134:8081/live/jtvb3/playlist.m3u8
 
-#EXTINF:-1,SKY Sport 1
-http://31.220.0.134:8081/live/jtvs1/playlist.m3u8
-
-#EXTINF:-1,SKY Sport 2
-http://31.220.0.134:8081/live/jtvs2/playlist.m3u8
-
-#EXTINF:-1,SKY Sport 3
-http://31.220.0.134:8081/live/jtvs3/playlist.m3u8
-
-#EXTINF:-1,SKY Sport 4
-http://31.220.0.134:8081/live/jtvs4/playlist.m3u8
-
-#EXTINF:-1,SKY Sport 5
-http://31.220.0.134:8081/live/jtvs5/playlist.m3u8
-
-#EXTINF:-1,FS 1
-http://31.220.0.196:8081/live/fx11sx/chunks.m3u8
-
-#EXTINF:-1,FS 2
-http://31.220.0.196:8081/live/fx2sx/chunks.m3u8
-
-#EXTINF:-1,BT SPORT 1
-http://31.220.0.196:8081/live/ctvb1/playlist.m3u8
-
-#EXTINF:-1,BT SPORT 2
-http://31.220.0.196:8081/live/ctvb2/playlist.m3u8
-
-#EXTINF:-1,BT SPORT 3
-http://31.220.0.196:8081/live/ctvb3/playlist.m3u8
-
-#EXTINF:-1,BT ESPN
-http://31.220.0.196:8081/live/ctvb4/playlist.m3u8
-
-#EXTINF:-1,SKY SPORT 1
-http://31.220.0.196:8081/live/ctvs1/playlist.m3u8
-
-#EXTINF:-1,SKY SPORT 2
-http://31.220.0.196:8081/live/ctvs2/playlist.m3u8
-
-#EXTINF:-1,SKY SPORT 3
-http://31.220.0.196:8081/live/ctvs3/playlist.m3u8
-
-#EXTINF:-1,SKY SPORT 5
-http://31.220.0.196:8081/live/ctvs4/playlist.m3u8
-
-#EXTINF:-1,SK 1 HD
-http://31.220.0.134:8081/live/sk1/playlist.m3u8
-
-#EXTINF:-1,SK2 HD
-http://31.220.0.134:8081/live/sk2/playlist.m3u8
-
-#EXTINF:-1,SK3 HD
-http://31.220.0.134:8081/live/sk3/playlist.m3u8
-
-#EXTINF:-1,BBC 2
-http://31.220.0.134:8081/live/bbc2/playlist.m3u8
-
-#EXTINF:-1,SKY Sport F1
-http://31.220.0.134:8081/live/jtvf1/playlist.m3u8
-
-#EXTINF:-1,NBA
-http://31.220.0.134:8081/live/nba/playlist.m3u8
-
-#EXTINF:-1,TELEKOM SPORT 1
-http://31.220.0.196:8081/live/spstreamdolce1/playlist.m3u8
-
-#EXTINF:-1,TELEKOM SPORT 2
-http://31.220.0.196:8081/live/spstreamdolce2/playlist.m3u8
+EXTINF:-1,sport klub 1 hr
+http://190.2.142.13:25461/live/primera_android/1122334455/314.m3u8
+EXTINF:-1,sport klub 2 hr
+http://190.2.142.13:25461/live/primera_android/1122334455/313.m3u8
+EXTINF:-1,sport klub 3 hr
+http://190.2.142.13:25461/live/primera_android/1122334455/312.m3u8
+#EXTINF:-1,Arena Sport 1 hr
+http://pstutoriale.com:33000/live/EH4ALfbnMZ/y31mNX0FLV/15305.m3u8
+#EXTINF:-1,Arena Sport 2 hr
+http://190.2.142.13:25461/live/primera_android/1122334455/318.m3u8
+#EXTINF:-1,Arena Sport 3 hr
+http://190.2.142.13:25461/live/primera_android/1122334455/317.m3u8
+#EXTINF:-1,Arena Sport 4 hr
+http://190.2.142.13:25461/live/primera_android/1122334455/316.m3u8
 
 #EXTINF:-1,Arena Sport 1 Sr
 http://93.87.85.10/PLTV/88888888/224/3221226643/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9vmgYnhd%2FQXVMovIFPNVfeGKQqJOc1YO5YOmiz7KWGr0%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100002275%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
@@ -255,6 +201,12 @@ http://93.87.85.10/PLTV/88888888/224/3221226583/index.m3u8?rrsip=93.87.85.10&zon
 
 #EXTINF:-1,Eurosport 2 SR
 http://93.87.85.10/PLTV/88888888/224/3221226600/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9vmgYnhd%2FQXVMovIFPNVfeN2qgZPVA%2FLOJt%2FX8uiw5zk%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100001769%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
+
+#EXTINF:-1, EuroSport 1 HD
+http://iptv-area-51.tv:2095/live/WHMCSMAG:WHMCS:15952/w2Z7ibx7O8/4695.m3u8
+
+#EXTINF:-1, EuroSport 2 HD
+http://iptv-area-51.tv:2095/live/WHMCSMAG:WHMCS:15952/w2Z7ibx7O8/4696.m3u8
 
 #EXTINF:-1,Setanta Sports
 http://91.149.172.100:80/channel?id=146&u=demo&p=demo
