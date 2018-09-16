@@ -166,11 +166,11 @@ http://iptv-area-51.tv:2095/live/WHMCSMAG:WHMCS:15952/w2Z7ibx7O8/4696.m3u8
 
 
 
-EXTINF:-1,sport klub 1 hr
+#EXTINF:-1,sport klub 1 hr
 http://190.2.142.13:25461/live/primera_android/1122334455/314.m3u8
-EXTINF:-1,sport klub 2 hr
+#EXTINF:-1,sport klub 2 hr
 http://190.2.142.13:25461/live/primera_android/1122334455/313.m3u8
-EXTINF:-1,sport klub 3 hr
+#EXTINF:-1,sport klub 3 hr
 http://190.2.142.13:25461/live/primera_android/1122334455/312.m3u8
 #EXTINF:-1,Arena Sport 1 hr
 http://pstutoriale.com:33000/live/EH4ALfbnMZ/y31mNX0FLV/15305.m3u8
