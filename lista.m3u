@@ -156,12 +156,12 @@ http://anglantennalive5-lh.akamaihd.net/i/live_1@424766/master.m3u8
 
 #EXTINF:-1,N1
 http://185.20.36.234:8080/stream?i=5NASdkA7imQ74SExK5xMGA&a=C2J-KsfDNkQ43uzstG1HaN69IIuhN8yyI7y66f5VFXyKNHJa4BWz0vNyVKDNmEDe7TCowHwegw-ti8G-IpqZY1SbsEvP6LLd9NXPkDaF1TpEzzRyQQVmwd5FNBt5ScRbY6a2FzzfKEefyJwEeRBgFDO97f_bEZXeeEaltcMJNnNhOK7Q3lFZrpPoT4hfqkT4F7MR0hfjqj_G_R0a8s1fPiEzqTU1eQ4qvYOFwr7wEmo7P1fF9D9RJlrD3r4SapoDHtEp2fOIhL-kIj4ygfwY7Vwhpbu5cYgjrQNyN7L40wQ&sp=n1info&u=n1info&session=e6ec35e2-496f-4e93-92eb-8a5aa9edf3c6&player=m3u8
-EXTINF:-1,eurosport 1 sr
+#EXTINF:-1,eurosport 1 sr
 http://93.87.85.10/PLTV/88888888/224/3221226583/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA94tjvcqC92jhgBqS37pLbNKZYq6KgtK15ylBMRSp7eH8%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100001768%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
 
-EXTINF:-1,eurosport 1
+#EXTINF:-1,eurosport 1
 http://iptv-area-51.tv:2095/live/WHMCSMAG:WHMCS:15952/w2Z7ibx7O8/4695.m3u8
-EXTINF:-1,eurosport 2
+#EXTINF:-1,eurosport 2
 http://iptv-area-51.tv:2095/live/WHMCSMAG:WHMCS:15952/w2Z7ibx7O8/4696.m3u8
 
 
