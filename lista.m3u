@@ -1116,7 +1116,28 @@ http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
 #EXTINF:-1,JASMIN TV
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
 
-
+#EXTINF:-1,xxx1
+http://185.66.143.240:25461/live/tiana/tiana/401.m3u8
+#EXTINF:-1,xxx2
+http://185.66.143.240:25461/live/tiana/tiana/397.m3u8
+#EXTINF:-1,xxx3
+http://185.66.143.240:25461/live/tiana/tiana/398.m3u8
+#EXTINF:-1,xxx4
+http://185.66.143.240:25461/live/tiana/tiana/396.m3u8
+#EXTINF:-1,xxx5
+http://185.66.143.240:25461/live/tiana/tiana/395.m3u8
+#EXTINF:-1,xxx6
+http://185.66.143.240:25461/live/tiana/tiana/394.m3u8
+#EXTINF:-1,xxx7
+http://185.66.143.240:25461/live/tiana/tiana/393.m3u8
+#EXTINF:-1,xxx8
+http://185.66.143.240:25461/live/tiana/tiana/390.m3u8
+#EXTINF:-1,xxx9
+http://185.66.143.240:25461/live/tiana/tiana/392.m3u8
+#EXTINF:-1,xxx10
+http://185.66.143.240:25461/live/tiana/tiana/391.m3u8
+#EXTINF:-1,xxx11
+http://185.66.143.240:25461/live/tiana/tiana/389.m3u8
 
 
 
