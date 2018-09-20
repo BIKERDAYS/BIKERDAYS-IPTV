@@ -231,6 +231,20 @@ http://iptv-area-51.tv:2095/live/WHMCSMAG:WHMCS:15952/w2Z7ibx7O8/4695.m3u8
 #EXTINF:-1, EuroSport 2 HD
 http://iptv-area-51.tv:2095/live/WHMCSMAG:WHMCS:15952/w2Z7ibx7O8/4696.m3u8
 
+
+#EXTINF:-1,bein sports HD2
+http://ollocdn.online/ollomobananinamioc/602/playlist.m3u8
+#EXTINF:-1,bein sports HD3
+http://ollocdn.online/ollomobananinamioc/603/playlist.m3u8
+#EXTINF:-1,bein sports HD
+http://ollocdn.online/ollomobananinamioc/601/playlist.m3u8
+#EXTINF:-1,4
+http://ollocdn.online/ollomobananinamioc/604/playlist.m3u8
+#EXTINF:-1,tivibu SPOR2
+http://ollocdn.online/ollomobananinamioc/606/playlist.m3u8
+#EXTINF:-1,tivibu SPOR
+http://ollocdn.online/ollomobananinamioc/605/playlist.m3u8
+
 #EXTINF:-1,Setanta Sports
 http://91.149.172.100:80/channel?id=146&u=demo&p=demo
 
