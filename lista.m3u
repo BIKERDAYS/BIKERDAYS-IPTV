@@ -178,6 +178,239 @@ http://195.29.70.67/PLTV/88888888/224/3221226491/05.m3u8
 #EXTINF:-1,E! Entertainment TV HD 720p
 http://195.29.70.67/PLTV/88888888/224/3221226491/index.m3u8
 
+
+#EXTINF:-1,RTK 3
+http://178.132.6.97:8080/RTK3/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,RTK3
+http://178.132.6.97/RTK3/index.m3u8
+
+#EXTINF:-1,DMSAT
+http://178.132.6.97:8080/DMSAT1/playlist.m3u8
+
+#EXTINF:-1,FACE TV
+http://178.132.6.97:8080/FACETV1/playlist.m3u8
+
+#EXTINF:-1,A1 Balkan
+http://178.132.6.97:8080/A1Balkan1/playlist.m3u8
+
+#EXTINF:-1,TV Sarajevo
+http://178.132.6.97:8080/BA:TVSarajevo1/playlist.m3u8
+
+#EXTINF:-1,Primera Music
+http://178.132.6.97:8080/PrimeraMusic1/playlist.m3u8
+
+#EXTINF:-1,NTV101Prijedor
+http://178.132.6.97:8080/NTV101Prijedor1/playlist.m3u8
+
+#EXTINF:-1,Kanal6 BiH
+http://178.132.6.97:8080/Kanal6BiH1/playlist.m3u8
+
+#EXTINF:-1,TV Vogosca
+http://178.132.6.97:8080/TVVogosca1/playlist.m3u8
+
+#EXTINF:-1,Moje Bugojno
+http://178.132.6.97:8080/MojeBugojno1/playlist.m3u8
+
+#EXTINF:-1,TV Bugojno
+http://178.132.6.97:8080/TVBugojno1/playlist.m3u8
+
+#EXTINF:-1,RTV CAZIN
+http://178.132.6.97:8080/RTVCAZIN1/playlist.m3u8
+
+#EXTINF:-1,SEVDAH TV
+http://178.132.6.97:8080/FR:SEVDAHTV1/playlist.m3u8
+
+#EXTINF:-1,K3 Prnjavor
+http://178.132.6.97:8080/k3tv1/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,RTV1 Vojvodina
+http://178.132.6.97:8080/RTV1Vojvodina1/playlist.m3u8
+
+#EXTINF:-1,RTV2 Vojvodina
+http://178.132.6.97:8080/RTV2Vojvodina1/playlist.m3u8
+
+#EXTINF:-1,a1rtvnovipazar
+http://178.132.6.97:8080/a1rtvnovipazar1/playlist.m3u8
+
+#EXTINF:-1,Jedinstvo TV
+http://178.132.6.97:8080/JedinstvoTV1/playlist.m3u8
+
+#EXTINF:-1,SLON Extra
+http://178.132.6.97:8080/RTV:SLON1/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,RTRS
+http://178.132.6.97:8080/RTRS1/playlist.m3u8
+
+#EXTINF:-1,RTS1
+http://178.132.6.97:8080/RTS11/playlist.m3u8
+
+#EXTINF:-1,RTS2
+http://178.132.6.97:8080/RTS21/playlist.m3u8
+
+#EXTINF:-1,FTV
+http://178.132.6.97:8080/FTV1/playlist.m3u8
+
+#EXTINF:-1,Sharri HD
+http://178.132.6.97:8080/TV:SharriHD1/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,Sehara TV
+http://178.132.6.97:8080/SeharaTV1/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,OTV Valentino
+http://178.132.6.97:8080/OTVValentino1/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,Spin TV
+http://178.132.6.97:8080/SpinTV1/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,ROMA TV
+http://178.132.6.97:8080/ROMATV1/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,Dashma TV
+http://178.132.6.97:8080/DashmaTV1/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,RTK 4
+http://178.132.6.97:8080/RTK4/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,RTK2
+http://178.132.6.97:8080/RTK2/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,RTK1
+http://178.132.6.97:8080/RTK11/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,SYRIVISION
+http://178.132.6.97:8080/SYRIVISION1/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,Sky Folk Makedonija
+http://178.132.6.97:8080/SkyFolkMakedonija1/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,TV Tetova
+http://178.132.6.97:8080/TVTetova1/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,TV Plisi
+http://178.132.6.97:8080/TVPlisi1/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,TV7 TUZLA
+http://178.132.6.97:8080/TV7TUZLA1/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,Jug TV
+http://178.132.6.97:8080/JugTV1/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,rrokum tv
+http://178.132.6.97:8080/rrokumtv1/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,SYRIBLUE HDTV
+http://178.132.6.97:8080/SYRIBLUEHDTV1/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,Rtv Iliria Gjeneve
+http://178.132.6.97:8080/RtvIliriaGjeneve1/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,Samara Gis
+http://178.132.6.97:8080/samaragis1/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,PLUS TV
+http://178.132.6.97:8080/PLUSTV1/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,TNT KIDS
+http://178.132.6.97:8080/FR:TNTKIDS1/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,Satellite TV
+http://178.132.6.97:8080/canal11madrid1/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,TV5 HD
+http://178.132.6.97:8080/TV5HD1/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,OSM Pale
+http://178.132.6.97:8080/RS:OSMPale1/index.m3u8
+
+#EXTINF:-1,a1vikom
+http://178.132.6.97:8080/a1vikom1/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,TVTK
+http://178.132.6.97:8080/TVTK1/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,TRT HABER
+http://178.132.6.97:8080/TR:TRTHABER1/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,Kanal 7
+http://178.132.6.97:8080/Kanal71/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,RTV 21
+http://178.132.6.97:8080/RTV211/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,tvlir
+http://178.132.6.97:8080/tvlir1/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,SandzackaTVMreza
+http://178.132.6.97:8080/SandzackaTVMreza1/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,imltvhd
+http://178.132.6.97:8080/imltvhd1/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,a1rtvnovipazar
+http://178.132.6.97:8080/a1rtvnovipazar1/index.m3u8
+
+#EXTINF:-1,MRT1
+http://178.132.6.97:8080/MRT21/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,MRT1
+http://178.132.6.97:8080/MRT11/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,SMART TV TESANJ
+http://178.132.6.97:8080/bs:SMARTTVTESANJ1/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,JazzeraAL
+http://178.132.6.97:/JazzeraAL1/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,RTV Zenica
+http://178.132.6.97:8080/RTVZenica1/index.m3u8
+
+#EXTINF:-1,Primera Music
+http://178.132.6.97:8080/PrimeraMusic1/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,A1Srbija
+http://178.132.6.97:8080/A1Srbija1/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,A1 Cinema
+http://178.132.6.97:8080/A1Cinema1/index.m3u8
+
+#EXTINF:-1,A1 Kids
+http://178.132.6.97:8080/A1Kids1/index.m3u8
+
+#EXTINF:-1,A1 World
+http://178.132.6.97:8080/A1World1/index.m3u8
+
+#EXTINF:-1,A1 Bosnia
+http://178.132.6.97:8080/A1Bosnia1/index.m3u8
+
+#EXTINF:-1,A1 Espana
+http://178.132.6.97:8080/A1Espana1/index.m3u8
+
+#EXTINF:-1,A1 Exclusive
+http://178.132.6.97:8080/A1Exclusive1/index.m3u8
+
+#EXTINF:-1,A1 Media TV HD
+http://178.132.6.97:8080/A1MediaTV1/index.m3u8
+
+#EXTINF:-1,A1 Sport
+http://178.132.6.97:8080/A1Sport1/index.m3u8
+
+#EXTINF:-1,MirTVHD
+http://178.132.6.97:8080/MirTVHD1/index.m3u8
+
+#EXTINF:-1,Plus hd TV
+http://178.132.6.97:8080/PLUSHDTV1/index.m3u8
+
+#EXTINF:-1,PLUSTV
+http://178.132.6.97:8080/PLUSTV1/index.m3u8
+
+#EXTINF:-1,TUZLANSKI KANTON
+http://178.132.6.97:8080/TVTK1/index.m3u8
+
+#EXTINF:-1,RTV Zerii Kosoves Danimarke
+http://178.132.6.97/RTVZeriiKosovesDanimarke1/tracks-v1a1/index.m3u8
+
+
 #EXTINF:0,TV LESKOVAC
 http://best.str.nettvplus.com:8080/stream/?channel=tvleskovac&stream=1mb&sp=nettvplus?u=X0B2YB95
 
