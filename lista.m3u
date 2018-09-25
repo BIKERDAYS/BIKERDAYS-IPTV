@@ -414,19 +414,217 @@ http://anglantennalive5-lh.akamaihd.net/i/live_1@424766/master.m3u8
 #EXTINF:-1,N1
 http://185.20.36.234:8080/stream?i=5NASdkA7imQ74SExK5xMGA&a=C2J-KsfDNkQ43uzstG1HaN69IIuhN8yyI7y66f5VFXyKNHJa4BWz0vNyVKDNmEDe7TCowHwegw-ti8G-IpqZY1SbsEvP6LLd9NXPkDaF1TpEzzRyQQVmwd5FNBt5ScRbY6a2FzzfKEefyJwEeRBgFDO97f_bEZXeeEaltcMJNnNhOK7Q3lFZrpPoT4hfqkT4F7MR0hfjqj_G_R0a8s1fPiEzqTU1eQ4qvYOFwr7wEmo7P1fF9D9RJlrD3r4SapoDHtEp2fOIhL-kIj4ygfwY7Vwhpbu5cYgjrQNyN7L40wQ&sp=n1info&u=n1info&session=e6ec35e2-496f-4e93-92eb-8a5aa9edf3c6&player=m3u8
 
+#EXTINF:-1,bt sprt 1
+http://185.10.211.12:9153/play/a03q
+#EXTINF:-1,bt sport 2
+http://185.10.211.12:9153/play/a004
+#EXTINF:-1,bt sport 3
+http://185.10.211.12:9153/play/a036
+#EXTINF:-1,nba tv
+http://185.10.211.12:9153/play/a03t
 
 
 
+
+#EXTINF:0 group-title="(AF) Afghanistan",AL KASS SPORTS 1 | SD (AF)
+http://www.elahmad.com/tv/m3u8/alkass.m3u8
+
+#EXTINF:0 group-title="(AF) Afghanistan",SPORT-PLUS | SD (AF)
+http://190.2.152.168:9000/live/1234/1234567/13672.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",ABU DHABI SPORTS 1 | HD (AR)
+http://www.elahmad.com/tv/m3u8/adtv.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",ABU DHABI SPORTS 1 (1+) | SD (AR)
+http://199.167.151.237:1935/live/sp15_26.stream/gmswf.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",DUBAI SPORTS | HD (AR)
+http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/master.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",SPORT | SD (AR)
+http://190.2.152.168:9000/live/1234/1234567/13658.m3u8
+
+#EXTINF:0 group-title="(BG) Bulgaria",DIEMA SPORT | HD (BG)
+http://185.53.163.220:2015/live/280690/280690/33184.m3u8
+
+#EXTINF:0 group-title="(BG) Bulgaria",DIEMA SPORT 1 | HD (BG)
+http://185.53.163.220:2015/live/280690/280690/33183.m3u8
+
+#EXTINF:0 group-title="(BG) Bulgaria",DIEMA SPORT 2 | HD (BG)
+http://185.53.163.220:2015/live/280690/280690/33182.m3u8
+
+#EXTINF:0 group-title="(BG) Bulgaria",EDGE SPORTS | HD (BG)
+http://185.53.163.220:2015/live/280690/280690/33129.m3u8
+
+#EXTINF:0 group-title="(BG) Bulgaria",EUROSPORT 1 | SD (BG)
+http://185.53.163.220:2015/live/280690/280690/33128.m3u8
+
+#EXTINF:0 group-title="(BG) Bulgaria",FISHING HUNTING | SD (BG)
+http://185.53.163.220:2015/live/280690/280690/33116.m3u8
+
+#EXTINF:0 group-title="(BG) Bulgaria",FISHING TV | SD (BG)
+http://185.53.163.220:2015/live/280690/280690/33115.m3u8
+
+#EXTINF:0 group-title="(BG) Bulgaria",MTEL SPORT 1 | HD (BG)
+http://185.53.163.220:2015/live/280690/280690/33091.m3u8
+
+#EXTINF:0 group-title="(BG) Bulgaria",MTEL SPORT 2 | HD (BG)
+http://185.53.163.220:2015/live/280690/280690/33090.m3u8
+
+#EXTINF:0 group-title="(BG) Bulgaria",NOVA SPORT | HD (BG)
+http://185.53.163.220:2015/live/280690/280690/33082.m3u8
+
+#EXTINF:0 group-title="(DE) Germany",EUROSPORT 2 XTRA (2+) | HD (DE)
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/135.m3u8
+
+#EXTINF:0 group-title="(DE) Germany",EUROSPORT2 XTRA UHD T | SD (DE)
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/833.m3u8
+
+#EXTINF:0 group-title="(DE) Germany",ORF SPORT | HD (DE)
+http://185.53.163.220:2015/live/280690/280690/26554.m3u8
+
+#EXTINF:0 group-title="(DE) Germany",ORF SPORT (1+) | SD (DE)
+http://185.53.163.220:2015/live/280690/280690/26555.m3u8
+
+#EXTINF:0 group-title="(DE) Germany",ORF SPORT (2+) | SD (DE)
+http://apasfiisl.apa.at/ipad/orfs_q4a/orf.sdp/playlist.m3u8
+
+#EXTINF:0 group-title="(DE) Germany",SKY SPORT 1 UHD | SD (DE)
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/824.m3u8
+
+#EXTINF:0 group-title="(DE) Germany",SKY SPORT 2 UHD | SD (DE)
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/826.m3u8
+
+#EXTINF:0 group-title="(DE) Germany",SKY SPORT 4 | SD (DE)
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/118.m3u8
+
+#EXTINF:0 group-title="(DE) Germany",SKY SPORT BUNDESLIGA 1 UHD | SD (DE)
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/825.m3u8
+
+#EXTINF:0 group-title="(DE) Germany",SKY SPORT BUNDESLIGA1 | HD (DE)
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/131.m3u8
+
+#EXTINF:0 group-title="(DE) Germany",SKY SPORT BUNDESLIGA2 | HD (DE)
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/130.m3u8
+
+#EXTINF:0 group-title="(DE) Germany",SKY SPORT NEWS (2+) | HD (DE)
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/139.m3u8
+
+#EXTINF:0 group-title="(DE) Germany",SKY SPORT2 | HD (DE)
+http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/120.m3u8
+
+#EXTINF:0 group-title="(IN) India",DONBAS TV | SD (IN)
+http://api.tv.ipnet.ua/api/v1/manifest/2118742461.m3u8
+
+#EXTINF:0 group-title="(IT) Italy",FOX SPORTS 1 | HD (IT)
+http://190.2.152.168:9000/live/1234/1234567/9287.m3u8
+
+#EXTINF:0 group-title="(IT) Italy",RAI SPORT 1 | SD (IT)
+http://190.2.152.168:9000/live/1234/1234567/9758.m3u8
+
+#EXTINF:0 group-title="(IT) Italy",RTV SAN MARINO SPORT | SD (IT)
+http://194.116.78.102:1935/webtv_live4/_definst_/9UXJ2BJMTMNR/playlist.m3u8
+
+#EXTINF:0 group-title="(IT) Italy",SKY MOTO GP (1+) | HD (IT)
+http://190.2.152.168:9000/live/1234/1234567/9980.m3u8
+
+#EXTINF:0 group-title="(IT) Italy",TELEARENA | SD (IT)
+http://190.2.152.168:9000/live/1234/1234567/9968.m3u8
+
+#EXTINF:0 group-title="(IT) Italy",TELEROMAGNA SPORT | SD (IT)
+http://livetr.teleromagna.it/sport/live/playlist.m3u8
+
+#EXTINF:0 group-title="(PT) Portugal",ALL SPORTS | SD (PT)
+http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8
+
+#EXTINF:0 group-title="(PT) Portugal",ESPN | HD (PT)
+http://tvipbr.net:8080/live/gisele01/gisele01/1229.m3u8
+
+#EXTINF:0 group-title="(PT) Portugal",ESPN (1+) | HD (PT)
+http://tvipbr.net:8080/live/gisele01/gisele01/8085.m3u8
+
+#EXTINF:0 group-title="(PT) Portugal",ESPN (2+) | HD (PT)
+http://tvipbr.net:8080/live/gisele01/gisele01/13434.m3u8
+
+#EXTINF:0 group-title="(PT) Portugal",ESPN | SD (PT)
+http://tvipbr.net:8080/live/gisele01/gisele01/1228.m3u8
+
+#EXTINF:0 group-title="(PT) Portugal",ESPN (1+) | SD (PT)
+http://tvipbr.net:8080/live/gisele01/gisele01/8086.m3u8
+
+#EXTINF:0 group-title="(PT) Portugal",ESPORTE INTERATIVO | HD (PT)
+http://tvipbr.net:8080/live/gisele01/gisele01/8076.m3u8
+
+#EXTINF:0 group-title="(PT) Portugal",ESPORTE INTERATIVO (1+) | HD (PT)
+http://tvipbr.net:8080/live/gisele01/gisele01/13477.m3u8
+
+#EXTINF:0 group-title="(PT) Portugal",ESPORTE INTERATIVO | SD (PT)
+http://tvipbr.net:8080/live/gisele01/gisele01/8077.m3u8
+
+#EXTINF:0 group-title="(SP) Spain",FIGHT TIME | SD (SP)
+http://109.232.71.249/stream/stream_fighttime/fighttimehd.m3u8
+
+#EXTINF:0 group-title="(UA) Ukraine",XSPORT | SD (UA)
+http://95.67.103.251/hls/xsport_ua_hi/index.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",BEIN SPORTS | SD (UK)
+http://72.76.39.230:8000/play/a00z/index.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",ELEVEN SPORTS 1 | SD (UK)
+http://61.58.60.230:9000/live/75.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",ELEVEN SPORTS 2 | SD (UK)
+http://61.58.60.230:9000/live/102.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",FLOW SPORTS | SD (UK)
+http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
+
+#EXTINF:0 group-title="(US) United States",AUTOMOTO TV | SD (US)
+http://178.22.187.253:1935/streaming-tv/mp4:myStream3/playlist.m3u8
+
+#EXTINF:0 group-title="(US) United States",ESPN | SD (US)
+http://80.80.160.168/live/6/live.m3u8
+
+#EXTINF:0 group-title="(US) United States",ESPN 1 | HD (US)
+http://190.2.152.168:9000/live/1234/1234567/15831.m3u8
+
+#EXTINF:0 group-title="(US) United States",ESPN 2 | SD (US)
+http://161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8
+
+#EXTINF:0 group-title="(US) United States",FOX SPORTS RACING | SD (US)
+http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8
+
+#EXTINF:0 group-title="(US) United States",JUSTICE LEAGUE 2017 | SD (US)
+https://bobmovies.net/hl/Justice.League.2017_hd.m3u8
+
+#EXTINF:0 group-title="(US) United States",MLB NETWORK (1+) | SD (US)
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+
+#EXTINF:0 group-title="(US) United States",MLB STRIKE ZONE | SD (US)
+http://72.76.39.230:8000/play/a015/index.m3u8
+
+#EXTINF:0 group-title="(US) United States",NBA TV | SD (US)
+http://72.76.39.230:8000/play/a00e/index.m3u8
+
+#EXTINF:0 group-title="(US) United States",SPORTS | SD (US)
+http://wse.planeta-online.tv:1935/live/channel_3/chunklist.m3u8
+
+#EXTINF:0 group-title="(US) United States",SPORTSNET | SD (US)
+http://72.76.39.230:8000/play/a00y/index.m3u8
+
+#EXTINF:0 group-title="(US) United States",SPORTSNET ONE | HD (US)
+http://190.2.152.168:9000/live/1234/1234567/15826.m3u8
+
+#EXTINF:0 group-title="(US) United States",TENNIS CHANNEL | SD (US)
+http://190.2.152.168:9000/live/1234/1234567/12220.m3u8
+
+#EXTINF:0 group-title="(WW) World Wide",FISHING NETWORK | SD (WW)
+http://161.0.157.8/PLTV/88888888/224/3221226811/index.m3u8
 
 
 
 #EXTINF:-1,eurosport 1 sr
 http://93.87.85.10/PLTV/88888888/224/3221226583/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA94tjvcqC92jhgBqS37pLbNKZYq6KgtK15ylBMRSp7eH8%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100001768%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
-
-
-
-
-
 
 #EXTINF:-1,Arena Sport 1 Sr
 http://93.87.85.10/PLTV/88888888/224/3221226643/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9vmgYnhd%2FQXVMovIFPNVfeGKQqJOc1YO5YOmiz7KWGr0%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100002275%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
