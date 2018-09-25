@@ -15,25 +15,11 @@ http://195.29.70.89/PLTV/88888888/224/3221226281/04.m3u8
 #EXTINF:0,rtl
 http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8
 
-#EXTINF:0,rtl 2
-http://190.2.142.13:25461/live/primera_android/1122334455/387.m3u8
-
-#EXTINF:0,rtl kockica
-http://190.2.142.13:25461/live/primera_android/1122334455/385.m3u8
-
 #EXTINF:0,nova tv
 http://195.154.177.92:25461/live/Dado.nikola.ignjatovic/hg0i2Z5Xlq/603.m3u8
 #EXTINF:0,doma tv
 http://190.2.142.13:25461/live/primera_android/1122334455/374.m3u8
 
-#EXTINF:0,hbo 1
-http://sevennine.ddns.net:8000/live/jozoSeno/13dec2015/540.m3u8
-#EXTINF:0,hbo2
-http://190.2.142.13:25461/live/primera_android/1122334455/365.m3u8
-#EXTINF:0,hbo3
-http://190.2.142.13:25461/live/primera_android/1122334455/364.m3u8
-#EXTINF:0,hbo zone
-http://necro.to/live/BTFF/FhBDqzHmAj/2865.m3u8
 #EXTINF:0,cinestar premiere 1
 http://panel.globepremium.com:8000/live/maestro5469/2e33bf0fea/22987.m3u8
 #EXTINF:0,cinestar premiere 2
@@ -429,30 +415,6 @@ http://anglantennalive5-lh.akamaihd.net/i/live_1@424766/master.m3u8
 http://185.20.36.234:8080/stream?i=5NASdkA7imQ74SExK5xMGA&a=C2J-KsfDNkQ43uzstG1HaN69IIuhN8yyI7y66f5VFXyKNHJa4BWz0vNyVKDNmEDe7TCowHwegw-ti8G-IpqZY1SbsEvP6LLd9NXPkDaF1TpEzzRyQQVmwd5FNBt5ScRbY6a2FzzfKEefyJwEeRBgFDO97f_bEZXeeEaltcMJNnNhOK7Q3lFZrpPoT4hfqkT4F7MR0hfjqj_G_R0a8s1fPiEzqTU1eQ4qvYOFwr7wEmo7P1fF9D9RJlrD3r4SapoDHtEp2fOIhL-kIj4ygfwY7Vwhpbu5cYgjrQNyN7L40wQ&sp=n1info&u=n1info&session=e6ec35e2-496f-4e93-92eb-8a5aa9edf3c6&player=m3u8
 
 
-#EXTINF:-1,Polsat Sport Extra HD
-http://f3.plusx.tv:8888/128/mono.m3u8
-#EXTINF:-1,Polsat Sport Extra
-http://f3.plusx.tv:8888/127/mono.m3u8
-#EXTINF:-1,Polsat Sport Fight HD
-http://f3.plusx.tv:8888/129/mono.m3u8
-#EXTINF:-1,Polsat Sport HD
-http://f3.plusx.tv:8888/130/mono.m3u8
-#EXTINF:-1,Polsat Sport News HD
-http://f3.plusx.tv:8888/131/mono.m3u8
-#EXTINF:-1,Polsat Sport
-http://f3.plusx.tv:8888/126/mono.m3u8
-#EXTINF:-1,Polsat Sport Premium 1 HD
-http://f3.plusx.tv:8888/132/mono.m3u8
-#EXTINF:-1,Polsat Sport Premium 2 HD
-http://f3.plusx.tv:8888/133/mono.m3u8
-#EXTINF:-1,Polsat Sport Premium 3 PPV HD
-http://f3.plusx.tv:8888/134/mono.m3u8
-#EXTINF:-1,Polsat Sport Premium 4 PPV HD
-http://f3.plusx.tv:8888/135/mono.m3u8
-#EXTINF:-1,Polsat Sport Premium 5 PPV HD
-http://f3.plusx.tv:8888/136/mono.m3u8
-#EXTINF:-1,Polsat Sport Premium 6 PPV HD
-http://f3.plusx.tv:8888/137/mono.m3u8
 
 
 
@@ -462,32 +424,9 @@ http://f3.plusx.tv:8888/137/mono.m3u8
 http://93.87.85.10/PLTV/88888888/224/3221226583/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA94tjvcqC92jhgBqS37pLbNKZYq6KgtK15ylBMRSp7eH8%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100001768%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
 
 
-#EXTINF:-1,eurosport2
-http://epsilon-c1.liux.tv/ru-eurosport2/mono.m3u8?token=0601089e-e046-4933-92fe-23a46093c8ad
-#EXTINF:-1,eurosport
-http://epsilon-c1.liux.tv/ru-eurosport/mono.m3u8?token=0601089e-e046-4933-92fe-23a46093c8ad
-
-#EXTINF:-1,eurosport 1
-http://iptv-area-51.tv:2095/live/WHMCSMAG:WHMCS:15952/w2Z7ibx7O8/4695.m3u8
-#EXTINF:-1,eurosport 2
-http://iptv-area-51.tv:2095/live/WHMCSMAG:WHMCS:15952/w2Z7ibx7O8/4696.m3u8
 
 
 
-#EXTINF:-1,sport klub 1 hr
-http://190.2.142.13:25461/live/primera_android/1122334455/314.m3u8
-#EXTINF:-1,sport klub 2 hr
-http://190.2.142.13:25461/live/primera_android/1122334455/313.m3u8
-#EXTINF:-1,sport klub 3 hr
-http://190.2.142.13:25461/live/primera_android/1122334455/312.m3u8
-#EXTINF:-1,Arena Sport 1 hr
-http://pstutoriale.com:33000/live/EH4ALfbnMZ/y31mNX0FLV/15305.m3u8
-#EXTINF:-1,Arena Sport 2 hr
-http://190.2.142.13:25461/live/primera_android/1122334455/318.m3u8
-#EXTINF:-1,Arena Sport 3 hr
-http://190.2.142.13:25461/live/primera_android/1122334455/317.m3u8
-#EXTINF:-1,Arena Sport 4 hr
-http://190.2.142.13:25461/live/primera_android/1122334455/316.m3u8
 
 #EXTINF:-1,Arena Sport 1 Sr
 http://93.87.85.10/PLTV/88888888/224/3221226643/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9vmgYnhd%2FQXVMovIFPNVfeGKQqJOc1YO5YOmiz7KWGr0%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100002275%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
@@ -1509,28 +1448,6 @@ http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
 #EXTINF:-1,JASMIN TV
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
 
-#EXTINF:-1,xxx1
-http://185.66.143.240:25461/live/tiana/tiana/401.m3u8
-#EXTINF:-1,xxx2
-http://185.66.143.240:25461/live/tiana/tiana/397.m3u8
-#EXTINF:-1,xxx3
-http://185.66.143.240:25461/live/tiana/tiana/398.m3u8
-#EXTINF:-1,xxx4
-http://185.66.143.240:25461/live/tiana/tiana/396.m3u8
-#EXTINF:-1,xxx5
-http://185.66.143.240:25461/live/tiana/tiana/395.m3u8
-#EXTINF:-1,xxx6
-http://185.66.143.240:25461/live/tiana/tiana/394.m3u8
-#EXTINF:-1,xxx7
-http://185.66.143.240:25461/live/tiana/tiana/393.m3u8
-#EXTINF:-1,xxx8
-http://185.66.143.240:25461/live/tiana/tiana/390.m3u8
-#EXTINF:-1,xxx9
-http://185.66.143.240:25461/live/tiana/tiana/392.m3u8
-#EXTINF:-1,xxx10
-http://185.66.143.240:25461/live/tiana/tiana/391.m3u8
-#EXTINF:-1,xxx11
-http://185.66.143.240:25461/live/tiana/tiana/389.m3u8
 
 
 
