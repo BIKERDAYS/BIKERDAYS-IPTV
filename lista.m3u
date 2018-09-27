@@ -607,9 +607,24 @@ http://p12w-lh.akamaihd.net/i/washington_delivery@426584/master.m3u8
 #EXTINF:-1,extreme sport
 http://91.149.172.100:80/channel?id=24&u=demo&p=demo
 
+
+
+#EXTINF:-1,Arena Sport 1
+http://81.200.50.5/hls/Arena_Sport_nejtv_portable_low.m3u8
+#EXTINF:-1,Arena Sport 2 HD
+http://81.200.50.5/hls/Arena_Sport_2_nejtv_portable_low.m3u8
+#EXTINF:-1,Eurosport 1 HD https://iptv.zone
+http://81.200.50.5/hls/Eurosport_nejtv_portable_low.m3u8
+#EXTINF:-1,Eurosport 2
+http://81.200.50.5/hls/Eurosport2_nejtv_portable_low.m3u8
+#EXTINF:-1,Nova Sport 1 HD
+http://81.200.50.5/hls/Nova_Sport_nejtv_portable_low.m3u8
+#EXTINF:-1,Nova Sport 2 HD
+http://81.200.50.5/hls/Nova_Sport_2_nejtv_portable_low.m3u8
+#EXTINF:-1,Fight Box
+http://81.200.50.5/hls/Fight_Box_nejtv_portable_low.m3u8
 #EXTINF:-1,Extreme Sport Channel
 http://81.200.50.5/hls/Extreme_Sport_nejtv_portable_low.m3u8
-
 #EXTINF:-1,Eurosport_HD
 http://81.200.50.5/hls/Eurosport_HD_nejtv_portable_low.m3u8
 #EXTINF:-1,Eurosport2_HD
@@ -1056,6 +1071,18 @@ https://liveprodapnortheast.global.ssl.fastly.net/btv/desktop/aus_live.m3u8
 #EXTINF:-1,Bloomberg TV Europe | HD
 https://liveprodeuwest.global.ssl.fastly.net/btv/desktop/eu_live.m3u8
 
+
+
+#EXTINF:-1,Rai 1
+http://86.124.233.227:7300/rai1
+#EXTINF:-1,Rai 2
+http://86.124.233.227:7300/rai2
+#EXTINF:-1,Rai 3
+http://86.124.233.227:7300/rai3
+
+#EXTINF:-1,RAI Sports
+https://raisportuno1-live.akamaized.net/hls/live/598320/raisportuno1/raisport1_1800/chunklist.m3u8
+
 #EXTINF:-1,canale 5
 http://hlslive.msf.ticdn.it/hls/CH13/live.m3u8?type=live-cupertino
 
@@ -1103,76 +1130,6 @@ http://telecolor.econcept.it/live/telecolor.isml/manifest(format=m3u8-aapl).m3u8
 
 #EXTINF:-1,CANALE 7
 http://wms.shared.streamshow.it:1935/canale7/canale7/live.m3u8
-
-
-#EXTINF:-1,BBC One London
-http://epsilon-c2.liux.tv/en-BBCOneLon/mono.m3u8?token=1776afa0-eb74-4386-a4cf-4455278ba0f3
-#EXTINF:-1,BBC One HD
-http://epsilon-c2.liux.tv/en-BBCOneHD/mono.m3u8?token=1776afa0-eb74-4386-a4cf-4455278ba0f3
-#EXTINF:-1,BBC Two London
-http://epsilon-c2.liux.tv/en-BBCTwoEng/mono.m3u8?token=1776afa0-eb74-4386-a4cf-4455278ba0f3
-#EXTINF:-1,BBC Two HD
-http://epsilon-c2.liux.tv/en-BBCTwoHD/mono.m3u8?token=1776afa0-eb74-4386-a4cf-4455278ba0f3
-#EXTINF:-1,RTÉ One
-http://epsilon-c2.liux.tv/en-RTEOne/mono.m3u8?token=1776afa0-eb74-4386-a4cf-4455278ba0f3
-#EXTINF:-1,RTÉ One HD
-http://epsilon-c2.liux.tv/en-rte1-hd/mono.m3u8?token=1776afa0-eb74-4386-a4cf-4455278ba0f3
-#EXTINF:-1,RTÉ Two
-http://epsilon-c2.liux.tv/en-RTE2/mono.m3u8?token=1776afa0-eb74-4386-a4cf-4455278ba0f3
-#EXTINF:-1,RTÉ Two HD
-http://epsilon-c2.liux.tv/en-rte2-hd/mono.m3u8?token=1776afa0-eb74-4386-a4cf-4455278ba0f3
-#EXTINF:-1,ITV
-http://epsilon-c2.liux.tv/en-ITV/mono.m3u8?token=1776afa0-eb74-4386-a4cf-4455278ba0f3
-#EXTINF:-1,ITV HD
-http://epsilon-c2.liux.tv/en-ItvHD/mono.m3u8?token=1776afa0-eb74-4386-a4cf-4455278ba0f3
-#EXTINF:-1,ITV 2
-http://epsilon-c2.liux.tv/en-ITV2/mono.m3u8?token=1776afa0-eb74-4386-a4cf-4455278ba0f3
-#EXTINF:-1,ITV 2 HD
-http://epsilon-c2.liux.tv/en-ITV2HD/mono.m3u8?token=1776afa0-eb74-4386-a4cf-4455278ba0f3
-#EXTINF:-1,ITV 3
-http://epsilon-c2.liux.tv/en-ITV3/mono.m3u8?token=1776afa0-eb74-4386-a4cf-4455278ba0f3
-#EXTINF:-1,ITV 3 HD
-http://epsilon-c2.liux.tv/en-ITV3HD/mono.m3u8?token=1776afa0-eb74-4386-a4cf-4455278ba0f3
-#EXTINF:-1,ITV 4
-http://epsilon-c2.liux.tv/en-ITV4/mono.m3u8?token=1776afa0-eb74-4386-a4cf-4455278ba0f3
-#EXTINF:-1,ITV 4 HD
-http://epsilon-c2.liux.tv/en-ITV4HD/mono.m3u8?token=1776afa0-eb74-4386-a4cf-4455278ba0f3
-#EXTINF:-1,Channel 5
-http://epsilon-c2.liux.tv/en-Channel5/mono.m3u8?token=1776afa0-eb74-4386-a4cf-4455278ba0f3
-#EXTINF:-1,Channel 5 HD
-http://epsilon-c2.liux.tv/en-Channel5HD/mono.m3u8?token=1776afa0-eb74-4386-a4cf-4455278ba0f3
-#EXTINF:-1,Первый Канал
-http://epsilon-c1.liux.tv/ru-pervyj/mono.m3u8?token=1776afa0-eb74-4386-a4cf-4455278ba0f3
-#EXTINF:-1,Первый канал HD
-http://epsilon-c1.liux.tv/ru-pervyj-hd/index.m3u8?token=1776afa0-eb74-4386-a4cf-4455278ba0f3
-#EXTINF:-1,Россия 1
-http://epsilon-c1.liux.tv/ru-rossija1/mono.m3u8?token=1776afa0-eb74-4386-a4cf-4455278ba0f3
-#EXTINF:-1,Россия HD
-http://epsilon-c1.liux.tv/ru-rossija-hd/mono.m3u8?token=1776afa0-eb74-4386-a4cf-4455278ba0f3
-#EXTINF:-1,НТВ
-http://epsilon-c1.liux.tv/ru-ntv/mono.m3u8?token=1776afa0-eb74-4386-a4cf-4455278ba0f3
-#EXTINF:-1,НТВ Мир Балтия
-http://epsilon-c1.liux.tv/ru-ntv-balt/mono.m3u8?token=1776afa0-eb74-4386-a4cf-4455278ba0f3
-#EXTINF:-1,НТВ HD
-http://epsilon-c1.liux.tv/ru-ntv-hd/mono.m3u8?token=1776afa0-eb74-4386-a4cf-4455278ba0f3
-#EXTINF:-1,РЕН ТВ
-http://epsilon-c1.liux.tv/ru-rentv/mono.m3u8?token=1776afa0-eb74-4386-a4cf-4455278ba0f3
-#EXTINF:-1,РЕН ТВ HD
-http://epsilon-c1.liux.tv/ru-rentv-hd/mono.m3u8?token=1776afa0-eb74-4386-a4cf-4455278ba0f3
-#EXTINF:-1,РЕН ТВ Baltic
-http://epsilon-c1.liux.tv/ru-rentv-balt/mono.m3u8?token=1776afa0-eb74-4386-a4cf-4455278ba0f3
-#EXTINF:-1,Мульт
-http://epsilon-c1.liux.tv/ru-disney-xd/mono.m3u8?token=1776afa0-eb74-4386-a4cf-4455278ba0f3
-#EXTINF:-1,Тлум HD
-http://epsilon-c1.liux.tv/ru-tlum-hd/mono.m3u8?token=1776afa0-eb74-4386-a4cf-4455278ba0f3
-#EXTINF:-1,Ani
-http://epsilon-c1.liux.tv/ru-ani/index.m3u8?token=1776afa0-eb74-4386-a4cf-4455278ba0f3
-#EXTINF:-1,LNK
-http://epsilon-c1.liux.tv/lt-lnk/mono.m3u8?token=1776afa0-eb74-4386-a4cf-4455278ba0f3
-#EXTINF:-1,LNT
-http://epsilon-c1.liux.tv/lv-lnt/mono.m3u8?token=1776afa0-eb74-4386-a4cf-4455278ba0f3h
-
-
 
 #EXTINF:-1,BBC Radio One
 http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlow/ak/bbc_radio_one.m3u8
