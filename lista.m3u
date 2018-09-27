@@ -613,7 +613,7 @@ http://91.149.172.100:80/channel?id=24&u=demo&p=demo
 http://81.200.50.5/hls/Arena_Sport_nejtv_portable_low.m3u8
 #EXTINF:-1,Arena Sport 2 HD
 http://81.200.50.5/hls/Arena_Sport_2_nejtv_portable_low.m3u8
-#EXTINF:-1,Eurosport 1 HD https://iptv.zone
+#EXTINF:-1,Eurosport 1 HD
 http://81.200.50.5/hls/Eurosport_nejtv_portable_low.m3u8
 #EXTINF:-1,Eurosport 2
 http://81.200.50.5/hls/Eurosport2_nejtv_portable_low.m3u8
@@ -637,6 +637,30 @@ http://hlstv.nsk.211.ru/239.211.211.115/stream.m3u8
 
 #EXTINF:-1,EUROSPORT 2
 http://195.206.253.157:8001/eurosport2hd
+
+#EXTINF:-1,MATCH! FUTBALL 3 HD
+http://hlstv.nsk.211.ru/239.211.200.173/stream.m3u8
+#EXTINF:-1,MATCH! FUTBALL 1 HD
+http://hlstv.nsk.211.ru/239.211.200.171/stream.m3u8
+#EXTINF:-1,MATCH! FUTBALL 2 HD
+http://hlstv.nsk.211.ru/239.211.200.172/stream.m3u8
+#EXTINF:-1,NASH FUTBALL HD
+http://hlstv.nsk.211.ru/239.211.200.170/stream.m3u8
+#EXTINF:-1,ARENA
+http://hlstv.nsk.211.ru/239.211.211.35/stream.m3u8
+#EXTINF:-1,EXSTREME SPORT
+http://hlstv.nsk.211.ru/239.211.211.47/stream.m3u8
+#EXTINF:-1,КХЛ
+http://hlstv.nsk.211.ru/239.211.211.48/stream.m3u8
+#EXTINF:-1,наш спорт
+http://hlstv.nsk.211.ru/239.211.211.63/stream.m3u8
+#EXTINF:-1,MATCH PREMIERE
+http://hlstv.nsk.211.ru/239.211.211.170/stream.m3u8
+#EXTINF:-1,EUROSPORT1
+http://hlstv.nsk.211.ru/239.211.211.115/stream.m3u8
+
+
+
 
 
 #EXTINF:-1,VH1
