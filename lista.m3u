@@ -609,6 +609,11 @@ http://91.149.172.100:80/channel?id=24&u=demo&p=demo
 
 
 
+
+#EXTINF:-1,Golf Channel HD
+http://81.200.50.5/hls/Golf_Channel_nejtv_portable_low.m3u8
+#EXTINF:-1,CT sport
+http://81.200.50.5/hls/CT4sport_nejtv_portable_low.m3u8
 #EXTINF:-1,Arena Sport 1
 http://81.200.50.5/hls/Arena_Sport_nejtv_portable_low.m3u8
 #EXTINF:-1,Arena Sport 2 HD
@@ -665,6 +670,22 @@ http://hlstv.nsk.211.ru/239.211.211.115/stream.m3u8
 
 #EXTINF:-1,VH1
 http://81.200.50.5/hls/VH1_nejtv_portable_low.m3u8
+
+
+#EXTINF:-1,MTV Europe
+http://81.200.50.5/hls/MTV_Europe_nejtv_portable_low.m3u8
+#EXTINF:-1,MTV Dance
+http://81.200.50.5/hls/MTV_Dance_nejtv_portable_low.m3u8
+#EXTINF:-1,MTV Hits
+http://81.200.50.5/hls/MTV_Hits_nejtv_portable_low.m3u8
+#EXTINF:-1,MTV Live
+http://81.200.50.5/hls/MTV_Live_nejtv_portable_low.m3u8
+#EXTINF:-1,MTV Rocks
+http://81.200.50.5/hls/MTV_Rocks_nejtv_portable_low.m3u8
+#EXTINF:-1,Retro Music
+http://81.200.50.5/hls/Retro_Music_nejtv_portable_low.m3u8
+
+
 
 #EXTINF:0,MTV (norg)
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
