@@ -643,6 +643,9 @@ http://hlstv.nsk.211.ru/239.211.211.115/stream.m3u8
 #EXTINF:-1,EUROSPORT 2
 http://195.206.253.157:8001/eurosport2hd
 
+#EXTINF:1.3811,XSPORT
+http://193.34.172.139:12413
+
 #EXTINF:-1,MATCH! FUTBALL 3 HD
 http://hlstv.nsk.211.ru/239.211.200.173/stream.m3u8
 #EXTINF:-1,MATCH! FUTBALL 1 HD
