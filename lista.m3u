@@ -538,43 +538,6 @@ http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.
 
 
 
-#EXTINF:-1,bein sports HD2
-http://ollocdn.online/ollomobananinamioc/602/playlist.m3u8
-#EXTINF:-1,bein sports HD3
-http://ollocdn.online/ollomobananinamioc/603/playlist.m3u8
-#EXTINF:-1,bein sports HD
-http://ollocdn.online/ollomobananinamioc/601/playlist.m3u8
-#EXTINF:-1,4
-http://ollocdn.online/ollomobananinamioc/604/playlist.m3u8
-#EXTINF:-1,tivibu SPOR2
-http://ollocdn.online/ollomobananinamioc/606/playlist.m3u8
-#EXTINF:-1,tivibu SPOR
-http://ollocdn.online/ollomobananinamioc/605/playlist.m3u8
-#EXTINF:-1,eurosport 1 sr
-http://93.87.85.10/PLTV/88888888/224/3221226583/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA94tjvcqC92jhgBqS37pLbNKZYq6KgtK15ylBMRSp7eH8%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100001768%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
-
-#EXTINF:-1,Arena Sport 1 Sr
-http://93.87.85.10/PLTV/88888888/224/3221226643/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9vmgYnhd%2FQXVMovIFPNVfeGKQqJOc1YO5YOmiz7KWGr0%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100002275%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
-
-#EXTINF:-1,Arena Sport 2 Sr
-http://93.87.85.10/PLTV/88888888/224/3221226662/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9vmgYnhd%2FQXVMovIFPNVfeHaNbgVK65Yvvvdjpa6aN2o%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100001966%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
-
-#EXTINF:-1,Arena Sport 3 Sr
-http://93.87.85.10/PLTV/88888888/224/3221226664/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9vmgYnhd%2FQXVMovIFPNVfeKk0gNemuqqQ2V2Ec5VWmJs%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100001967%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
-
-#EXTINF:-1,Arena Sport 4 Sr
-http://93.87.85.10/PLTV/88888888/224/3221226661/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9vmgYnhd%2FQXVMovIFPNVfeK8DY8Ho%2FE6St%2BVWSvqrtEY%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100001968%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
-
-#EXTINF:-1,Arena Sport 5 Sr
-http://93.87.85.10/PLTV/88888888/224/3221226665/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9vmgYnhd%2FQXVMovIFPNVfeBiXPAaui6g8aIyeRBou9ik%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100001969%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
-
-#EXTINF:-1,Eurosport 1 SR
-http://93.87.85.10/PLTV/88888888/224/3221226583/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA94tjvcqC92jhgBqS37pLbNKZYq6KgtK15ylBMRSp7eH8%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100001768%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
-
-#EXTINF:-1,Eurosport 2 SR
-http://93.87.85.10/PLTV/88888888/224/3221226600/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9vmgYnhd%2FQXVMovIFPNVfeN2qgZPVA%2FLOJt%2FX8uiw5zk%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100001769%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
-
-
 
 #EXTINF:-1,Setanta Sports
 http://91.149.172.100:80/channel?id=146&u=demo&p=demo
@@ -624,6 +587,57 @@ http://c0.cdn.trinity-tv.net/stream/gt2kc4jxhhcndsift9ypesc5evxniibazu4kxfy7urz3
 http://c0.cdn.trinity-tv.net/stream/xm2dfkrdw9ik5z9sfrg7zhijppp4runkmzxmu92cq5zhbecaunzj25vjnggqwfsywr4zm97kg8ga3pf64eume8eygd5rx8g46e35i3esy9mu9sxzqvi7t9g896gtw4ydwuhxcegfdyqdz7nsqkuks6i=.m3u8
 #EXTINF:0,Спорт 2 (Украина)
 http://c0.cdn.trinity-tv.net/stream/egbxqnfhehhryutivasnk6pz896a5zfz7fa39d9rza2z54f89bj7kkh5f3a6x6dtkv5uu5i7t89ueydxkdsvv68gmsfmnpi333h53qdwag8tb47ntq68mphry622ftqy5iskc6bcqauzgkqc8ivszei=.m3u8
+
+
+
+#EXTINF:0,МАТЧ! АРЕНА
+#EXTVLCOPT:network-caching=1000
+http://31.28.170.226:54321/play/a001
+#EXTINF:0,МАТЧ! БОЕЦ
+#EXTVLCOPT:network-caching=1000
+http://31.28.170.226:54321/play/a002
+#EXTINF:0,МАТЧ! ИГРА
+#EXTVLCOPT:network-caching=1000
+http://31.28.170.226:54321/play/a003
+#EXTINF:0,МАТЧ! НАШ СПОРТ
+#EXTVLCOPT:network-caching=1000
+http://31.28.170.226:54321/play/a004
+#EXTINF:0,МАТЧ! ФУТБОЛ 1
+#EXTVLCOPT:network-caching=1000
+http://31.28.170.226:54321/play/a005
+#EXTINF:0,МАТЧ! ФУТБОЛ 2
+#EXTVLCOPT:network-caching=1000
+http://31.28.170.226:54321/play/a006
+#EXTINF:0,МАТЧ! ФУТБОЛ 3
+#EXTVLCOPT:network-caching=1000
+http://31.28.170.226:54321/play/a007
+#EXTINF:0,НАШ ФУТБОЛ
+#EXTVLCOPT:network-caching=1000
+http://31.28.170.226:54321/play/a00e
+#EXTINF:0,МАТЧ! ФУТБОЛ 1 HD
+#EXTVLCOPT:network-caching=1000
+http://31.28.170.226:54322/play/a006
+#EXTINF:0,МАТЧ! ФУТБОЛ 2 HD
+#EXTVLCOPT:network-caching=1000
+http://31.28.170.226:54322/play/a001
+#EXTINF:0,МАТЧ! ФУТБОЛ 3 HD
+#EXTVLCOPT:network-caching=1000
+http://31.28.170.226:54322/play/a002
+#EXTINF:0,МАТЧ ПРЕМЬЕР HD
+#EXTVLCOPT:network-caching=1000
+http://31.28.170.226:54322/play/a003
+#EXTINF:0,Extreme Sports
+#EXTVLCOPT:network-caching=1000
+http://31.28.170.226:54323/play/a009/index.m3u8
+#EXTINF:0,Viasat Golf
+#EXTVLCOPT:network-caching=1000
+http://31.28.170.226:54323/play/a00j/index.m3u8
+#EXTINF:0,Viasat Sport
+#EXTVLCOPT:network-caching=1000
+http://31.28.170.226:54323/play/a008/index.m3u8
+#EXTINF:0,Eurosport 1
+#EXTVLCOPT:network-caching=1000
+http://31.28.170.226:54328/play/a004
 
 
 
@@ -690,8 +704,6 @@ http://hlstv.nsk.211.ru/239.211.211.115/stream.m3u8
 
 #EXTINF:-1,VH1
 http://81.200.50.5/hls/VH1_nejtv_portable_low.m3u8
-
-
 #EXTINF:-1,MTV Europe
 http://81.200.50.5/hls/MTV_Europe_nejtv_portable_low.m3u8
 #EXTINF:-1,MTV Dance
