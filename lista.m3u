@@ -23,6 +23,9 @@ http://195.29.70.89/PLTV/88888888/224/3221226281/04.m3u8
 #EXTINF:0,rtl
 http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8
 
+#EXTINF:0,RTL 2 
+http://141.138.12.130:8080/3
+
 #EXTINF:0,nova tv
 http://195.154.177.92:25461/live/Dado.nikola.ignjatovic/hg0i2Z5Xlq/603.m3u8
 #EXTINF:0,doma tv
