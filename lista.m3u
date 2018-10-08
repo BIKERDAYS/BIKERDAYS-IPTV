@@ -497,6 +497,14 @@ http://185.20.36.234:8080/stream?i=5NASdkA7imQ74SExK5xMGA&a=C2J-KsfDNkQ43uzstG1H
 
 
 
+
+#EXTINF:-1,cdf
+http://194.67.208.149/hls/102.m3u8
+#EXTINF:-1,gol tb
+http://194.67.208.149/hls/104.m3u8
+
+
+
 #EXTINF:0 group-title="(AF) Afghanistan",AL KASS SPORTS 1 | SD (AF)
 http://www.elahmad.com/tv/m3u8/alkass.m3u8
 
