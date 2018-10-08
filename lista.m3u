@@ -23,13 +23,20 @@ http://195.29.70.89/PLTV/88888888/224/3221226281/04.m3u8
 #EXTINF:0,rtl
 http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8
 
-#EXTINF:0,RTL 2 
+#EXTINF:0,hrt 3
+http://141.138.12.130:8080/1
+#EXTINF:0,hrt 4
+http://141.138.12.130:8080/2
+#EXTINF:-1,Rtl 2 (hr)
 http://141.138.12.130:8080/3
-
-#EXTINF:0,nova tv
-http://195.154.177.92:25461/live/Dado.nikola.ignjatovic/hg0i2Z5Xlq/603.m3u8
-#EXTINF:0,doma tv
-http://190.2.142.13:25461/live/primera_android/1122334455/374.m3u8
+#EXTINF:-1,Rtl Kockica
+http://141.138.12.130:8079/5
+#EXTINF:-1,Doma TV (hr)
+http://141.138.12.130:8080/4
+#EXTINF:-1,Cmc TV (hr)
+http://141.138.12.130:8079/1
+#EXTINF:-1,Slavonska TV
+http://141.138.12.130:8079/2
 
 
 #EXTINF:-1,HRT2
@@ -87,20 +94,7 @@ http://195.29.70.67/PLTV/88888888/224/3221226280/index.m3u8
 
 
 
-#EXTINF:0,hrt 3
-http://141.138.12.130:8080/1
-#EXTINF:0,hrt 4
-http://141.138.12.130:8080/2
-#EXTINF:-1,Rtl 2 (hr)
-http://141.138.12.130:8080/3
-#EXTINF:-1,Rtl Kockica
-http://141.138.12.130:8079/5
-#EXTINF:-1,Doma TV (hr)
-http://141.138.12.130:8080/4
-#EXTINF:-1,Cmc TV (hr)
-http://141.138.12.130:8079/1
-#EXTINF:-1,Slavonska TV
-http://141.138.12.130:8079/2
+
 
 
 
