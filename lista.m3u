@@ -600,6 +600,12 @@ http://p12w-lh.akamaihd.net/i/washington_delivery@426584/master.m3u8
 http://91.149.172.100:80/channel?id=24&u=demo&p=demo
 
 
+#EXTINF:-1,ESPN_USA_Lista
+https://stalkertv.xyz:1989/eventos/ESPN_USA_Lista/playlist.m3u8
+#EXTINF:-1,BeinSPHD_Lista
+https://stalkertv.xyz:9443/eventos/BeinSPHD_Lista/playlist.m3u8
+
+
 #EXTINF:0,Viasat Sport HD
 http://c0.cdn.trinity-tv.net/stream/nwsjexhdi7k5xs2ckauzm7k5v759gbqrz2gw6gwnxtfgkfmemfjcgbnfx44954seezpt9z3gvu7u7xze8my57y7yddkqsutzqk6yne3xf5idpv4yemchyerpvzrg39keuym7vtgmanusygj54xx39ess3i======.m3u8
 #EXTINF:0,Sport 1 Baltic
