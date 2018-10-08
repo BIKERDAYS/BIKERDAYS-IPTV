@@ -557,7 +557,8 @@ http://wse.planeta-online.tv:1935/live/channel_3/chunklist.m3u8
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
 
 
-
+#EXTINF:-1,Eurosport2
+http://80.93.119.12:8000/play/a0az/tracks-v1a1/index.m3u8
 
 #EXTINF:-1,Setanta Sports
 http://91.149.172.100:80/channel?id=146&u=demo&p=demo
