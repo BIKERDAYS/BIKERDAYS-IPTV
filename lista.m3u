@@ -879,14 +879,6 @@ http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_2596_av-b.m3u8
 
 
 
-
-#EXTINF:-1,Rai 1
-http://86.124.233.227:7300/rai1
-#EXTINF:-1,Rai 2
-http://86.124.233.227:7300/rai2
-#EXTINF:-1,Rai 3
-http://86.124.233.227:7300/rai3
-
 #EXTINF:-1,RAI Sports
 https://raisportuno1-live.akamaized.net/hls/live/598320/raisportuno1/raisport1_1800/chunklist.m3u8
 
@@ -940,187 +932,6 @@ http://wms.shared.streamshow.it:1935/canale7/canale7/live.m3u8
 
 
 
-
-#EXTINF:-1,4seven
-http://87.198.211.198:8123/play/a0ds/index.m3u8
-#EXTINF:-1,4Seven
-http://87.198.211.198:8123/play/4seven/index.m3u8
-#EXTINF:-1,3e HD
-http://87.198.211.198:8123/play/a06b/index.m3u8
-#EXTINF:-1,CBS Action (Sat) T
-http://87.198.211.198:8123/play/cbsaction/index.m3u8
-#EXTINF:-1,CBS Action
-http://87.198.211.198:8123/play/a0d6/index.m3u8
-#EXTINF:-1,CBS Drama (Sat) T
-http://87.198.211.198:8123/play/cbsdrama/index.m3u8
-#EXTINF:-1,CBS Drama
-http://87.198.211.198:8123/play/a0d3/index.m3u8
-#EXTINF:-1,CBS Reality (Sat) T
-http://87.198.211.198:8123/play/cbsreality/index.m3u8
-#EXTINF:-1,CBS Reality
-http://87.198.211.198:8123/play/a0d8/index.m3u8
-#EXTINF:-1,Channel 4 HD
-http://87.198.211.198:8123/play/channel4hd/index.m3u8
-#EXTINF:-1,Channel 4 HD
-http://87.198.211.198:8123/play/a0dr/index.m3u8
-#EXTINF:-1,Chart Show TV (Sat) T
-http://87.198.211.198:8123/play/chartshowtv/index.m3u8
-#EXTINF:-1,Chart Show Hits (Sat) T
-http://87.198.211.198:8123/play/chartshowhits/index.m3u8
-#EXTINF:-1,Dave (Sat) T
-http://87.198.211.198:8123/play/dave/index.m3u8
-#EXTINF:-1,Dave
-http://87.198.211.198:8123/play/a0ai/index.m3u8
-#EXTINF:-1,Disney Channel T
-http://87.198.211.198:8123/play/disney/index.m3u8
-#EXTINF:-1,Disney Channel
-http://87.198.211.198:8123/play/a09q/index.m3u8
-#EXTINF:-1,Disney Junior T
-http://87.198.211.198:8123/play/disneyjunior/index.m3u8
-#EXTINF:-1,Disney Junior
-http://87.198.211.198:8123/play/a09r/index.m3u8
-#EXTINF:-1,Drama (Sat) T
-http://87.198.211.198:8123/play/drama/index.m3u8
-#EXTINF:-1,Drama
-http://87.198.211.198:8123/play/a0c2/index.m3u8
-#EXTINF:-1,E4 (Sat) T
-http://87.198.211.198:8123/play/e4/index.m3u8
-#EXTINF:-1,E4
-http://87.198.211.198:8123/play/a0bq/index.m3u8
-#EXTINF:-1,FRANCE 24 HD
-http://87.198.211.198:8123/play/a0cs/index.m3u8
-#EXTINF:-1,Film4
-http://87.198.211.198:8123/play/a0bn/index.m3u8
-#EXTINF:-1,Film 4 T
-http://87.198.211.198:8123/play/film4/index.m3u8
-#EXTINF:-1,Food Network (Sat) T
-http://87.198.211.198:8123/play/foodnetwork/index.m3u8
-#EXTINF:-1,Food Network
-http://87.198.211.198:8123/play/a0cn/index.m3u8
-#EXTINF:-1,Freesport (Sat) T
-http://87.198.211.198:8123/play/freesport/index.m3u8
-#EXTINF:-1,FreeSports
-http://87.198.211.198:8123/play/a0cq/index.m3u8
-#EXTINF:-1,Gems TV
-http://87.198.211.198:8123/play/a0cp/index.m3u8
-#EXTINF:-1,Horror Channel (Sat) T
-http://87.198.211.198:8123/play/horrorchannel/index.m3u8
-#EXTINF:-1,Home (Sat) T
-http://87.198.211.198:8123/play/home/index.m3u8
-#EXTINF:-1,More4+1
-http://87.198.211.198:8123/play/a0bo/index.m3u8
-#EXTINF:-1,More 4+1 T
-http://87.198.211.198:8123/play/more4/index.m3u8
-#EXTINF:-1,Movies4Men T
-http://87.198.211.198:8123/play/movies4men/index.m3u8
-#EXTINF:-1,Movies4Men
-http://87.198.211.198:8123/play/a0dl/index.m3u8
-#EXTINF:-1,PBS America
-http://87.198.211.198:8123/play/a0co/index.m3u8
-#EXTINF:-1,POP (Sat) T
-http://87.198.211.198:8123/play/pop/index.m3u8
-#EXTINF:-1,POP
-http://87.198.211.198:8123/play/a0cb/index.m3u8
-#EXTINF:-1,POP Max (Sat) T
-http://87.198.211.198:8123/play/popmax/index.m3u8
-#EXTINF:-1,POP Max
-http://87.198.211.198:8123/play/a0cd/index.m3u8
-#EXTINF:-1,Paramount T
-http://87.198.211.198:8123/play/paramount/index.m3u8
-#EXTINF:-1,Paramount
-http://87.198.211.198:8123/play/a0dm/index.m3u8
-#EXTINF:-1,Pick
-http://87.198.211.198:8123/play/a0di/index.m3u8
-#EXTINF:-1,Really (Sat) T
-http://87.198.211.198:8123/play/really/index.m3u8
-#EXTINF:-1,QUEST HD
-http://87.198.211.198:8123/play/a0cu/index.m3u8
-#EXTINF:-1,Sky News T
-http://87.198.211.198:8123/play/skynews/index.m3u8
-#EXTINF:-1,Sky News
-http://87.198.211.198:8123/play/a0dh/index.m3u8
-#EXTINF:-1,Scuzz (Sat) T
-http://87.198.211.198:8123/play/scuzz/index.m3u8
-#EXTINF:-1,Sony Crime (Sat) T
-http://87.198.211.198:8123/play/sonycrime/index.m3u8
-#EXTINF:-1,Sony Crime
-http://87.198.211.198:8123/play/a0ck/index.m3u8
-#EXTINF:-1,Sony Crime 2 (Sat) T
-http://87.198.211.198:8123/play/sonycrime2/index.m3u8
-#EXTINF:-1,Sony Crime 2
-http://87.198.211.198:8123/play/a0cm/index.m3u8
-#EXTINF:-1,Starz TV (Sat) T
-http://87.198.211.198:8123/play/starztv/index.m3u8
-#EXTINF:-1,The Vault (Sat) T
-http://87.198.211.198:8123/play/thevault/index.m3u8
-#EXTINF:-1,TV3 HD
-http://87.198.211.198:8123/play/a06a/index.m3u8
-#EXTINF:-1,Tiny Pop (Sat) T
-http://87.198.211.198:8123/play/tinypop/index.m3u8
-#EXTINF:-1,Tiny Pop
-http://87.198.211.198:8123/play/a0c9/index.m3u8
-#EXTINF:-1,Tru TV (Sat) T
-http://87.198.211.198:8123/play/trutv/index.m3u8
-#EXTINF:-1,Together
-http://87.198.211.198:8123/play/a0dj/index.m3u8
-#EXTINF:-1,True Ent (Sat) T
-http://87.198.211.198:8123/play/trueent/index.m3u8
-#EXTINF:-1,True Ent
-http://87.198.211.198:8123/play/a0ci/index.m3u8
-#EXTINF:-1,True Movies (Sat) T
-http://87.198.211.198:8123/play/truemovies/index.m3u8
-#EXTINF:-1,True Movies
-http://87.198.211.198:8123/play/a0c7/index.m3u8
-#EXTINF:-1,Virgin Media Sport HD T
-http://87.198.211.198:8123/play/hd0001/index.m3u8
-#EXTINF:-1,Virgin Media Sport HD
-http://87.198.211.198:8123/play/a0dn/index.m3u8
-#EXTINF:-1,Virgin Media Three HD
-http://87.198.211.198:8123/play/a0bl/index.m3u8
-#EXTINF:-1,Virgin Three HD T
-http://87.198.211.198:8123/play/virginthreehd/index.m3u8
-#EXTINF:-1,Virgin Two HD T
-http://87.198.211.198:8123/play/virgintwohd/index.m3u8
-#EXTINF:-1,Virgin One HD T
-http://87.198.211.198:8123/play/virginonehd/index.m3u8
-#EXTINF:-1,Yesterday (Sat) T
-http://87.198.211.198:8123/play/yesterday/index.m3u8
-#EXTINF:-1,YESTERDAY
-http://87.198.211.198:8123/play/a0c0/index.m3u8
-#EXTINF:-1,tru TV
-http://87.198.211.198:8123/play/a0c4/index.m3u8
-#EXTINF:-1,horror channel
-http://87.198.211.198:8123/play/a0d4/index.m3u8
-#EXTINF:-1,bbcearthmk
-http://163.172.216.89:9000/play/bbcearthmk/index.m3u8
-#EXTINF:-1,cinestarfantasymk
-http://163.172.216.89:9000/play/cinestarfantasymk/index.m3u8
-#EXTINF:-1,cinestaractionmk
-http://163.172.216.89:9000/play/cinestaractionmk/index.m3u8
-#EXTINF:-1,cinestarttvmk
-http://163.172.216.89:9000/play/cinestarttvmk/index.m3u8
-#EXTINF:-1,docuboxmk
-http://163.172.216.89:9000/play/docuboxmk/index.m3u8
-#EXTINF:-1,disneyjunior
-http://163.172.216.89:9000/play/disneyjunior/index.m3u8
-#EXTINF:-1,eurochanel
-http://163.172.216.89:9000/play/eurochanel/index.m3u8
-#EXTINF:-1,fineliving
-http://163.172.216.89:9000/play/fineliving/index.m3u8
-#EXTINF:-1,filmboxplus
-http://163.172.216.89:9000/play/filmboxplus/index.m3u8
-#EXTINF:-1,nickelodionuk
-http://163.172.216.89:9000/play/nickelodionuk/index.m3u8
-#EXTINF:-1,hunting
-http://163.172.216.89:9000/play/hunting/index.m3u8
-#EXTINF:-1,travelxp
-http://163.172.216.89:9000/play/travelxp/index.m3u8
-#EXTINF:-1,outdoor
-http://163.172.216.89:9000/play/outdoor/index.m3u8
-
-
-
-
 #EXTINF:-1,BBC Radio One
 http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlow/ak/bbc_radio_one.m3u8
 
@@ -1142,23 +953,7 @@ http://w10.streamgb.com:1935/kool/kool/playlist.m3u8
 #EXTINF:-1,London Live
 http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master.m3u8
 
-#EXTINF:-1,BBC1SW-ipl
-http://176.126.247.218:8080/ServerNL/CO4Nr3yeA7K/6.ch
 
-#EXTINF:-1,bbc3-ipl
-http://176.126.247.218:8080/ServerNL/CO4Nr3yeA7K/28.ch
-
-#EXTINF:-1,BBCalba-ipl
-http://176.126.247.218:8080/ServerNL/CO4Nr3yeA7K/18.ch
-
-#EXTINF:-1,BBCPArl-ipl
-http://176.126.247.218:8080/ServerNL/CO4Nr3yeA7K/22.ch
-
-#EXTINF:-1,S4C-ipl
-http://176.126.247.218:8080/ServerNL/CO4Nr3yeA7K/23.ch
-
-#EXTINF:-1,CBBC-IPL
-http://176.126.247.218:8080/ServerNL/CO4Nr3yeA7K/76.ch
 
 #EXTINF:-1,ORF1 (vpn austria)
 http://apasfiisl.apa.at/ipad/orf1_q4a/orf.sdp/playlist.m3u8
@@ -1403,50 +1198,8 @@ http://nn.geo.joj.sk/hls/joj-540.m3u8
 #EXTINF:-1,tv lux
 http://live.tvlux.sk:1935/lux/lux.stream_360p/chunklist_w1295439472.m3u8
 
-#EXTINF:-1,PrimaHD
-http://65.254.55.10:4000/live/115/115.m3u8
-
-#EXTINF:-1,CeskoslovenskoHD
-http://65.254.55.10:4000/live/196/196.m3u8
-
-#EXTINF:-1,DokuCZ
-http://65.254.55.10:4000/live/195/195.m3u8
-
-#EXTINF:-1,CT1
-http://65.254.55.10:4000/live/176/176.m3u8
-
-#EXTINF:-1,CT2
-http://65.254.55.10:4000/live/78/78.m3u8
-
-#EXTINF:-1,JOJSD
-http://65.254.55.10:4000/live/141/141.m3u8
-
-#EXTINF:-1,MARKIZA
-http://74.81.71.186:4000/live/36/36.m3u8
-
-#EXTINF:-1,NOVA
-http://74.81.71.186:4000/live/60/60.m3u8
-
-#EXTINF:-1,CT2
-http://74.81.71.186:4000/live/78/78.m3u8
-
-#EXTINF:-1,DISCOVERY
-http://74.81.71.186:4000/live/138/138.m3u8
-
-#EXTINF:-1,CT1
-http://74.81.71.186:4000/live/176/176.m3u8
-
-#EXTINF:-1,CT1
-http://108.168.175.182:5000/live/176/176.m3u8
-
-#EXTINF:-1,CT2
-http://108.168.175.182:5000/live/78/78.m3u8
-
 #EXTINF:-1,RIK
 http://5.63.149.252:5000/live/499/499.m3u8
-
-#EXTINF:-1,PRIMAMAX
-http://74.208.44.158:5000/live/518/518.m3u8
 
 #EXTINF:-1,JOJHD
 http://nn2.joj.sk/hls/joj-720.m3u8
