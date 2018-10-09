@@ -1271,8 +1271,62 @@ http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
 
 
 
+#EXTINF:-1,FRENCHLOVER
+http://test.powernet.com.ru:5000/channel_239.1.13.4/index.m3u8
+#EXTINF:-1,Barely Legal
+http://test.powernet.com.ru:5000/channel_239.1.12.14/index.m3u8
+#EXTINF:-1,Blue Hustler
+http://test.powernet.com.ru:5000/channel_239.1.12.13/index.m3u8
+#EXTINF:-1,BUNGA BUNGA
+http://5.135.92.138:58143/out/u/109_1.m3u8
 
 
+#EXTINF:-1, Babestation 24
+http://de-origin-live.3qsdn.com:1935/2346/Ct6zG7Nrj3v2JxD/playlist.m3u8
+
+#EXTINF:-1, Brazzers TV Europe
+http://213.59.128.162:9996/play/Brazzers_TV/index.m3u8
+
+#EXTINF:-1, FRENCHLOVER
+http://213.59.128.162:9996/play/FRENCHLOVER/index.m3u8
+
+#EXTINF:-1, Hustler HD
+http://213.59.128.162:9996/play/Hustler_HD/index.m3u8
+
+#EXTINF:-1, O-la-la
+http://213.59.128.162:9996/play/O-la-la/index.m3u8
+
+#EXTINF:-1, Passion XXX
+http://213.59.128.162:9996/play/Passion_XXX/index.m3u8
+
+#EXTINF:-1, Pink O TV
+http://213.59.128.162:9996/play/Pink_O_TV/index.m3u8
+
+#EXTINF:-1, Playboy
+http://213.59.128.162:9996/play/Playboy/index.m3u8
+
+#EXTINF:-1, Private HD
+http://213.59.128.162:9996/play/Private/index.m3u8
+
+#EXTINF:-1, Redlight HD
+http://213.59.128.162:9996/play/Redlight_HD/index.m3u8
+
+#EXTINF:-1, Русская ночь
+http://213.59.128.162:9996/play/Russkaya_noch/index.m3u8
+
+
+#EXTINF:-1 group-title="XXX",Frenchlover (18+)
+http://213.59.128.162:9996/play/FRENCHLOVER/index.m3u8
+#EXTINF:-1 group-title="XXX",Hustler HD
+http://5.128.46.59:81/udp/239.1.6.35:1234
+#EXTINF:-1 group-title="XXX",Playboy TV (18+)
+http://91.203.209.92:3371/udp/239.195.2.5:1234
+#EXTINF:-1 group-title="XXX",BRAZZERS TV (18+)
+http://91.203.209.92:3371/udp/239.195.2.4:1234
+#EXTINF:-1 group-title="XXX",Русская Ночь (18+)
+http://91.203.209.92:3371/udp/239.195.2.3:1234
+#EXTINF:-1 group-title="XXX",Passion_XXX (18+)
+http://213.59.128.162:9996/play/Passion_XXX/index.m3u8
 
 
 
