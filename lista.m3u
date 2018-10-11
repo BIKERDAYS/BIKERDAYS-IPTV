@@ -496,7 +496,10 @@ http://185.20.36.234:8080/stream?i=5NASdkA7imQ74SExK5xMGA&a=C2J-KsfDNkQ43uzstG1H
 
 
 
-
+#EXTINF:-1,eurosport
+http://87.246.0.155:5286/tv_Eurosport
+#EXTINF:-1,eurosport 2
+http://87.246.0.155:5286/tv_Eurosport_2
 
 #EXTINF:-1,cdf
 http://194.67.208.149/hls/102.m3u8
