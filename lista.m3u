@@ -496,10 +496,52 @@ http://185.20.36.234:8080/stream?i=5NASdkA7imQ74SExK5xMGA&a=C2J-KsfDNkQ43uzstG1H
 
 
 
-#EXTINF:-1,eurosport
-http://87.246.0.155:5286/tv_Eurosport
-#EXTINF:-1,eurosport 2
-http://87.246.0.155:5286/tv_Eurosport_2
+#EXTINF:-1,Fox Action Movies
+http://tv.woonet.co/direct_tv/freeiptv/___only_availabel_in_sat_and_sun____/foxactionmovies.m3u8
+#EXTINF:-1,Sky Sports F1
+http://tv.woonet.co/direct_tv/freeiptv/___only_availabel_in_sat_and_sun____/skysportsf1.m3u8
+#EXTINF:-1,AFC - Asian Food Channel HD
+http://tv.woonet.co/direct_tv/freeiptv/___only_availabel_in_sat_and_sun____/afchd.m3u8
+#EXTINF:-1,WWE
+http://tv.woonet.co/direct_tv/freeiptv/___only_availabel_in_sat_and_sun____/wwe.m3u8
+#EXTINF:-1,ESPN
+http://tv.woonet.co/direct_tv/freeiptv/___only_availabel_in_sat_and_sun____/espn.m3u8
+#EXTINF:-1,beIN SPORTS 1
+http://tv.woonet.co/direct_tv/freeiptv/___only_availabel_in_sat_and_sun____/beinsports1.m3u8
+#EXTINF:-1,beIN SPORTS 2
+http://tv.woonet.co/direct_tv/freeiptv/___only_availabel_in_sat_and_sun____/beinsports2.m3u8
+#EXTINF:-1,beIN SPORTS 3
+http://tv.woonet.co/direct_tv/freeiptv/___only_availabel_in_sat_and_sun____/beinsports3.m3u8
+#EXTINF:-1,beIN SPORTS 4
+http://tv.woonet.co/direct_tv/freeiptv/___only_availabel_in_sat_and_sun____/beinsports4.m3u8
+#EXTINF:-1,Match! Futbol 1
+http://tv.woonet.co/direct_tv/freeiptv/___only_availabel_in_sat_and_sun____/matchfootball1.m3u8
+#EXTINF:-1,Match! Futbol 2
+http://tv.woonet.co/direct_tv/freeiptv/___only_availabel_in_sat_and_sun____/matchfootball2.m3u8
+#EXTINF:-1,Match! Futbol 3
+http://tv.woonet.co/direct_tv/freeiptv/___only_availabel_in_sat_and_sun____/matchfootball3.m3u8
+#EXTINF:-1,Fashion One
+http://tv.woonet.co/direct_tv/freeiptv/___only_availabel_in_sat_and_sun____/fashionone.m3u8
+#EXTINF:-1,MNet
+http://tv.woonet.co/direct_tv/freeiptv/___only_availabel_in_sat_and_sun____/mnet.m3u8
+#EXTINF:-1,Fox Sports HD
+http://tv.woonet.co/direct_tv/freeiptv/___only_availabel_in_sat_and_sun____/foxsportshd.m3u8
+#EXTINF:-1,Fox Sports 2 HD
+http://tv.woonet.co/direct_tv/freeiptv/___only_availabel_in_sat_and_sun____/foxsports2hd.m3u8
+#EXTINF:-1,Tennis Channel
+http://tv.woonet.co/direct_tv/freeiptv/___only_availabel_in_sat_and_sun____/tennis.m3u8
+#EXTINF:-1,Setanta Sports
+http://tv.woonet.co/direct_tv/freeiptv/___only_availabel_in_sat_and_sun____/setantasports.m3u8
+#EXTINF:-1,Futbol 1
+http://tv.woonet.co/direct_tv/freeiptv/___only_availabel_in_sat_and_sun____/futbol1.m3u8
+#EXTINF:-1,Futbol 2
+http://tv.woonet.co/direct_tv/freeiptv/___only_availabel_in_sat_and_sun____/futbol2.m3u8
+#EXTINF:-1,Eurosport 1
+http://tv.woonet.co/direct_tv/freeiptv/___only_availabel_in_sat_and_sun____/eurosport1.m3u8
+#EXTINF:-1,Eurosport 2
+http://tv.woonet.co/direct_tv/freeiptv/___only_availabel_in_sat_and_sun____/eurosport2.m3u8
+
+
 
 #EXTINF:-1,cdf
 http://194.67.208.149/hls/102.m3u8
@@ -508,23 +550,10 @@ http://194.67.208.149/hls/104.m3u8
 
 
 
-#EXTINF:0 group-title="(AF) Afghanistan",AL KASS SPORTS 1 | SD (AF)
-http://www.elahmad.com/tv/m3u8/alkass.m3u8
 
-#EXTINF:0 group-title="(AR) Arabia",ABU DHABI SPORTS 1 | HD (AR)
-http://www.elahmad.com/tv/m3u8/adtv.m3u8
-
-#EXTINF:0 group-title="(AR) Arabia",ABU DHABI SPORTS 1 (1+) | SD (AR)
-http://199.167.151.237:1935/live/sp15_26.stream/gmswf.m3u8
-
-#EXTINF:0 group-title="(AR) Arabia",DUBAI SPORTS | HD (AR)
-http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/master.m3u8
 
 #EXTINF:0 group-title="(DE) Germany",ORF SPORT (2+) | SD (DE)
 http://apasfiisl.apa.at/ipad/orfs_q4a/orf.sdp/playlist.m3u8
-
-#EXTINF:0 group-title="(IN) India",DONBAS TV | SD (IN)
-http://api.tv.ipnet.ua/api/v1/manifest/2118742461.m3u8
 
 #EXTINF:0 group-title="(IT) Italy",RTV SAN MARINO SPORT | SD (IT)
 http://194.116.78.102:1935/webtv_live4/_definst_/9UXJ2BJMTMNR/playlist.m3u8
@@ -612,11 +641,6 @@ http://p12w-lh.akamaihd.net/i/washington_delivery@426584/master.m3u8
 #EXTINF:-1,extreme sport
 http://91.149.172.100:80/channel?id=24&u=demo&p=demo
 
-
-#EXTINF:-1,ESPN_USA_Lista
-https://stalkertv.xyz:1989/eventos/ESPN_USA_Lista/playlist.m3u8
-#EXTINF:-1,BeinSPHD_Lista
-https://stalkertv.xyz:9443/eventos/BeinSPHD_Lista/playlist.m3u8
 
 
 #EXTINF:0,Viasat Sport HD
@@ -1341,5 +1365,84 @@ http://213.59.128.162:9996/play/Passion_XXX/index.m3u8
 
 
 
-
+#EXTINF:-1,Xxx | Adult Channel 1
+http://sutverduz.com:8080/live/uygun01/01uygun/48.m3u8
+#EXTINF:-1,Xxx | Adult Channel 2
+http://sutverduz.com:8080/live/uygun01/01uygun/47.m3u8
+#EXTINF:-1,Xxx | Adult Channel 3
+http://sutverduz.com:8080/live/uygun01/01uygun/46.m3u8
+#EXTINF:-1,Xxx | Adult Channel 4
+http://sutverduz.com:8080/live/uygun01/01uygun/42.m3u8
+#EXTINF:-1,Xxx | Adult Channel 5
+http://sutverduz.com:8080/live/uygun01/01uygun/39.m3u8
+#EXTINF:-1,Xxx | Adult Channel 6
+http://sutverduz.com:8080/live/uygun01/01uygun/36.m3u8
+#EXTINF:-1,Xxx | Adult Channel 7
+http://sutverduz.com:8080/live/uygun01/01uygun/33.m3u8
+#EXTINF:-1,Xxx | Adult Channel 8
+http://sutverduz.com:8080/live/uygun01/01uygun/2988.m3u8
+#EXTINF:-1,Xxx | Adult Channel 9
+http://sutverduz.com:8080/live/uygun01/01uygun/2987.m3u8
+#EXTINF:-1,Xxx | Adult Channel 10
+http://sutverduz.com:8080/live/uygun01/01uygun/2986.m3u8
+#EXTINF:-1,Xxx | Adult Channel 11
+http://sutverduz.com:8080/live/uygun01/01uygun/15921.m3u8
+#EXTINF:-1,Xxx | Adult Channel 12
+http://sutverduz.com:8080/live/uygun01/01uygun/15922.m3u8
+#EXTINF:-1,Xxx | Adult Channel 13
+http://sutverduz.com:8080/live/uygun01/01uygun/15923.m3u8
+#EXTINF:-1,Xxx | Adult Channel 14
+http://sutverduz.com:8080/live/uygun01/01uygun/15924.m3u8
+#EXTINF:-1,Xxx | Adult Channel 15
+http://sutverduz.com:8080/live/uygun01/01uygun/15925.m3u8
+#EXTINF:-1,Xxx | Adult Channel 16
+http://sutverduz.com:8080/live/uygun01/01uygun/15941.m3u8
+#EXTINF:-1,Xxx | Adult Channel 17
+http://sutverduz.com:8080/live/uygun01/01uygun/15942.m3u8
+#EXTINF:-1,Xxx | Adult Channel 18
+http://sutverduz.com:8080/live/uygun01/01uygun/15943.m3u8
+#EXTINF:-1,Xxx | Adult Channel 19
+http://sutverduz.com:8080/live/uygun01/01uygun/15944.m3u8
+#EXTINF:-1,Xxx | Adult Channel 20
+http://sutverduz.com:8080/live/uygun01/01uygun/15945.m3u8
+#EXTINF:-1,Xxx | Adult Channel 21
+http://sutverduz.com:8080/live/uygun01/01uygun/16254.m3u8
+#EXTINF:-1,Xxx | Adult Channel 22
+http://sutverduz.com:8080/live/uygun01/01uygun/16253.m3u8
+#EXTINF:-1,Xxx | Adult Channel 23
+http://sutverduz.com:8080/live/uygun01/01uygun/16252.m3u8
+#EXTINF:-1,Xxx | Adult Channel 24
+http://sutverduz.com:8080/live/uygun01/01uygun/16251.m3u8
+#EXTINF:-1,Xxx | Adult Channel 25
+http://sutverduz.com:8080/live/uygun01/01uygun/16250.m3u8
+#EXTINF:-1,Xxx | Adult Channel 26
+http://sutverduz.com:8080/live/uygun01/01uygun/16249.m3u8
+#EXTINF:-1,Xxx | Adult Channel 27
+http://sutverduz.com:8080/live/uygun01/01uygun/16248.m3u8
+#EXTINF:-1,Xxx | Adult Channel 28
+http://sutverduz.com:8080/live/uygun01/01uygun/16247.m3u8
+#EXTINF:-1,Xxx | Adult Channel 29
+http://sutverduz.com:8080/live/uygun01/01uygun/16246.m3u8
+#EXTINF:-1,Xxx | Adult Channel 30
+http://sutverduz.com:8080/live/uygun01/01uygun/16245.m3u8
+#EXTINF:-1,Xxx | Adult Channel 31
+http://sutverduz.com:8080/live/uygun01/01uygun/16244.m3u8
+#EXTINF:-1,Xxx | Adult Channel 32
+http://sutverduz.com:8080/live/uygun01/01uygun/16243.m3u8
+#EXTINF:-1,Xxx | Adult Channel 33
+http://sutverduz.com:8080/live/uygun01/01uygun/16242.m3u8
+#EXTINF:-1,Xxx | Adult Channel 34
+http://sutverduz.com:8080/live/uygun01/01uygun/16241.m3u8
+#EXTINF:-1,Xxx | Adult Channel 35
+http://sutverduz.com:8080/live/uygun01/01uygun/16240.m3u8
+#EXTINF:-1,Xxx | Adult Channel 36
+http://sutverduz.com:8080/live/uygun01/01uygun/16239.m3u8
+#EXTINF:-1,Xxx | Adult Channel 37
+http://sutverduz.com:8080/live/uygun01/01uygun/16238.m3u8
+#EXTINF:-1,Xxx | Adult Channel 38
+http://sutverduz.com:8080/live/uygun01/01uygun/16237.m3u8
+#EXTINF:-1,Xxx | Adult Channel 39
+http://sutverduz.com:8080/live/uygun01/01uygun/16236.m3u8
+#EXTINF:-1,Xxx | Adult Channel 40
+http://sutverduz.com:8080/live/uygun01/01uygun/16235.m3u8
 
