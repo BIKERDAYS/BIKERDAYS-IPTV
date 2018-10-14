@@ -496,6 +496,75 @@ http://185.20.36.234:8080/stream?i=5NASdkA7imQ74SExK5xMGA&a=C2J-KsfDNkQ43uzstG1H
 
 
 
+
+#EXTINF:0,sk1
+http://185.59.220.134:8080/sk1/index.m3u8
+#EXTINF:0,sk2
+http://185.59.220.134:8080/sk2/index.m3u8
+#EXTINF:0,sk3
+http://185.59.220.134:8080/sk3/index.m3u8
+#EXTINF:0,sk4
+http://185.59.220.134:8080/sk4/index.m3u8
+#EXTINF:0,sk5
+http://185.59.220.134:8080/sk5/index.m3u8
+#EXTINF:0,sk6
+http://185.59.220.134:8080/sk6/index.m3u8
+#EXTINF:0,arena1
+http://185.59.220.134:8080/arena1/index.m3u8
+#EXTINF:0,arena2
+http://185.59.220.134:8080/arena2/index.m3u8
+#EXTINF:0,arena3
+http://185.59.220.134:8080/arena3/index.m3u8
+#EXTINF:0,arena4
+http://185.59.220.134:8080/arena4/index.m3u8
+#EXTINF:0,arena5
+http://185.59.220.134:8080/arena5/index.m3u8
+
+
+
+
+
+#EXTINF:1,sk1
+http://185.59.220.134:8080/sk1/mpegts
+#EXTINF:1,sk2
+http://185.59.220.134:8080/sk2/mpegts
+#EXTINF:1,sk3
+http://185.59.220.134:8080/sk3/mpegts
+#EXTINF:1,sk4
+http://185.59.220.134:8080/sk4/mpegts
+#EXTINF:1,sk5
+http://185.59.220.134:8080/sk5/mpegts
+#EXTINF:1,/s6
+http://185.59.220.134:8080/sk6/mpegts
+#EXTINF:1,Arena1
+http://185.59.220.134:8080/arena1/mpegts
+#EXTINF:1,Arena2
+http://185.59.220.134:8080/arena2/mpegts
+#EXTINF:1,Arena3
+http://185.59.220.134:8080/arena3/mpegts
+#EXTINF:1,Arena4
+http://185.59.220.134:8080/arena4/mpegts
+#EXTINF:1,Arena5
+http://185.59.220.134:8080/arena5/mpegts
+
+
+
+#EXTINF:0,Arena 1 HD
+http://93.87.85.10/PLTV/88888888/224/3221226643/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9vmgYnhd%2FQXVMovIFPNVfeGKQqJOc1YO5YOmiz7KWGr0%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100002275%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
+#EXTINF:0,Arena 2 HD
+http://93.87.85.10/PLTV/88888888/224/3221226662/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9vmgYnhd%2FQXVMovIFPNVfeHaNbgVK65Yvvvdjpa6aN2o%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100001966%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
+#EXTINF:0,Arena 3 HD
+http://93.87.85.10/PLTV/88888888/224/3221226664/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9vmgYnhd%2FQXVMovIFPNVfeKk0gNemuqqQ2V2Ec5VWmJs%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100001967%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
+#EXTINF:0,Arena 4 HD
+http://93.87.85.10/PLTV/88888888/224/3221226661/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9vmgYnhd%2FQXVMovIFPNVfeK8DY8Ho%2FE6St%2BVWSvqrtEY%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100001968%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
+#EXTINF:0,Arena 5 HD
+http://93.87.85.10/PLTV/88888888/224/3221226665/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9vmgYnhd%2FQXVMovIFPNVfeBiXPAaui6g8aIyeRBou9ik%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100001969%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
+
+
+
+#EXTINF:-1,Astro Arena
+http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8_05.m3u8
+
 #EXTINF:-1,Fox Action Movies
 http://tv.woonet.co/direct_tv/freeiptv/___only_availabel_in_sat_and_sun____/foxactionmovies.m3u8
 #EXTINF:-1,Sky Sports F1
