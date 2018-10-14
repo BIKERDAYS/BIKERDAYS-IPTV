@@ -556,7 +556,10 @@ http://194.67.208.149/hls/102.m3u8
 http://194.67.208.149/hls/104.m3u8
 
 
-
+#EXTINF:-1,eurosport1
+http://185.59.220.134:8080/eurosport1/index.m3u8
+#EXTINF:-1,eurosport2
+http://185.59.220.134:8080/eurosport2/index.m3u8
 
 
 #EXTINF:0 group-title="(DE) Germany",ORF SPORT (2+) | SD (DE)
