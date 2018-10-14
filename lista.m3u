@@ -822,6 +822,10 @@ https://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/master.m3u8
 #EXTINF:-1, Xite
 http://highvolume03.streampartner.nl/vleugels_hd4/livestream/playlist.m3u8
 
+
+#EXTINF:-1,[COLOR yellow]>>>  FILM  <<<[/COLOR]
+skip
+
 #EXTINF:0,Paramount channel
 http://91.149.172.100:80/channel?id=93&u=demo&p=demo
 
@@ -829,7 +833,8 @@ http://91.149.172.100:80/channel?id=93&u=demo&p=demo
 http://91.149.172.100:80/channel?id=90&u=demo&p=demo
 
 
-
+#EXTINF:-1,[COLOR yellow]>>>  DOKUMENTARNI  <<<[/COLOR]
+skip
 
 #EXTINF:0,Hunting and Fishing
 http://str.trofey.net:1935/live/2_max.smil/chunklist_w158057594_b4000000.m3u8?id=2&session=5488c6087e1ea6.57082302
@@ -842,6 +847,10 @@ http://31.13.223.103/travel/community.stream/playlist.m3u8?hash=943212345
 
 #EXTINF:-1,reload play
 http://bit.ly/2l0o6Os
+
+
+#EXTINF:-1,[COLOR yellow]>>>  DJECA  <<<[/COLOR]
+skip
 
 #EXTINF:-1,nickelodeon
 http://91.149.172.100:80/channel?id=11&u=demo&p=demo
