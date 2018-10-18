@@ -440,55 +440,9 @@ http://185.20.36.234:8080/stream?i=5NASdkA7imQ74SExK5xMGA&a=C2J-KsfDNkQ43uzstG1H
 skip
 
 
-#EXTINF:0,sk1
-http://185.59.220.134:8080/sk1/index.m3u8
-#EXTINF:0,sk2
-http://185.59.220.134:8080/sk2/index.m3u8
-#EXTINF:0,sk3
-http://185.59.220.134:8080/sk3/index.m3u8
-#EXTINF:0,sk4
-http://185.59.220.134:8080/sk4/index.m3u8
-#EXTINF:0,sk5
-http://185.59.220.134:8080/sk5/index.m3u8
-#EXTINF:0,sk6
-http://185.59.220.134:8080/sk6/index.m3u8
-#EXTINF:0,arena1
-http://185.59.220.134:8080/arena1/index.m3u8
-#EXTINF:0,arena2
-http://185.59.220.134:8080/arena2/index.m3u8
-#EXTINF:0,arena3
-http://185.59.220.134:8080/arena3/index.m3u8
-#EXTINF:0,arena4
-http://185.59.220.134:8080/arena4/index.m3u8
-#EXTINF:0,arena5
-http://185.59.220.134:8080/arena5/index.m3u8
 
 
 
-
-
-#EXTINF:1,sk1
-http://185.59.220.134:8080/sk1/mpegts
-#EXTINF:1,sk2
-http://185.59.220.134:8080/sk2/mpegts
-#EXTINF:1,sk3
-http://185.59.220.134:8080/sk3/mpegts
-#EXTINF:1,sk4
-http://185.59.220.134:8080/sk4/mpegts
-#EXTINF:1,sk5
-http://185.59.220.134:8080/sk5/mpegts
-#EXTINF:1,/s6
-http://185.59.220.134:8080/sk6/mpegts
-#EXTINF:1,Arena1
-http://185.59.220.134:8080/arena1/mpegts
-#EXTINF:1,Arena2
-http://185.59.220.134:8080/arena2/mpegts
-#EXTINF:1,Arena3
-http://185.59.220.134:8080/arena3/mpegts
-#EXTINF:1,Arena4
-http://185.59.220.134:8080/arena4/mpegts
-#EXTINF:1,Arena5
-http://185.59.220.134:8080/arena5/mpegts
 
 
 
@@ -554,17 +508,39 @@ http://tv.woonet.co/direct_tv/freeiptv/___only_availabel_in_sat_and_sun____/euro
 http://tv.woonet.co/direct_tv/freeiptv/___only_availabel_in_sat_and_sun____/eurosport2.m3u8
 
 
+#EXTINF:-1,BEIN 1
+http://163.172.86.57:3135/nBein/1/index.m3u8
+#EXTINF:-1,BEIN 2
+http://163.172.86.57:3135/nBein/2/index.m3u8
+#EXTINF:-1,BEIN 3
+http://163.172.86.57:3135/nBein/3/index.m3u8
+#EXTINF:-1,BEIN 4
+http://163.172.86.57:3135/nBein/4/index.m3u8
+#EXTINF:-1,BEIN 5
+http://163.172.86.57:3135/nBein/5/index.m3u8
+#EXTINF:-1,BEIN 6
+http://163.172.86.57:3135/nBein/6/index.m3u8
+#EXTINF:-1,BEIN 7
+http://163.172.86.57:3135/nBein/7/index.m3u8
+#EXTINF:-1,BEIN 8
+http://163.172.86.57:3135/nBein/8/index.m3u8
+#EXTINF:-1,BEIN 9
+http://163.172.86.57:3135/nBein/9/index.m3u8
+#EXTINF:-1,BEIN 10
+http://163.172.86.57:3135/nBein/10/index.m3u8
+#EXTINF:-1,BEIN 11
+http://163.172.86.57:3135/nBein/11/index.m3u8
+#EXTINF:-1,BEIN 12
+http://163.172.86.57:3135/nBein/12/index.m3u8
+
+#EXTINF:-1,Fight Time 
+http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8
+
 
 #EXTINF:-1,cdf
 http://194.67.208.149/hls/102.m3u8
 #EXTINF:-1,gol tb
 http://194.67.208.149/hls/104.m3u8
-
-
-#EXTINF:-1,eurosport1
-http://185.59.220.134:8080/eurosport1/index.m3u8
-#EXTINF:-1,eurosport2
-http://185.59.220.134:8080/eurosport2/index.m3u8
 
 
 #EXTINF:0 group-title="(DE) Germany",ORF SPORT (2+) | SD (DE)
@@ -833,6 +809,41 @@ http://91.149.172.100:80/channel?id=93&u=demo&p=demo
 http://91.149.172.100:80/channel?id=90&u=demo&p=demo
 
 
+#EXTINF:-1,US:HBO 2
+http://161.0.157.5/PLTV/88888888/224/3221227026/01.m3u8
+#EXTINF:-1,And TV
+http://161.0.157.5/PLTV/88888888/224/3221226705/index.m3u8
+#EXTINF:-1,Animal Planet HD
+http://161.0.157.5/PLTV/88888888/224/3221226253/index.m3u8
+#EXTINF:-1,HBO 2 International
+http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
+#EXTINF:-1,Cooking Channel
+http://161.0.157.5/PLTV/88888888/224/3221226201/index.m3u8
+#EXTINF:-1,B4U MOVIE
+http://161.0.157.5/PLTV/88888888/224/3221226255/03.m3u8
+#EXTINF:-1,B4U MUSIC
+http://161.0.157.5/PLTV/88888888/224/3221226332/03.m3u8
+#EXTINF:-1,CBC CANADA
+http://161.0.157.50/PLTV/88888888/224/3221227004/03.m3u8
+#EXTINF:-1,CBS
+http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
+#EXTINF:-1,FOX
+http://161.0.157.51/PLTV/88888888/224/3221227042/03.m3u8
+#EXTINF:-1,NBC
+http://161.0.157.51/PLTV/88888888/224/3221227040/03.m3u8
+#EXTINF:-1,SPORTSMAX
+http://161.0.157.5/PLTV/88888888/224/3221226766/03.m3u8
+#EXTINF:-1,US:CBS
+http://161.0.157.50/PLTV/88888888/224/3221227041/01.m3u8
+#EXTINF:-1,US:NBC
+http://161.0.157.51/PLTV/88888888/224/3221227040/01.m3u8
+
+
+
+
+
+
+
 #EXTINF:-1,[COLOR yellow]>>>  DOKUMENTARNI  <<<[/COLOR]
 skip
 
@@ -844,6 +855,14 @@ http://secure-streams.akamaized.net/rt-doc/index2500.m3u8
 
 #EXTINF:-1,travel hd
 http://31.13.223.103/travel/community.stream/playlist.m3u8?hash=943212345
+
+#EXTINF:-1, NASA  
+http://188.138.1.137:8080/nasatv/index.m3u8
+
+#EXTINF:-1,NASA ISS VIEWS
+http://iphone-streaming.ustream.tv/uhls/17074538/streams/live/iphone/playlist.m3u8
+
+
 
 #EXTINF:-1,reload play
 http://bit.ly/2l0o6Os
@@ -1378,6 +1397,48 @@ http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
 
 
+#EXTINF:-1,Dorcel Tv
+http://iptv.efsane365.com:80/live/koralp/123456/17255.m3u8
+#EXTINF:-1,-PentHouse
+http://iptv.efsane365.com:80/live/koralp/123456/17258.m3u8
+#EXTINF:-1,-RedLight
+http://iptv.efsane365.com:80/live/koralp/123456/17257.m3u8
+#EXTINF:-1,Brazers
+http://iptv.efsane365.com:80/live/koralp/123456/17256.m3u8
+#EXTINF:-1,Playboy TV
+http://iptv.efsane365.com:80/live/koralp/123456/7828.m3u8
+#EXTINF:-1,DUSK
+http://iptv.efsane365.com:80/live/koralp/123456/17254.m3u8
+#EXTINF:-1,BLACKED
+http://iptv.efsane365.com:80/live/koralp/123456/21054.m3u8
+#EXTINF:-1,HOT
+http://iptv.efsane365.com:80/live/koralp/123456/17251.m3u8
+#EXTINF:-1,XXX - BABES 1
+http://iptv.efsane365.com:80/live/koralp/123456/17253.m3u8
+#EXTINF:-1,XXX - BABES 2
+http://iptv.efsane365.com:80/live/koralp/123456/17252.m3u8
+#EXTINF:-1,(XXX) HOT CLUB 1 HD
+http://iptv.efsane365.com:80/live/koralp/123456/5817.m3u8
+#EXTINF:-1,(XXX) HOT CLUB 2 HD
+http://iptv.efsane365.com:80/live/koralp/123456/5816.m3u8
+#EXTINF:-1,(XXX) HOT CLUB 3 HD
+http://iptv.efsane365.com:80/live/koralp/123456/5815.m3u8
+#EXTINF:-1,(XXX) HOT CLUB 4 HD
+http://iptv.efsane365.com:80/live/koralp/123456/5814.m3u8
+#EXTINF:-1,(XXX) HOT CLUB 5 HD
+http://iptv.efsane365.com:80/live/koralp/123456/5813.m3u8
+#EXTINF:-1,(XXX) HOT CLUB 6 HD
+http://iptv.efsane365.com:80/live/koralp/123456/5812.m3u8
+#EXTINF:-1,(XXX) HOT CLUB 7 HD
+http://iptv.efsane365.com:80/live/koralp/123456/5811.m3u8
+#EXTINF:-1,(XXX) HOT CLUB 8 HD
+http://iptv.efsane365.com:80/live/koralp/123456/5810.m3u8
+#EXTINF:-1,(XXX) HOT CLUB 9 HD
+http://iptv.efsane365.com:80/live/koralp/123456/5809.m3u8
+#EXTINF:-1,(XXX) HOT CLUB 10 HD
+http://iptv.efsane365.com:80/live/koralp/123456/5808.m3u8
+
+
 
 #EXTINF:-1,FRENCHLOVER
 http://test.powernet.com.ru:5000/channel_239.1.13.4/index.m3u8
@@ -1427,30 +1488,19 @@ http://213.59.128.162:9996/play/Russkaya_noch/index.m3u8
 http://213.59.128.162:9996/play/FRENCHLOVER/index.m3u8
 #EXTINF:-1 group-title="XXX",Hustler HD
 http://5.128.46.59:81/udp/239.1.6.35:1234
-#EXTINF:-1 group-title="XXX",Playboy TV (18+)
-http://91.203.209.92:3371/udp/239.195.2.5:1234
-#EXTINF:-1 group-title="XXX",BRAZZERS TV (18+)
-http://91.203.209.92:3371/udp/239.195.2.4:1234
-#EXTINF:-1 group-title="XXX",Русская Ночь (18+)
-http://91.203.209.92:3371/udp/239.195.2.3:1234
 #EXTINF:-1 group-title="XXX",Passion_XXX (18+)
 http://213.59.128.162:9996/play/Passion_XXX/index.m3u8
 
 
-#EXTINF:-1,EROTICA PLUS
-http://104.251.212.50:33363/live/stream/54.ch
-#EXTINF:-1,HUSTLER
-http://104.251.212.50:33363/live/stream/56.ch
-#EXTINF:-1,REALITY KINGS
-http://104.251.212.50:33363/live/stream/55.ch
-#EXTINF:-1,BLUE HUSTLER
-http://104.251.212.50:33363/live/stream/58.ch
-#EXTINF:-1,??????? ????
-http://104.251.212.50:33363/live/stream/60.ch
-#EXTINF:-1,NUART
-http://104.251.212.50:33363/live/stream/61.ch
-#EXTINF:-1,PLAYBOY
-http://104.251.212.50:33363/live/stream/59.ch
+#EXTINF:-1,cento
+http://87.246.0.130:88/m3u8/centoxcento.m3u8
+#EXTINF:-1,dust
+http://87.246.0.130:88/m3u8/exoticatv.m3u8
+
+
+
+
+
 
 
 
