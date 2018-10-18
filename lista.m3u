@@ -441,9 +441,22 @@ skip
 
 
 
-
-
-
+#EXTINF:-1,Eurosport HD
+http://87.246.0.130:88/m3u8/eurosporthd.m3u8
+#EXTINF:-1,Eurosport
+http://87.246.0.130:88/m3u8/webeurosport_web.m3u8
+#EXTINF:-1,Eurosport 2
+http://87.246.0.130:88/m3u8/webeurosport2_web.m3u8
+#EXTINF:-1,Arena Sport 1
+http://87.246.0.130:88/m3u8/arenasport1.m3u8
+#EXTINF:-1,Arena Sport 2
+http://87.246.0.130:88/m3u8/arenasport2.m3u8
+#EXTINF:-1,Arena Sport 3
+http://87.246.0.130:88/m3u8/arenasport3.m3u8
+#EXTINF:-1,Arena Sport 4
+http://87.246.0.130:88/m3u8/arenasport4.m3u8
+#EXTINF:-1,Arena Sport 5
+http://87.246.0.130:88/m3u8/arenasport5.m3u8
 
 
 #EXTINF:0,Arena 1 HD
