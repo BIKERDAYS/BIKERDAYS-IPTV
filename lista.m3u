@@ -1500,7 +1500,12 @@ http://87.246.0.130:88/m3u8/exoticatv.m3u8
 
 
 
-
+#EXTINF:-1,FRENCHLOVER
+http://test.powernet.com.ru:5000/channel_239.1.13.4/index.m3u8
+#EXTINF:-1,Barely Legal
+http://test.powernet.com.ru:5000/channel_239.1.12.14/index.m3u8
+#EXTINF:-1,Blue Hustler
+http://test.powernet.com.ru:5000/channel_239.1.12.13/index.m3u8
 
 
 
