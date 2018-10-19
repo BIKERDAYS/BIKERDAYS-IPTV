@@ -437,6 +437,15 @@ http://185.20.36.234:8080/stream?i=5NASdkA7imQ74SExK5xMGA&a=C2J-KsfDNkQ43uzstG1H
 skip
 
 
+
+
+#EXTINF:-1, Moto GP spain
+http://ipsatpro.com:8080/live/Jorge/123456/1011.m3u8
+
+#EXTINF:-1, Moto GP italy
+http://nicke85.com:8000/live/l9GivGv2FY/dcrfdcrtgyhuo09o/6513.m3u8
+
+
 #EXTINF:-1,eurosport1
 http://gorod.tv/s/live/501/86.169.51.136/1/0.m3u8
 #EXTINF:-1,eurosport2
