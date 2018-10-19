@@ -478,6 +478,25 @@ http://93.87.85.10/PLTV/88888888/224/3221226665/index.m3u8?rrsip=93.87.85.10&zon
 #EXTINF:-1,Astro Arena
 http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8_05.m3u8
 
+
+
+
+#EXTINF:-1,tyc sport HD
+http://latino-webtv.com:2082/livexd3/99_.m3u8
+#EXTINF:-1,espn2
+http://latino-webtv.com:2082/livexd3/100_.m3u8
+#EXTINF:-1,espn3
+http://latino-webtv.com:2082/livexd3/111_.m3u8
+#EXTINF:-1,FOX sports 3
+http://latino-webtv.com:2082/livexd3/109_.m3u8
+#EXTINF:-1,FOX sports 2 HD
+http://latino-webtv.com:2082/livexd3/103_.m3u8
+#EXTINF:-1,FOX sports HD
+http://latino-webtv.com:2082/livexd3/101_.m3u8
+
+
+
+
 #EXTINF:-1,Fox Action Movies
 http://tv.woonet.co/direct_tv/freeiptv/___only_availabel_in_sat_and_sun____/foxactionmovies.m3u8
 #EXTINF:-1,Sky Sports F1
