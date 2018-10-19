@@ -259,9 +259,6 @@ http://178.132.6.97:8080/RTS21/playlist.m3u8
 #EXTINF:-1,FTV
 http://178.132.6.97:8080/FTV1/playlist.m3u8
 
-#EXTINF:-1,Sharri HD
-http://178.132.6.97:8080/TV:SharriHD1/tracks-v1a1/index.m3u8
-
 #EXTINF:-1,Sehara TV
 http://178.132.6.97:8080/SeharaTV1/tracks-v1a1/index.m3u8
 
@@ -556,11 +553,6 @@ http://163.172.86.57:3135/nBein/12/index.m3u8
 http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8
 
 
-#EXTINF:-1,cdf
-http://194.67.208.149/hls/102.m3u8
-#EXTINF:-1,gol tb
-http://194.67.208.149/hls/104.m3u8
-
 
 #EXTINF:0 group-title="(DE) Germany",ORF SPORT (2+) | SD (DE)
 http://apasfiisl.apa.at/ipad/orfs_q4a/orf.sdp/playlist.m3u8
@@ -609,8 +601,7 @@ http://wse.planeta-online.tv:1935/live/channel_3/chunklist.m3u8
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
 
 
-#EXTINF:-1,Eurosport2
-http://80.93.119.12:8000/play/a0az/tracks-v1a1/index.m3u8
+
 
 #EXTINF:-1,Setanta Sports
 http://91.149.172.100:80/channel?id=146&u=demo&p=demo
@@ -629,24 +620,6 @@ http://sevillafc_live-lh.akamaihd.net:80/i/video_0@354142/master.m3u8
 
 #EXTINF:-1,RED BULL TV
 http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8
-
-#EXTINF:0,Pac 12 Arizona
-http://p12a-lh.akamaihd.net/i/arizona_delivery@199730/master.m3u8
-
-#EXTINF:0,Pac 12 Bay Area
-http://p12b-lh.akamaihd.net/i/bayarea_delivery@429334/master.m3u8
-
-#EXTINF:0,Pac 12 Los Angeles
-http://p12l-lh.akamaihd.net/i/la_delivery@425541/master.m3u8
-
-#EXTINF:0,Pac 12 Mountain
-http://p12m-lh.akamaihd.net/i/mountain_delivery@428912/master.m3u8
-
-#EXTINF:0,Pac 12 Oregon
-http://p12o-lh.akamaihd.net/i/oregon_delivery@103261/master.m3u8
-
-#EXTINF:0,Pac 12 Washington
-http://p12w-lh.akamaihd.net/i/washington_delivery@426584/master.m3u8
 
 #EXTINF:-1,extreme sport
 http://91.149.172.100:80/channel?id=24&u=demo&p=demo
@@ -679,9 +652,6 @@ http://77.78.130.123/hls/sd.m3u8
 #EXTINF:0,ROMA TV
 http://185.46.161.3/hls/sd.m3u8
 
-#EXTINF:0,cromtel tv
-http://188.210.224.6:81/tv7/playlist.m3u8
-
 #EXTINF:-1,Retro TV
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 
@@ -693,9 +663,6 @@ http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0
 
 #EXTINF:-1,M tv
 http://81.30.182.82:18092/hls/live.m3u8
-
-#EXTINF:-1, HEART TV
-http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_656_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:0,Radio Capital TV
 http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/index_5_av-p.m3u8?sd=10&rebase=on?e74
@@ -730,9 +697,6 @@ http://94.43.239.178:8080/CHANNEL470/BITRATE0/playlist.m3u8
 #EXTINF:-1,Music Box ua
 http://212.26.132.86/hls/mb_ua_2500.m3u8
 
-#EXTINF:0,Nebiset
-http://hls.nebiset.tv/nebiset.m3u8
-
 #EXTINF:0,ONE BY HD
 http://rtmp.one.by:1300
 
@@ -766,9 +730,6 @@ http://wow01.105.net/live/virgin1/chunklist_w25732073.m3u8
 #EXTINF:-1,RADIO ITALIA TV
 http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p.m3u8
 
-#EXTINF:-1,OTTO FM TV
-http://live.youiptv.ch:1935/8FM/8FM/playlist.m3u8
-
 #EXTINF:-1,RADIO 105
 http://wow01.105.net:1935/live/105Test1/livestream.m3u8
 
@@ -786,9 +747,6 @@ http://wma10.fluidstream.net/CompanyTV/_definst_/mp4:livestream_720p/playlist.m3
 
 #EXTINF:-1, FRESH TV MUSIC
 http://wse.planeta-online.tv:1935/live/channel_4/playlist.m3u8
-
-#EXTINF:-1, Heart Tv
-http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
 
 #EXTINF:-1, Hit Music Channel
 http://1mstream.digicable.hu/hitmusic/hitmusic.m3u8
@@ -1030,9 +988,6 @@ http://wms.shared.streamshow.it/carinatv/carinatv/playlist.m3u8
 #EXTINF:-1,HISTORY LAB – ITÁLIA
 http://wma10.fluidstream.net/HistoryLab/livestream/playlist.m3u8
 
-#EXTINF:-1,TV LUNA
-http://live.streamcaster.net:1935/test_live/teleluna/livestream.m3u8
-
 #EXTINF:-1,Primarete Lombardia
 http://telecolor.econcept.it/live/primarete.isml/manifest(format=m3u8-aapl).m3u8
 
@@ -1053,9 +1008,6 @@ http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlo
 
 #EXTINF:-1,BBC Radio Four
 http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlow/ak/bbc_radio_fourfm.m3u8
-
-#EXTINF:-1,Capital TV
-http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8
 
 #EXTINF:-1,Jewellery Maker
 http://edge01.cdn.aws.subset.host/JewelleryMakerLive/JewelleryMakerLive/playlist.m3u8
@@ -1100,9 +1052,6 @@ http://orf2.orf.cdn.ors.at/orf2/q8c.sdp/chunklist.m3u8
 
 #EXTINF:-1,blizz tv
 http://familytvblizz-lh.akamaihd.net/i/familytv_1@458351/master.m3u8
-
-#EXTINF:-1,eo tv
-http://cdn-europe.smartcast.de:1935/eotv/eotvhd/playlist.m3u8
 
 #EXTINF:-1,tirol tv
 http://lb.hd-livestream.de:1935/live/TirolTV/playlist.m3u8
@@ -1292,9 +1241,6 @@ http://nano.teleservice.su:8080/hls/luxury.m3u8
 #EXTINF:-1,relax tv
 http://wse.planeta-online.tv:1935/live/channel_3/playlist.m3u8
 
-#EXTINF:-1,Most Video TV HD
-http://w4.mostvideo.tv/tv/ch1.m3u8
-
 #EXTINF:-1,Qazsport
 http://109.248.236.41:4433/udp/238.1.1.116:1234
 
@@ -1396,9 +1342,6 @@ http://lw-ntm-live.lwcdn.com/live/amlst:2df87a73-e998-4be4-b469-8e1614976f3c_all
 skip
 
 
-#EXTINF:-1,ID Fashion HD
-http://95.67.8.22/hls/idfashion/index.m3u8
-
 #EXTINF:-1,HD Fashion UA
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 
@@ -1495,9 +1438,6 @@ http://213.59.128.162:9996/play/Playboy/index.m3u8
 
 #EXTINF:-1, Private HD
 http://213.59.128.162:9996/play/Private/index.m3u8
-
-#EXTINF:-1, Redlight HD
-http://213.59.128.162:9996/play/Redlight_HD/index.m3u8
 
 #EXTINF:-1, Русская ночь
 http://213.59.128.162:9996/play/Russkaya_noch/index.m3u8
