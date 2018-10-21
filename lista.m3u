@@ -439,13 +439,6 @@ skip
 
 
 
-#EXTINF:-1, Moto GP spain
-http://ipsatpro.com:8080/live/Jorge/123456/1011.m3u8
-
-#EXTINF:-1, Moto GP italy
-http://nicke85.com:8000/live/l9GivGv2FY/dcrfdcrtgyhuo09o/6513.m3u8
-
-
 #EXTINF:-1,eurosport1
 http://gorod.tv/s/live/501/86.169.51.136/1/0.m3u8
 #EXTINF:-1,eurosport2
@@ -552,30 +545,7 @@ http://tv.woonet.co/direct_tv/freeiptv/___only_availabel_in_sat_and_sun____/euro
 http://tv.woonet.co/direct_tv/freeiptv/___only_availabel_in_sat_and_sun____/eurosport2.m3u8
 
 
-#EXTINF:-1,BEIN 1
-http://163.172.86.57:3135/nBein/1/index.m3u8
-#EXTINF:-1,BEIN 2
-http://163.172.86.57:3135/nBein/2/index.m3u8
-#EXTINF:-1,BEIN 3
-http://163.172.86.57:3135/nBein/3/index.m3u8
-#EXTINF:-1,BEIN 4
-http://163.172.86.57:3135/nBein/4/index.m3u8
-#EXTINF:-1,BEIN 5
-http://163.172.86.57:3135/nBein/5/index.m3u8
-#EXTINF:-1,BEIN 6
-http://163.172.86.57:3135/nBein/6/index.m3u8
-#EXTINF:-1,BEIN 7
-http://163.172.86.57:3135/nBein/7/index.m3u8
-#EXTINF:-1,BEIN 8
-http://163.172.86.57:3135/nBein/8/index.m3u8
-#EXTINF:-1,BEIN 9
-http://163.172.86.57:3135/nBein/9/index.m3u8
-#EXTINF:-1,BEIN 10
-http://163.172.86.57:3135/nBein/10/index.m3u8
-#EXTINF:-1,BEIN 11
-http://163.172.86.57:3135/nBein/11/index.m3u8
-#EXTINF:-1,BEIN 12
-http://163.172.86.57:3135/nBein/12/index.m3u8
+
 
 #EXTINF:-1,Fight Time 
 http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8
@@ -630,6 +600,22 @@ http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.
 
 
 
+#EXTINF:-1 group-title="Спорт",МАТЧ Футбол 1
+http://185-8-178-138.livesports24.online/mf1-live.m3u8
+#EXTINF:-1 group-title="Спорт",МАТЧ Футбол 2
+http://185-8-178-139.livesports24.online/onlinematchfootball2-live.m3u8
+#EXTINF:-1 group-title="Спорт",Xsport
+http://95.67.103.251/hls/xsport_ua_mid/index.m3u8
+#EXTINF:-1 group-title="Спорт",Xsport HD
+http://95.67.103.251/hls/xsport_ua_hi/index.m3u8
+#EXTINF:-1 group-title="Спорт",Viasat Sport
+http://stream.euroasia.lfstrm.tv/viasat_sport/1/index.m3u8
+#EXTINF:-1 group-title="Спорт",Беларусь 5 Спорт
+http://95.46.208.76:9898/belarus5
+
+
+
+
 
 #EXTINF:-1,Setanta Sports
 http://91.149.172.100:80/channel?id=146&u=demo&p=demo
@@ -666,6 +652,34 @@ http://c0.cdn.trinity-tv.net/stream/egbxqnfhehhryutivasnk6pz896a5zfz7fa39d9rza2z
 
 #EXTINF:-1,[COLOR yellow]>>>  MUZIKA  <<<[/COLOR]
 skip
+
+
+
+
+#EXTINF:-1,DJing Dancefloor
+https://www.djing.com/tv/dancefloor.m3u8?sd=10&rebase=on
+#EXTINF:-1,DJing Electro Rock
+https://www.djing.com/tv/session_electro-rock.m3u8?sd=10&rebase=on
+#EXTINF:-1,DJing Main
+https://www.djing.com/tv/live.m3u8?sd=10&rebase=on
+#EXTINF:-1,DJing Summer Vibes
+https://www.djing.com/tv/session_summer-vibes.m3u8?sd=10&rebase=on
+#EXTINF:-1,DJing Underground
+https://www.djing.com/tv/underground.m3u8?sd=10&rebase=on
+#EXTINF:-1,DJing Classics
+https://www.djing.com/tv/classics.m3u8
+#EXTINF:-1,DJing French Touch (New!)
+https://www.djing.com/tv/session_french-touch.m3u8
+#EXTINF:-1,DJing Electro Rock
+https://www.djing.com/tv/session_electro-rock.m3u8
+#EXTINF:-1,DJing Hot Hot Hot
+http://www.djing.com/tv/buster-poindexter-his-banshees-of-blue-hot-hot-hot/index.m3u8
+#EXTINF:-1,DJing Live
+https://www.djing.com/tv/live.m3u8
+#EXTINF:-1,DJing Summer Vibes
+https://www.djing.com/tv/session_summer-vibes.m3u8
+
+
 
 
 #EXTINF:0,MTV (norg)
