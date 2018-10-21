@@ -654,6 +654,16 @@ http://c0.cdn.trinity-tv.net/stream/egbxqnfhehhryutivasnk6pz896a5zfz7fa39d9rza2z
 skip
 
 
+#EXTINF:-1, cmc festival radio
+http://37.48.70.11:8024/autodj
+
+
+#EXTINF:-1,jugoton tv
+https://www.youtube.com/watch?v=s2W8CoNP4z0&feature=youtu.be
+
+
+#EXTINF:-1,klape i tambure tv
+https://www.youtube.com/watch?v=CG9D8KJi6VA&feature=youtu.be
 
 
 #EXTINF:-1,DJing Dancefloor
