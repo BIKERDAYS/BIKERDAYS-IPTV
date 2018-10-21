@@ -971,12 +971,30 @@ http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_1296_av-b.m3u8
 #EXTINF:-1,MSNBC SHD
 http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_2596_av-b.m3u8
 
-
 #EXTINF:-1,ABC News
 https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/50345bf35f664739912f0b255c172ae9/index_1.m3u8
-
 #EXTINF:-1,abc news
 http://188.138.1.137:8080/abc/index.m3u8
+
+
+
+#EXTINF:-1,FOX 11
+http://api.new.livestream.com/accounts/6140873/events/live/live.m3u8
+#EXTINF:-1,FOX 13
+http://api.new.livestream.com/accounts/6180769/events/live/live.m3u8
+#EXTINF:-1,FOX 19
+http://api.new.livestream.com/accounts/12136532/events/live/live.m3u8
+#EXTINF:-1,FOX 26
+http://api.new.livestream.com/accounts/6396012/events/live/live.m3u8
+#EXTINF:-1,FOX 32
+http://api.new.livestream.com/accounts/6370732/events/live/live.m3u8
+#EXTINF:-1,FOX 46
+http://api.new.livestream.com/accounts/6370805/events/live/live.m3u8
+#EXTINF:-1,FOX 54
+http://api.new.livestream.com/accounts/11328309/events/live/live.m3u8
+
+
+
 
 
 
@@ -1395,55 +1413,9 @@ http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
 
 
-#EXTINF:-1,Dorcel Tv
-http://iptv.efsane365.com:80/live/koralp/123456/17255.m3u8
-#EXTINF:-1,-PentHouse
-http://iptv.efsane365.com:80/live/koralp/123456/17258.m3u8
-#EXTINF:-1,-RedLight
-http://iptv.efsane365.com:80/live/koralp/123456/17257.m3u8
-#EXTINF:-1,Brazers
-http://iptv.efsane365.com:80/live/koralp/123456/17256.m3u8
-#EXTINF:-1,Playboy TV
-http://iptv.efsane365.com:80/live/koralp/123456/7828.m3u8
-#EXTINF:-1,DUSK
-http://iptv.efsane365.com:80/live/koralp/123456/17254.m3u8
-#EXTINF:-1,BLACKED
-http://iptv.efsane365.com:80/live/koralp/123456/21054.m3u8
-#EXTINF:-1,HOT
-http://iptv.efsane365.com:80/live/koralp/123456/17251.m3u8
-#EXTINF:-1,XXX - BABES 1
-http://iptv.efsane365.com:80/live/koralp/123456/17253.m3u8
-#EXTINF:-1,XXX - BABES 2
-http://iptv.efsane365.com:80/live/koralp/123456/17252.m3u8
-#EXTINF:-1,(XXX) HOT CLUB 1 HD
-http://iptv.efsane365.com:80/live/koralp/123456/5817.m3u8
-#EXTINF:-1,(XXX) HOT CLUB 2 HD
-http://iptv.efsane365.com:80/live/koralp/123456/5816.m3u8
-#EXTINF:-1,(XXX) HOT CLUB 3 HD
-http://iptv.efsane365.com:80/live/koralp/123456/5815.m3u8
-#EXTINF:-1,(XXX) HOT CLUB 4 HD
-http://iptv.efsane365.com:80/live/koralp/123456/5814.m3u8
-#EXTINF:-1,(XXX) HOT CLUB 5 HD
-http://iptv.efsane365.com:80/live/koralp/123456/5813.m3u8
-#EXTINF:-1,(XXX) HOT CLUB 6 HD
-http://iptv.efsane365.com:80/live/koralp/123456/5812.m3u8
-#EXTINF:-1,(XXX) HOT CLUB 7 HD
-http://iptv.efsane365.com:80/live/koralp/123456/5811.m3u8
-#EXTINF:-1,(XXX) HOT CLUB 8 HD
-http://iptv.efsane365.com:80/live/koralp/123456/5810.m3u8
-#EXTINF:-1,(XXX) HOT CLUB 9 HD
-http://iptv.efsane365.com:80/live/koralp/123456/5809.m3u8
-#EXTINF:-1,(XXX) HOT CLUB 10 HD
-http://iptv.efsane365.com:80/live/koralp/123456/5808.m3u8
 
 
 
-#EXTINF:-1,FRENCHLOVER
-http://test.powernet.com.ru:5000/channel_239.1.13.4/index.m3u8
-#EXTINF:-1,Barely Legal
-http://test.powernet.com.ru:5000/channel_239.1.12.14/index.m3u8
-#EXTINF:-1,Blue Hustler
-http://test.powernet.com.ru:5000/channel_239.1.12.13/index.m3u8
 #EXTINF:-1,BUNGA BUNGA
 http://5.135.92.138:58143/out/u/109_1.m3u8
 
@@ -1481,8 +1453,6 @@ http://213.59.128.162:9996/play/Russkaya_noch/index.m3u8
 
 #EXTINF:-1 group-title="XXX",Frenchlover (18+)
 http://213.59.128.162:9996/play/FRENCHLOVER/index.m3u8
-#EXTINF:-1 group-title="XXX",Hustler HD
-http://5.128.46.59:81/udp/239.1.6.35:1234
 #EXTINF:-1 group-title="XXX",Passion_XXX (18+)
 http://213.59.128.162:9996/play/Passion_XXX/index.m3u8
 
@@ -1495,12 +1465,7 @@ http://87.246.0.130:88/m3u8/exoticatv.m3u8
 
 
 
-#EXTINF:-1,FRENCHLOVER
-http://test.powernet.com.ru:5000/channel_239.1.13.4/index.m3u8
-#EXTINF:-1,Barely Legal
-http://test.powernet.com.ru:5000/channel_239.1.12.14/index.m3u8
-#EXTINF:-1,Blue Hustler
-http://test.powernet.com.ru:5000/channel_239.1.12.13/index.m3u8
+
 
 
 
