@@ -477,75 +477,14 @@ http://93.87.85.10/PLTV/88888888/224/3221226665/index.m3u8?rrsip=93.87.85.10&zon
 
 
 
-#EXTINF:-1,Astro Arena
-http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8_05.m3u8
 
 
 
 
-#EXTINF:-1,tyc sport HD
-http://latino-webtv.com:2082/livexd3/99_.m3u8
-#EXTINF:-1,espn2
-http://latino-webtv.com:2082/livexd3/100_.m3u8
-#EXTINF:-1,espn3
-http://latino-webtv.com:2082/livexd3/111_.m3u8
-#EXTINF:-1,FOX sports 3
-http://latino-webtv.com:2082/livexd3/109_.m3u8
-#EXTINF:-1,FOX sports 2 HD
-http://latino-webtv.com:2082/livexd3/103_.m3u8
-#EXTINF:-1,FOX sports HD
-http://latino-webtv.com:2082/livexd3/101_.m3u8
 
 
-
-
-#EXTINF:-1,Fox Action Movies
-http://tv.woonet.co/direct_tv/freeiptv/___only_availabel_in_sat_and_sun____/foxactionmovies.m3u8
-#EXTINF:-1,Sky Sports F1
-http://tv.woonet.co/direct_tv/freeiptv/___only_availabel_in_sat_and_sun____/skysportsf1.m3u8
-#EXTINF:-1,AFC - Asian Food Channel HD
-http://tv.woonet.co/direct_tv/freeiptv/___only_availabel_in_sat_and_sun____/afchd.m3u8
-#EXTINF:-1,WWE
-http://tv.woonet.co/direct_tv/freeiptv/___only_availabel_in_sat_and_sun____/wwe.m3u8
-#EXTINF:-1,ESPN
-http://tv.woonet.co/direct_tv/freeiptv/___only_availabel_in_sat_and_sun____/espn.m3u8
-#EXTINF:-1,beIN SPORTS 1
-http://tv.woonet.co/direct_tv/freeiptv/___only_availabel_in_sat_and_sun____/beinsports1.m3u8
-#EXTINF:-1,beIN SPORTS 2
-http://tv.woonet.co/direct_tv/freeiptv/___only_availabel_in_sat_and_sun____/beinsports2.m3u8
-#EXTINF:-1,beIN SPORTS 3
-http://tv.woonet.co/direct_tv/freeiptv/___only_availabel_in_sat_and_sun____/beinsports3.m3u8
-#EXTINF:-1,beIN SPORTS 4
-http://tv.woonet.co/direct_tv/freeiptv/___only_availabel_in_sat_and_sun____/beinsports4.m3u8
-#EXTINF:-1,Match! Futbol 1
-http://tv.woonet.co/direct_tv/freeiptv/___only_availabel_in_sat_and_sun____/matchfootball1.m3u8
-#EXTINF:-1,Match! Futbol 2
-http://tv.woonet.co/direct_tv/freeiptv/___only_availabel_in_sat_and_sun____/matchfootball2.m3u8
-#EXTINF:-1,Match! Futbol 3
-http://tv.woonet.co/direct_tv/freeiptv/___only_availabel_in_sat_and_sun____/matchfootball3.m3u8
-#EXTINF:-1,Fashion One
-http://tv.woonet.co/direct_tv/freeiptv/___only_availabel_in_sat_and_sun____/fashionone.m3u8
-#EXTINF:-1,MNet
-http://tv.woonet.co/direct_tv/freeiptv/___only_availabel_in_sat_and_sun____/mnet.m3u8
-#EXTINF:-1,Fox Sports HD
-http://tv.woonet.co/direct_tv/freeiptv/___only_availabel_in_sat_and_sun____/foxsportshd.m3u8
-#EXTINF:-1,Fox Sports 2 HD
-http://tv.woonet.co/direct_tv/freeiptv/___only_availabel_in_sat_and_sun____/foxsports2hd.m3u8
-#EXTINF:-1,Tennis Channel
-http://tv.woonet.co/direct_tv/freeiptv/___only_availabel_in_sat_and_sun____/tennis.m3u8
-#EXTINF:-1,Setanta Sports
-http://tv.woonet.co/direct_tv/freeiptv/___only_availabel_in_sat_and_sun____/setantasports.m3u8
-#EXTINF:-1,Futbol 1
-http://tv.woonet.co/direct_tv/freeiptv/___only_availabel_in_sat_and_sun____/futbol1.m3u8
-#EXTINF:-1,Futbol 2
-http://tv.woonet.co/direct_tv/freeiptv/___only_availabel_in_sat_and_sun____/futbol2.m3u8
-#EXTINF:-1,Eurosport 1
-http://tv.woonet.co/direct_tv/freeiptv/___only_availabel_in_sat_and_sun____/eurosport1.m3u8
-#EXTINF:-1,Eurosport 2
-http://tv.woonet.co/direct_tv/freeiptv/___only_availabel_in_sat_and_sun____/eurosport2.m3u8
-
-
-
+#EXTINF:-1,FightBox HD
+http://80.87.208.158:80/dna-4571-tv-pc.m3u8
 
 #EXTINF:-1,Fight Time 
 http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8
@@ -600,18 +539,6 @@ http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.
 
 
 
-#EXTINF:-1 group-title="Спорт",МАТЧ Футбол 1
-http://185-8-178-138.livesports24.online/mf1-live.m3u8
-#EXTINF:-1 group-title="Спорт",МАТЧ Футбол 2
-http://185-8-178-139.livesports24.online/onlinematchfootball2-live.m3u8
-#EXTINF:-1 group-title="Спорт",Xsport
-http://95.67.103.251/hls/xsport_ua_mid/index.m3u8
-#EXTINF:-1 group-title="Спорт",Xsport HD
-http://95.67.103.251/hls/xsport_ua_hi/index.m3u8
-#EXTINF:-1 group-title="Спорт",Viasat Sport
-http://stream.euroasia.lfstrm.tv/viasat_sport/1/index.m3u8
-#EXTINF:-1 group-title="Спорт",Беларусь 5 Спорт
-http://95.46.208.76:9898/belarus5
 
 
 
@@ -639,15 +566,6 @@ http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8
 http://91.149.172.100:80/channel?id=24&u=demo&p=demo
 
 
-
-#EXTINF:0,Viasat Sport HD
-http://c0.cdn.trinity-tv.net/stream/nwsjexhdi7k5xs2ckauzm7k5v759gbqrz2gw6gwnxtfgkfmemfjcgbnfx44954seezpt9z3gvu7u7xze8my57y7yddkqsutzqk6yne3xf5idpv4yemchyerpvzrg39keuym7vtgmanusygj54xx39ess3i======.m3u8
-#EXTINF:0,Sport 1 Baltic
-http://c0.cdn.trinity-tv.net/stream/gt2kc4jxhhcndsift9ypesc5evxniibazu4kxfy7urz37j7xxs8ezvymicvx9td4c8gziz9sf2duzestm4swqxmx9ujdyet3bivuwr5k2nm2grs6d2j3mpaeh78r7rehdw2vdcnu2ibqqf3ettfrpni=.m3u8
-#EXTINF:0,Спорт 1 (Украина)
-http://c0.cdn.trinity-tv.net/stream/xm2dfkrdw9ik5z9sfrg7zhijppp4runkmzxmu92cq5zhbecaunzj25vjnggqwfsywr4zm97kg8ga3pf64eume8eygd5rx8g46e35i3esy9mu9sxzqvi7t9g896gtw4ydwuhxcegfdyqdz7nsqkuks6i=.m3u8
-#EXTINF:0,Спорт 2 (Украина)
-http://c0.cdn.trinity-tv.net/stream/egbxqnfhehhryutivasnk6pz896a5zfz7fa39d9rza2z54f89bj7kkh5f3a6x6dtkv5uu5i7t89ueydxkdsvv68gmsfmnpi333h53qdwag8tb47ntq68mphry622ftqy5iskc6bcqauzgkqc8ivszei=.m3u8
 
 
 #EXTINF:-1,[COLOR yellow]>>>  MUZIKA  <<<[/COLOR]
