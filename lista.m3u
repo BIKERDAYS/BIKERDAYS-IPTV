@@ -666,6 +666,22 @@ https://www.youtube.com/watch?v=s2W8CoNP4z0&feature=youtu.be
 https://www.youtube.com/watch?v=CG9D8KJi6VA&feature=youtu.be
 
 
+#EXTINF:-1,VH 1
+http://80.87.208.158:80/dna-71-tv-pc.m3u8
+#EXTINF:-1,VH 1 CLASSIC
+http://80.87.208.158:80/dna-69-tv-pc.m3u8
+#EXTINF:-1,MTV HITS
+http://80.87.208.158:80/dna-67-tv-pc.m3u8
+#EXTINF:-1,MTV DANCE
+http://80.87.208.158:80/dna-68-tv-pc.m3u8
+#EXTINF:-1,MTV
+http://80.87.208.158:80/dna-70-tv-pc.m3u8
+#EXTINF:-1,RUSSIAN MUSICBOX (RU)
+http://80.87.208.158:80/dna-96-tv-pc.m3u8
+#EXTINF:-1,MTV ROCKS
+http://80.87.208.158:80/dna-99-tv-pc.m3u8
+
+
 #EXTINF:-1,DJing Dancefloor
 https://www.djing.com/tv/dancefloor.m3u8?sd=10&rebase=on
 #EXTINF:-1,DJing Electro Rock
@@ -1097,6 +1113,39 @@ http://w10.streamgb.com:1935/kool/kool/playlist.m3u8
 http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master.m3u8
 
 
+#EXTINF:-1,District Knowledge Network
+http://video.oct.dc.gov/out/u/96_3.m3u8
+#EXTINF:-1,District Knowledge Network
+http://video.oct.dc.gov/out/u/96_2.m3u8
+#EXTINF:-1,District Knowledge Network
+http://video.oct.dc.gov/out/u/96_4.m3u8
+#EXTINF:-1,District Knowledge Network
+http://video.oct.dc.gov/out/u/96_1.m3u8
+#EXTINF:-1,DCC TV (USA)
+http://video.oct.dc.gov/out/u/15_9.m3u8
+
+
+#EXTINF:-1,usa 1
+http://80.80.160.168/live/1/live.m3u8
+#EXTINF:-1,usa 2
+http://80.80.160.168/live/2/live.m3u8
+#EXTINF:-1,usa 3
+http://80.80.160.168/live/3/live.m3u8
+#EXTINF:-1,usa 4
+http://80.80.160.168/live/4/live.m3u8
+#EXTINF:-1,usa 5
+http://80.80.160.168/live/5/live.m3u8
+#EXTINF:-1,usa 6
+http://80.80.160.168/live/6/live.m3u8
+#EXTINF:-1,usa 7
+http://80.80.160.168/live/7/live.m3u8
+#EXTINF:-1,usa 7
+http://80.80.160.168/live/8/live.m3u8
+#EXTINF:-1,usa 9
+http://80.80.160.168/live/9/live.m3u8
+
+
+
 #EXTINF:-1,[COLOR yellow]>>>  NJEMACKA  <<<[/COLOR]
 skip
 
@@ -1498,7 +1547,8 @@ http://87.246.0.130:88/m3u8/centoxcento.m3u8
 http://87.246.0.130:88/m3u8/exoticatv.m3u8
 
 
-
+#EXTINF:-1,HUSTLER TV
+http://80.87.208.158:80/dna-91-tv-pc.m3u8
 
 
 
