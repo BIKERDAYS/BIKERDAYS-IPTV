@@ -476,11 +476,29 @@ http://93.87.85.10/PLTV/88888888/224/3221226661/index.m3u8?rrsip=93.87.85.10&zon
 http://93.87.85.10/PLTV/88888888/224/3221226665/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9vmgYnhd%2FQXVMovIFPNVfeBiXPAaui6g8aIyeRBou9ik%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100001969%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
 
 
+#EXTINF:-1,Eurosport 2
+http://5.226.139.178:2457/live/srvard/ardsrv/65.ts
+#EXTINF:-1,Eurosport 1
+http://5.226.139.178:2457/live/srvard/ardsrv/66.ts
+#EXTINF:-1,Arena5
+http://5.226.139.178:2457/live/srvard/ardsrv/59.ts
+#EXTINF:-1,Arena4
+http://5.226.139.178:2457/live/srvard/ardsrv/60.ts
+#EXTINF:-1,Arena3
+http://5.226.139.178:2457/live/srvard/ardsrv/70.ts
+#EXTINF:-1,Arena2
+http://5.226.139.178:2457/live/srvard/ardsrv/69.ts
+#EXTINF:-1,Arena1
+http://5.226.139.178:2457/live/srvard/ardsrv/68.ts
+#EXTINF:-1,SportKlub 3
+http://5.226.139.178:2457/live/srvard/ardsrv/67.ts
+#EXTINF:-1,SportKlub 2
+http://5.226.139.178:2457/live/srvard/ardsrv/72.ts
+#EXTINF:-1,SportKlub 1
+http://5.226.139.178:2457/live/srvard/ardsrv/71.ts
 
-
-
-
-
+#EXTINF:-1,bein sport hd
+http://ott.realplaytv.net:12388/?header=hplus&name=htv1&cdn=1
 
 
 #EXTINF:-1,FightBox HD
@@ -556,6 +574,8 @@ http://212.200.102.3:5000/udp/239.99.99.99:23999
 #EXTINF:-1,Real Madrid TV
 http://rmtv24hweblive-lh.akamaihd.net:80/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8
 
+#EXTINF:-1,Real Madrid TV
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_1_av-b.m3u8
 #EXTINF:-1,Sevilla fc
 http://sevillafc_live-lh.akamaihd.net:80/i/video_0@354142/master.m3u8
 
@@ -1457,6 +1477,66 @@ http://213.59.128.162:9996/play/Russkaya_noch/index.m3u8
 http://213.59.128.162:9996/play/FRENCHLOVER/index.m3u8
 #EXTINF:-1 group-title="XXX",Passion_XXX (18+)
 http://213.59.128.162:9996/play/Passion_XXX/index.m3u8
+
+
+#EXTINF:-1,XXX: Pink Erotic 1
+http://atomtv.net:8000/live/colomba/2PsOCyR0H5/8793.m3u8
+#EXTINF:-1,XXX: Pink Erotic 2
+http://atomtv.net:8000/live/colomba/2PsOCyR0H5/8794.m3u8
+#EXTINF:-1,XXX: Pink Erotic 3
+http://atomtv.net:8000/live/colomba/2PsOCyR0H5/8795.m3u8
+#EXTINF:-1,XXX: Pink Erotic 4
+http://atomtv.net:8000/live/colomba/2PsOCyR0H5/8796.m3u8
+#EXTINF:-1,XXX: Pink Erotic 5
+http://atomtv.net:8000/live/colomba/2PsOCyR0H5/8797.m3u8
+#EXTINF:-1,XXX: Pink Erotic 6
+http://atomtv.net:8000/live/colomba/2PsOCyR0H5/8798.m3u8
+#EXTINF:-1,XXX: Pink Erotic 7
+http://atomtv.net:8000/live/colomba/2PsOCyR0H5/8799.m3u8
+#EXTINF:-1,XXX: Pink Erotic 8
+http://atomtv.net:8000/live/colomba/2PsOCyR0H5/8800.m3u8
+#EXTINF:-1,XXX: DORCEL
+http://atomtv.net:8000/live/colomba/2PsOCyR0H5/63.m3u8
+#EXTINF:-1,XXX: HUSTLER HD
+http://atomtv.net:8000/live/colomba/2PsOCyR0H5/7455.m3u8
+#EXTINF:-1,XXX: Jasmin TV
+http://atomtv.net:8000/live/colomba/2PsOCyR0H5/64.m3u8
+#EXTINF:-1,XXX: RED LIGHT HD
+http://atomtv.net:8000/live/colomba/2PsOCyR0H5/7454.m3u8
+#EXTINF:-1,XXX: EROX HD
+http://atomtv.net:8000/live/colomba/2PsOCyR0H5/11354.m3u8
+#EXTINF:-1,XXX: HOT HD
+http://atomtv.net:8000/live/colomba/2PsOCyR0H5/10044.m3u8
+#EXTINF:-1,XXX: Brazzers
+http://atomtv.net:8000/live/colomba/2PsOCyR0H5/14481.m3u8
+#EXTINF:-1,XXX: Meiden van Holland
+http://atomtv.net:8000/live/colomba/2PsOCyR0H5/14479.m3u8
+#EXTINF:-1,XXX: X-MO
+http://atomtv.net:8000/live/colomba/2PsOCyR0H5/14480.m3u8
+#EXTINF:-1,XXX: DUSK
+http://atomtv.net:8000/live/colomba/2PsOCyR0H5/14483.m3u8
+#EXTINF:-1,XXX: Reality Kings tv NL 
+http://atomtv.net:8000/live/colomba/2PsOCyR0H5/14484.m3u8
+#EXTINF:-1,XXX: Secret Circle
+http://atomtv.net:8000/live/colomba/2PsOCyR0H5/14485.m3u8
+#EXTINF:-1,XXX: Evil Angel
+http://atomtv.net:8000/live/colomba/2PsOCyR0H5/21504.m3u8
+#EXTINF:-1,XXX: Passie XXX
+http://atomtv.net:8000/live/colomba/2PsOCyR0H5/29974.m3u8
+#EXTINF:-1,XXX: Penthouse
+http://atomtv.net:8000/live/colomba/2PsOCyR0H5/36146.m3u8
+#EXTINF:-1,XXX: Penthouse HD
+http://atomtv.net:8000/live/colomba/2PsOCyR0H5/29972.m3u8
+#EXTINF:-1,XXX: PlayBoy TV
+http://atomtv.net:8000/live/colomba/2PsOCyR0H5/29971.m3u8
+#EXTINF:-1,XXX: Sexy Hot
+http://atomtv.net:8000/live/colomba/2PsOCyR0H5/29968.m3u8
+#EXTINF:-1,XXX: Exotica TV
+http://atomtv.net:8000/live/colomba/2PsOCyR0H5/29967.m3u8
+#EXTINF:-1,XXX: Venus
+http://atomtv.net:8000/live/colomba/2PsOCyR0H5/29966.m3u8
+
+
 
 
 #EXTINF:-1,cento
