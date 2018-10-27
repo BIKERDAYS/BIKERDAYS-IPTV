@@ -557,7 +557,30 @@ http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.
 
 
 
-
+#EXTINF:-1,o2 sport
+https://stc.o2tv.cz/at/49eec8dd4f010632cf8103b633f5048e/1540632635414/subscr/OTT-NONMOJEO2-158910/677570af-2b40-4a8c-a461-e539e56ed77c/5-tv-pc.m3u8
+#EXTINF:-1,o2 sport
+https://stc.o2tv.cz/at/05c31caee86b745f668ea2a9ce3d9181/1540632674780/subscr/OTT-NONMOJEO2-158910/677570af-2b40-4a8c-a461-e539e56ed77c/5-tv-pc.m3u8
+#EXTINF:-1,o2 fotbal
+https://stc.o2tv.cz/at/65add031e26b64d7b4a4e3e65a2aa838/1540632746800/subscr/OTT-NONMOJEO2-158910/677570af-2b40-4a8c-a461-e539e56ed77c/557-tv-pc.m3u8
+#EXTINF:-1,o2 tenis
+https://stc.o2tv.cz/at/36091e17d093b17633ece3b8bd1cfd1f/1540632777534/subscr/OTT-NONMOJEO2-158910/677570af-2b40-4a8c-a461-e539e56ed77c/558-tv-pc.m3u8
+#EXTINF:-1,o2 sport
+https://stc.o2tv.cz/at/e37d68dc40503efca950780cd695ee70/1540632845053/subscr/OTT-NONMOJEO2-158910/677570af-2b40-4a8c-a461-e539e56ed77c/551-tv-pc.m3u8
+#EXTINF:-1,o2 sport 2
+https://stc.o2tv.cz/at/c7eeb75752a9e325515fa27e2d9ef0af/1540632889030/subscr/OTT-NONMOJEO2-158910/677570af-2b40-4a8c-a461-e539e56ed77c/552-tv-pc.m3u8
+#EXTINF:-1,o2 sport 3
+https://stc.o2tv.cz/at/c96e4a2052133bfea9a6fed3bba67890/1540632921885/subscr/OTT-NONMOJEO2-158910/677570af-2b40-4a8c-a461-e539e56ed77c/553-tv-pc.m3u8
+#EXTINF:-1,o2 sport 4
+https://stc.o2tv.cz/at/2d847786d0b6c368f423d8ed7a16a0f4/1540632947555/subscr/OTT-NONMOJEO2-158910/677570af-2b40-4a8c-a461-e539e56ed77c/554-tv-pc.m3u8
+#EXTINF:-1,o2 sport 5
+https://stc.o2tv.cz/at/fce6f6532f135754a4c92a6d2b7978c5/1540632978621/subscr/OTT-NONMOJEO2-158910/677570af-2b40-4a8c-a461-e539e56ed77c/555-tv-pc.m3u8
+#EXTINF:-1,o2 sport 6
+https://stc.o2tv.cz/at/5e1d1599e3ee198697e6425de114604e/1540633010800/subscr/OTT-NONMOJEO2-158910/677570af-2b40-4a8c-a461-e539e56ed77c/556-tv-pc.m3u8
+#EXTINF:-1,o2 sport 7
+https://stc.o2tv.cz/at/97c4d72bf886d040ec64e64635b6ad91/1540633035742/subscr/OTT-NONMOJEO2-158910/677570af-2b40-4a8c-a461-e539e56ed77c/557-tv-pc.m3u8
+#EXTINF:-1,o2 sport 8
+https://stc.o2tv.cz/at/a33508dc9c4bbf95995cd352ed6be3fa/1540633065924/subscr/OTT-NONMOJEO2-158910/677570af-2b40-4a8c-a461-e539e56ed77c/558-tv-pc.m3u8
 
 
 
@@ -905,6 +928,14 @@ http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
 #EXTINF:-1,SKY NEWS
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
 
+#EXTINF:-1,Sky news
+http://ax.micaesoft.com/YMitv/YMITV_UK_UKskytv_2.m3u8
+#EXTINF:-1,Sky news
+http://ax.micaesoft.com/YMitv/YMITV_US_USnasatv_1.m3u8
+
+#EXTINF:-1,SKY NEWS you tube link
+https://www.youtube.com/watch?v=XOacA3RYrXk&feature=youtu.be
+
 #EXTINF:-1,SkyTG 24
 http://skyianywhere2-i.akamaihd.net/hls/live/200275/tg24/playlist.m3u8
 
@@ -1170,6 +1201,10 @@ http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8
 
 #EXTINF:-1,NEOX
 http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
+
+#EXTINF:-1,BFM Paris
+http://bfmparishdslive-lh.akamaihd.net/i/DVMR_PARIS@429747/master.m3u8
+
 
 
 #EXTINF:-1,[COLOR yellow]>>>  SPANJOLSKA  <<<[/COLOR]
