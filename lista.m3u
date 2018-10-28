@@ -37,8 +37,6 @@ http://195.29.70.89/PLTV/88888888/224/3221226407/04.m3u8
 http://195.29.70.89/PLTV/88888888/224/3221226491/04.m3u8
 #EXTINF:-1,NB Comedy Channel
 http://195.29.70.89/PLTV/88888888/224/3221226407/index.m3u8
-#EXTINF:-1,Animal Planet
-http://195.29.70.67/PLTV/88888888/224/3221226140/04.m3u8
 #EXTINF:-1,NB
 http://195.29.70.67/PLTV/88888888/224/3221226407/04.m3u8
 #EXTINF:-1,E! HD
@@ -150,23 +148,7 @@ http://195.29.70.67/PLTV/88888888/224/3221226195/02.m3u8
 #EXTINF:-1,RTL Hrvatska 480p Croatia
 http://195.29.70.67/PLTV/88888888/224/3221226195/03.m3u8
 
-#EXTINF:-1,ХЗ HD [only audio]
-http://195.29.70.67/PLTV/88888888/224/3221226460/06.m3u8
 
-#EXTINF:-1,ХЗ HD 270p
-http://195.29.70.67/PLTV/88888888/224/3221226460/01.m3u8
-
-#EXTINF:-1,ХЗ HD 360p
-http://195.29.70.67/PLTV/88888888/224/3221226460/02.m3u8
-
-#EXTINF:-1,ХЗ HD 576p
-http://195.29.70.67/PLTV/88888888/224/3221226460/03.m3u8
-
-#EXTINF:-1,ХЗ HD 720p
-http://195.29.70.67/PLTV/88888888/224/3221226460/04.m3u8
-
-#EXTINF:-1,ХЗ HD 720p
-http://195.29.70.67/PLTV/88888888/224/3221226460/05.m3u8
 
 #EXTINF:-1,ХЗ HD 720p
 http://195.29.70.67/PLTV/88888888/224/3221226460/index.m3u8
@@ -446,22 +428,6 @@ http://gorod.tv/s/live/502/86.169.51.136/1/0.m3u8
 
 
 
-#EXTINF:-1,Eurosport HD
-http://87.246.0.130:88/m3u8/eurosporthd.m3u8
-#EXTINF:-1,Eurosport
-http://87.246.0.130:88/m3u8/webeurosport_web.m3u8
-#EXTINF:-1,Eurosport 2
-http://87.246.0.130:88/m3u8/webeurosport2_web.m3u8
-#EXTINF:-1,Arena Sport 1
-http://87.246.0.130:88/m3u8/arenasport1.m3u8
-#EXTINF:-1,Arena Sport 2
-http://87.246.0.130:88/m3u8/arenasport2.m3u8
-#EXTINF:-1,Arena Sport 3
-http://87.246.0.130:88/m3u8/arenasport3.m3u8
-#EXTINF:-1,Arena Sport 4
-http://87.246.0.130:88/m3u8/arenasport4.m3u8
-#EXTINF:-1,Arena Sport 5
-http://87.246.0.130:88/m3u8/arenasport5.m3u8
 
 
 #EXTINF:0,Arena 1 HD
@@ -556,31 +522,6 @@ http://wse.planeta-online.tv:1935/live/channel_3/chunklist.m3u8
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
 
 
-
-#EXTINF:-1,o2 sport
-https://stc.o2tv.cz/at/49eec8dd4f010632cf8103b633f5048e/1540632635414/subscr/OTT-NONMOJEO2-158910/677570af-2b40-4a8c-a461-e539e56ed77c/5-tv-pc.m3u8
-#EXTINF:-1,o2 sport
-https://stc.o2tv.cz/at/05c31caee86b745f668ea2a9ce3d9181/1540632674780/subscr/OTT-NONMOJEO2-158910/677570af-2b40-4a8c-a461-e539e56ed77c/5-tv-pc.m3u8
-#EXTINF:-1,o2 fotbal
-https://stc.o2tv.cz/at/65add031e26b64d7b4a4e3e65a2aa838/1540632746800/subscr/OTT-NONMOJEO2-158910/677570af-2b40-4a8c-a461-e539e56ed77c/557-tv-pc.m3u8
-#EXTINF:-1,o2 tenis
-https://stc.o2tv.cz/at/36091e17d093b17633ece3b8bd1cfd1f/1540632777534/subscr/OTT-NONMOJEO2-158910/677570af-2b40-4a8c-a461-e539e56ed77c/558-tv-pc.m3u8
-#EXTINF:-1,o2 sport
-https://stc.o2tv.cz/at/e37d68dc40503efca950780cd695ee70/1540632845053/subscr/OTT-NONMOJEO2-158910/677570af-2b40-4a8c-a461-e539e56ed77c/551-tv-pc.m3u8
-#EXTINF:-1,o2 sport 2
-https://stc.o2tv.cz/at/c7eeb75752a9e325515fa27e2d9ef0af/1540632889030/subscr/OTT-NONMOJEO2-158910/677570af-2b40-4a8c-a461-e539e56ed77c/552-tv-pc.m3u8
-#EXTINF:-1,o2 sport 3
-https://stc.o2tv.cz/at/c96e4a2052133bfea9a6fed3bba67890/1540632921885/subscr/OTT-NONMOJEO2-158910/677570af-2b40-4a8c-a461-e539e56ed77c/553-tv-pc.m3u8
-#EXTINF:-1,o2 sport 4
-https://stc.o2tv.cz/at/2d847786d0b6c368f423d8ed7a16a0f4/1540632947555/subscr/OTT-NONMOJEO2-158910/677570af-2b40-4a8c-a461-e539e56ed77c/554-tv-pc.m3u8
-#EXTINF:-1,o2 sport 5
-https://stc.o2tv.cz/at/fce6f6532f135754a4c92a6d2b7978c5/1540632978621/subscr/OTT-NONMOJEO2-158910/677570af-2b40-4a8c-a461-e539e56ed77c/555-tv-pc.m3u8
-#EXTINF:-1,o2 sport 6
-https://stc.o2tv.cz/at/5e1d1599e3ee198697e6425de114604e/1540633010800/subscr/OTT-NONMOJEO2-158910/677570af-2b40-4a8c-a461-e539e56ed77c/556-tv-pc.m3u8
-#EXTINF:-1,o2 sport 7
-https://stc.o2tv.cz/at/97c4d72bf886d040ec64e64635b6ad91/1540633035742/subscr/OTT-NONMOJEO2-158910/677570af-2b40-4a8c-a461-e539e56ed77c/557-tv-pc.m3u8
-#EXTINF:-1,o2 sport 8
-https://stc.o2tv.cz/at/a33508dc9c4bbf95995cd352ed6be3fa/1540633065924/subscr/OTT-NONMOJEO2-158910/677570af-2b40-4a8c-a461-e539e56ed77c/558-tv-pc.m3u8
 
 
 
@@ -1626,10 +1567,7 @@ http://atomtv.net:8000/live/colomba/2PsOCyR0H5/29966.m3u8
 
 
 
-#EXTINF:-1,cento
-http://87.246.0.130:88/m3u8/centoxcento.m3u8
-#EXTINF:-1,dust
-http://87.246.0.130:88/m3u8/exoticatv.m3u8
+
 
 
 #EXTINF:-1,HUSTLER TV
