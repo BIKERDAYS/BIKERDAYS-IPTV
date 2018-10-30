@@ -418,8 +418,29 @@ skip
 
 
 
+#EXTINF:0,BeinSport1
+http://190.2.130.6:8080/BeinSport1HD/index.m3u8
+#EXTINF:0,BeinSport3HD 
+http://190.2.130.6:8080/BeinSport3HD/index.m3u8
+#EXTINF:0,BeinSport2HD 
+http://190.2.130.6:8080/BeinSport2HD/index.m3u8
+#EXTINF:0,BeinSport4HD 
+http://190.2.130.6:8080/BeinSport4HD/index.m3u8
+
+#EXTINF:-1,Astro Arena
+http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8_02.m3u8
+#EXTINF:-1,Astro Arena
+http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8_04.m3u8
+#EXTINF:-1,Astro Arena
+http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8_03.m3u8
 
 
+#EXTINF:-1,Ten Sports 3
+http://163.172.86.57:3135/Ten/3/index.m3u8
+#EXTINF:-1,Ten Sports 2
+http://163.172.86.57:3135/Ten/2/index.m3u8
+#EXTINF:-1,Ten Sports 1
+http://163.172.86.57:3135/Ten/1/index.m3u8
 
 
 #EXTINF:0,FR: BEIN SPORT 2 HD
