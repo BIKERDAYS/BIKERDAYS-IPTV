@@ -421,47 +421,9 @@ skip
 
 
 
-#EXTINF:0,AR: BEIN SPORT 1 HD
-http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/2155.m3u8
-
-#EXTINF:0,AR: BEIN SPORT 2 HD
-http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/2156.m3u8
-
-#EXTINF:0,AR: BEIN SPORT 3 HD
-http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/2157.m3u8
-
-#EXTINF:0,AR: BEIN SPORT 4 HD
-http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/2158.m3u8
-
-#EXTINF:0,AR: BEIN SPORT 5 HD
-http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/2159.m3u8
-
-#EXTINF:0,AR: BEIN SPORT 6 HD
-http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/2160.m3u8
-
-#EXTINF:0,AR: BEIN SPORT 7 HD
-http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/2161.m3u8
-
-#EXTINF:0,AR: BEIN SPORT 8 HD
-http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/2162.m3u8
-
-#EXTINF:0,AR: BEIN SPORT 9 HD
-http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/2163.m3u8
-
-#EXTINF:0,AR: BEIN SPORT NEWS HD
-http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/2165.m3u8
-
-#EXTINF:0,ARG: LFC TV
-http://mrriptv.xyz:25461/live/Twisted/30/15574.m3u8
-
-#EXTINF:0,ARG: MUTV
-http://mrriptv.xyz:25461/live/Twisted/30/15573.m3u8
 
 #EXTINF:0,FR: BEIN SPORT 2 HD
 http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/12074.m3u8
-
-#EXTINF:0,FR: BEIN SPORTS 3 HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/2590.m3u8
 
 #EXTINF:0,FR: BEIN SPORTS MAX 10 HD
 http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/11455.m3u8
@@ -487,14 +449,8 @@ http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/10363.m3u8
 #EXTINF:0,FR: CANAL SPORT
 http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/12072.m3u8
 
-#EXTINF:0,FR: EUROSPORT 1 HD
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/2572.m3u8
-
 #EXTINF:0,FR: EUROSPORT 1
 http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/3277.m3u8
-
-#EXTINF:0,FR: EUROSPORT 2 HD
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3314.m3u8
 
 #EXTINF:0,FR: EUROSPORT 2
 http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/3276.m3u8
@@ -502,35 +458,11 @@ http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/3276.m3u8
 #EXTINF:0,FR: GOLF HD
 http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/10360.m3u8
 
-#EXTINF:0,FR: GOLF
-http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/10148.m3u8
-
 #EXTINF:0,FR: INFOSPORT (1+)
 http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/5466.m3u8
 
-#EXTINF:0,FR: MOTORSPORT TV
-http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/10674.m3u8
-
 #EXTINF:0,FR: RMC SPORT 2
 http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/5472.m3u8
-
-#EXTINF:0,DE: CANAL SPORT
-http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/11057.m3u8
-
-#EXTINF:0,DE: CANAL SPORT HD2
-http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/11033.m3u8
-
-#EXTINF:0,DE: EUROSPORT 1 HD
-http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/867.m3u8
-
-#EXTINF:0,DE: EUROSPORT 2 HD
-http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/868.m3u8
-
-#EXTINF:0,DE: MOTORVISION
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/4697.m3u8
-
-#EXTINF:0,DE: ORF SPORT HD
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3917.m3u8
 
 #EXTINF:0,DE: ORF SPORT
 http://apasfiisl.apa.at/ipad/orfs_q4a/orf.sdp/playlist.m3u8
@@ -547,29 +479,11 @@ http://37.59.34.182:8000/live/POLAND/POLAND/2054.m3u8
 #EXTINF:0,DE: POLSAT SPORT NEWS
 http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/11029.m3u8
 
-#EXTINF:0,DE: SKY SPORT HD
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3356.m3u8
-
-#EXTINF:0,DE: SKY SPORT
-http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/846.m3u8
-
-#EXTINF:0,DE: SKY SPORT 1 HD
-http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/847.m3u8
-
-#EXTINF:0,DE: SKY SPORT 1 (1+) HD
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3068.m3u8
-
 #EXTINF:0,DE: SKY SPORT 1
 http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/3415.m3u8
 
 #EXTINF:0,DE: SKY SPORT 2
 http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/3414.m3u8
-
-#EXTINF:0,DE: SKY SPORT 3 HD
-http://cmskos.bekaks.net:777/live/LJVPlx2cci/8vvsxSGg8v/626.m3u8
-
-#EXTINF:0,DE: SKY SPORT 4 (1+) HD
-http://cmskos.bekaks.net:777/live/LJVPlx2cci/8vvsxSGg8v/191.m3u8
 
 #EXTINF:0,DE: SKY SPORT 8
 http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/9440.m3u8
@@ -580,110 +494,17 @@ http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/8687.m3u8
 #EXTINF:0,DE: SKY SPORT BUNDESLIGA1
 http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/3413.m3u8
 
-#EXTINF:0,DE: SKY SPORT NEWS HD
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3070.m3u8
-
-#EXTINF:0,DE: SKY SPORT NEWS
-http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/845.m3u8
-
-#EXTINF:0,DE: SPORT 1 HD
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/5442.m3u8
-
-#EXTINF:0,IT: EUROSPORT 1 HD
-http://cmskos.bekaks.net:777/live/LJVPlx2cci/8vvsxSGg8v/551.m3u8
-
-#EXTINF:0,IT: EUROSPORT 2
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9132.m3u8
-
-#EXTINF:0,IT: FOX SPORT HD
-http://cmskos.bekaks.net:777/live/LJVPlx2cci/8vvsxSGg8v/419.m3u8
-
-#EXTINF:0,IT: FOX SPORTS HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9124.m3u8
-
 #EXTINF:0,IT: IRC SPORT TV
 http://wms.shared.streamshow.it/irctv/mp4:irctv/playlist.m3u8
 
-#EXTINF:0,IT: ITALIAN FISHING TV
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9174.m3u8
-
-#EXTINF:0,IT: PREMIUM SPORT HD
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9197.m3u8
-
-#EXTINF:0,IT: PREMIUM SPORT 1 HD
-http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/971.m3u8
-
-#EXTINF:0,IT: PREMIUM SPORT 1 (1+) HD
-http://cmskos.bekaks.net:777/live/LJVPlx2cci/8vvsxSGg8v/550.m3u8
-
-#EXTINF:0,IT: PREMIUM SPORT 2 HD
-http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/972.m3u8
-
-#EXTINF:0,IT: PREMIUM SPORT 2 (1+) HD
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9198.m3u8
-
-#EXTINF:0,IT: PREMIUM SPORT 2
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9199.m3u8
-
-#EXTINF:0,IT: RAI SPORT 2
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9129.m3u8
-
 #EXTINF:0,IT: RTV SAN MARINO SPORT
 http://194.116.78.102:1935/webtv_live4/_definst_/9UXJ2BJMTMNR/playlist.m3u8
-
-#EXTINF:0,IT: SKY SPORT 1 HD
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9121.m3u8
-
-#EXTINF:0,IT: SKY SPORT 1 (1+) HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9121.m3u8
-
-#EXTINF:0,IT: SKY SPORT 2 HD
-http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/968.m3u8
-
-#EXTINF:0,IT: SKY SPORT 2 (1+) HD
-http://cmskos.bekaks.net:777/live/LJVPlx2cci/8vvsxSGg8v/118.m3u8
-
-#EXTINF:0,IT: SKY SPORT 2 (2+) HD
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9122.m3u8
-
-#EXTINF:0,IT: SKY SPORT 2 (3+) HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9122.m3u8
-
-#EXTINF:0,IT: SKY SPORT 24 HD
-http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/970.m3u8
-
-#EXTINF:0,IT: SKY SPORT 24 (1+) HD
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9120.m3u8
-
-#EXTINF:0,IT: SKY SPORT 3 HD
-http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/969.m3u8
-
-#EXTINF:0,IT: SKY SPORT 3 (1+) HD
-http://cmskos.bekaks.net:777/live/LJVPlx2cci/8vvsxSGg8v/418.m3u8
-
-#EXTINF:0,IT: SKY SPORT F1 HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9127.m3u8
-
-#EXTINF:0,IT: SKY SPORT MOTOGP HD
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9128.m3u8
-
-#EXTINF:0,IT: SKY SPORT PLUS HD
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9125.m3u8
-
-#EXTINF:0,IT: SPORT (1+)
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9134.m3u8
-
-#EXTINF:0,IT: SUPERTENNIS HD
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9131.m3u8
 
 #EXTINF:0,IT: TELEARENA
 http://wma07.fluidstream.net:1935/TeleArena/livestream/playlist.m3u8
 
 #EXTINF:0,IT: TELEROMAGNA SPORT
 http://livetr.teleromagna.it/sport/live/playlist.m3u8
-
-#EXTINF:0,NL: EUROSPORT 1 HD
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/5889.m3u8
 
 #EXTINF:0,NL: FOX SPORT 6
 http://forinone.org:25461/live/baran/skype/6389.m3u8
@@ -694,134 +515,17 @@ http://forinone.org:25461/live/sabri/skype/6389.m3u8
 #EXTINF:0,NL: FOX SPORTS 1 (2+) HD
 http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/4185.m3u8
 
-#EXTINF:0,NL: FOX SPORTS 1 (3+) HD
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3411.m3u8
-
 #EXTINF:0,NL: FOX SPORTS 2 HD
 http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/4165.m3u8
 
-#EXTINF:0,NL: FOX SPORTS 2 (1+) HD
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3170.m3u8
-
-#EXTINF:0,NL: FOX SPORTS 3 HD
-http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/4183.m3u8
-
-#EXTINF:0,NL: FOX SPORTS 3 (2+)
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3915.m3u8
-
-#EXTINF:0,NL: FOX SPORTS 3 (3+)
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3915.m3u8
-
-#EXTINF:0,NL: FOX SPORTS 4 HD
-http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/4184.m3u8
-
 #EXTINF:0,NL: SPORT 1 VOETBAL (1+)
 http://forinone.org:25461/live/sabri/skype/6390.m3u8
-
-#EXTINF:0,NL: ZIGGO SPORT EXTRA 1 (1+)
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/4414.m3u8
-
-#EXTINF:0,NL: ZIGGO SPORT EXTRA 2 (1+)
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/5344.m3u8
-
-#EXTINF:0,NL: ZIGGO SPORT GOLF (1+)
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/4417.m3u8
-
-#EXTINF:0,NL: ZIGGO SPORT RACING (2+)
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/4415.m3u8
-
-#EXTINF:0,NL: ZIGGO SPORT SELECT (1+) HD
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3412.m3u8
-
-#EXTINF:0,NL: ZIGGO SPORT VOETBAL
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3413.m3u8
-
-#EXTINF:0,RO: DIGI SPORT 1
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3143.m3u8
-
-#EXTINF:0,RO: DIGI SPORT 2 (1+)
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3543.m3u8
-
-#EXTINF:0,RO: EUROSPORT
-http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/11203.m3u8
-
-#EXTINF:0,RO: EUROSPORT 2
-http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/11202.m3u8
-
-#EXTINF:0,RO: EUROSPORT 2 (1+)
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/4752.m3u8
-
-#EXTINF:0,RO: SPORT
-http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/11183.m3u8
-
-#EXTINF:0,RU: DIGI SPORT 1 HD
-http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/2166.m3u8
-
-#EXTINF:0,RU: DIGI SPORT 2 HD
-http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/2167.m3u8
-
-#EXTINF:0,RU: DIGI SPORT 3 HD
-http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/2168.m3u8
-
-#EXTINF:0,RU: DIGI SPORT 4 HD
-http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/2169.m3u8
 
 #EXTINF:0,RU: MATCH! ARENA
 http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/3908.m3u8
 
 #EXTINF:0,RU: OUR FOOTBALL
 http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/3914.m3u8
-
-#EXTINF:0,EX-YU: ARENA SPORT 1 HD
-http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1033.m3u8
-
-#EXTINF:0,EX-YU: ARENA SPORT 1 (1+) HD
-http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1038.m3u8
-
-#EXTINF:0,EX-YU: ARENA SPORT 2 HD
-http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1039.m3u8
-
-#EXTINF:0,EX-YU: ARENA SPORT 3 HD
-http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1035.m3u8
-
-#EXTINF:0,EX-YU: ARENA SPORT 3 (1+) HD
-http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1040.m3u8
-
-#EXTINF:0,EX-YU: ARENA SPORT 4 HD
-http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1036.m3u8
-
-#EXTINF:0,EX-YU: ARENA SPORT 4 (1+) HD
-http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1041.m3u8
-
-#EXTINF:0,EX-YU: ARENA SPORT 5 HD
-http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1037.m3u8
-
-#EXTINF:0,EX-YU: ARENA SPORT 6 HD
-http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1043.m3u8
-
-#EXTINF:0,EX-YU: SPORT KLUB 1 HD
-http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1044.m3u8
-
-#EXTINF:0,EX-YU: SPORT KLUB 2 HD
-http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1045.m3u8
-
-#EXTINF:0,EX-YU: SPORT KLUB 2 CRO HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/1748.m3u8
-
-#EXTINF:0,EX-YU: SPORT KLUB 3 HD
-http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1046.m3u8
-
-#EXTINF:0,EX-YU: SPORT KLUB 4 HD
-http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1047.m3u8
-
-#EXTINF:0,SP: BEIN SPORTS HD
-http://cmskos.bekaks.net:777/live/LJVPlx2cci/8vvsxSGg8v/421.m3u8
-
-#EXTINF:0,SP: BEIN SPORTS
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3126.m3u8
-
-#EXTINF:0,SP: BEIN SPORTS (1+)
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3126.m3u8
 
 #EXTINF:0,SP: EUROSPORT 1 HD
 http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/749.m3u8
@@ -835,45 +539,6 @@ http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/750.m3u8
 #EXTINF:0,SP: MOVISTAR F1 HD
 http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/757.m3u8
 
-#EXTINF:0,SP: MOVISTAR FORMULA 1
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/4176.m3u8
-
-#EXTINF:0,SP: MOVISTAR GOLF
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/4233.m3u8
-
-#EXTINF:0,SP: MOVISTAR GOLF (1+)
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/4233.m3u8
-
-#EXTINF:0,SP: MOVISTAR MOTO GP
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3313.m3u8
-
-#EXTINF:0,SE: C MORE GOLF
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5441.m3u8
-
-#EXTINF:0,SE: EUROSPORT 1
-http://cmskos.bekaks.net:777/live/LJVPlx2cci/8vvsxSGg8v/670.m3u8
-
-#EXTINF:0,SE: TV3 SPORT
-http://cmskos.bekaks.net:777/live/LJVPlx2cci/8vvsxSGg8v/669.m3u8
-
-#EXTINF:0,SE: VIASAT MOTORS
-http://cmskos.bekaks.net:777/live/LJVPlx2cci/8vvsxSGg8v/771.m3u8
-
-#EXTINF:0,SE: VIASAT SPORT
-http://cmskos.bekaks.net:777/live/LJVPlx2cci/8vvsxSGg8v/742.m3u8
-
-#EXTINF:0,SE: VIASAT SPORT PREMIUM
-http://cmskos.bekaks.net:777/live/LJVPlx2cci/8vvsxSGg8v/741.m3u8
-
-#EXTINF:0,CH: TELECLUB SPORT 1
-http://cmskos.bekaks.net:777/live/LJVPlx2cci/8vvsxSGg8v/757.m3u8
-
-#EXTINF:0,CH: TELECLUB SPORT 3
-http://cmskos.bekaks.net:777/live/LJVPlx2cci/8vvsxSGg8v/753.m3u8
-
-#EXTINF:0,TR: A SPOR HD
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3843.m3u8
-
 #EXTINF:0,TR: ASTRO BOY
 http://1290922571.rsc.cdn77.org/moviesnew/tr/animation/AstroBoy.mp4/playlist.m3u8
 
@@ -886,15 +551,6 @@ http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/5270.m3u8
 #EXTINF:0,TR: JUSTICE LEAGUE DOOM
 http://1290922571.rsc.cdn77.org/movies/Justice-League-Doom-2012.mp4/playlist.m3u8
 
-#EXTINF:0,TR: SPORTS TV
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3072.m3u8
-
-#EXTINF:0,TR: TIVIBU SPOR 1 HD
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/4652.m3u8
-
-#EXTINF:0,TR: TIVIBU SPOR 2 HD
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/5343.m3u8
-
 #EXTINF:0,TR: TIVIBU SPORT 1 HD
 http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/5268.m3u8
 
@@ -903,12 +559,6 @@ http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/5267.m3u8
 
 #EXTINF:0,TR: TIVIBU SPORT 3 HD
 http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/5266.m3u8
-
-#EXTINF:0,TR: TRT SPOR HD
-http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/2675.m3u8
-
-#EXTINF:0,TR: TRT SPORT
-http://cmskos.bekaks.net:777/live/LJVPlx2cci/8vvsxSGg8v/468.m3u8
 
 #EXTINF:0,UA: DONBAS
 http://api.tv.ipnet.ua/api/v1/manifest/1311274061.m3u8
@@ -928,9 +578,6 @@ http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/4777.m3u8
 #EXTINF:0,UK: BT SPORTS 2
 http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/4776.m3u8
 
-#EXTINF:0,UK: CHELSEA FC
-http://cmskos.bekaks.net:777/live/LJVPlx2cci/8vvsxSGg8v/399.m3u8
-
 #EXTINF:0,UK: CHELSEA TV
 http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/4768.m3u8
 
@@ -948,9 +595,6 @@ http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
 
 #EXTINF:0,UK: LFC TV
 http://mrriptv.xyz:25461/live/Twisted/30/15569.m3u8
-
-#EXTINF:0,UK: LIVERPOOL FC
-http://cmskos.bekaks.net:777/live/LJVPlx2cci/8vvsxSGg8v/400.m3u8
 
 #EXTINF:0,UK: MOTORSPORT TV
 http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/4762.m3u8
@@ -979,9 +623,6 @@ http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/4761.m3u8
 #EXTINF:0,UK: RACING
 http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/4764.m3u8
 
-#EXTINF:0,UK: SKY SPORT 2 HD
-http://cmskos.bekaks.net:777/live/LJVPlx2cci/8vvsxSGg8v/120.m3u8
-
 #EXTINF:0,UK: SKY SPORT ACTION
 http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/4738.m3u8
 
@@ -1009,9 +650,6 @@ http://161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8
 #EXTINF:0,US: ESPN NEWS ENGLISH
 http://189.216.247.113/Content/HLS/Live/Channel(ESPN2_HD)/Stream(06)/index.m3u8
 
-#EXTINF:0,US: FOX SPORTS 506 HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3152.m3u8
-
 #EXTINF:0,US: FOX SPORTS RACING
 http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8
 
@@ -1021,41 +659,15 @@ http://63.237.48.3/ios/CHANNEL_ONE_TV/CHANNEL_ONE_TV.m3u8
 #EXTINF:0,US: RED BULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
-#EXTINF:0,US: SPORT 1 HD
-http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/878.m3u8
-
 #EXTINF:0,US: SPORTS
 http://wse.planeta-online.tv:1935/live/channel_3/chunklist.m3u8
-
-#EXTINF:0,US: TSN SPORTS 1 HD
-http://cmskos.bekaks.net:777/live/LJVPlx2cci/8vvsxSGg8v/705.m3u8
-
-#EXTINF:0,US: TSN SPORTS 2 HD
-http://cmskos.bekaks.net:777/live/LJVPlx2cci/8vvsxSGg8v/704.m3u8
-
-#EXTINF:0,US: TSN SPORTS 3 HD
-http://cmskos.bekaks.net:777/live/LJVPlx2cci/8vvsxSGg8v/703.m3u8
-
-#EXTINF:0,US: TSN SPORTS 4 HD
-http://cmskos.bekaks.net:777/live/LJVPlx2cci/8vvsxSGg8v/702.m3u8
-
-#EXTINF:0,US: TSN SPORTS 5 HD
-http://cmskos.bekaks.net:777/live/LJVPlx2cci/8vvsxSGg8v/701.m3u8
 
 #EXTINF:0,WW: FISHING NETWORK
 http://161.0.157.8/PLTV/88888888/224/3221226811/index.m3u8
 
-#EXTINF:0,WW: VOO SPORT 1
-http://cmskos.bekaks.net:777/live/LJVPlx2cci/8vvsxSGg8v/768.m3u8
-
-#EXTINF:0,WW: VOO SPORT 2
-http://cmskos.bekaks.net:777/live/LJVPlx2cci/8vvsxSGg8v/769.m3u8
-
 #EXTINF:0,WW: VOO SPORT 3 HD
 http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/8711.m3u8
 
-#EXTINF:0,WW: VOO SPORT 3
-http://cmskos.bekaks.net:777/live/LJVPlx2cci/8vvsxSGg8v/770.m3u8
 
 
 
@@ -1195,6 +807,8 @@ http://persik.by/stream/176/296165/10309.m3u8
 http://persik.by/stream/491/360903/10309.m3u8
 #EXTINF:-1,Extreme Sport
 http://persik.by/stream/3602/287583/99.m3u8
+#EXTINF:-1,Extreme Sports
+http://190.2.130.6:8080/ExtremeSportsChannel/index.m3u8
 
 
 
@@ -1214,6 +828,11 @@ https://www.youtube.com/watch?v=s2W8CoNP4z0&feature=youtu.be
 https://www.youtube.com/watch?v=CG9D8KJi6VA&feature=youtu.be
 
 
+
+#EXTINF:0,Mezzo 
+http://190.2.130.6:8080/Mezzo/index.m3u8
+#EXTINF:0,VH1Classic 
+http://190.2.130.6:8080/VH1Classic/index.m3u8
 #EXTINF:-1,VH 1
 http://80.87.208.158:80/dna-71-tv-pc.m3u8
 #EXTINF:-1,VH 1 CLASSIC
