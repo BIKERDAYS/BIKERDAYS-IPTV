@@ -418,6 +418,47 @@ skip
 
 
 
+
+#EXTINF:-1,SportKlub 2HD
+http://dream-tv.ddns.net:8000/live/Dejan1/Dejan1/27.ts
+
+#EXTINF:-1,Sport Klub 4
+http://dream-tv.ddns.net:8000/live/Dejan1/Dejan1/243.ts
+
+#EXTINF:-1,Sport Klub 6
+http://dream-tv.ddns.net:8000/live/Dejan1/Dejan1/245.ts
+
+#EXTINF:-1,Planet Sport 1
+http://dream-tv.ddns.net:8000/live/Dejan1/Dejan1/219.ts
+
+#EXTINF:-1,Planet Sport 2
+http://dream-tv.ddns.net:8000/live/Dejan1/Dejan1/246.ts
+
+#EXTINF:-1,Planet Sport 3
+http://dream-tv.ddns.net:8000/live/Dejan1/Dejan1/247.ts
+
+#EXTINF:-1,ARENA SPORT 1
+http://dream-tv.ddns.net:8000/live/Dejan1/Dejan1/166.ts
+
+#EXTINF:-1,ARENA SPORT 4
+http://dream-tv.ddns.net:8000/live/Dejan1/Dejan1/169.ts
+
+#EXTINF:-1,ARENA SPORT 5
+http://dream-tv.ddns.net:8000/live/Dejan1/Dejan1/170.ts
+
+#EXTINF:-1,ARENA SPORT 2 HR
+http://dream-tv.ddns.net:8000/live/Dejan1/Dejan1/227.ts
+
+#EXTINF:-1,ARENA SPORT 3 HR
+http://dream-tv.ddns.net:8000/live/Dejan1/Dejan1/228.ts
+
+#EXTINF:-1,ARENA SPORT 5 HR
+http://dream-tv.ddns.net:8000/live/Dejan1/Dejan1/230.ts
+
+#EXTINF:-1,ARENA SPORT 6 HR
+http://dream-tv.ddns.net:8000/live/Dejan1/Dejan1/231.ts
+
+
 #EXTINF:0,BeinSport1
 http://190.2.130.6:8080/BeinSport1HD/index.m3u8
 #EXTINF:0,BeinSport3HD 
