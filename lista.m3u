@@ -407,9 +407,6 @@ http://tvstream.rtvbn.com:1935/live/stream/chunklist_w1957700324.m3u8
 #EXTINF:-1,plus tv
 http://141.136.14.18/kanal1/kanal1_1500/index.m3u8
 
-#EXTINF:-1,makedonija tv
-http://anglantennalive5-lh.akamaihd.net/i/live_1@424766/master.m3u8
-
 #EXTINF:-1,N1
 http://185.20.36.234:8080/stream?i=5NASdkA7imQ74SExK5xMGA&a=C2J-KsfDNkQ43uzstG1HaN69IIuhN8yyI7y66f5VFXyKNHJa4BWz0vNyVKDNmEDe7TCowHwegw-ti8G-IpqZY1SbsEvP6LLd9NXPkDaF1TpEzzRyQQVmwd5FNBt5ScRbY6a2FzzfKEefyJwEeRBgFDO97f_bEZXeeEaltcMJNnNhOK7Q3lFZrpPoT4hfqkT4F7MR0hfjqj_G_R0a8s1fPiEzqTU1eQ4qvYOFwr7wEmo7P1fF9D9RJlrD3r4SapoDHtEp2fOIhL-kIj4ygfwY7Vwhpbu5cYgjrQNyN7L40wQ&sp=n1info&u=n1info&session=e6ec35e2-496f-4e93-92eb-8a5aa9edf3c6&player=m3u8
 
@@ -419,44 +416,7 @@ skip
 
 
 
-#EXTINF:-1,SportKlub 2HD
-http://dream-tv.ddns.net:8000/live/Dejan1/Dejan1/27.ts
 
-#EXTINF:-1,Sport Klub 4
-http://dream-tv.ddns.net:8000/live/Dejan1/Dejan1/243.ts
-
-#EXTINF:-1,Sport Klub 6
-http://dream-tv.ddns.net:8000/live/Dejan1/Dejan1/245.ts
-
-#EXTINF:-1,Planet Sport 1
-http://dream-tv.ddns.net:8000/live/Dejan1/Dejan1/219.ts
-
-#EXTINF:-1,Planet Sport 2
-http://dream-tv.ddns.net:8000/live/Dejan1/Dejan1/246.ts
-
-#EXTINF:-1,Planet Sport 3
-http://dream-tv.ddns.net:8000/live/Dejan1/Dejan1/247.ts
-
-#EXTINF:-1,ARENA SPORT 1
-http://dream-tv.ddns.net:8000/live/Dejan1/Dejan1/166.ts
-
-#EXTINF:-1,ARENA SPORT 4
-http://dream-tv.ddns.net:8000/live/Dejan1/Dejan1/169.ts
-
-#EXTINF:-1,ARENA SPORT 5
-http://dream-tv.ddns.net:8000/live/Dejan1/Dejan1/170.ts
-
-#EXTINF:-1,ARENA SPORT 2 HR
-http://dream-tv.ddns.net:8000/live/Dejan1/Dejan1/227.ts
-
-#EXTINF:-1,ARENA SPORT 3 HR
-http://dream-tv.ddns.net:8000/live/Dejan1/Dejan1/228.ts
-
-#EXTINF:-1,ARENA SPORT 5 HR
-http://dream-tv.ddns.net:8000/live/Dejan1/Dejan1/230.ts
-
-#EXTINF:-1,ARENA SPORT 6 HR
-http://dream-tv.ddns.net:8000/live/Dejan1/Dejan1/231.ts
 
 
 #EXTINF:0,BeinSport1
@@ -755,26 +715,6 @@ http://93.87.85.10/PLTV/88888888/224/3221226661/index.m3u8?rrsip=93.87.85.10&zon
 http://93.87.85.10/PLTV/88888888/224/3221226665/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9vmgYnhd%2FQXVMovIFPNVfeBiXPAaui6g8aIyeRBou9ik%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100001969%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
 
 
-#EXTINF:-1,Eurosport 2
-http://5.226.139.178:2457/live/srvard/ardsrv/65.ts
-#EXTINF:-1,Eurosport 1
-http://5.226.139.178:2457/live/srvard/ardsrv/66.ts
-#EXTINF:-1,Arena5
-http://5.226.139.178:2457/live/srvard/ardsrv/59.ts
-#EXTINF:-1,Arena4
-http://5.226.139.178:2457/live/srvard/ardsrv/60.ts
-#EXTINF:-1,Arena3
-http://5.226.139.178:2457/live/srvard/ardsrv/70.ts
-#EXTINF:-1,Arena2
-http://5.226.139.178:2457/live/srvard/ardsrv/69.ts
-#EXTINF:-1,Arena1
-http://5.226.139.178:2457/live/srvard/ardsrv/68.ts
-#EXTINF:-1,SportKlub 3
-http://5.226.139.178:2457/live/srvard/ardsrv/67.ts
-#EXTINF:-1,SportKlub 2
-http://5.226.139.178:2457/live/srvard/ardsrv/72.ts
-#EXTINF:-1,SportKlub 1
-http://5.226.139.178:2457/live/srvard/ardsrv/71.ts
 
 #EXTINF:-1,bein sport hd
 http://ott.realplaytv.net:12388/?header=hplus&name=htv1&cdn=1
@@ -1242,11 +1182,6 @@ https://liveprodapnortheast.global.ssl.fastly.net/btv/desktop/aus_live.m3u8
 
 #EXTINF:-1,Bloomberg TV Europe | HD
 https://liveprodeuwest.global.ssl.fastly.net/btv/desktop/eu_live.m3u8
-
-#EXTINF:-1,MSNBC SD
-http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_1296_av-b.m3u8
-#EXTINF:-1,MSNBC SHD
-http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_2596_av-b.m3u8
 
 #EXTINF:-1,ABC News
 https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/50345bf35f664739912f0b255c172ae9/index_1.m3u8
@@ -1851,12 +1786,8 @@ http://atomtv.net:8000/live/colomba/2PsOCyR0H5/7455.m3u8
 http://atomtv.net:8000/live/colomba/2PsOCyR0H5/64.m3u8
 #EXTINF:-1,XXX: RED LIGHT HD
 http://atomtv.net:8000/live/colomba/2PsOCyR0H5/7454.m3u8
-#EXTINF:-1,XXX: EROX HD
-http://atomtv.net:8000/live/colomba/2PsOCyR0H5/11354.m3u8
 #EXTINF:-1,XXX: HOT HD
 http://atomtv.net:8000/live/colomba/2PsOCyR0H5/10044.m3u8
-#EXTINF:-1,XXX: Brazzers
-http://atomtv.net:8000/live/colomba/2PsOCyR0H5/14481.m3u8
 #EXTINF:-1,XXX: Meiden van Holland
 http://atomtv.net:8000/live/colomba/2PsOCyR0H5/14479.m3u8
 #EXTINF:-1,XXX: X-MO
@@ -1865,8 +1796,6 @@ http://atomtv.net:8000/live/colomba/2PsOCyR0H5/14480.m3u8
 http://atomtv.net:8000/live/colomba/2PsOCyR0H5/14483.m3u8
 #EXTINF:-1,XXX: Reality Kings tv NL 
 http://atomtv.net:8000/live/colomba/2PsOCyR0H5/14484.m3u8
-#EXTINF:-1,XXX: Secret Circle
-http://atomtv.net:8000/live/colomba/2PsOCyR0H5/14485.m3u8
 #EXTINF:-1,XXX: Evil Angel
 http://atomtv.net:8000/live/colomba/2PsOCyR0H5/21504.m3u8
 #EXTINF:-1,XXX: Passie XXX
@@ -1881,8 +1810,7 @@ http://atomtv.net:8000/live/colomba/2PsOCyR0H5/29971.m3u8
 http://atomtv.net:8000/live/colomba/2PsOCyR0H5/29968.m3u8
 #EXTINF:-1,XXX: Exotica TV
 http://atomtv.net:8000/live/colomba/2PsOCyR0H5/29967.m3u8
-#EXTINF:-1,XXX: Venus
-http://atomtv.net:8000/live/colomba/2PsOCyR0H5/29966.m3u8
+
 
 #EXTINF:-1,HUSTLER TV
 http://80.87.208.158:80/dna-91-tv-pc.m3u8
