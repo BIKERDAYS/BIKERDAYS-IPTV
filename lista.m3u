@@ -416,18 +416,6 @@ skip
 
 
 
-
-
-
-#EXTINF:0,BeinSport1
-http://190.2.130.6:8080/BeinSport1HD/index.m3u8
-#EXTINF:0,BeinSport3HD 
-http://190.2.130.6:8080/BeinSport3HD/index.m3u8
-#EXTINF:0,BeinSport2HD 
-http://190.2.130.6:8080/BeinSport2HD/index.m3u8
-#EXTINF:0,BeinSport4HD 
-http://190.2.130.6:8080/BeinSport4HD/index.m3u8
-
 #EXTINF:-1,Astro Arena
 http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8_02.m3u8
 #EXTINF:-1,Astro Arena
@@ -444,47 +432,7 @@ http://163.172.86.57:3135/Ten/2/index.m3u8
 http://163.172.86.57:3135/Ten/1/index.m3u8
 
 
-#EXTINF:0,FR: BEIN SPORT 2 HD
-http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/12074.m3u8
 
-#EXTINF:0,FR: BEIN SPORTS MAX 10 HD
-http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/11455.m3u8
-
-#EXTINF:0,FR: BEIN SPORTS MAX 5 HD
-http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/3284.m3u8
-
-#EXTINF:0,FR: BEIN SPORTS MAX 6 HD
-http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/3286.m3u8
-
-#EXTINF:0,FR: BEIN SPORTS MAX 7 HD
-http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/3283.m3u8
-
-#EXTINF:0,FR: BEIN SPORTS MAX 8 HD
-http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/3282.m3u8
-
-#EXTINF:0,FR: BEIN SPORTS MAX 9 HD
-http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/11454.m3u8
-
-#EXTINF:0,FR: BFM SPORT
-http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/10363.m3u8
-
-#EXTINF:0,FR: CANAL SPORT
-http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/12072.m3u8
-
-#EXTINF:0,FR: EUROSPORT 1
-http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/3277.m3u8
-
-#EXTINF:0,FR: EUROSPORT 2
-http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/3276.m3u8
-
-#EXTINF:0,FR: GOLF HD
-http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/10360.m3u8
-
-#EXTINF:0,FR: INFOSPORT (1+)
-http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/5466.m3u8
-
-#EXTINF:0,FR: RMC SPORT 2
-http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/5472.m3u8
 
 #EXTINF:0,DE: ORF SPORT
 http://apasfiisl.apa.at/ipad/orfs_q4a/orf.sdp/playlist.m3u8
@@ -498,24 +446,6 @@ http://37.59.34.182:8000/live/POLAND/POLAND/2050.m3u8
 #EXTINF:0,DE: PL POLSAT SPORT NEWS HD
 http://37.59.34.182:8000/live/POLAND/POLAND/2054.m3u8
 
-#EXTINF:0,DE: POLSAT SPORT NEWS
-http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/11029.m3u8
-
-#EXTINF:0,DE: SKY SPORT 1
-http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/3415.m3u8
-
-#EXTINF:0,DE: SKY SPORT 2
-http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/3414.m3u8
-
-#EXTINF:0,DE: SKY SPORT 8
-http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/9440.m3u8
-
-#EXTINF:0,DE: SKY SPORT BUNDESLIGA1 HD
-http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/8687.m3u8
-
-#EXTINF:0,DE: SKY SPORT BUNDESLIGA1
-http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/3413.m3u8
-
 #EXTINF:0,IT: IRC SPORT TV
 http://wms.shared.streamshow.it/irctv/mp4:irctv/playlist.m3u8
 
@@ -527,27 +457,6 @@ http://wma07.fluidstream.net:1935/TeleArena/livestream/playlist.m3u8
 
 #EXTINF:0,IT: TELEROMAGNA SPORT
 http://livetr.teleromagna.it/sport/live/playlist.m3u8
-
-#EXTINF:0,NL: FOX SPORT 6
-http://forinone.org:25461/live/baran/skype/6389.m3u8
-
-#EXTINF:0,NL: FOX SPORT 6 (1+)
-http://forinone.org:25461/live/sabri/skype/6389.m3u8
-
-#EXTINF:0,NL: FOX SPORTS 1 (2+) HD
-http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/4185.m3u8
-
-#EXTINF:0,NL: FOX SPORTS 2 HD
-http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/4165.m3u8
-
-#EXTINF:0,NL: SPORT 1 VOETBAL (1+)
-http://forinone.org:25461/live/sabri/skype/6390.m3u8
-
-#EXTINF:0,RU: MATCH! ARENA
-http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/3908.m3u8
-
-#EXTINF:0,RU: OUR FOOTBALL
-http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/3914.m3u8
 
 #EXTINF:0,SP: EUROSPORT 1 HD
 http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/749.m3u8
@@ -564,23 +473,8 @@ http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/757.m3u8
 #EXTINF:0,TR: ASTRO BOY
 http://1290922571.rsc.cdn77.org/moviesnew/tr/animation/AstroBoy.mp4/playlist.m3u8
 
-#EXTINF:0,TR: BEIN SPORT 1 HD
-http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/5272.m3u8
-
-#EXTINF:0,TR: BEIN SPORT 3 HD
-http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/5270.m3u8
-
 #EXTINF:0,TR: JUSTICE LEAGUE DOOM
 http://1290922571.rsc.cdn77.org/movies/Justice-League-Doom-2012.mp4/playlist.m3u8
-
-#EXTINF:0,TR: TIVIBU SPORT 1 HD
-http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/5268.m3u8
-
-#EXTINF:0,TR: TIVIBU SPORT 2 HD
-http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/5267.m3u8
-
-#EXTINF:0,TR: TIVIBU SPORT 3 HD
-http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/5266.m3u8
 
 #EXTINF:0,UA: DONBAS
 http://api.tv.ipnet.ua/api/v1/manifest/1311274061.m3u8
@@ -588,80 +482,8 @@ http://api.tv.ipnet.ua/api/v1/manifest/1311274061.m3u8
 #EXTINF:0,UA: XSPORT
 http://95.67.103.251/hls/xsport_ua_hi/index.m3u8
 
-#EXTINF:0,UK: BT SPORT ESPN
-http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/4742.m3u8
-
-#EXTINF:0,UK: BT SPORT EXTRA 3
-http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/4744.m3u8
-
-#EXTINF:0,UK: BT SPORTS 1
-http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/4777.m3u8
-
-#EXTINF:0,UK: BT SPORTS 2
-http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/4776.m3u8
-
-#EXTINF:0,UK: CHELSEA TV
-http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/4768.m3u8
-
-#EXTINF:0,UK: EIR SPORT 2
-http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/4740.m3u8
-
-#EXTINF:0,UK: EIR SPORT1
-http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/4765.m3u8
-
-#EXTINF:0,UK: EUROSPORT 1
-http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/4771.m3u8
-
 #EXTINF:0,UK: FLOW SPORTS
 http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
-
-#EXTINF:0,UK: LFC TV
-http://mrriptv.xyz:25461/live/Twisted/30/15569.m3u8
-
-#EXTINF:0,UK: MOTORSPORT TV
-http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/4762.m3u8
-
-#EXTINF:0,UK: NFL 2018
-http://mrriptv.xyz:25461/live/Twisted/30/52186.m3u8
-
-#EXTINF:0,UK: NFL 2018 (1+)
-http://mrriptv.xyz:25461/live/Twisted/30/52187.m3u8
-
-#EXTINF:0,UK: NFL 2018 (2+)
-http://mrriptv.xyz:25461/live/Twisted/30/52188.m3u8
-
-#EXTINF:0,UK: NFL 2018 (3+)
-http://mrriptv.xyz:25461/live/Twisted/30/52195.m3u8
-
-#EXTINF:0,UK: NFL 2018 (4+)
-http://mrriptv.xyz:25461/live/Twisted/30/52196.m3u8
-
-#EXTINF:0,UK: NFL 2018 (5+)
-http://mrriptv.xyz:25461/live/Twisted/30/52197.m3u8
-
-#EXTINF:0,UK: PREMIER SPORTS
-http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/4761.m3u8
-
-#EXTINF:0,UK: RACING
-http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/4764.m3u8
-
-#EXTINF:0,UK: SKY SPORT ACTION
-http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/4738.m3u8
-
-#EXTINF:0,UK: SKY SPORTS ACTION
-http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/4783.m3u8
-
-#EXTINF:0,UK: SKY SPORTS F1
-http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/4778.m3u8
-
-#EXTINF:0,UK: SKY SPORTS MIX
-http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/4782.m3u8
-
-#EXTINF:0,UK: SKY SPORTS NEWS
-http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/4785.m3u8
-
-#EXTINF:0,UK: WILL & GRACE
-http://mrriptv.xyz:25461/live/Twisted/30/52191.m3u8
 
 #EXTINF:0,US: AUTOMOTO TV
 http://178.22.187.253:1935/streaming-tv/mp4:myStream3/playlist.m3u8
@@ -686,11 +508,6 @@ http://wse.planeta-online.tv:1935/live/channel_3/chunklist.m3u8
 
 #EXTINF:0,WW: FISHING NETWORK
 http://161.0.157.8/PLTV/88888888/224/3221226811/index.m3u8
-
-#EXTINF:0,WW: VOO SPORT 3 HD
-http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/8711.m3u8
-
-
 
 
 
@@ -799,8 +616,7 @@ http://sevillafc_live-lh.akamaihd.net:80/i/video_0@354142/master.m3u8
 #EXTINF:-1,RED BULL TV
 http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8
 
-#EXTINF:-1,extreme sport
-http://91.149.172.100:80/channel?id=24&u=demo&p=demo
+
 #EXTINF:-1,Extreme Sport
 http://persik.by/stream/176/296165/99.m3u8
 #EXTINF:-1,Extreme Sport
@@ -1382,6 +1198,21 @@ http://5.135.92.138:58143/out/u/115_1.m3u8
 http://5.135.92.138:58143/out/u/119_1.m3u8
 #EXTINF:-1,SUPER RTL
 http://5.135.92.138:58143/out/u/127_1.m3u8
+
+
+#EXTINF:-1,ORF 2 master
+https://orf2.cdn.ors.at/out/u/orf2/qxb/manifest.m3u8
+#EXTINF:-1,ORF 2 720p
+https://orf2.cdn.ors.at/out/u/orf2/qxb/manifest_6.m3u8
+#EXTINF:-1,ORF 3 720p
+https://orf3.cdn.ors.at/out/u/orf3/qxb/manifest_6.m3u8
+#EXTINF:-1,ORF 1 720p
+https://orf1.cdn.ors.at/out/u/orf1/qxb/manifest_6.m3u8
+#EXTINF:-1,ORF 2 540p
+https://orf2.cdn.ors.at/out/u/orf2/qxb/manifest_4.m3u8
+#EXTINF:-1,ORF 2 360p
+https://orf2.cdn.ors.at/out/u/orf2/qxb/manifest_2.m3u8
+
 
 
 #EXTINF:-1,ORF1 (vpn austria)
