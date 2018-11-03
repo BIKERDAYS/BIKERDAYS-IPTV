@@ -431,7 +431,8 @@ http://163.172.86.57:3135/Ten/2/index.m3u8
 #EXTINF:-1,Ten Sports 1
 http://163.172.86.57:3135/Ten/1/index.m3u8
 
-
+#EXTINF:-1,Sport1 hungarian
+http://145.236.249.212:9001/play/sport1
 
 
 #EXTINF:0,DE: ORF SPORT
