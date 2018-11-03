@@ -691,7 +691,42 @@ https://www.djing.com/tv/live.m3u8
 https://www.djing.com/tv/session_summer-vibes.m3u8
 
 
+#EXTINF:-1,TheBuffalo
+http://www.radioson.ru:8009/CountryRockBuffalo.RadioSon.ru.mp3
+#EXTINF:-1,JamendoLounge
+http://www.radioson.ru:8009/ElectronicMynth.RadioSon.ru.mp3
+#EXTINF:-1,JamendoLounge
+http://www.radioson.ru:8009/FunkNBlues.RadioSon.ru.mp3
+#EXTINF:-1,: Radio Vocal Trance channel.
+http://www.radioson.ru:8009/Vocal-Trance-DI.mp3
+#EXTINF:-1,OneloveHipHopRadio
+http://www.radioson.ru:8009/HipHop1Love.RadioSon.ru.mp3
 
+
+#EXTINF:-1,FRANCE Music-Hit
+https://stream-07.ix7.dailymotion.com/dm/3/x2jbbrx/live-2.m3u8
+#EXTINF:-1,FRANCE Generation
+https://stream-05.ix7.dailymotion.com/dm/3/x2fxcwq/live-2.m3u8
+#EXTINF:-1,FRANCE C-STARS
+https://stream-05.ix7.dailymotion.com/dm/3/x5gv5v0/live-2.m3u8
+#EXTINF:-1,FRANCE OUI-tele
+https://stream-13.dc3.dailymotion.com/dm/3/x10990v/live-2.m3u8
+#EXTINF:-1,FRANCE Music-Hit TV [1280x720]
+https://stream-07.ix7.dailymotion.com/dm/3/x2jbbrx/live-3.m3u8
+#EXTINF:-1,FRANCE Generations TV [1280x720]
+https://stream-05.ix7.dailymotion.com/dm/3/x2fxcwq/live-3.m3u8
+#EXTINF:-1,FRANCE C-STARS [1280x720]
+https://stream-05.ix7.dailymotion.com/dm/3/x5gv5v0/live-3.m3u8
+#EXTINF:-1,FRANCE OUI FM TV [1280x720]
+https://stream-13.dc3.dailymotion.com/dm/3/x10990v/live-3.m3u8
+#EXTINF:-1,FRANCE Music-Hit TV [512x288]
+https://stream-07.ix7.dailymotion.com/dm/3/x2jbbrx/live-1.m3u8
+#EXTINF:-1,FRANCE Generations TV [512x288]
+https://stream-05.ix7.dailymotion.com/dm/3/x2fxcwq/live-1.m3u8
+#EXTINF:-1,FRANCE C-STARS [512x288]
+https://stream-05.ix7.dailymotion.com/dm/3/x5gv5v0/live-1.m3u8
+#EXTINF:-1,FRANCE OUI FM TV [512x288]
+https://stream-13.dc3.dailymotion.com/dm/3/x10990v/live-1.m3u8
 
 #EXTINF:0,MTV (norg)
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
@@ -1142,49 +1177,6 @@ http://80.80.160.168/live/9/live.m3u8
 
 
 
-#EXTINF:-1,Eye Candy
-http://stitcher.pluto.tv/stitch/hls/channel/53b1c003eded29524e1deb97/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:-1,FailArmy
-http://stitcher.pluto.tv/stitch/hls/channel/554158e864526b29254ff105/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:-1,Fight
-http://stitcher.pluto.tv/stitch/hls/channel/5812b0f2237a6ff45d16c3f9/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:-1,Flicks of Fury
-https://stitcher.pluto.tv/stitch/hls/channel/58e55b14ad8e9c364d55f717/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=2da9e920-7245-11e8-9b3e-a1006a2fd228&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
-#EXTINF:-1,Food TV
-http://stitcher.pluto.tv/stitch/hls/channel/5877ac8cb791f4eb4a140d81/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:-1,Fox Sports
-http://stitcher.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:-1,FrontDoor
-https://stitcher.pluto.tv/stitch/hls/channel/5938888cd045ffce74cf9048/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=88958f10-712d-11e8-b9ec-8ba319deeadf&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
-#EXTINF:-1,Funny AF
-http://stitcher.pluto.tv/stitch/hls/channel/580e87ff497c73ba2f321dd3/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=4&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:-1,Geek & Sundry
-http://stitcher.pluto.tv/stitch/hls/channel/561c5be8ada51f8004c4d856/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:-1,Glory Kickboxing
-http://stitcher.pluto.tv/stitch/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:-1,Gravitas Movies
-http://stitcher.pluto.tv/stitch/hls/channel/59120e45877eeb3760b3d9da/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:-1,Hell's Kitchen
-http://stitcher.pluto.tv/stitch/hls/channel/5b4e99f4423e067bd6df6903/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=5&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:-1,Her
-http://stitcher.pluto.tv/stitch/hls/channel/5887ba337b8e94223eb121bd/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:-1,Hive
-http://stitcher.pluto.tv/stitch/hls/channel/580814179dfdf1f4141f78f5/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:-1,Horror 24/7
-https://stitcher.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
-#EXTINF:-1,IGN
-http://stitcher.pluto.tv/stitch/hls/channel/561c5f613286e48904fb2677/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:-1,Impact Wrestling
-http://stitcher.pluto.tv/stitch/hls/channel/59b722526996084038c01e1b/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=7&deviceId=-&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:-1,Internet Gold
-http://stitcher.pluto.tv/stitch/hls/channel/56b27a7badb45b1f50b91b0b/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:-1,JASH 
-http://stitcher.pluto.tv/stitch/hls/channel/598c8e2f3d8719a202ec66cc/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:-1,Kids TV
-http://stitcher.pluto.tv/stitch/hls/channel/51c75f7bb6f26ba1cd00002f/master.m3u8?deviceType=%2C%2C&deviceMake=&deviceModel=&sid=c8b023af-ff3b-4fb6-87f0-4af929510c3d&deviceId=29556502-e2a5-45de-8deb-3b3dfa36b936_e62c9abb601b4ed5&deviceVersion=7.1.1_25&appVersion=3.5.1&deviceDNT=0&userId=&advertisingId=6e7a218c-1bf7-46bf-b486-0902a3cd5a1c&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:-1,LittleThings
-http://stitcher.pluto.tv/stitch/hls/channel/5984cbeaa0fc957e6e9195ab/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-
 
 
 #EXTINF:-1,[COLOR yellow]>>>  NJEMACKA  <<<[/COLOR]
@@ -1560,7 +1552,20 @@ http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
 
 
-
+#EXTINF:-1,HUSTLER TV
+http://80.87.208.158:80/dna-91-tv-pc.m3u8
+#EXTINF:-1,LEO TV
+http://80.87.208.158:80/dna-141-tv-pc.m3u8
+#EXTINF:-1,PRIVATE
+http://80.87.208.158:80/dna-405-tv-pc.m3u8
+#EXTINF:-1,EXSTASY HD
+http://80.87.208.158:80/dna-416-tv-pc.m3u8
+#EXTINF:-1,BRAZZERS
+http://80.87.208.158:80/dna-1302-tv-pc.m3u8
+#EXTINF:-1,EROX HD
+http://80.87.208.158:80/dna-4631-tv-pc.m3u8
+#EXTINF:-1,ERO XXX HD
+http://80.87.208.158:80/dna-4671-tv-pc.m3u8
 
 
 #EXTINF:-1,BUNGA BUNGA
@@ -1604,54 +1609,42 @@ http://213.59.128.162:9996/play/FRENCHLOVER/index.m3u8
 http://213.59.128.162:9996/play/Passion_XXX/index.m3u8
 
 
-#EXTINF:-1,XXX: Pink Erotic 1
-http://atomtv.net:8000/live/colomba/2PsOCyR0H5/8793.m3u8
-#EXTINF:-1,XXX: Pink Erotic 2
-http://atomtv.net:8000/live/colomba/2PsOCyR0H5/8794.m3u8
-#EXTINF:-1,XXX: Pink Erotic 3
-http://atomtv.net:8000/live/colomba/2PsOCyR0H5/8795.m3u8
-#EXTINF:-1,XXX: Pink Erotic 4
-http://atomtv.net:8000/live/colomba/2PsOCyR0H5/8796.m3u8
-#EXTINF:-1,XXX: Pink Erotic 5
-http://atomtv.net:8000/live/colomba/2PsOCyR0H5/8797.m3u8
-#EXTINF:-1,XXX: Pink Erotic 6
-http://atomtv.net:8000/live/colomba/2PsOCyR0H5/8798.m3u8
-#EXTINF:-1,XXX: Pink Erotic 7
-http://atomtv.net:8000/live/colomba/2PsOCyR0H5/8799.m3u8
-#EXTINF:-1,XXX: Pink Erotic 8
-http://atomtv.net:8000/live/colomba/2PsOCyR0H5/8800.m3u8
-#EXTINF:-1,XXX: DORCEL
-http://atomtv.net:8000/live/colomba/2PsOCyR0H5/63.m3u8
-#EXTINF:-1,XXX: HUSTLER HD
-http://atomtv.net:8000/live/colomba/2PsOCyR0H5/7455.m3u8
-#EXTINF:-1,XXX: Jasmin TV
-http://atomtv.net:8000/live/colomba/2PsOCyR0H5/64.m3u8
-#EXTINF:-1,XXX: RED LIGHT HD
-http://atomtv.net:8000/live/colomba/2PsOCyR0H5/7454.m3u8
-#EXTINF:-1,XXX: HOT HD
-http://atomtv.net:8000/live/colomba/2PsOCyR0H5/10044.m3u8
-#EXTINF:-1,XXX: Meiden van Holland
-http://atomtv.net:8000/live/colomba/2PsOCyR0H5/14479.m3u8
-#EXTINF:-1,XXX: X-MO
-http://atomtv.net:8000/live/colomba/2PsOCyR0H5/14480.m3u8
-#EXTINF:-1,XXX: DUSK
-http://atomtv.net:8000/live/colomba/2PsOCyR0H5/14483.m3u8
-#EXTINF:-1,XXX: Reality Kings tv NL 
-http://atomtv.net:8000/live/colomba/2PsOCyR0H5/14484.m3u8
-#EXTINF:-1,XXX: Evil Angel
-http://atomtv.net:8000/live/colomba/2PsOCyR0H5/21504.m3u8
-#EXTINF:-1,XXX: Passie XXX
-http://atomtv.net:8000/live/colomba/2PsOCyR0H5/29974.m3u8
-#EXTINF:-1,XXX: Penthouse
-http://atomtv.net:8000/live/colomba/2PsOCyR0H5/36146.m3u8
-#EXTINF:-1,XXX: Penthouse HD
-http://atomtv.net:8000/live/colomba/2PsOCyR0H5/29972.m3u8
-#EXTINF:-1,XXX: PlayBoy TV
-http://atomtv.net:8000/live/colomba/2PsOCyR0H5/29971.m3u8
-#EXTINF:-1,XXX: Sexy Hot
-http://atomtv.net:8000/live/colomba/2PsOCyR0H5/29968.m3u8
-#EXTINF:-1,XXX: Exotica TV
-http://atomtv.net:8000/live/colomba/2PsOCyR0H5/29967.m3u8
+#EXTINF:-1,Adult XXX
+http://newone15.ddns.net:8000/live/9yegyt90ZG/VG5Xq9yFz2/12037.m3u8
+#EXTINF:-1,Adult XXX 1
+http://newone15.ddns.net:8000/live/9yegyt90ZG/VG5Xq9yFz2/12036.m3u8
+#EXTINF:-1,Adult XXX 2
+http://newone15.ddns.net:8000/live/9yegyt90ZG/VG5Xq9yFz2/12035.m3u8
+#EXTINF:-1,Adult XXX 3
+http://newone15.ddns.net:8000/live/9yegyt90ZG/VG5Xq9yFz2/12034.m3u8
+#EXTINF:-1,Adult XXX 4
+http://newone15.ddns.net:8000/live/9yegyt90ZG/VG5Xq9yFz2/12033.m3u8
+#EXTINF:-1,La France Poil 1
+http://newone15.ddns.net:8000/live/9yegyt90ZG/VG5Xq9yFz2/9283.m3u8
+#EXTINF:-1,La France Poil 10
+http://newone15.ddns.net:8000/live/9yegyt90ZG/VG5Xq9yFz2/9274.m3u8
+#EXTINF:-1,La France Poil 11
+http://newone15.ddns.net:8000/live/9yegyt90ZG/VG5Xq9yFz2/9273.m3u8
+#EXTINF:-1,La France Poil 12
+http://newone15.ddns.net:8000/live/9yegyt90ZG/VG5Xq9yFz2/9272.m3u8
+#EXTINF:-1,La France Poil 2
+http://newone15.ddns.net:8000/live/9yegyt90ZG/VG5Xq9yFz2/9282.m3u8
+#EXTINF:-1,La France Poil 3
+http://newone15.ddns.net:8000/live/9yegyt90ZG/VG5Xq9yFz2/9281.m3u8
+#EXTINF:-1,La France Poil 4
+http://newone15.ddns.net:8000/live/9yegyt90ZG/VG5Xq9yFz2/9280.m3u8
+#EXTINF:-1,La France Poil 5
+http://newone15.ddns.net:8000/live/9yegyt90ZG/VG5Xq9yFz2/9279.m3u8
+#EXTINF:-1,La France Poil 6
+http://newone15.ddns.net:8000/live/9yegyt90ZG/VG5Xq9yFz2/9278.m3u8
+#EXTINF:-1,La France Poil 7
+http://newone15.ddns.net:8000/live/9yegyt90ZG/VG5Xq9yFz2/9277.m3u8
+#EXTINF:-1,La France Poil 8
+http://newone15.ddns.net:8000/live/9yegyt90ZG/VG5Xq9yFz2/9276.m3u8
+#EXTINF:-1,La France Poil 9
+http://newone15.ddns.net:8000/live/9yegyt90ZG/VG5Xq9yFz2/9275.m3u8
+#EXTINF:-1,XXX: PASSIE
+http://newone15.ddns.net:8000/live/9yegyt90ZG/VG5Xq9yFz2/5084.m3u8
 
 
 #EXTINF:-1,HUSTLER TV
