@@ -10,7 +10,10 @@ skip
 #EXTINF:-1,[COLOR yellow]>>>  EXYU  <<<[/COLOR]
 skip
 
-#EXTINF:0,hrt 1 (by bikerdays)
+#EXTINF:0,paypal.me/bikerdaysHR
+http://.m3u8
+
+#EXTINF:0,hrt 1
 http://195.29.70.84/PLTV/88888888/224/3221226139/04.m3u8
 
 #EXTINF:0,hrt 2
