@@ -1094,6 +1094,39 @@ http://api.new.livestream.com/accounts/11328309/events/live/live.m3u8
 skip
 
 
+
+
+
+#EXTINF:-1,Satellite TV
+https://live2.msf.cdn.mediaset.net/Content/hls_clr_xo/live/channel(ch01)/Stream(04)/index.m3u8
+#EXTINF:-1,Italia 1
+https://live2.msf.cdn.mediaset.net/Content/hls_clr_xo/live/channel(ch02)/Stream(04)/index.m3u8
+#EXTINF:-1,Rete 4
+https://live2.msf.cdn.mediaset.net/Content/hls_clr_xo/live/channel(ch03)/Stream(04)/index.m3u8
+#EXTINF:-1,La 5
+https://live2.msf.cdn.mediaset.net/Content/hls_clr_xo/live/channel(ch04)/Stream(04)/index.m3u8
+#EXTINF:-1,Italia 2
+https://live2.msf.cdn.mediaset.net/Content/hls_clr_xo/live/channel(ch05)/Stream(04)/index.m3u8
+#EXTINF:-1,Iris
+https://live2.msf.cdn.mediaset.net/Content/hls_clr_xo/live/channel(ch06)/Stream(04)/index.m3u8
+#EXTINF:-1,Top Crime
+https://live2.msf.cdn.mediaset.net/Content/hls_clr_xo/live/channel(ch07)/Stream(04)/index.m3u8
+#EXTINF:-1,Mediaset Extra
+https://live2.msf.cdn.mediaset.net/Content/hls_clr_xo/live/channel(ch09)/Stream(04)/index.m3u8
+#EXTINF:-1,Tgcom 24
+https://live2.msf.cdn.mediaset.net/Content/hls_clr_xo/live/channel(ch10)/Stream(04)/index.m3u8
+#EXTINF:-1,Mediaset 20
+https://live2.msf.cdn.mediaset.net/Content/hls_clr_xo/live/channel(ch25)/Stream(04)/index.m3u8
+#EXTINF:-1,Focus
+https://live2.msf.cdn.mediaset.net/Content/hls_clr_xo/live/channel(ch26)/Stream(04)/index.m3u8
+#EXTINF:-1,Mediaset Extra Regia 1
+https://origin-free-live1.mediaset.net/content/hls_clr_xo/live/channel(ch38)/index.m3u8
+#EXTINF:-1,Mediaset Extra Regia 2
+https://origin-free-live1.mediaset.net/content/hls_clr_xo/live/channel(ch39)/index.m3u8
+#EXTINF:-1,Mediaset Extra Regia Un'ora Fa
+https://origin-free-live1.mediaset.net/content/hls_clr_xo/live/channel(ch40)/index.m3u8
+
+
 #EXTINF:-1,RAI Sports
 https://raisportuno1-live.akamaized.net/hls/live/598320/raisportuno1/raisport1_1800/chunklist.m3u8
 
