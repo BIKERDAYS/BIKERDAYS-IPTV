@@ -406,7 +406,78 @@ http://185.20.36.234:8080/stream?i=5NASdkA7imQ74SExK5xMGA&a=C2J-KsfDNkQ43uzstG1H
 skip
 
 
-
+#EXTINF:0,beIN Sports 1 HD (AR)
+#EXTVLCOPT:network-caching=1000
+http://68.183.106.158:8000/live/b4RtfAS3ql/freeiptvdaily.tv/1.ts
+#EXTINF:0,beIN Sports 2 HD (AR)
+#EXTVLCOPT:network-caching=1000
+http://68.183.106.158:8000/live/b4RtfAS3ql/freeiptvdaily.tv/2.ts
+#EXTINF:0,beIN Sports 3 HD (AR)
+#EXTVLCOPT:network-caching=1000
+http://68.183.106.158:8000/live/b4RtfAS3ql/freeiptvdaily.tv/3.ts
+#EXTINF:0,beIN Sports 4 HD (AR)
+#EXTVLCOPT:network-caching=1000
+http://68.183.106.158:8000/live/b4RtfAS3ql/freeiptvdaily.tv/4.ts
+#EXTINF:0,beIN Sports 5 HD (AR)
+#EXTVLCOPT:network-caching=1000
+http://68.183.106.158:8000/live/b4RtfAS3ql/freeiptvdaily.tv/5.ts
+#EXTINF:0,beIN Sports 6 HD (AR)
+#EXTVLCOPT:network-caching=1000
+http://68.183.106.158:8000/live/b4RtfAS3ql/freeiptvdaily.tv/6.ts
+#EXTINF:0,beIN Sports 7 HD (AR)
+#EXTVLCOPT:network-caching=1000
+http://68.183.106.158:8000/live/b4RtfAS3ql/freeiptvdaily.tv/7.ts
+#EXTINF:0,beIN Sports 8 HD (AR)
+#EXTVLCOPT:network-caching=1000
+http://68.183.106.158:8000/live/b4RtfAS3ql/freeiptvdaily.tv/8.ts
+#EXTINF:0,beIN Sports 9 HD (AR)
+#EXTVLCOPT:network-caching=1000
+http://68.183.106.158:8000/live/b4RtfAS3ql/freeiptvdaily.tv/9.ts
+#EXTINF:0,beIN Sports 1 SD (AR)
+#EXTVLCOPT:network-caching=1000
+http://68.183.106.158:8000/live/b4RtfAS3ql/freeiptvdaily.tv/116.ts
+#EXTINF:0,beIN Sports 2 SD (AR)
+#EXTVLCOPT:network-caching=1000
+http://68.183.106.158:8000/live/b4RtfAS3ql/freeiptvdaily.tv/117.ts
+#EXTINF:0,beIN Sports 3 SD (AR)
+#EXTVLCOPT:network-caching=1000
+http://68.183.106.158:8000/live/b4RtfAS3ql/freeiptvdaily.tv/118.ts
+#EXTINF:0,beIN Sports 4 SD (AR)
+#EXTVLCOPT:network-caching=1000
+http://68.183.106.158:8000/live/b4RtfAS3ql/freeiptvdaily.tv/119.ts
+#EXTINF:0,beIN Sports 5 SD (AR)
+#EXTVLCOPT:network-caching=1000
+http://68.183.106.158:8000/live/b4RtfAS3ql/freeiptvdaily.tv/120.ts
+#EXTINF:0,beIN Sports 6 SD (AR)
+#EXTVLCOPT:network-caching=1000
+http://68.183.106.158:8000/live/b4RtfAS3ql/freeiptvdaily.tv/121.ts
+#EXTINF:0,beIN Sports 7 SD (AR)
+#EXTVLCOPT:network-caching=1000
+http://68.183.106.158:8000/live/b4RtfAS3ql/freeiptvdaily.tv/122.ts
+#EXTINF:0,beIN Sports 8 SD (AR)
+#EXTVLCOPT:network-caching=1000
+http://68.183.106.158:8000/live/b4RtfAS3ql/freeiptvdaily.tv/123.ts
+#EXTINF:0,beIN Sports 9 SD (AR)
+#EXTVLCOPT:network-caching=1000
+http://68.183.106.158:8000/live/b4RtfAS3ql/freeiptvdaily.tv/124.ts
+#EXTINF:0,beIN SPORTS 1 HD (FR)
+#EXTVLCOPT:network-caching=1000
+http://68.183.106.158:8000/live/b4RtfAS3ql/freeiptvdaily.tv/10.ts
+#EXTINF:0,beIN SPORTS 2 HD (FR)
+#EXTVLCOPT:network-caching=1000
+http://68.183.106.158:8000/live/b4RtfAS3ql/freeiptvdaily.tv/11.ts
+#EXTINF:0,beIN SPORTS 3 HD (FR)
+#EXTVLCOPT:network-caching=1000
+http://68.183.106.158:8000/live/b4RtfAS3ql/freeiptvdaily.tv/12.ts
+#EXTINF:0,Bein Sport HD (ES)
+#EXTVLCOPT:network-caching=1000
+http://68.183.106.158:8000/live/b4RtfAS3ql/freeiptvdaily.tv/13.ts
+#EXTINF:0,Bein Sports USA HD (US)
+#EXTVLCOPT:network-caching=1000
+http://68.183.106.158:8000/live/b4RtfAS3ql/freeiptvdaily.tv/14.ts
+#EXTINF:0,Turkish Bein Sports 1 (TR)
+#EXTVLCOPT:network-caching=1000
+http://68.183.106.158:8000/live/b4RtfAS3ql/freeiptvdaily.tv/15.ts
 
 #EXTINF:-1,Astro Arena
 http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8_02.m3u8
