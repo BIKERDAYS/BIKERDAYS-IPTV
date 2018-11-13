@@ -1707,6 +1707,84 @@ http://app.live.112.events/hls-ua/112hd_hi/index.m3u8
 
 
 
+
+#EXTINF:-1,[COLOR yellow]>>>  MADARSKA  <<<[/COLOR]
+skip
+
+
+
+#EXTINF:-1,HBO CZE
+http://81.182.151.65:9002/play/hbocz
+#EXTINF:-1,Minimax / C8 Hu
+http://81.182.151.65:9002/play/minimac-c8
+#EXTINF:-1,FilmBox Plus INT
+http://81.182.151.65:9002/play/filmboxplus
+#EXTINF:-1,Film+
+http://81.182.151.65:9002/play/filmplusz
+#EXTINF:-1,Filmbox Family
+http://81.182.151.65:9002/play/filmboxfamily
+#EXTINF:-1,Spiler TV
+http://81.182.151.65:9002/play/spilertvsat
+#EXTINF:-1,Sport2
+http://81.182.151.65:9002/play/sport2sat2
+#EXTINF:-1,TV2
+http://81.182.151.65:9002/play/tv2sat2
+#EXTINF:-1,Duna World
+http://81.182.151.65:9002/play/dunaworld
+#EXTINF:-1,Echo TV
+http://81.182.151.65:9002/play/echotv
+#EXTINF:-1,RTL Klub
+http://81.182.151.65:9002/play/rtlklubsat2
+#EXTINF:-1,ATV
+http://81.182.151.65:9002/play/atv
+#EXTINF:-1,TV Paprika
+http://81.182.151.65:9001/play/tvpaprika
+#EXTINF:-1,Spektrum
+http://81.182.151.65:9001/play/spektrum
+#EXTINF:-1,HBO
+http://81.182.151.65:9001/play/hbo
+#EXTINF:-1,AMC CE
+http://81.182.151.65:9003/play/amc
+#EXTINF:-1,Cartoon Network
+http://81.182.151.65:9003/play/cartoon
+#EXTINF:-1,Da Vinci Learning
+http://81.182.151.65:9003/play/davinci
+#EXTINF:-1,Investigation Discovery 
+http://81.182.151.65:9003/play/investdisc
+#EXTINF:-1,Viasat History
+http://81.182.151.65:9003/play/viasath
+#EXTINF:-1,STORY4
+http://81.182.151.65:9003/play/story4
+#EXTINF:-1,Travel Channel
+http://81.182.151.65:9003/play/travel
+#EXTINF:-1,HISTORY
+http://81.182.151.65:9003/play/history
+#EXTINF:-1,Slager TV
+http://81.182.151.65:9003/play/slagertv
+#EXTINF:-1,Megamax
+http://81.182.151.65:9003/play/megamax
+#EXTINF:-1,Romance TV
+http://81.182.151.65:9003/play/romancetv
+#EXTINF:-1,Zenebutik
+http://81.182.151.65:9003/play/zenebutik
+#EXTINF:-1,Nat Geo
+http://81.182.151.65:9003/play/natgeo
+#EXTINF:-1,HBO 3 HU
+http://81.182.151.65:9004/play/a00w
+#EXTINF:-1,M4 Sport
+http://81.182.151.65:9004/play/a00x
+#EXTINF:-1,HBO3-156
+http://81.182.151.65:9005/play/hbo3
+#EXTINF:-1,SPORT1-159
+http://81.182.151.65:9005/play/sport1
+#EXTINF:-1,FilmMania-171
+http://81.182.151.65:9005/play/filmmania
+
+
+
+
+
+
 #EXTINF:-1,[COLOR yellow]>>>  CESKA I SLOVACKA  <<<[/COLOR]
 skip
 
