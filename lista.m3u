@@ -222,8 +222,7 @@ http://178.132.6.97:8080/RTV2Vojvodina1/playlist.m3u8
 #EXTINF:-1,a1rtvnovipazar
 http://178.132.6.97:8080/a1rtvnovipazar1/playlist.m3u8
 
-#EXTINF:-1,Jedinstvo TV
-http://178.132.6.97:8080/JedinstvoTV1/playlist.m3u8
+
 
 #EXTINF:-1,SLON Extra
 http://178.132.6.97:8080/RTV:SLON1/tracks-v1a1/index.m3u8
@@ -252,8 +251,7 @@ http://178.132.6.97:8080/SpinTV1/tracks-v1a1/index.m3u8
 #EXTINF:-1,ROMA TV
 http://178.132.6.97:8080/ROMATV1/tracks-v1a1/index.m3u8
 
-#EXTINF:-1,Dashma TV
-http://178.132.6.97:8080/DashmaTV1/tracks-v1a1/index.m3u8
+
 
 #EXTINF:-1,RTK 4
 http://178.132.6.97:8080/RTK4/tracks-v1a1/index.m3u8
@@ -264,14 +262,12 @@ http://178.132.6.97:8080/RTK2/tracks-v1a1/index.m3u8
 #EXTINF:-1,RTK1
 http://178.132.6.97:8080/RTK11/tracks-v1a1/index.m3u8
 
-#EXTINF:-1,SYRIVISION
-http://178.132.6.97:8080/SYRIVISION1/tracks-v1a1/index.m3u8
+
 
 #EXTINF:-1,Sky Folk Makedonija
 http://178.132.6.97:8080/SkyFolkMakedonija1/tracks-v1a1/index.m3u8
 
-#EXTINF:-1,TV Tetova
-http://178.132.6.97:8080/TVTetova1/tracks-v1a1/index.m3u8
+
 
 #EXTINF:-1,TV Plisi
 http://178.132.6.97:8080/TVPlisi1/tracks-v1a1/index.m3u8
@@ -279,8 +275,7 @@ http://178.132.6.97:8080/TVPlisi1/tracks-v1a1/index.m3u8
 #EXTINF:-1,TV7 TUZLA
 http://178.132.6.97:8080/TV7TUZLA1/tracks-v1a1/index.m3u8
 
-#EXTINF:-1,Jug TV
-http://178.132.6.97:8080/JugTV1/tracks-v1a1/index.m3u8
+
 
 #EXTINF:-1,rrokum tv
 http://178.132.6.97:8080/rrokumtv1/tracks-v1a1/index.m3u8
@@ -642,15 +637,10 @@ http://163.172.86.57:3135/Ten/2/index.m3u8
 #EXTINF:-1,Ten Sports 1
 http://163.172.86.57:3135/Ten/1/index.m3u8
 
-#EXTINF:-1,Sport1 hungarian
-http://145.236.249.212:9001/play/sport1
 
 
 #EXTINF:0,DE: ORF SPORT
 http://apasfiisl.apa.at/ipad/orfs_q4a/orf.sdp/playlist.m3u8
-
-#EXTINF:0,DE: PL POLSAT SPORT
-http://37.59.34.182:8000/live/POLAND/POLAND/2049.m3u8
 
 #EXTINF:0,DE: PL POLSAT SPORT EXTRA
 http://37.59.34.182:8000/live/POLAND/POLAND/2050.m3u8
@@ -805,12 +795,6 @@ http://wse.planeta-online.tv:1935/live/channel_3/chunklist.m3u8
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
 
 
-
-
-
-
-#EXTINF:-1,Setanta Sports
-http://91.149.172.100:80/channel?id=146&u=demo&p=demo
 
 #EXTINF:-1,Sportska TV
 http://wowza.h1telekom.hr:1935/sporttv/smil:sptv.smil/playlist.m3u8
@@ -1176,33 +1160,14 @@ http://iphone-streaming.ustream.tv/uhls/17074538/streams/live/iphone/playlist.m3
 skip
 
 
-
-#EXTINF:0, Nick Jr
-http://linux-app.tv:6204/live/aran05/aran05/11147.m3u8
-#EXTINF:0, Cartoon Network 
-http://unlockyourtv.com:8000/live/Luis/Luis/538.m3u8
-#EXTINF:0, CARTOONITO
-http://localhd.tv:8081/live/har.tur57/QkC55ZBpMU/2780.m3u8
 #EXTINF:0, CBBC
 http://hiddennetworks.xyz:80/live/WHMCS2MAG:WHMCS2:424/Tf0M45frl6/43166.m3u8
-#EXTINF:0, CBeebies
-http://rb-group-server.com:25461/live/karim123/karim123/3758.m3u8
-#EXTINF:0, Boing
-http://localhd.tv:8081/live/har.tur57/QkC55ZBpMU/6630.m3u8
 #EXTINF:0, Boomerang
 http://best.dnsfor.me:25461/live/gW3ijlsDmj/rOmcocCA5z/1262.m3u8
 #EXTINF:0, Rai Gulp 
 http://rb-group-server.com:25461/ASTON2/ASTON2/3517
-#EXTINF:0, Rai Yoyo 
-http://facontugue.myvnc.com:8000/live/amigos/malaga/20648.m3u8
-#EXTINF:0, Discovery Kids
-http://unionsrv.online:8880/live/arnoud/arnoud/8131.m3u8
-
-
-
 #EXTINF:-1,Smile of a Child
 http://acaooyalahd2-lh.akamaihd.net/i/TBN04_delivery@186242/master.m3u8
-
 #EXTINF:-1,KBVR TV
 http://klive-a.akamaihd.net/dc-0/live/hls/p/391241/e/0_bthpnu1j/sd/10000/t/YwqLo1YivB_aumq-LxAuWg/master.m3u8
 
@@ -1706,331 +1671,6 @@ skip
 
 
 
-#EXTM3U
-#EXTINF:-1 group-title="IPTV" ,Сигма
-http://91.204.199.145:8000/play/a001/index.m3u8
-#EXTINF:-1,ТВ-7 Мариуполь
-http://91.204.199.145:8000/play/a002/index.m3u8
-#EXTINF:-1,МТВ
-http://91.204.199.145:8000/play/a003/index.m3u8
-#EXTINF:-1,1+1
-http://91.204.199.145:8000/play/a004/index.m3u8
-#EXTINF:-1,Интер
-http://91.204.199.145:8000/play/a005/index.m3u8
-#EXTINF:-1,СТБ
-http://91.204.199.145:8000/play/a006/index.m3u8
-#EXTINF:-1,Украина
-http://91.204.199.145:8000/play/a007/index.m3u8
-#EXTINF:-1,ICTV
-http://91.204.199.145:8000/play/a008/index.m3u8
-#EXTINF:-1,Новый канал
-http://91.204.199.145:8000/play/a009/index.m3u8
-#EXTINF:-1,НТН
-http://91.204.199.145:8000/play/a00a/index.m3u8
-#EXTINF:-1,ТЕТ
-http://91.204.199.145:8000/play/a00b/index.m3u8
-#EXTINF:-1,К1
-http://91.204.199.145:8000/play/a00c/index.m3u8
-#EXTINF:-1,К2
-http://91.204.199.145:8000/play/a00d/index.m3u8
-#EXTINF:-1,2+2
-http://91.204.199.145:8000/play/a00e/index.m3u8
-#EXTINF:-1,Сонце
-http://91.204.199.145:8000/play/a00f/index.m3u8
-#EXTINF:-1,Бигуди
-http://91.204.199.145:8000/play/a00g/index.m3u8
-#EXTINF:-1,Оце
-http://91.204.199.145:8000/play/a00h/index.m3u8
-#EXTINF:-1,OLVIA
-http://91.204.199.145:8000/play/a00i/index.m3u8
-#EXTINF:-1,OstWest
-http://91.204.199.145:8000/play/a00j/index.m3u8
-#EXTINF:-1,8 Канал
-http://91.204.199.145:8000/play/a00k/index.m3u8
-#EXTINF:-1,ATR
-http://91.204.199.145:8000/play/a00l/index.m3u8
-#EXTINF:-1,Первый западный
-http://91.204.199.145:8000/play/a00m/index.m3u8
-#EXTINF:-1,RTi
-http://91.204.199.145:8000/play/a00n/index.m3u8
-#EXTINF:-1,ЕКО ТВ
-http://91.204.199.145:8000/play/a00o/index.m3u8
-#EXTINF:-1,ТРК Киев
-http://91.204.199.145:8000/play/a00p/index.m3u8
-#EXTINF:-1,Эскулап
-http://91.204.199.145:8000/play/a00q/index.m3u8
-#EXTINF:-1,Fine Living
-http://91.204.199.145:8000/play/a00r/index.m3u8
-#EXTINF:-1,Квартал ТВ
-http://91.204.199.145:8000/play/a00s/index.m3u8
-#EXTINF:-1,НЛО ТВ
-http://91.204.199.145:8000/play/a00t/index.m3u8
-#EXTINF:-1,Nickelodeon
-http://91.204.199.145:8000/play/a00u/index.m3u8
-#EXTINF:-1,Nickelodeon Junior
-http://91.204.199.145:8000/play/a00v/index.m3u8
-#EXTINF:-1,Плюс Плюс
-http://91.204.199.145:8000/play/a00w/index.m3u8
-#EXTINF:-1,Пиксель
-http://91.204.199.145:8000/play/a00x/index.m3u8
-#EXTINF:-1,TiJi
-http://91.204.199.145:8000/play/a00y/index.m3u8
-#EXTINF:-1,JimJam
-http://91.204.199.145:8000/play/a00z/index.m3u8
-#EXTINF:-1,Gulli
-http://91.204.199.145:8000/play/a010/index.m3u8
-#EXTINF:-1,Детский мир
-http://91.204.199.145:8000/play/a011/index.m3u8
-#EXTINF:-1,Малятко ТВ
-http://91.204.199.145:8000/play/a012/index.m3u8
-#EXTINF:-1,NIKI Junior HD
-http://91.204.199.145:8000/play/a013/index.m3u8
-#EXTINF:-1,NIKI Kids HD
-http://91.204.199.145:8000/play/a014/index.m3u8
-#EXTINF:-1,NewsOne
-http://91.204.199.145:8000/play/a015/index.m3u8
-#EXTINF:-1,112 Украина
-http://91.204.199.145:8000/play/a016/index.m3u8
-#EXTINF:-1,112 Украина HD
-http://91.204.199.145:8000/play/a017/index.m3u8
-#EXTINF:-1,News 24
-http://91.204.199.145:8000/play/a018/index.m3u8
-#EXTINF:-1,Прямой
-http://91.204.199.145:8000/play/a019/index.m3u8
-#EXTINF:-1,Прямой HD
-http://91.204.199.145:8000/play/a01a/index.m3u8
-#EXTINF:-1,Униан
-http://91.204.199.145:8000/play/a01b/index.m3u8
-#EXTINF:-1,5 Канал
-http://91.204.199.145:8000/play/a01c/index.m3u8
-#EXTINF:-1,Oboz TV
-http://91.204.199.145:8000/play/a01d/index.m3u8
-#EXTINF:-1,News Network
-http://91.204.199.145:8000/play/a01e/index.m3u8
-#EXTINF:-1,Еспресо TV
-http://91.204.199.145:8000/play/a01f/index.m3u8
-#EXTINF:-1,Громадське ТВ
-http://91.204.199.145:8000/play/a01g/index.m3u8
-#EXTINF:-1,Первый деловой
-http://91.204.199.145:8000/play/a01h/index.m3u8
-#EXTINF:-1,ЧП. IНФО
-http://91.204.199.145:8000/play/a01i/index.m3u8
-#EXTINF:-1,Рада
-http://91.204.199.145:8000/play/a01j/index.m3u8
-#EXTINF:-1,Zik
-http://91.204.199.145:8000/play/a01k/index.m3u8
-#EXTINF:-1,Беларусь 24
-http://91.204.199.145:8000/play/a01l/index.m3u8
-#EXTINF:-1,UA:Перший
-http://91.204.199.145:8000/play/a01m/index.m3u8
-#EXTINF:-1,UA:Донбас
-http://91.204.199.145:8000/play/a01n/index.m3u8
-#EXTINF:-1,UA:Культура
-http://91.204.199.145:8000/play/a01o/index.m3u8
-#EXTINF:-1,UA:КРИМ
-http://91.204.199.145:8000/play/a01p/index.m3u8
-#EXTINF:-1,Paramount Comedy
-http://91.204.199.145:8000/play/a01q/index.m3u8
-#EXTINF:-1,TV1000
-http://91.204.199.145:8000/play/a01r/index.m3u8
-#EXTINF:-1,TV1000 Action
-http://91.204.199.145:8000/play/a01s/index.m3u8
-#EXTINF:-1,TV1000 World Kino
-http://91.204.199.145:8000/play/a01t/index.m3u8
-#EXTINF:-1,VIP Comedy
-http://91.204.199.145:8000/play/a01u/index.m3u8
-#EXTINF:-1,VIP Comedy HD
-http://91.204.199.145:8000/play/a01v/index.m3u8
-#EXTINF:-1,VIP Megahit HD
-http://91.204.199.145:8000/play/a01w/index.m3u8
-#EXTINF:-1,VIP Premiere HD
-http://91.204.199.145:8000/play/a01x/index.m3u8
-#EXTINF:-1,Кино 1
-http://91.204.199.145:8000/play/a01y/index.m3u8
-#EXTINF:-1,Bolt
-http://91.204.199.145:8000/play/a01z/index.m3u8
-#EXTINF:-1,Bolt HD
-http://91.204.199.145:8000/play/a020/index.m3u8
-#EXTINF:-1,Enter Film
-http://91.204.199.145:8000/play/a021/index.m3u8
-#EXTINF:-1,Наше любимое кино
-http://91.204.199.145:8000/play/a022/index.m3u8
-#EXTINF:-1,Star Cinema SD
-http://91.204.199.145:8000/play/a023/index.m3u8
-#EXTINF:-1,Star Cinema HD
-http://91.204.199.145:8000/play/a024/index.m3u8
-#EXTINF:-1,Star Family
-http://91.204.199.145:8000/play/a025/index.m3u8
-#EXTINF:-1,Sony Sci-Fi
-http://91.204.199.145:8000/play/a026/index.m3u8
-#EXTINF:-1,Sony Turbo
-http://91.204.199.145:8000/play/a027/index.m3u8
-#EXTINF:-1,SET
-http://91.204.199.145:8000/play/a028/index.m3u8
-#EXTINF:-1,Еврокино
-http://91.204.199.145:8000/play/a029/index.m3u8
-#EXTINF:-1,TV XXI
-http://91.204.199.145:8000/play/a02a/index.m3u8
-#EXTINF:-1,AMC
-http://91.204.199.145:8000/play/a02b/index.m3u8
-#EXTINF:-1,Bollywood HD
-http://91.204.199.145:8000/play/a02c/index.m3u8
-#EXTINF:-1,Zee TV
-http://91.204.199.145:8000/play/a02d/index.m3u8
-#EXTINF:-1,FilmBox
-http://91.204.199.145:8000/play/a02e/index.m3u8
-#EXTINF:-1,FilmBox Arthouse
-http://91.204.199.145:8000/play/a02f/index.m3u8
-#EXTINF:-1,Film UA Drama
-http://91.204.199.145:8000/play/a02g/index.m3u8
-#EXTINF:-1,Viasat Epic Drama HD
-http://91.204.199.145:8000/play/a02h/index.m3u8
-#EXTINF:-1,Fox
-http://91.204.199.145:8000/play/a02i/index.m3u8
-#EXTINF:-1,Fox HD
-http://91.204.199.145:8000/play/a02j/index.m3u8
-#EXTINF:-1,Fox Life
-http://91.204.199.145:8000/play/a02k/index.m3u8
-#EXTINF:-1,Fox Life HD
-http://91.204.199.145:8000/play/a02l/index.m3u8
-#EXTINF:-1,Наука
-http://91.204.199.145:8000/play/a02m/index.m3u8
-#EXTINF:-1,DocuBox HD
-http://91.204.199.145:8000/play/a02n/index.m3u8
-#EXTINF:-1,Трофей
-http://91.204.199.145:8000/play/a02o/index.m3u8
-#EXTINF:-1,Outdoor Channel HD
-http://91.204.199.145:8000/play/a02p/index.m3u8
-#EXTINF:-1,TLC
-http://91.204.199.145:8000/play/a02q/index.m3u8
-#EXTINF:-1,Донбасс
-http://91.204.199.145:8000/play/a02r/index.m3u8
-#EXTINF:-1,CBS Reality
-http://91.204.199.145:8000/play/a02s/index.m3u8
-#EXTINF:-1,Фауна
-http://91.204.199.145:8000/play/a02t/index.m3u8
-#EXTINF:-1,Терра
-http://91.204.199.145:8000/play/a02u/index.m3u8
-#EXTINF:-1,Мега
-http://91.204.199.145:8000/play/a02v/index.m3u8
-#EXTINF:-1,Discovery Channel
-http://91.204.199.145:8000/play/a02w/index.m3u8
-#EXTINF:-1,Investigation Discovery
-http://91.204.199.145:8000/play/a02x/index.m3u8
-#EXTINF:-1,Discovery Science
-http://91.204.199.145:8000/play/a02y/index.m3u8
-#EXTINF:-1,National Geographic Wild
-http://91.204.199.145:8000/play/a02z/index.m3u8
-#EXTINF:-1,National Geographic Wild HD
-http://91.204.199.145:8000/play/a030/index.m3u8
-#EXTINF:-1,National Geographic
-http://91.204.199.145:8000/play/a031/index.m3u8
-#EXTINF:-1,National Geographic HD
-http://91.204.199.145:8000/play/a032/index.m3u8
-#EXTINF:-1,Viasat History
-http://91.204.199.145:8000/play/a033/index.m3u8
-#EXTINF:-1,Viasat Explore
-http://91.204.199.145:8000/play/a034/index.m3u8
-#EXTINF:-1,Viasat Nature
-http://91.204.199.145:8000/play/a035/index.m3u8
-#EXTINF:-1,Viasat Nature/History HD
-http://91.204.199.145:8000/play/a036/index.m3u8
-#EXTINF:-1,History
-http://91.204.199.145:8000/play/a037/index.m3u8
-#EXTINF:-1,History HD
-http://91.204.199.145:8000/play/a038/index.m3u8
-#EXTINF:-1,Animal Planet
-http://91.204.199.145:8000/play/a039/index.m3u8
-#EXTINF:-1,Travel Channel
-http://91.204.199.145:8000/play/a03a/index.m3u8
-#EXTINF:-1,Футбол 1
-http://91.204.199.145:8000/play/a03b/index.m3u8
-#EXTINF:-1,Футбол 1 HD
-http://91.204.199.145:8000/play/a03c/index.m3u8
-#EXTINF:-1,Футбол 2
-http://91.204.199.145:8000/play/a03d/index.m3u8
-#EXTINF:-1,Футбол 2 HD
-http://91.204.199.145:8000/play/a03e/index.m3u8
-#EXTINF:-1,EuroSport 1
-http://91.204.199.145:8000/play/a03f/index.m3u8
-#EXTINF:-1,EuroSport 2
-http://91.204.199.145:8000/play/a03g/index.m3u8
-#EXTINF:-1,Спорт 1 Балтика
-http://91.204.199.145:8000/play/a03h/index.m3u8
-#EXTINF:-1,Спорт 2 Балтика
-http://91.204.199.145:8000/play/a03i/index.m3u8
-#EXTINF:-1,Спорт 1 Украина
-http://91.204.199.145:8000/play/a03j/index.m3u8
-#EXTINF:-1,Спорт 2 Украина
-http://91.204.199.145:8000/play/a03k/index.m3u8
-#EXTINF:-1,XSport
-http://91.204.199.145:8000/play/a03l/index.m3u8
-#EXTINF:-1,XSport HD
-http://91.204.199.145:8000/play/a03m/index.m3u8
-#EXTINF:-1,FightBox HD
-http://91.204.199.145:8000/play/a03n/index.m3u8
-#EXTINF:-1,Extreme Sports
-http://91.204.199.145:8000/play/a03o/index.m3u8
-#EXTINF:-1,Viasat Sport
-http://91.204.199.145:8000/play/a03p/index.m3u8
-#EXTINF:-1,Viasat Sport HD
-http://91.204.199.145:8000/play/a03q/index.m3u8
-#EXTINF:-1,М1
-http://91.204.199.145:8000/play/a03r/index.m3u8
-#EXTINF:-1,М2
-http://91.204.199.145:8000/play/a03s/index.m3u8
-#EXTINF:-1,MusicBox
-http://91.204.199.145:8000/play/a03t/index.m3u8
-#EXTINF:-1,EUMusic
-http://91.204.199.145:8000/play/a03u/index.m3u8
-#EXTINF:-1,MCM Top
-http://91.204.199.145:8000/play/a03v/index.m3u8
-#EXTINF:-1,MTV Hits
-http://91.204.199.145:8000/play/a03w/index.m3u8
-#EXTINF:-1,MTV Dance
-http://91.204.199.145:8000/play/a03x/index.m3u8
-#EXTINF:-1,MTV Rocks
-http://91.204.199.145:8000/play/a03y/index.m3u8
-#EXTINF:-1,Наше
-http://91.204.199.145:8000/play/a03z/index.m3u8
-#EXTINF:-1,O-TV Music
-http://91.204.199.145:8000/play/a040/index.m3u8
-#EXTINF:-1,Zoom
-http://91.204.199.145:8000/play/a041/index.m3u8
-#EXTINF:-1,VH1 European
-http://91.204.199.145:8000/play/a042/index.m3u8
-#EXTINF:-1,Перший Автомобiльний
-http://91.204.199.145:8000/play/a043/index.m3u8
-#EXTINF:-1,English Club
-http://91.204.199.145:8000/play/a046/index.m3u8
-#EXTINF:-1,Дача
-http://91.204.199.145:8000/play/a044/index.m3u8
-#EXTINF:-1,Food Network HD
-http://91.204.199.145:8000/play/a045/index.m3u8
-#EXTINF:-1,Индиго
-http://91.204.199.145:8000/play/a047/index.m3u8
-#EXTINF:-1,Телевсесвiт
-http://91.204.199.145:8000/play/a048/index.m3u8
-#EXTINF:-1,Караван ТВ
-http://91.204.199.145:8000/play/a049/index.m3u8
-#EXTINF:-1,КРТ
-http://91.204.199.145:8000/play/a04a/index.m3u8
-#EXTINF:-1,Maxxi TV
-http://91.204.199.145:8000/play/a04b/index.m3u8
-#EXTINF:-1,Бутик ТВ
-http://91.204.199.145:8000/play/a04c/index.m3u8
-#EXTINF:-1,Винтаж
-http://91.204.199.145:8000/play/a04d/index.m3u8
-#EXTINF:-1,Миледи
-http://91.204.199.145:8000/play/a04e/index.m3u8
-#EXTINF:-1,Playboy TV
-http://91.204.199.145:8000/play/a04f/index.m3u8
-#EXTINF:-1,Erox
-http://91.204.199.145:8000/play/a04g/index.m3u8
-
-
-
-
 #EXTINF:0,КиноЗаказ 1
 https://hls.goodgame.ru/hls/114023.m3u8
 
@@ -2040,11 +1680,6 @@ http://hls.goodgame.ru/hls/12949.m3u8
 #EXTINF:0,КиноЗаказ 3
 http://hls.goodgame.ru/hls/5346.m3u8
 
-#EXTINF:-1,100% news
-http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
-
-#EXTINF:-1,??-??????? 2
-http://wse.planeta-online.tv:1935/live/channel_5/chunklist.m3u8
 
 #EXTINF:-1,brodilo tv
 http://brodilo.tv/channel.php
@@ -2052,8 +1687,7 @@ http://brodilo.tv/channel.php
 #EXTINF:-1,luxury world
 http://nano.teleservice.su:8080/hls/luxury.m3u8
 
-#EXTINF:-1,relax tv
-http://wse.planeta-online.tv:1935/live/channel_3/playlist.m3u8
+
 
 #EXTINF:-1,Qazsport
 http://109.248.236.41:4433/udp/238.1.1.116:1234
@@ -2061,14 +1695,12 @@ http://109.248.236.41:4433/udp/238.1.1.116:1234
 #EXTINF:-1,47 kanal
 http://194.190.88.34:1935/videowhisper/47channel_live_broadcast.stream/playlist.m3u8
 
-#EXTINF:-1,47 KANAL
-http://188.243.103.228:81/udp/239.239.3.44:5239
+
 
 #EXTINF:-1,krasnaya liniya
 http://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/playlist.m3u8
 
-#EXTINF:-1,Peres int
-http://91.149.172.100:80/channel?id=88&u=demo&p=demo
+
 
 #EXTINF:-1,112 ua HD
 http://app.live.112.events/hls-ua/112hd_hi/index.m3u8
