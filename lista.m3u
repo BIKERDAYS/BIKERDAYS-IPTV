@@ -796,6 +796,18 @@ http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.
 
 
 
+#EXTINF:-1,Viasat Nature
+http://hls-viasat.cdnvideo.ru/hls/relay/1502288391761/index.m3u8
+#EXTINF:-1,Viasat Golf
+http://hls-viasat.cdnvideo.ru/hls/relay/1502288404097/index.m3u8
+#EXTINF:-1,Viasat Sport HD
+http://hls-viasat.cdnvideo.ru/hls/relay/1502288421056/index.m3u8
+#EXTINF:-1,VIP Comedy
+https://hls-viasat.cdnvideo.ru/hls/relay/1502288433562/index.m3u8
+#EXTINF:-1,VIP Premiere
+http://hls-viasat.cdnvideo.ru/hls/relay/1502288412514/index.m3u8
+
+
 #EXTINF:-1,Sportska TV
 http://wowza.h1telekom.hr:1935/sporttv/smil:sptv.smil/playlist.m3u8
 
