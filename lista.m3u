@@ -619,7 +619,30 @@ http://cms3.fastiptv.org:80/live?channelId=114&uid=151&deviceMac=
 #EXTINF:-1,[COLOR yellow]>>>  SPORT  <<<[/COLOR]
 skip
 
-
+#EXTINF:-1,BEIN SPORTS 1
+http://51.15.6.67/bein/1/index.m3u8
+#EXTINF:-1,BEIN SPORTS 2
+http://51.15.6.67/bein/2/index.m3u8
+#EXTINF:-1,BEIN SPORTS 3
+http://51.15.6.67/bein/3/index.m3u8
+#EXTINF:-1,BEIN SPORTS 4
+http://51.15.6.67/bein/4/index.m3u8
+#EXTINF:-1,BEIN SPORTS 5
+http://51.15.6.67/bein/5/index.m3u8
+#EXTINF:-1,BEIN SPORTS 6
+http://51.15.6.67/bein/6/index.m3u8
+#EXTINF:-1,BEIN SPORTS 7
+http://51.15.6.67/bein/7/index.m3u8
+#EXTINF:-1,BEIN SPORTS 8
+http://51.15.6.67/bein/8/index.m3u8
+#EXTINF:-1,BEIN SPORTS 9
+http://51.15.6.67/bein/9/index.m3u8
+#EXTINF:-1,BEIN SPORTS 10
+http://51.15.6.67/bein/10/index.m3u8
+#EXTINF:-1,BEIN SPORTS 11
+http://51.15.6.67/bein/11/index.m3u8
+#EXTINF:-1,BEIN SPORTS 12
+http://51.15.6.67/bein/12/index.m3u8
 
 
 #EXTINF:-1,Astro Arena
