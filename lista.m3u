@@ -644,6 +644,48 @@ http://51.15.6.67/bein/11/index.m3u8
 #EXTINF:-1,BEIN SPORTS 12
 http://51.15.6.67/bein/12/index.m3u8
 
+#EXTINF:-1,BEIN 1 
+http://50.7.161.82:8278/bcoinone/playlist.m3u8?tid=18249820&tsum=ee8576f6efe5b787bb927eeaa3789487
+#EXTINF:-1,BEIN 2 
+http://50.7.161.82:8278/bcointwo/playlist.m3u8?tid=18654116&tsum=8ded2c86515f38caeeee732d7108eb55
+#EXTINF:-1,BEIN 3
+http://50.7.161.82:8278/bcointhree/playlist.m3u8?tid=11792463&tsum=f6d6e26c4928cfca4e82f87e4cb62633
+#EXTINF:-1,BEIN 4 
+http://50.7.161.82:8278/bcoinfour/playlist.m3u8?tid=18566790&tsum=391b76a2740e28667d81dc1a1b746b32
+
+
+
+#EXTINF:-1,DE:: Telekom Fussball 1
+https://tsfuba-lh.akamaihd.net/i/p-2780_u-_l-2780_hls_a-_c-DE_e-14664_i-9852150020170722125810_k-_q-_t-hdvideo/tsfuba01_1@514039/index_3235_av-p.m3u8?sd=10&b=0-10000&custom-mdt=on&rebase=on
+#EXTINF:-1,DE:: Telekom Fussball 2
+https://tsfuba-lh.akamaihd.net/i/p-2780_u-_l-2780_hls_a-_c-DE_e-14661_i-1924809920170722125851_k-_q-_t-hdvideo/tsfuba02_1@514040/index_3235_av-p.m3u8?sd=10&b=0-10000&custom-mdt=on&rebase=on
+#EXTINF:-1,DE:: Telekom Fussball 3
+https://tsfuba-lh.akamaihd.net/i/p-2780_u-_l-2780_hls_a-_c-DE_e-14646_i-6579141120170722130009_k-_q-_t-hdvideo/tsfuba03_1@514041/index_3235_av-p.m3u8?sd=10&b=0-10000&custom-mdt=on&rebase=on
+#EXTINF:-1,DE:: Telekom Fussball 4
+https://tsfuba-lh.akamaihd.net/i/p-2780_u-_l-2780_hls_a-_c-DE_e-14658_i-5642883620170722125920_k-_q-_t-hdvideo/tsfuba04_1@514042/index_3235_av-p.m3u8?sd=10&b=0-10000&custom-mdt=on&rebase=on
+#EXTINF:-1,DE:: Telekom Fussball 5
+https://tsfuba-lh.akamaihd.net/i/p-2780_u-_l-2780_hls_a-_c-DE_e-14652_i-2323876920170722130153_k-_q-_t-hdvideo/tsfuba05_1@514043/index_3235_av-p.m3u8?sd=10&b=0-10000&custom-mdt=on&rebase=on
+#EXTINF:-1,DE:: Telekom Fussball 6
+https://tsfuba-lh.akamaihd.net/i/p-2780_u-_l-2780_hls_a-_c-DE_e-14667_i-2943033720170722130105_k-_q-_t-hdvideo/tsfuba06_1@514044/index_3235_av-p.m3u8?sd=10&b=0-10000&custom-mdt=on&rebase=on
+#EXTINF:-1,DE:: Telekom Fussball 7
+https://tsfuba-lh.akamaihd.net/i/p-2780_u-_l-2780_hls_a-_c-DE_e-14670_i-7056875420170722130032_k-_q-_t-hdvideo/tsfuba07_1@514045/index_3235_av-p.m3u8?sd=10&b=0-10000&custom-mdt=on&rebase=on
+#EXTINF:-1,DE:: Telekom Fussball 8
+https://tsfuba-lh.akamaihd.net/i/p-2780_u-_l-_a-_c-DE_e-15207_i-538903531511550948_k-_q-_t-hdvideo/tsfuba08_1@514046/index_3235_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,DE:: Telekom Eishockey 1
+https://tehtv-lh.akamaihd.net/i/p-2780_u-_l-_a-_c-DE_e-14533_i-530264821504890293_k-_q-_t-hdvideo/telekomeishockey01_1@75792/index_3000_av-p.m3u8?sd=10&b=0-10000&custom-mdt=on&rebase=on
+#EXTINF:-1,DE:: Telekom Eishockey 2
+https://tehtv-lh.akamaihd.net/i/p-2780_u-_l-_a-_c-DE_e-14530_i-929875391504890277_k-_q-_t-hdvideo/telekomeishockey02_1@82703/index_3000_av-p.m3u8?sd=10&b=0-10000&custom-mdt=on&rebase=on
+#EXTINF:-1,DE:: Telekom Eishockey 3
+https://tehtv-lh.akamaihd.net/i/p-2780_u-_l-_a-_c-DE_e-14545_i-424912461504891847_k-_q-_t-hdvideo/telekomeishockey03_1@82704/index_3000_av-p.m3u8?sd=10&b=0-10000&custom-mdt=on&rebase=on
+#EXTINF:-1,DE:: Telekom Eishockey 4
+https://tehtv-lh.akamaihd.net/i/p-2780_u-_l-_a-_c-DE_e-14539_i-575113961504890329_k-_q-_t-hdvideo/telekomeishockey04_1@104488/index_3000_av-p.m3u8?sd=10&b=0-10000&custom-mdt=on&rebase=on
+#EXTINF:-1,DE:: Telekom Eishockey 5
+https://tehtv-lh.akamaihd.net/i/p-2780_u-_l-_a-_c-DE_e-14542_i-907068141504890346_k-_q-_t-hdvideo/telekomeishockey05_1@104503/index_3000_av-p.m3u8?sd=10&b=0-10000&custom-mdt=on&rebase=on
+#EXTINF:-1,DE:: Telekom Eishockey 6
+https://tehtv-lh.akamaihd.net/i/p-2780_u-_l-_a-_c-DE_e-14548_i-195072391504890367_k-_q-_t-hdvideo/telekomeishockey06_1@116553/index_3000_av-p.m3u8?sd=10&b=0-10000&custom-mdt=on&rebase=on
+#EXTINF:-1,DE:: Telekom Eishockey 7
+https://tehtv-lh.akamaihd.net/i/p-2780_u-_l-_a-_c-DE_e-14536_i-166432411504890310_k-_q-_t-hdvideo/telekomeishockey07_1@118224/index_3000_av-p.m3u8?sd=10&b=0-10000&custom-mdt=on&rebase=on
+
 
 #EXTINF:-1,Astro Arena
 http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8_02.m3u8
