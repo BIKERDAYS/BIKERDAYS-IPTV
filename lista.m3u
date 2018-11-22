@@ -619,40 +619,31 @@ http://cms3.fastiptv.org:80/live?channelId=114&uid=151&deviceMac=
 #EXTINF:-1,[COLOR yellow]>>>  SPORT  <<<[/COLOR]
 skip
 
-#EXTINF:-1,BEIN SPORTS 1
-http://51.15.6.67/bein/1/index.m3u8
-#EXTINF:-1,BEIN SPORTS 2
-http://51.15.6.67/bein/2/index.m3u8
-#EXTINF:-1,BEIN SPORTS 3
-http://51.15.6.67/bein/3/index.m3u8
-#EXTINF:-1,BEIN SPORTS 4
-http://51.15.6.67/bein/4/index.m3u8
-#EXTINF:-1,BEIN SPORTS 5
-http://51.15.6.67/bein/5/index.m3u8
-#EXTINF:-1,BEIN SPORTS 6
-http://51.15.6.67/bein/6/index.m3u8
-#EXTINF:-1,BEIN SPORTS 7
-http://51.15.6.67/bein/7/index.m3u8
-#EXTINF:-1,BEIN SPORTS 8
-http://51.15.6.67/bein/8/index.m3u8
-#EXTINF:-1,BEIN SPORTS 9
-http://51.15.6.67/bein/9/index.m3u8
-#EXTINF:-1,BEIN SPORTS 10
-http://51.15.6.67/bein/10/index.m3u8
-#EXTINF:-1,BEIN SPORTS 11
-http://51.15.6.67/bein/11/index.m3u8
-#EXTINF:-1,BEIN SPORTS 12
-http://51.15.6.67/bein/12/index.m3u8
 
-#EXTINF:-1,BEIN 1 
-http://50.7.161.82:8278/bcoinone/playlist.m3u8?tid=18249820&tsum=ee8576f6efe5b787bb927eeaa3789487
-#EXTINF:-1,BEIN 2 
-http://50.7.161.82:8278/bcointwo/playlist.m3u8?tid=18654116&tsum=8ded2c86515f38caeeee732d7108eb55
-#EXTINF:-1,BEIN 3
-http://50.7.161.82:8278/bcointhree/playlist.m3u8?tid=11792463&tsum=f6d6e26c4928cfca4e82f87e4cb62633
-#EXTINF:-1,BEIN 4 
-http://50.7.161.82:8278/bcoinfour/playlist.m3u8?tid=18566790&tsum=391b76a2740e28667d81dc1a1b746b32
-
+#EXTINF:-1,bein 1 HD
+http://194.99.23.250:8099/2.ch?u=tvip:p=tvip
+#EXTINF:-1,bein 1 SD
+http://194.99.23.250:8099/3.ch?u=tvip:p=tvip
+#EXTINF:-1,bein 2 HD
+http://194.99.23.250:8099/4.ch?u=tvip:p=tvip
+#EXTINF:-1,bein 2 SD
+http://194.99.23.250:8099/5.ch?u=tvip:p=tvip
+#EXTINF:-1,bein 3 HD
+http://194.99.23.250:8099/6.ch?u=tvip:p=tvip
+#EXTINF:-1,bein 3 SD
+http://194.99.23.250:8099/7.ch?u=tvip:p=tvip
+#EXTINF:-1,bein 4 HD
+http://194.99.23.250:8099/8.ch?u=tvip:p=tvip
+#EXTINF:-1,bein 4 SD
+http://194.99.23.250:8099/9.ch?u=tvip:p=tvip
+#EXTINF:-1,bein 5 HD
+http://194.99.23.250:8099/10.ch?u=tvip:p=tvip
+#EXTINF:-1,bein 5 SD
+http://194.99.23.250:8099/11.ch?u=tvip:p=tvip
+#EXTINF:-1,bein 6 HD
+http://194.99.23.250:8099/12.ch?u=tvip:p=tvip
+#EXTINF:-1,bein 6 SD
+http://194.99.23.250:8099/13.ch?u=tvip:p=tvip
 
 
 #EXTINF:-1,DE:: Telekom Fussball 1
@@ -1837,6 +1828,8 @@ https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_max/playlist/cze/live_hq.m3
 https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_zoom/playlist/cze/live_hq.m3u8
 #EXTINF:-1,Slagr
 https://slagrtv-live-hls.ssl.cdn.cra.cz/channels/slagrtv/playlist/cze/live_hq.m3u8
+
+
 
 #EXTINF:-1,[COLOR yellow]>>>  SKANDINAVIA  <<<[/COLOR]
 skip
