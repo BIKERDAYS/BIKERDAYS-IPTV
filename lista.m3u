@@ -28,46 +28,23 @@ http://195.29.70.89/PLTV/88888888/224/3221226281/04.m3u8
 #EXTINF:0,rtl
 http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8
 
-
-
-
-
 #EXTINF:-1,NB
 http://195.29.70.89/PLTV/88888888/224/3221226407/04.m3u8
+
 #EXTINF:-1,NB Comedy Channel
 http://195.29.70.89/PLTV/88888888/224/3221226407/index.m3u8
+
 #EXTINF:-1,NB
 http://195.29.70.67/PLTV/88888888/224/3221226407/04.m3u8
-#EXTINF:-1,E! HD
-http://195.29.70.67/PLTV/88888888/224/3221226491/04.m3u8
-
-
-
 
 #EXTINF:-1,Film select 240p Croatia
 http://195.29.70.67/PLTV/88888888/224/3221226027/01.m3u8
-
-#EXTINF:-1,PRVA WORLD
-http://93.87.85.149/PLTV/88888888/224/3221226576/03.m3u8?accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA94tjvcqC92jhgBqS37pLbNE%2BPrHW5QXFq33jBVabAuBo%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100002255%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2C,END&GuardEncType=2
-
-#EXTINF:-1,RTS 3
-http://93.87.85.150:80/PLTV/88888888/224/3221226575/03.m3u8?accountinfo=yT3136xHyci%2F1Lwr9plJ6b4pEQwVtxY%2FuC5XlCvYDSwK11EyX4ZT%2F3rSRSjQzYryr5jnU6CWqZ44bsdSXtUhp5rRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9VAQe05Iuvgb0rcmheAIpBaakxQBS0eD07v1BkAeLxdU%3D%3A20180117163907%3AUTC%2C667265279573212594%2C89.172.240.222%2C20180117163907%2Curn%3AHuawei%3AliveTV%3AXTV100001884%2C110E1005EC64BE6489BBA475683DED13%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2C,END&GuardEncType=2
-
-#EXTINF:-1,PINK FILM
-http://93.87.85.149:80/PLTV/88888888/224/3221226599/03.m3u8?accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA94tjvcqC92jhgBqS37pLbNMooM%2FRSkbiojbeMqAXvkq8%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100002295%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2C,END&GuardEncType=2
-
-#EXTINF:-1,STUDIO B
-http://93.87.85.70/PLTV/88888888/224/3221226582/03.m3u8?accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA94tjvcqC92jhgBqS37pLbNCjAHxkoJHYjy49iBtg39Ko%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100002276%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2C,END&GuardEncType=2
-
-#EXTINF:-1,FILMBOX EXTRA 
-http://93.87.85.149:80/PLTV/88888888/224/3221226932/03.m3u8?accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9C4tX%2BmB15uNvJo580%2B6pgATAmb8fQUYQkt7mFZDW%2Bhs%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100003155%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2C,END&GuardEncType=2
 
 #EXTINF:-1,HBO 2
 http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
 
 #EXTINF:-1,YU PLANET
 http://92.51.131.28:8081/YuPlanet/asojnd233oimwxoe2/playlist.m3u8
-
 
 #EXTINF:-1,Film select 360p Croatia
 http://195.29.70.67/PLTV/88888888/224/3221226027/02.m3u8
@@ -147,26 +124,11 @@ http://195.29.70.67/PLTV/88888888/224/3221226195/02.m3u8
 #EXTINF:-1,RTL Hrvatska 480p Croatia
 http://195.29.70.67/PLTV/88888888/224/3221226195/03.m3u8
 
-
-
 #EXTINF:-1,ХЗ HD 720p
 http://195.29.70.67/PLTV/88888888/224/3221226460/index.m3u8
 
-#EXTINF:-1,E! Entertainment TV HD 270p
-http://195.29.70.67/PLTV/88888888/224/3221226491/01.m3u8
-
-#EXTINF:-1,E! Entertainment TV HD 360p
-http://195.29.70.67/PLTV/88888888/224/3221226491/02.m3u8
-
-#EXTINF:-1,E! Entertainment TV HD 576p
-http://195.29.70.67/PLTV/88888888/224/3221226491/03.m3u8
-
-#EXTINF:-1,E! Entertainment TV HD 720p
-http://195.29.70.67/PLTV/88888888/224/3221226491/05.m3u8
-
 #EXTINF:-1,E! Entertainment TV HD 720p
 http://195.29.70.67/PLTV/88888888/224/3221226491/index.m3u8
-
 
 #EXTINF:-1,RTK 3
 http://178.132.6.97:8080/RTK3/tracks-v1a1/index.m3u8
@@ -188,9 +150,6 @@ http://178.132.6.97:8080/BA:TVSarajevo1/playlist.m3u8
 
 #EXTINF:-1,Primera Music
 http://178.132.6.97:8080/PrimeraMusic1/playlist.m3u8
-
-#EXTINF:-1,NTV101Prijedor
-http://178.132.6.97:8080/NTV101Prijedor1/playlist.m3u8
 
 #EXTINF:-1,Kanal6 BiH
 http://178.132.6.97:8080/Kanal6BiH1/playlist.m3u8
@@ -222,8 +181,6 @@ http://178.132.6.97:8080/RTV2Vojvodina1/playlist.m3u8
 #EXTINF:-1,a1rtvnovipazar
 http://178.132.6.97:8080/a1rtvnovipazar1/playlist.m3u8
 
-
-
 #EXTINF:-1,SLON Extra
 http://178.132.6.97:8080/RTV:SLON1/tracks-v1a1/index.m3u8
 
@@ -251,8 +208,6 @@ http://178.132.6.97:8080/SpinTV1/tracks-v1a1/index.m3u8
 #EXTINF:-1,ROMA TV
 http://178.132.6.97:8080/ROMATV1/tracks-v1a1/index.m3u8
 
-
-
 #EXTINF:-1,RTK 4
 http://178.132.6.97:8080/RTK4/tracks-v1a1/index.m3u8
 
@@ -262,12 +217,8 @@ http://178.132.6.97:8080/RTK2/tracks-v1a1/index.m3u8
 #EXTINF:-1,RTK1
 http://178.132.6.97:8080/RTK11/tracks-v1a1/index.m3u8
 
-
-
 #EXTINF:-1,Sky Folk Makedonija
 http://178.132.6.97:8080/SkyFolkMakedonija1/tracks-v1a1/index.m3u8
-
-
 
 #EXTINF:-1,TV Plisi
 http://178.132.6.97:8080/TVPlisi1/tracks-v1a1/index.m3u8
@@ -275,16 +226,11 @@ http://178.132.6.97:8080/TVPlisi1/tracks-v1a1/index.m3u8
 #EXTINF:-1,TV7 TUZLA
 http://178.132.6.97:8080/TV7TUZLA1/tracks-v1a1/index.m3u8
 
-
-
 #EXTINF:-1,rrokum tv
 http://178.132.6.97:8080/rrokumtv1/tracks-v1a1/index.m3u8
 
 #EXTINF:-1,SYRIBLUE HDTV
 http://178.132.6.97:8080/SYRIBLUEHDTV1/tracks-v1a1/index.m3u8
-
-#EXTINF:-1,Rtv Iliria Gjeneve
-http://178.132.6.97:8080/RtvIliriaGjeneve1/tracks-v1a1/index.m3u8
 
 #EXTINF:-1,Samara Gis
 http://178.132.6.97:8080/samaragis1/tracks-v1a1/index.m3u8
@@ -397,253 +343,28 @@ http://141.136.14.18/kanal1/kanal1_1500/index.m3u8
 #EXTINF:-1,N1
 http://185.20.36.234:8080/stream?i=5NASdkA7imQ74SExK5xMGA&a=C2J-KsfDNkQ43uzstG1HaN69IIuhN8yyI7y66f5VFXyKNHJa4BWz0vNyVKDNmEDe7TCowHwegw-ti8G-IpqZY1SbsEvP6LLd9NXPkDaF1TpEzzRyQQVmwd5FNBt5ScRbY6a2FzzfKEefyJwEeRBgFDO97f_bEZXeeEaltcMJNnNhOK7Q3lFZrpPoT4hfqkT4F7MR0hfjqj_G_R0a8s1fPiEzqTU1eQ4qvYOFwr7wEmo7P1fF9D9RJlrD3r4SapoDHtEp2fOIhL-kIj4ygfwY7Vwhpbu5cYgjrQNyN7L40wQ&sp=n1info&u=n1info&session=e6ec35e2-496f-4e93-92eb-8a5aa9edf3c6&player=m3u8
 
-
-
-#EXTINF:-1 tvg-id="RTK1" tvg-link="" tvg-name="RTK1" tvg-logo="" group-title="Gjenerale",RTK1
-http://cms3.fastiptv.org:80/live?channelId=2&uid=151&deviceMac=
-#EXTINF:-1 tvg-id="RTK2" tvg-link="" tvg-name="RTK2" tvg-logo="" group-title="Gjenerale",RTK2
-http://cms3.fastiptv.org:80/live?channelId=3&uid=151&deviceMac=
-#EXTINF:-1 tvg-id="RTK3" tvg-link="" tvg-name="RTK3" tvg-logo="" group-title="Gjenerale",RTK3
-http://cms3.fastiptv.org:80/live?channelId=4&uid=151&deviceMac=
-#EXTINF:-1 tvg-id="RTK4" tvg-link="" tvg-name="RTK4" tvg-logo="" group-title="Gjenerale",RTK4
-http://cms3.fastiptv.org:80/live?channelId=5&uid=151&deviceMac=
-#EXTINF:-1 tvg-id="KTV" tvg-link="" tvg-name="KTV" tvg-logo="" group-title="Gjenerale",KTV
-http://cms3.fastiptv.org:80/live?channelId=7&uid=151&deviceMac=
-#EXTINF:-1 tvg-id="RTV21" tvg-link="" tvg-name="RTV21" tvg-logo="" group-title="Gjenerale",RTV21
-http://cms3.fastiptv.org:80/live?channelId=6&uid=151&deviceMac=
-#EXTINF:-1 tvg-id="KlanKosova" tvg-link="" tvg-name="KlanKosova" tvg-logo="" group-title="Gjenerale",KlanKosova
-http://cms3.fastiptv.org:80/live?channelId=10&uid=151&deviceMac=
-#EXTINF:-1 tvg-id="KlanTv" tvg-link="" tvg-name="KlanTv" tvg-logo="" group-title="Gjenerale",KlanTv - 239.15.15.2:1234
-http://cms3.fastiptv.org:80/live?channelId=11&uid=151&deviceMac=
-#EXTINF:-1 tvg-id="VisionPlus" tvg-link="" tvg-name="VisionPlus" tvg-logo="" group-title="Gjenerale",VisionPlus
-http://cms3.fastiptv.org:80/live?channelId=21&uid=151&deviceMac=
-#EXTINF:-1 tvg-id="AlsatM" tvg-link="" tvg-name="AlsatM" tvg-logo="" group-title="Gjenerale",AlsatM - http://84.22.34.9:8090/iptv?chID=110&uID=109&userName=orangenet&passWord=onet16
-http://cms3.fastiptv.org:80/live?channelId=22&uid=151&deviceMac=
-#EXTINF:-1 tvg-id="TVSH" tvg-link="" tvg-name="TVSH" tvg-logo="" group-title="Gjenerale",TVSH
-http://cms3.fastiptv.org:80/live?channelId=23&uid=151&deviceMac=
-#EXTINF:-1 tvg-id="RrokumTv" tvg-link="" tvg-name="RrokumTv" tvg-logo="" group-title="Gjenerale",RrokumTv
-http://cms3.fastiptv.org:80/live?channelId=24&uid=151&deviceMac=
-#EXTINF:-1 tvg-id="PeaceTv" tvg-link="" tvg-name="PeaceTv" tvg-logo="" group-title="Gjenerale",PeaceTv
-http://cms3.fastiptv.org:80/live?channelId=25&uid=151&deviceMac=
-#EXTINF:-1 tvg-id="ShenjaTv" tvg-link="" tvg-name="ShenjaTv" tvg-logo="" group-title="Gjenerale",ShenjaTv
-http://cms3.fastiptv.org:80/live?channelId=26&uid=151&deviceMac=
-#EXTINF:-1 tvg-id="ArtaNews" tvg-link="" tvg-name="ArtaNews" tvg-logo="" group-title="Lajme",ArtaNews
-http://cms3.fastiptv.org:80/live?channelId=9&uid=151&deviceMac=
-#EXTINF:-1 tvg-id="T7" tvg-link="" tvg-name="T7" tvg-logo="" group-title="Lajme",T7
-http://cms3.fastiptv.org:80/live?channelId=27&uid=151&deviceMac=
-#EXTINF:-1 tvg-id="Kanali7" tvg-link="" tvg-name="Kanali7" tvg-logo="" group-title="Lajme",Kanali7
-http://cms3.fastiptv.org:80/live?channelId=28&uid=151&deviceMac=
-#EXTINF:-1 tvg-id="TopNews" tvg-link="" tvg-name="TopNews" tvg-logo="" group-title="Lajme",TopNews
-http://cms3.fastiptv.org:80/live?channelId=109&uid=151&deviceMac=
-#EXTINF:-1 tvg-id="Living" tvg-link="" tvg-name="Living" tvg-logo="" group-title="Dokumentar",Living
-http://cms3.fastiptv.org:80/live?channelId=29&uid=151&deviceMac=
-#EXTINF:-1 tvg-id="TringMax" tvg-link="" tvg-name="TringMax" tvg-logo="" group-title="Filma",TringMax
-http://cms3.fastiptv.org:80/live?channelId=30&uid=151&deviceMac=
-#EXTINF:-1 tvg-id="TringLife" tvg-link="" tvg-name="TringLife" tvg-logo="" group-title="Filma",TringLife
-http://cms3.fastiptv.org:80/live?channelId=31&uid=151&deviceMac=
-#EXTINF:-1 tvg-id="TringSuper" tvg-link="" tvg-name="TringSuper" tvg-logo="" group-title="Filma",TringSuper
-http://cms3.fastiptv.org:80/live?channelId=36&uid=151&deviceMac=
-#EXTINF:-1 tvg-id="TringComedy" tvg-link="" tvg-name="TringComedy" tvg-logo="" group-title="Filma",TringComedy
-http://cms3.fastiptv.org:80/live?channelId=35&uid=151&deviceMac=
-#EXTINF:-1 tvg-id="TringShqip" tvg-link="" tvg-name="TringShqip" tvg-logo="" group-title="Filma",TringShqip
-http://cms3.fastiptv.org:80/live?channelId=34&uid=151&deviceMac=
-#EXTINF:-1 tvg-id="3Plus" tvg-link="" tvg-name="3Plus" tvg-logo="" group-title="Filma",3Plus
-http://cms3.fastiptv.org:80/live?channelId=39&uid=151&deviceMac=
-#EXTINF:-1 tvg-id="TringFantasy" tvg-link="" tvg-name="TringFantasy" tvg-logo="" group-title="Filma",TringFantasy
-http://cms3.fastiptv.org:80/live?channelId=37&uid=151&deviceMac=
-#EXTINF:-1 tvg-id="JollyHD" tvg-link="" tvg-name="JollyHD" tvg-logo="" group-title="Filma",JollyHD
-http://cms3.fastiptv.org:80/live?channelId=40&uid=151&deviceMac=
-#EXTINF:-1 tvg-id="Smile" tvg-link="" tvg-name="Smile" tvg-logo="" group-title="Filma",Smile
-http://cms3.fastiptv.org:80/live?channelId=38&uid=151&deviceMac=
-#EXTINF:-1 tvg-id="TringHistori" tvg-link="" tvg-name="TringHistori" tvg-logo="" group-title="Dokumentar",TringHistori
-http://cms3.fastiptv.org:80/live?channelId=42&uid=151&deviceMac=
-#EXTINF:-1 tvg-id="TringPlanet" tvg-link="" tvg-name="TringPlanet" tvg-logo="" group-title="Dokumentar",TringPlanet
-http://cms3.fastiptv.org:80/live?channelId=44&uid=151&deviceMac=
-#EXTINF:-1 tvg-id="TringWorld" tvg-link="" tvg-name="TringWorld" tvg-logo="" group-title="Dokumentar",TringWorld
-http://cms3.fastiptv.org:80/live?channelId=41&uid=151&deviceMac=
-#EXTINF:-1 tvg-id="NatGeographis" tvg-link="" tvg-name="NatGeographis" tvg-logo="" group-title="Dokumentar",NatGeographis
-http://cms3.fastiptv.org:80/live?channelId=45&uid=151&deviceMac=
-#EXTINF:-1 tvg-id="NatGeoWild" tvg-link="" tvg-name="NatGeoWild" tvg-logo="" group-title="Dokumentar",NatGeoWild
-http://cms3.fastiptv.org:80/live?channelId=47&uid=151&deviceMac=
-#EXTINF:-1 tvg-id="AnimalPlanet" tvg-link="" tvg-name="AnimalPlanet" tvg-logo="" group-title="Dokumentar",AnimalPlanet
-http://cms3.fastiptv.org:80/live?channelId=43&uid=151&deviceMac=
-#EXTINF:-1 tvg-id="DiscoveryChannel" tvg-link="" tvg-name="DiscoveryChannel" tvg-logo="" group-title="Dokumentar",DiscoveryChannel
-http://cms3.fastiptv.org:80/live?channelId=48&uid=151&deviceMac=
-#EXTINF:-1 tvg-id="TLC" tvg-link="" tvg-name="TLC" tvg-logo="" group-title="Dokumentar",TLC
-http://cms3.fastiptv.org:80/live?channelId=33&uid=151&deviceMac=
-#EXTINF:-1 tvg-id="LuxeTv" tvg-link="" tvg-name="LuxeTv" tvg-logo="" group-title="Dokumentar",LuxeTv
-http://cms3.fastiptv.org:80/live?channelId=46&uid=151&deviceMac=
-#EXTINF:-1 tvg-id="Muse" tvg-link="" tvg-name="Muse" tvg-logo="" group-title="Dokumentar",Muse
-http://cms3.fastiptv.org:80/live?channelId=15&uid=151&deviceMac=
-#EXTINF:-1 tvg-id="TringTring" tvg-link="" tvg-name="TringTring" tvg-logo="" group-title="Per Femije",TringTring
-http://cms3.fastiptv.org:80/live?channelId=16&uid=151&deviceMac=
-#EXTINF:-1 tvg-id="TipTv" tvg-link="" tvg-name="TipTv" tvg-logo="" group-title="Per Femije",TipTv
-http://cms3.fastiptv.org:80/live?channelId=17&uid=151&deviceMac=
-#EXTINF:-1 tvg-id="Sofia" tvg-link="" tvg-name="Sofia" tvg-logo="" group-title="Per Femije",Sofia
-http://cms3.fastiptv.org:80/live?channelId=18&uid=151&deviceMac=
-#EXTINF:-1 tvg-id="BabyTv" tvg-link="" tvg-name="BabyTv" tvg-logo="" group-title="Per Femije",BabyTv
-http://cms3.fastiptv.org:80/live?channelId=19&uid=151&deviceMac=
-#EXTINF:-1 tvg-id="SuperRtl" tvg-link="" tvg-name="SuperRtl" tvg-logo="" group-title="Per Femije",SuperRtl
-http://cms3.fastiptv.org:80/live?channelId=49&uid=151&deviceMac=
-#EXTINF:-1 tvg-id="ERA" tvg-link="" tvg-name="ERA" tvg-logo="" group-title="Gjenerale",ERA - ERA
-http://cms3.fastiptv.org:80/live?channelId=50&uid=151&deviceMac=
-#EXTINF:-1 tvg-id="DisneyChannel" tvg-link="" tvg-name="DisneyChannel" tvg-logo="" group-title="Per Femije",DisneyChannel
-http://cms3.fastiptv.org:80/live?channelId=51&uid=151&deviceMac=
-#EXTINF:-1 tvg-id="DukagjiniTv" tvg-link="" tvg-name="DukagjiniTv" tvg-logo="" group-title="Gjenerale",DukagjiniTv
-http://cms3.fastiptv.org:80/live?channelId=52&uid=151&deviceMac=
-#EXTINF:-1 tvg-id="7HD" tvg-link="" tvg-name="7HD" tvg-logo="" group-title="Filma",7HD
-http://cms3.fastiptv.org:80/live?channelId=54&uid=151&deviceMac=
-#EXTINF:-1 tvg-id="StarHD" tvg-link="" tvg-name="StarHD" tvg-logo="" group-title="Filma",StarHD
-http://cms3.fastiptv.org:80/live?channelId=55&uid=151&deviceMac=
-#EXTINF:-1 tvg-id="SkyMax" tvg-link="" tvg-name="SkyMax" tvg-logo="" group-title="Filma",SkyMax
-http://cms3.fastiptv.org:80/live?channelId=12&uid=151&deviceMac=
-#EXTINF:-1 tvg-id="SkyAksion" tvg-link="" tvg-name="SkyAksion" tvg-logo="" group-title="Filma",SkyAksion
-http://cms3.fastiptv.org:80/live?channelId=56&uid=151&deviceMac=
-#EXTINF:-1 tvg-id="SkyDrame" tvg-link="" tvg-name="SkyDrame" tvg-logo="" group-title="Filma",SkyDrame
-http://cms3.fastiptv.org:80/live?channelId=57&uid=151&deviceMac=
-#EXTINF:-1 tvg-id="SkyKomedi" tvg-link="" tvg-name="SkyKomedi" tvg-logo="http://becktv.ie/sky-logo.jpg" group-title="Filma",SkyKomedi
-http://cms3.fastiptv.org:80/live?channelId=60&uid=151&deviceMac=
-#EXTINF:-1 tvg-id="SkyNovela" tvg-link="" tvg-name="SkyNovela" tvg-logo="http://becktv.ie/sky-logo.jpg" group-title="Filma",SkyNovela
-http://cms3.fastiptv.org:80/live?channelId=59&uid=151&deviceMac=
-#EXTINF:-1 tvg-id="MKTV2" tvg-link="" tvg-name="MKTV2" tvg-logo="" group-title="Gjenerale",MKTV2
-http://cms3.fastiptv.org:80/live?channelId=58&uid=151&deviceMac=
-#EXTINF:-1 tvg-id="SkyShkenc" tvg-link="" tvg-name="SkyShkenc" tvg-logo="http://becktv.ie/sky-logo.jpg" group-title="Dokumentar",SkyShkenc
-http://cms3.fastiptv.org:80/live?channelId=63&uid=151&deviceMac=
-#EXTINF:-1 tvg-id="SkyPlanet" tvg-link="" tvg-name="SkyPlanet" tvg-logo="http://becktv.ie/sky-logo.jpg" group-title="Dokumentar",SkyPlanet
-http://cms3.fastiptv.org:80/live?channelId=62&uid=151&deviceMac=
-#EXTINF:-1 tvg-id="SkyHistori" tvg-link="" tvg-name="SkyHistori" tvg-logo="http://becktv.ie/sky-logo.jpg" group-title="Dokumentar",SkyHistori
-http://cms3.fastiptv.org:80/live?channelId=65&uid=151&deviceMac=
-#EXTINF:-1 tvg-id="RTV21 PLUS" tvg-link="" tvg-name="RTV21 PLUS" tvg-logo="https://lh4.googleusercontent.com/-C6AnUEIq2fY/VbYUl_2IA-I/AAAAAAAABqo/wiO-cfOR8n0/w500-h450-no/rtv21plusHD.png" group-title="Gjenerale",RTV21 PLUS
-http://cms3.fastiptv.org:80/live?channelId=20&uid=151&deviceMac=
-#EXTINF:-1 tvg-id="RTV21 POPULLORE" tvg-link="" tvg-name="RTV21 POPULLORE" tvg-logo="https://lh4.googleusercontent.com/-IHJS2gamogo/VbYUmPizzGI/AAAAAAAABqs/l0zxrhKw-GM/w500-h450-no/rtv21populloreHD.png" group-title="Gjenerale",RTV21 POPULLORE
-http://cms3.fastiptv.org:80/live?channelId=13&uid=151&deviceMac=
-#EXTINF:-1 tvg-id="RTV21 MIX" tvg-link="" tvg-name="RTV21 MIX" tvg-logo="https://lh4.googleusercontent.com/-ThkKteLTff0/VbYUlNkm7xI/AAAAAAAABqk/MtfT8Q32sPw/w500-h450-no/rtv21mixHD.png" group-title="Gjenerale",RTV21 MIX
-http://cms3.fastiptv.org:80/live?channelId=14&uid=151&deviceMac=
-#EXTINF:-1 tvg-id="FOLK +" tvg-link="" tvg-name="FOLK +" tvg-logo="https://i.ytimg.com/i/3slCmnW9jb9HH3V_mehVLQ/1.jpg" group-title="Gjenerale",FOLK +
-http://cms3.fastiptv.org:80/live?channelId=67&uid=151&deviceMac=
-#EXTINF:-1 tvg-id="BBF" tvg-link="" tvg-name="BBF" tvg-logo="http://cdn.ontv.al/storage/tv/bbf.png" group-title="Gjenerale",BBF
-http://cms3.fastiptv.org:80/live?channelId=69&uid=151&deviceMac=
-#EXTINF:-1 tvg-id="Tv Iliria" tvg-link="" tvg-name="Tv Iliria" tvg-logo="https://fbcdn-photos-e-a.akamaihd.net/hphotos-ak-xfp1/v/t1.0-0/p206x206/10931427_871852166208719_8289666435537183982_n.jpg?oh=a8ab3b8ce6fb1c697d5ccf10d3c32c7b&oe=565F0BD5&__gda__=1450046181_e5fab2e5c606025a8282200ff69bc389" group-title="Gjenerale",Tv Iliria
-http://cms3.fastiptv.org:80/live?channelId=61&uid=151&deviceMac=
-#EXTINF:-1 tvg-id="ON TV" tvg-link="" tvg-name="ON TV" tvg-logo="" group-title="Gjenerale",ON TV
-http://cms3.fastiptv.org:80/live?channelId=70&uid=151&deviceMac=
-#EXTINF:-1 tvg-id="DASMA TV" tvg-link="" tvg-name="DASMA TV" tvg-logo="http://dasmatv.com/web/file/2014/11/logo.png" group-title="Gjenerale",DASMA TV
-http://cms3.fastiptv.org:80/live?channelId=72&uid=151&deviceMac=
-#EXTINF:-1 tvg-id="DIASPORA TV" tvg-link="" tvg-name="DIASPORA TV" tvg-logo="" group-title="Gjenerale",DIASPORA TV
-http://cms3.fastiptv.org:80/live?channelId=68&uid=151&deviceMac=
-#EXTINF:-1 tvg-id="TV Llapi" tvg-link="" tvg-name="TV Llapi" tvg-logo="" group-title="Gjenerale",TV Llapi
-http://cms3.fastiptv.org:80/live?channelId=74&uid=151&deviceMac=
-#EXTINF:-1 tvg-id="TvBesa" tvg-link="" tvg-name="TvBesa" tvg-logo="http://ediku.biz/tvbesa/wp-content/uploads/2015/03/logo.png" group-title="Gjenerale",TvBesa
-http://cms3.fastiptv.org:80/live?channelId=64&uid=151&deviceMac=
-#EXTINF:-1 tvg-id="TV LIRIA" tvg-link="" tvg-name="TV LIRIA" tvg-logo="https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xaf1/v/t1.0-1/p160x160/10305435_772590466093693_2806351433215594303_n.jpg?oh=16ed84153833c655525ce7ff1c62a751&oe=56AB844D&__gda__=1449732849_3f409770cbe5e77f31a8fa5811161ded" group-title="Gjenerale",TV LIRIA
-http://cms3.fastiptv.org:80/live?channelId=76&uid=151&deviceMac=
-#EXTINF:-1 tvg-id="TV MITROVICA" tvg-link="" tvg-name="TV MITROVICA" tvg-logo="" group-title="Gjenerale",TV MITROVICA
-http://cms3.fastiptv.org:80/live?channelId=73&uid=151&deviceMac=
-#EXTINF:-1 tvg-id="SYRI VISION" tvg-link="" tvg-name="SYRI VISION" tvg-logo="" group-title="Gjenerale",SYRI VISION
-http://cms3.fastiptv.org:80/live?channelId=77&uid=151&deviceMac=
-#EXTINF:-1 tvg-id="FIRST CHANNEL" tvg-link="" tvg-name="FIRST CHANNEL" tvg-logo="http://www.sat-address.com/f/pics/logotipi/First-Channel-Kosovo_o.jpg" group-title="Gjenerale",FIRST CHANNEL
-http://cms3.fastiptv.org:80/live?channelId=78&uid=151&deviceMac=
-#EXTINF:-1 tvg-id="TV OPINIONI" tvg-link="" tvg-name="TV OPINIONI" tvg-logo="http://www.tv-opinion.com/WebFajllat/English/Televizioni%20OPINION.jpg" group-title="Gjenerale",TV OPINIONI
-http://cms3.fastiptv.org:80/live?channelId=79&uid=151&deviceMac=
-#EXTINF:-1 tvg-id="TV TEMA" tvg-link="" tvg-name="TV TEMA" tvg-logo="https://yt3.ggpht.com/-Ev2d2RjTiY4/AAAAAAAAAAI/AAAAAAAAAAA/sbh05EACZ4U/s100-c-k-no/photo.jpg" group-title="Gjenerale",TV TEMA
-http://cms3.fastiptv.org:80/live?channelId=80&uid=151&deviceMac=
-#EXTINF:-1 tvg-id="TV VALI" tvg-link="" tvg-name="TV VALI" tvg-logo="https://yt3.ggpht.com/-etQwFwaxWjU/AAAAAAAAAAI/AAAAAAAAAAA/1K0bU5i7kPk/s100-c-k-no/photo.jpg" group-title="Gjenerale",TV VALI
-http://cms3.fastiptv.org:80/live?channelId=81&uid=151&deviceMac=
-#EXTINF:-1 tvg-id="FAX News" tvg-link="" tvg-name="FAX News" tvg-logo="" group-title="Gjenerale",FAX News
-http://cms3.fastiptv.org:80/live?channelId=82&uid=151&deviceMac=
-#EXTINF:-1 tvg-id="TRING SPORT NEWS" tvg-link="" tvg-name="TRING SPORT NEWS" tvg-logo="http://m.kooora.com/images/logo_sports/tring1.jpg" group-title="Sport",TRING SPORT NEWS
-http://cms3.fastiptv.org:80/live?channelId=32&uid=151&deviceMac=
-#EXTINF:-1 tvg-id="TRING SPORT1" tvg-link="" tvg-name="TRING SPORT1" tvg-logo="https://pbs.twimg.com/profile_images/500213899975618563/FvCgOwUs_400x400.jpeg" group-title="Sport",TRING SPORT1
-http://cms3.fastiptv.org:80/live?channelId=83&uid=151&deviceMac=
-#EXTINF:-1 tvg-id="TRING SPORT2" tvg-link="" tvg-name="TRING SPORT2" tvg-logo="https://pbs.twimg.com/profile_images/500213899975618563/FvCgOwUs_400x400.jpeg" group-title="Sport",TRING SPORT2
-http://cms3.fastiptv.org:80/live?channelId=84&uid=151&deviceMac=
-#EXTINF:-1 tvg-id="TRING SPORT3" tvg-link="" tvg-name="TRING SPORT3" tvg-logo="https://pbs.twimg.com/profile_images/500213899975618563/FvCgOwUs_400x400.jpeg" group-title="Sport",TRING SPORT3
-http://cms3.fastiptv.org:80/live?channelId=87&uid=151&deviceMac=
-#EXTINF:-1 tvg-id="TRING SPORT4" tvg-link="" tvg-name="TRING SPORT4" tvg-logo="https://pbs.twimg.com/profile_images/500213899975618563/FvCgOwUs_400x400.jpeg" group-title="Sport",TRING SPORT4
-http://cms3.fastiptv.org:80/live?channelId=86&uid=151&deviceMac=
-#EXTINF:-1 tvg-id="Tring International" tvg-link="" tvg-name="Tring International" tvg-logo="" group-title="Gjenerale",Tring International
-http://cms3.fastiptv.org:80/live?channelId=88&uid=151&deviceMac=
-#EXTINF:-1 tvg-id="TELESPORT" tvg-link="" tvg-name="TELESPORT" tvg-logo="http://telesport.al/wp-content/themes/telesport-albania/images/logo.png" group-title="Sport",TELESPORT
-http://cms3.fastiptv.org:80/live?channelId=85&uid=151&deviceMac=
-#EXTINF:-1 tvg-id="EuroSport2" tvg-link="" tvg-name="EuroSport2" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/4/4f/Eurosport_2_logo.svg" group-title="Sport",EuroSport2
-http://cms3.fastiptv.org:80/live?channelId=91&uid=151&deviceMac=
-#EXTINF:-1 tvg-id="TEST2" tvg-link="" tvg-name="TEST2" tvg-logo="" group-title="Sport",TEST2 - TEST2
-http://cms3.fastiptv.org:80/live?channelId=106&uid=151&deviceMac=
-#EXTINF:-1 tvg-id="TEST3" tvg-link="" tvg-name="TEST3" tvg-logo="" group-title="Sport",TEST3 - http://goni.zapto.org:8000/live/Testjj/KafifEmahC/714.ts
-http://cms3.fastiptv.org:80/live?channelId=107&uid=151&deviceMac=
-#EXTINF:-1 tvg-id="TEST4" tvg-link="" tvg-name="TEST4" tvg-logo="" group-title="Sport",TEST4 - http://goni.zapto.org:8000/live/Testtttt/3JyrrkJqq9/710.ts
-http://cms3.fastiptv.org:80/live?channelId=108&uid=151&deviceMac=
-#EXTINF:-1 tvg-id="Test5" tvg-link="" tvg-name="Test5" tvg-logo="http://media.port-network.com/picture/instance_4/6030933_4.jpg" group-title="Sport",Test5 - Sport Club1
-http://cms3.fastiptv.org:80/live?channelId=93&uid=151&deviceMac=
-#EXTINF:-1 tvg-id="Test6" tvg-link="" tvg-name="Test6" tvg-logo="http://www.365ontv.com/wp-content/uploads/2015/10/Arena-Sport-2-HR_o.jpg" group-title="Sport",Test6 - SportClub2
-http://cms3.fastiptv.org:80/live?channelId=90&uid=151&deviceMac=
-#EXTINF:-1 tvg-id="Test7" tvg-link="" tvg-name="Test7" tvg-logo="http://www.open.telekom.rs/Dokumenta/TelekomCentar/iptv_files/logotipi/arena-sport-3-150.gif" group-title="Sport",Test7 - SportClub 3
-http://cms3.fastiptv.org:80/live?channelId=92&uid=151&deviceMac=
-#EXTINF:-1 tvg-id="ProSiebenMax" tvg-link="" tvg-name="ProSiebenMax" tvg-logo="http://vignette4.wikia.nocookie.net/tenkai-knights/images/b/bb/ProSieben_Maxx_Logo.jpg/revision/latest?cb=20140701151411" group-title="Filma",ProSiebenMax - ProSiebenMax
-http://cms3.fastiptv.org:80/live?channelId=98&uid=151&deviceMac=
-#EXTINF:-1 tvg-id="ProSieben" tvg-link="" tvg-name="ProSieben" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/b/bf/Pro7_2.png/revision/latest?cb=20110414092622" group-title="Filma",ProSieben - ProSieben
-http://cms3.fastiptv.org:80/live?channelId=96&uid=151&deviceMac=
-#EXTINF:-1 tvg-id="RTL" tvg-link="" tvg-name="RTL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/RTL_Logo.svg" group-title="Gjenerale",RTL - RTL
-http://cms3.fastiptv.org:80/live?channelId=95&uid=151&deviceMac=
-#EXTINF:-1 tvg-id="RTL2" tvg-link="" tvg-name="RTL2" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/5/52/Rtl2_logo_2002.svg/revision/latest/scale-to-width-down/200?cb=20110325195918" group-title="Gjenerale",RTL2 - Rtl2
-http://cms3.fastiptv.org:80/live?channelId=89&uid=151&deviceMac=
-#EXTINF:-1 tvg-id="KabelEins" tvg-link="" tvg-name="KabelEins" tvg-logo="" group-title="Filma",KabelEins - KabelEins
-http://cms3.fastiptv.org:80/live?channelId=94&uid=151&deviceMac=
-#EXTINF:-1 tvg-id="Sat1" tvg-link="" tvg-name="Sat1" tvg-logo="http://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/0021/5450/brand.gif?itok=B12Gehy5" group-title="Filma",Sat1 - Sat1
-http://cms3.fastiptv.org:80/live?channelId=97&uid=151&deviceMac=
-#EXTINF:-1 tvg-id="N24" tvg-link="" tvg-name="N24" tvg-logo="http://polpix.sueddeutsche.com/polopoly_fs/1.953402.1355874096!/httpImage/image.jpg_gen/derivatives/860x860/image.jpg" group-title="Dokumentar",N24 - N24
-http://cms3.fastiptv.org:80/live?channelId=101&uid=151&deviceMac=
-#EXTINF:-1 tvg-id="Vox" tvg-link="" tvg-name="Vox" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/a/ac/VOX_Logo.png/revision/latest?cb=20150928151844" group-title="Filma",Vox - Vox
-http://cms3.fastiptv.org:80/live?channelId=103&uid=151&deviceMac=
-#EXTINF:-1 tvg-id="EuroNews" tvg-link="" tvg-name="EuroNews" tvg-logo="http://seeklogo.com/images/E/EuroNews-logo-2C981071C8-seeklogo.com.gif" group-title="Lajme",EuroNews - EuroNews
-http://cms3.fastiptv.org:80/live?channelId=99&uid=151&deviceMac=
-#EXTINF:-1 tvg-id="Rai1" tvg-link="" tvg-name="Rai1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Rai_1_logo.svg/2000px-Rai_1_logo.svg.png" group-title="Filma",Rai1 - Rai1
-http://cms3.fastiptv.org:80/live?channelId=102&uid=151&deviceMac=
-#EXTINF:-1 tvg-id="Rai2" tvg-link="" tvg-name="Rai2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/RAI2_2010_Logo.svg/1280px-RAI2_2010_Logo.svg.png" group-title="Filma",Rai2 - Rai2
-http://cms3.fastiptv.org:80/live?channelId=104&uid=151&deviceMac=
-#EXTINF:-1 tvg-id="Rai3" tvg-link="" tvg-name="Rai3" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/9/99/Logo_Rai_3_2010.svg.png/revision/latest?cb=20151129181104" group-title="Filma",Rai3 - Rai3
-http://cms3.fastiptv.org:80/live?channelId=105&uid=151&deviceMac=
-#EXTINF:-1 tvg-id="RaiNews" tvg-link="" tvg-name="RaiNews" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/d/d6/Logo_Rainews_it.svg/516px-Logo_Rainews_it.svg.png" group-title="Lajme",RaiNews - RaiNews
-http://cms3.fastiptv.org:80/live?channelId=100&uid=151&deviceMac=
-#EXTINF:-1 tvg-id="Test1" tvg-link="" tvg-name="Test1" tvg-logo="" group-title="Sport",Test1
-http://cms3.fastiptv.org:80/live?channelId=112&uid=151&deviceMac=
-#EXTINF:-1 tvg-id="test8" tvg-link="" tvg-name="test8" tvg-logo="" group-title="Sport",test8
-http://cms3.fastiptv.org:80/live?channelId=113&uid=151&deviceMac=
-#EXTINF:-1 tvg-id="Test9" tvg-link="" tvg-name="Test9" tvg-logo="" group-title="Sport",Test9
-http://cms3.fastiptv.org:80/live?channelId=114&uid=151&deviceMac=
-
-
-
-
-
 #EXTINF:-1,[COLOR yellow]>>>  SPORT  <<<[/COLOR]
 skip
 
 
-#EXTINF:-1,bein 1 HD
-http://194.99.23.250:8099/2.ch?u=tvip:p=tvip
-#EXTINF:-1,bein 1 SD
-http://194.99.23.250:8099/3.ch?u=tvip:p=tvip
-#EXTINF:-1,bein 2 HD
-http://194.99.23.250:8099/4.ch?u=tvip:p=tvip
-#EXTINF:-1,bein 2 SD
-http://194.99.23.250:8099/5.ch?u=tvip:p=tvip
-#EXTINF:-1,bein 3 HD
-http://194.99.23.250:8099/6.ch?u=tvip:p=tvip
-#EXTINF:-1,bein 3 SD
-http://194.99.23.250:8099/7.ch?u=tvip:p=tvip
-#EXTINF:-1,bein 4 HD
-http://194.99.23.250:8099/8.ch?u=tvip:p=tvip
-#EXTINF:-1,bein 4 SD
-http://194.99.23.250:8099/9.ch?u=tvip:p=tvip
-#EXTINF:-1,bein 5 HD
-http://194.99.23.250:8099/10.ch?u=tvip:p=tvip
-#EXTINF:-1,bein 5 SD
-http://194.99.23.250:8099/11.ch?u=tvip:p=tvip
-#EXTINF:-1,bein 6 HD
-http://194.99.23.250:8099/12.ch?u=tvip:p=tvip
-#EXTINF:-1,bein 6 SD
-http://194.99.23.250:8099/13.ch?u=tvip:p=tvip
+#EXTINF:-1,nbatv
+http://ne002.nscache.info/live/nbatv/chunks.m3u8
+
+
+#EXTINF:-1,Arena Sport 1 
+http://46.40.5.99:8000/arena_1_high
+#EXTINF:-1,Arena Sport 2 
+http://46.40.5.99:8000/arena_2_high
+#EXTINF:-1,Arena Sport 3 
+http://46.40.5.99:8000/arena_3_high
+#EXTINF:-1,Arena Sport 4 
+http://46.40.5.99:8000/arena_4_high
+#EXTINF:-1,Sport Klub 1 
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/7072.m3u8
+#EXTINF:-1,Sport Klub 2 
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/7073.m3u8
+#EXTINF:-1,Sport Klub 3 
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/7074.m3u8
 
 
 #EXTINF:-1,DE:: Telekom Fussball 1
@@ -684,15 +405,6 @@ http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8_02.m3u8
 http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8_04.m3u8
 #EXTINF:-1,Astro Arena
 http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8_03.m3u8
-
-
-#EXTINF:-1,Ten Sports 3
-http://163.172.86.57:3135/Ten/3/index.m3u8
-#EXTINF:-1,Ten Sports 2
-http://163.172.86.57:3135/Ten/2/index.m3u8
-#EXTINF:-1,Ten Sports 1
-http://163.172.86.57:3135/Ten/1/index.m3u8
-
 
 
 #EXTINF:0,DE: ORF SPORT
@@ -761,43 +473,10 @@ http://63.237.48.3/ios/CHANNEL_ONE_TV/CHANNEL_ONE_TV.m3u8
 #EXTINF:0,US: RED BULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
-#EXTINF:0,US: SPORTS
-http://wse.planeta-online.tv:1935/live/channel_3/chunklist.m3u8
+
 
 #EXTINF:0,WW: FISHING NETWORK
 http://161.0.157.8/PLTV/88888888/224/3221226811/index.m3u8
-
-#EXTINF:-1,Eurosport1
-http://hlstv.kem.211.ru/239.211.211.115/stream.m3u8
-
-#EXTINF:-1,eurosport1
-http://gorod.tv/s/live/501/86.169.51.136/1/0.m3u8
-#EXTINF:-1,eurosport2
-http://gorod.tv/s/live/502/86.169.51.136/1/0.m3u8
-
-
-
-
-
-#EXTINF:0,Arena 1 HD
-http://93.87.85.10/PLTV/88888888/224/3221226643/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9vmgYnhd%2FQXVMovIFPNVfeGKQqJOc1YO5YOmiz7KWGr0%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100002275%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
-#EXTINF:0,Arena 2 HD
-http://93.87.85.10/PLTV/88888888/224/3221226662/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9vmgYnhd%2FQXVMovIFPNVfeHaNbgVK65Yvvvdjpa6aN2o%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100001966%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
-#EXTINF:0,Arena 3 HD
-http://93.87.85.10/PLTV/88888888/224/3221226664/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9vmgYnhd%2FQXVMovIFPNVfeKk0gNemuqqQ2V2Ec5VWmJs%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100001967%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
-#EXTINF:0,Arena 4 HD
-http://93.87.85.10/PLTV/88888888/224/3221226661/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9vmgYnhd%2FQXVMovIFPNVfeK8DY8Ho%2FE6St%2BVWSvqrtEY%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100001968%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
-#EXTINF:0,Arena 5 HD
-http://93.87.85.10/PLTV/88888888/224/3221226665/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9vmgYnhd%2FQXVMovIFPNVfeBiXPAaui6g8aIyeRBou9ik%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100001969%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
-
-
-
-#EXTINF:-1,bein sport hd
-http://ott.realplaytv.net:12388/?header=hplus&name=htv1&cdn=1
-
-
-#EXTINF:-1,FightBox HD
-http://80.87.208.158:80/dna-4571-tv-pc.m3u8
 
 #EXTINF:-1,Fight Time 
 http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8
@@ -908,26 +587,6 @@ https://www.youtube.com/watch?v=s2W8CoNP4z0&feature=youtu.be
 
 #EXTINF:-1,klape i tambure tv
 https://www.youtube.com/watch?v=CG9D8KJi6VA&feature=youtu.be
-
-
-
-
-#EXTINF:-1,VH 1
-http://80.87.208.158:80/dna-71-tv-pc.m3u8
-#EXTINF:-1,VH 1 CLASSIC
-http://80.87.208.158:80/dna-69-tv-pc.m3u8
-#EXTINF:-1,MTV HITS
-http://80.87.208.158:80/dna-67-tv-pc.m3u8
-#EXTINF:-1,MTV DANCE
-http://80.87.208.158:80/dna-68-tv-pc.m3u8
-#EXTINF:-1,MTV
-http://80.87.208.158:80/dna-70-tv-pc.m3u8
-#EXTINF:-1,RUSSIAN MUSICBOX (RU)
-http://80.87.208.158:80/dna-96-tv-pc.m3u8
-#EXTINF:-1,MTV ROCKS
-http://80.87.208.158:80/dna-99-tv-pc.m3u8
-
-
 
 #EXTINF:0,Mezzo
 http://grytsyk.iptvbot.biz/iptv/N7WN8AA7LC8CK9/707/index.m3u8
@@ -1871,23 +1530,6 @@ http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
 
 #EXTINF:-1,JASMIN TV
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
-
-
-#EXTINF:-1,HUSTLER TV
-http://80.87.208.158:80/dna-91-tv-pc.m3u8
-#EXTINF:-1,LEO TV
-http://80.87.208.158:80/dna-141-tv-pc.m3u8
-#EXTINF:-1,PRIVATE
-http://80.87.208.158:80/dna-405-tv-pc.m3u8
-#EXTINF:-1,EXSTASY HD
-http://80.87.208.158:80/dna-416-tv-pc.m3u8
-#EXTINF:-1,BRAZZERS
-http://80.87.208.158:80/dna-1302-tv-pc.m3u8
-#EXTINF:-1,EROX HD
-http://80.87.208.158:80/dna-4631-tv-pc.m3u8
-#EXTINF:-1,ERO XXX HD
-http://80.87.208.158:80/dna-4671-tv-pc.m3u8
-
 
 #EXTINF:-1,BUNGA BUNGA
 http://5.135.92.138:58143/out/u/109_1.m3u8
