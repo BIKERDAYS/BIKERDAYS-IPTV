@@ -343,6 +343,25 @@ http://141.136.14.18/kanal1/kanal1_1500/index.m3u8
 #EXTINF:-1,N1
 http://185.20.36.234:8080/stream?i=5NASdkA7imQ74SExK5xMGA&a=C2J-KsfDNkQ43uzstG1HaN69IIuhN8yyI7y66f5VFXyKNHJa4BWz0vNyVKDNmEDe7TCowHwegw-ti8G-IpqZY1SbsEvP6LLd9NXPkDaF1TpEzzRyQQVmwd5FNBt5ScRbY6a2FzzfKEefyJwEeRBgFDO97f_bEZXeeEaltcMJNnNhOK7Q3lFZrpPoT4hfqkT4F7MR0hfjqj_G_R0a8s1fPiEzqTU1eQ4qvYOFwr7wEmo7P1fF9D9RJlrD3r4SapoDHtEp2fOIhL-kIj4ygfwY7Vwhpbu5cYgjrQNyN7L40wQ&sp=n1info&u=n1info&session=e6ec35e2-496f-4e93-92eb-8a5aa9edf3c6&player=m3u8
 
+
+#EXTINF:-1,Top Channel
+http://158.69.162.115:39125/out/u/ffhfsfhfsfhgsfhsdfh.m3u8
+#EXTINF:-1,Vizion Plus HD
+http://158.69.162.115:42628/out/u/wjfidshgosg.m3u8
+#EXTINF:-1,KTV HD
+http://158.69.162.115:51846/out/u/afhfhfgahfahafh.m3u8
+#EXTINF:-1,RTK 2
+http://158.69.162.115:51846/out/u/gytrvtcwuergf5wrgw.m3u8
+#EXTINF:-1,Tring Histori
+http://158.69.162.115:51846/out/u/fjhgjfhlajhfglajhf.m3u8
+#EXTINF:-1,Tring Super
+http://158.69.162.115:51846/out/u/dgsghodahgohga.m3u8
+#EXTINF:-1,Tring 3 Plus
+http://158.69.162.115:51846/out/u/fdhghpsdfhdhfadfh.m3u8
+
+
+
+
 #EXTINF:-1,[COLOR yellow]>>>  SPORT  <<<[/COLOR]
 skip
 
@@ -365,6 +384,228 @@ http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/7072.m3u8
 http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/7073.m3u8
 #EXTINF:-1,Sport Klub 3 
 http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/7074.m3u8
+
+
+
+#EXTINF:-1,Fox Sports2
+http://203.154.243.32:8088/live/foxsport2/index.m3u8
+#EXTINF:-1,Fox Sports hd
+http://203.154.243.32:8088/live/foxsporthd/index.m3u8
+
+
+
+#EXTINF:-1,Матч! Футбол 1
+http://b31398aa.ottv.info/iptv/FCU2M3ZSVTTVFR/124/index.m3u8
+#EXTINF:-1,МАТЧ ПРЕМЬЕР
+http://b31398aa.ottv.info/iptv/FCU2M3ZSVTTVFR/531/index.m3u8
+#EXTINF:-1,KHL
+http://b31398aa.ottv.info/iptv/FCU2M3ZSVTTVFR/519/index.m3u8
+#EXTINF:-1,Матч! Футбол 3
+http://b31398aa.ottv.info/iptv/FCU2M3ZSVTTVFR/522/index.m3u8
+#EXTINF:-1,Матч! Арена
+http://b31398aa.ottv.info/iptv/FCU2M3ZSVTTVFR/528/index.m3u8
+#EXTINF:-1,Матч! Игра
+http://b31398aa.ottv.info/iptv/FCU2M3ZSVTTVFR/529/index.m3u8
+#EXTINF:-1,Матч! Футбол 2
+http://b31398aa.ottv.info/iptv/FCU2M3ZSVTTVFR/530/index.m3u8
+#EXTINF:-1,Матч ТВ
+http://b31398aa.ottv.info/iptv/FCU2M3ZSVTTVFR/535/index.m3u8
+#EXTINF:-1,Eurosport 1
+http://b31398aa.ottv.info/iptv/FCU2M3ZSVTTVFR/141/index.m3u8
+#EXTINF:-1,Extreme Sports
+http://b31398aa.ottv.info/iptv/FCU2M3ZSVTTVFR/144/index.m3u8
+#EXTINF:-1,Матч! Боец
+http://b31398aa.ottv.info/iptv/FCU2M3ZSVTTVFR/150/index.m3u8
+#EXTINF:-1,Viasat Sport
+http://b31398aa.ottv.info/iptv/FCU2M3ZSVTTVFR/160/index.m3u8
+#EXTINF:-1,Бокс ТВ
+http://b31398aa.ottv.info/iptv/FCU2M3ZSVTTVFR/870/index.m3u8
+
+#EXTINF:-1,Матч!
+http://xristo2121.ottv.info/iptv/LZBBFSG94BALT2/212/index.m3u8
+#EXTINF:-1,Матч! Арена
+http://xristo2121.ottv.info/iptv/LZBBFSG94BALT2/207/index.m3u8
+#EXTINF:-1,Матч! Игра
+http://xristo2121.ottv.info/iptv/LZBBFSG94BALT2/225/index.m3u8
+#EXTINF:-1,Матч! Наш спорт
+http://xristo2121.ottv.info/iptv/LZBBFSG94BALT2/107/index.m3u8
+#EXTINF:-1,Матч! Планета
+http://xristo2121.ottv.info/iptv/LZBBFSG94BALT2/123/index.m3u8
+#EXTINF:-1,Матч Наш футбол
+http://xristo2121.ottv.info/iptv/LZBBFSG94BALT2/220/index.m3u8
+#EXTINF:-1,Матч Футбол 1
+http://xristo2121.ottv.info/iptv/LZBBFSG94BALT2/222/index.m3u8
+#EXTINF:-1,Матч Футбол 2
+http://xristo2121.ottv.info/iptv/LZBBFSG94BALT2/211/index.m3u8
+#EXTINF:-1,Матч Футбол 3
+http://xristo2121.ottv.info/iptv/LZBBFSG94BALT2/206/index.m3u8
+#EXTINF:-1,EuroSport 1
+http://xristo2121.ottv.info/iptv/LZBBFSG94BALT2/141/index.m3u8
+
+#EXTINF:-1,Arena
+http://persik.by/stream/176/296165/261.m3u8
+#EXTINF:-1,Match
+http://persik.by/stream/176/296165/276.m3u8
+#EXTINF:-1,Match Fudbal 1 rus
+http://persik.by/stream/176/296165/10266.m3u8
+#EXTINF:-1,Match Fudbal 2 rus
+http://persik.by/stream/176/296165/10267.m3u8
+#EXTINF:-1,Match Fudbal 3 rus
+http://persik.by/stream/6431/299492/10268.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="SS 1 HD" tvg-logo="http://www.firstonetv.net/images/logos/al/SUPERSPORT1.png" group-title="SPORT",SS 1 HD
+http://premiumtv.eu:8000/live/JEVBNMFKhr/jB57piplxg/215.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="SS 2 HD" tvg-logo="http://www.drivehq.com/file/DFPublishFile.aspx/FileID1975915768/***hbmwdvq55h3q/SS2.png" group-title="SPORT",SS 2 HD
+http://premiumtv.eu:8000/live/JEVBNMFKhr/jB57piplxg/214.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="SS 3 HD" tvg-logo="http://www.drivehq.com/file/DFPublishFile.aspx/FileID1975915790/***03axmxmnkxb7/SS3.png" group-title="SPORT",SS 3 HD
+http://premiumtv.eu:8000/live/JEVBNMFKhr/jB57piplxg/213.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="SS 4 HD" tvg-logo="http://www.drivehq.com/file/DFPublishFile.aspx/FileID1975915806/***9vn2eph05r9y/SS4.png" group-title="SPORT",SS 4 HD
+http://premiumtv.eu:8000/live/JEVBNMFKhr/jB57piplxg/212.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="SS 5 HD" tvg-logo="http://www.ramalin.com/wp-content/uploads/2015/08/supersport.jpg" group-title="SPORT",SS 5 HD
+http://premiumtv.eu:8000/live/JEVBNMFKhr/jB57piplxg/211.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="SUPER SPORT 1" tvg-logo="http://www.firstonetv.net/images/logos/al/SUPERSPORT1.png" group-title="SPORT",SUPER SPORT 1
+http://premiumtv.eu:8000/live/JEVBNMFKhr/jB57piplxg/997.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="SUPER SPORT 2" tvg-logo="http://www.drivehq.com/file/DFPublishFile.aspx/FileID1975915768/***hbmwdvq55h3q/SS2.png" group-title="SPORT",SUPER SPORT 2
+http://premiumtv.eu:8000/live/JEVBNMFKhr/jB57piplxg/998.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="SUPER SPORT 3" tvg-logo="http://www.drivehq.com/file/DFPublishFile.aspx/FileID1975915790/***03axmxmnkxb7/SS3.png" group-title="SPORT",SUPER SPORT 3
+http://premiumtv.eu:8000/live/JEVBNMFKhr/jB57piplxg/999.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="SUPER SPORT 4" tvg-logo="http://www.drivehq.com/file/DFPublishFile.aspx/FileID1975915806/***9vn2eph05r9y/SS4.png" group-title="SPORT",SUPER SPORT 4
+http://premiumtv.eu:8000/live/JEVBNMFKhr/jB57piplxg/1000.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport 1 Kosova" tvg-logo="https://lh3.googleusercontent.com/-Cy0_FX13kz4/U2TtGbPAjpI/AAAAAAAABOI/rId4V-PHgxc/w400-h200-no/supersportkosova1.png" group-title="SPORT",SuperSport 1 Kosova
+http://premiumtv.eu:8000/live/JEVBNMFKhr/jB57piplxg/208.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport 2 Kosova" tvg-logo="https://lh3.googleusercontent.com/-Z8L5FxEdaQI/U2TtHFBPhzI/AAAAAAAABOQ/01S_78Iqxxw/w400-h200-no/supersportkosova2.png" group-title="SPORT",SuperSport 2 Kosova
+http://premiumtv.eu:8000/live/JEVBNMFKhr/jB57piplxg/207.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Champions League 1" tvg-logo="http://www.stickpng.com/assets/images/5842fe18a6515b1e0ad75b3d.png" group-title="SPORT",Champions League 1
+http://premiumtv.eu:8000/live/JEVBNMFKhr/jB57piplxg/753.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Champions League 2" tvg-logo="http://www.stickpng.com/assets/images/5842fe18a6515b1e0ad75b3d.png" group-title="SPORT",Champions League 2
+http://premiumtv.eu:8000/live/JEVBNMFKhr/jB57piplxg/754.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TSport News HD" tvg-logo="https://diasporatv.com/uploads/dtv-channel-tringsportnews.png" group-title="SPORT",TSport News HD
+http://premiumtv.eu:8000/live/JEVBNMFKhr/jB57piplxg/206.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TSport 1 HD" tvg-logo="http://www.tring.al/manager/includes/picker/images/sport1-hd.png" group-title="SPORT",TSport 1 HD
+http://premiumtv.eu:8000/live/JEVBNMFKhr/jB57piplxg/205.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Tring Sport 2 HD" tvg-logo="http://www.tring.al/manager/includes/picker/images/sport2-hd.png" group-title="SPORT",Tring Sport 2 HD
+http://premiumtv.eu:8000/live/JEVBNMFKhr/jB57piplxg/204.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TSport 3 HD" tvg-logo="http://www.tring.al/manager/includes/picker/images/sport3-hd.png" group-title="SPORT",TSport 3 HD
+http://premiumtv.eu:8000/live/JEVBNMFKhr/jB57piplxg/203.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TSport 4 HD" tvg-logo="http://www.tring.al/manager/includes/picker/images/sport4-hd.png" group-title="SPORT",TSport 4 HD
+http://premiumtv.eu:8000/live/JEVBNMFKhr/jB57piplxg/202.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="K SPORT 1 HD" tvg-logo="https://image.ibb.co/dAb83H/rsz_28504509_10155115955391160_291629078_o.png" group-title="SPORT",K SPORT 1 HD
+http://premiumtv.eu:8000/live/JEVBNMFKhr/jB57piplxg/810.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="K SPORT 2 HD" tvg-logo="https://image.ibb.co/dccy3H/rsz_28499874_10155115955381160_174888096_o.png" group-title="SPORT",K SPORT 2 HD
+http://premiumtv.eu:8000/live/JEVBNMFKhr/jB57piplxg/1427.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="K SPORT 3 HD" tvg-logo="https://image.ibb.co/mj2vHc/rsz_28461594_10155115955366160_1380480210_o.png" group-title="SPORT",K SPORT 3 HD
+http://premiumtv.eu:8000/live/JEVBNMFKhr/jB57piplxg/1514.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="K SPORT 4 HD" tvg-logo="https://image.ibb.co/cv1TKc/rsz_29003618_10155167652656160_1167793748_n.png" group-title="SPORT",K SPORT 4 HD
+http://premiumtv.eu:8000/live/JEVBNMFKhr/jB57piplxg/1724.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="K SPORT 5 HD" tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/3781997_logo_kujtesa_sport_1.png" group-title="SPORT",K SPORT 5 HD
+http://premiumtv.eu:8000/live/JEVBNMFKhr/jB57piplxg/2019.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 1 SRB" tvg-logo="http://www.tvarenasport.com/images/logo-arenaA1-big.png" group-title="SPORT",ARENA SPORT 1 SRB
+http://premiumtv.eu:8000/live/JEVBNMFKhr/jB57piplxg/1562.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 2 SRB" tvg-logo="https://4.bp.blogspot.com/-MTdM4t8ybyc/WPVCdj87UoI/AAAAAAAAFPU/BoKVZEh4bzEl-_qTVcwLSl2q-8Daw_wGQCLcB/s1600/arena_sport_rs_2.png" group-title="SPORT",ARENA SPORT 2 SRB
+http://premiumtv.eu:8000/live/JEVBNMFKhr/jB57piplxg/1563.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 3 SRB" tvg-logo="https://4.bp.blogspot.com/-0vVZNo_h5mU/WPVCab0_3BI/AAAAAAAAFPQ/3esrVqVVnpAspLkg7jV3DfeyToVoilcJwCLcB/s1600/arena_sport_rs_3.png" group-title="SPORT",ARENA SPORT 3 SRB
+http://premiumtv.eu:8000/live/JEVBNMFKhr/jB57piplxg/1564.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 4 SRB" tvg-logo="http://www.tvarenasport.com/images/logo-arenaA4-big.png" group-title="SPORT",ARENA SPORT 4 SRB
+http://premiumtv.eu:8000/live/JEVBNMFKhr/jB57piplxg/1565.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 5 SRB" tvg-logo="https://3.bp.blogspot.com/-PeOPC8TqGkg/WPVCZBeNNWI/AAAAAAAAFPM/GPmErvN4wZw9jXd6iw1HUWO_p-nkMTYUgCLcB/s1600/arena_sport_rs_5.png" group-title="SPORT",ARENA SPORT 5 SRB
+http://premiumtv.eu:8000/live/JEVBNMFKhr/jB57piplxg/1566.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Eurosport_logo.svg/220px-Eurosport_logo.svg.png" group-title="SPORT",Eurosport 1
+http://premiumtv.eu:8000/live/JEVBNMFKhr/jB57piplxg/201.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 2" tvg-logo="http://freevectorlogo.net/wp-content/uploads/2012/10/eurosport-logo-vector-400x400.png" group-title="SPORT",Eurosport 2
+http://premiumtv.eu:8000/live/JEVBNMFKhr/jB57piplxg/200.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Eurosport_logo.svg/220px-Eurosport_logo.svg.png" group-title="SPORT",EUROSPORT 1 HD
+http://premiumtv.eu:8000/live/JEVBNMFKhr/jB57piplxg/1674.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 2 HD" tvg-logo="http://freevectorlogo.net/wp-content/uploads/2012/10/eurosport-logo-vector-400x400.png" group-title="SPORT",EUROSPORT 2 HD
+http://premiumtv.eu:8000/live/JEVBNMFKhr/jB57piplxg/1675.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 1 HR" tvg-logo="http://allfootballvideo.com/images/channel-logo/Arena-Sport-1.png" group-title="SPORT",ARENA SPORT 1 HR
+http://premiumtv.eu:8000/live/JEVBNMFKhr/jB57piplxg/199.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 2 HR" tvg-logo="http://2.bp.blogspot.com/-t4zVK3CE_4o/ViT6T967RhI/AAAAAAAAALo/LzMu7Vwx3vg/s1600/Arena%2BSport%2B2%2BHD%2B-%2BAwesome%2BFoot.png" group-title="SPORT",ARENA SPORT 2 HR
+http://premiumtv.eu:8000/live/JEVBNMFKhr/jB57piplxg/198.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 3 HR" tvg-logo="https://4.bp.blogspot.com/-0vVZNo_h5mU/WPVCab0_3BI/AAAAAAAAFPQ/3esrVqVVnpAspLkg7jV3DfeyToVoilcJwCLcB/s1600/arena_sport_rs_3.png" group-title="SPORT",ARENA SPORT 3 HR
+http://premiumtv.eu:8000/live/JEVBNMFKhr/jB57piplxg/197.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 4 HR" tvg-logo="https://3.bp.blogspot.com/-vS9ltiJ8Qj8/WPVChgieuFI/AAAAAAAAFPc/wkVPaZiKBVEb-MD_hE2wXAzzRz85jeuPACLcB/s1600/arena_sport_hr_4.png" group-title="SPORT",ARENA SPORT 4 HR
+http://premiumtv.eu:8000/live/JEVBNMFKhr/jB57piplxg/196.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 5 HR" tvg-logo="https://3.bp.blogspot.com/-PeOPC8TqGkg/WPVCZBeNNWI/AAAAAAAAFPM/GPmErvN4wZw9jXd6iw1HUWO_p-nkMTYUgCLcB/s1600/arena_sport_rs_5.png" group-title="SPORT",ARENA SPORT 5 HR
+http://premiumtv.eu:8000/live/JEVBNMFKhr/jB57piplxg/195.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="FIGHT BOX" tvg-logo="http://spiintl.com/data/files/kcfinderUploadDir/images/logo/FightBoxHD-logo.png" group-title="SPORT",FIGHT BOX
+http://premiumtv.eu:8000/live/JEVBNMFKhr/jB57piplxg/1405.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Fight Network" tvg-logo="http://yiptv.com/live-tv/wp-content/uploads/2017/07/newapp-icon-fight-network-transparent.png" group-title="SPORT",Fight Network
+http://premiumtv.eu:8000/live/JEVBNMFKhr/jB57piplxg/191.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Sky_Sport_News_HD_Logo_2016.png" group-title="SPORT",Sky Sport News
+http://premiumtv.eu:8000/live/JEVBNMFKhr/jB57piplxg/1764.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 1 HD" tvg-logo="http://thedantv.co.uk/Channel_Logos/Sky_Sports_1.png" group-title="SPORT",Sky Sport 1 HD
+http://premiumtv.eu:8000/live/JEVBNMFKhr/jB57piplxg/189.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 2 HD" tvg-logo="https://content.invisioncic.com/Msigames/monthly_2016_12/Sky_Sports_2_2010.png.2a8c198b91d1af76cd88577393b5f486.png" group-title="SPORT",Sky Sport 2 HD
+http://premiumtv.eu:8000/live/JEVBNMFKhr/jB57piplxg/188.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Sky Bundesliga 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/Sky_Sport_Bundesliga_HD_Logo_2016.png" group-title="SPORT",Sky Bundesliga 1 HD
+http://premiumtv.eu:8000/live/JEVBNMFKhr/jB57piplxg/187.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Sky Bundesliga 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/Sky_Sport_Bundesliga_HD_Logo_2016.png" group-title="SPORT",Sky Bundesliga 2 HD
+http://premiumtv.eu:8000/live/JEVBNMFKhr/jB57piplxg/186.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Sky BundesLiga 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/Sky_Sport_Bundesliga_HD_Logo_2016.png" group-title="SPORT",Sky BundesLiga 3
+http://premiumtv.eu:8000/live/JEVBNMFKhr/jB57piplxg/184.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Sky BundesLiga 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/Sky_Sport_Bundesliga_HD_Logo_2016.png" group-title="SPORT",Sky BundesLiga 4
+http://premiumtv.eu:8000/live/JEVBNMFKhr/jB57piplxg/183.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Sky BundesLiga 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/Sky_Sport_Bundesliga_HD_Logo_2016.png" group-title="SPORT",Sky BundesLiga 5
+http://premiumtv.eu:8000/live/JEVBNMFKhr/jB57piplxg/182.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Real Madrid" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Escudo_Real_Madrid_1908.png" group-title="SPORT",Real Madrid
+http://premiumtv.eu:8000/live/JEVBNMFKhr/jB57piplxg/356.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="SRF 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/SRF_1HD.svg/2000px-SRF_1HD.svg.png" group-title="INTERNACIONAL",SRF 1 HD
+http://premiumtv.eu:8000/live/JEVBNMFKhr/jB57piplxg/166.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="SRF 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Srf_zweiHD.svg/2000px-Srf_zweiHD.svg.png" group-title="INTERNACIONAL",SRF 2 HD
+http://premiumtv.eu:8000/live/JEVBNMFKhr/jB57piplxg/1833.m3u8
+
 
 
 #EXTINF:-1,DE:: Telekom Fussball 1
