@@ -393,12 +393,176 @@ http://203.154.243.32:8088/live/foxsport2/index.m3u8
 http://203.154.243.32:8088/live/foxsporthd/index.m3u8
 
 
-
-#EXTINF:-1,BEIN_SPORT_5_HD_1080p
-http://185.2.83.218:8000/sv/sv3121sv/3107?token=TUQLWURfEw9GA1UBXA8EBgALCABbUFIGXQUEAQUJB1NVBQcOVQIEUQYWGhRLTEZSUlVmXwZDXlBVAVIeFk1GB0Q5ClwVDRMGVgQPAwEaGBVHUVRTQFtVVlACXAACCgBaGkQTUVMVCxdRAAAAGhQWUktMXEQMAAg8AFQTW1ddF1hYEw9UGxVeWztQU1tZVlAVCRoJFE5DDRAUE18QdkpcFl8VCxhjUl1QB1tbW01WXVRSTFBZDBJEMyhyRx4WWlwWRAcXXRUNEwRXDAcDGhQWVFxNV0IQGEZZRnYnEBgaUBpCAw1LXlhfF14WQkUaFBZeQGdLUxEVFgYFXABAFgIXUhRKQVVWT25WC1pYU1tMXVhdSxsMQFBGT0ZcClxdTFoQaRYKXBUNEwRUDQEHGkU=
-#EXTINF:-1,BEIN_SPORT_7_HD_1080p
-http://185.2.83.218:8000/sv/sv3121sv/3105?token=TUQLWURfEw9GVlAAWgwABAYJW1BaBQdTUFVWV1ANVFAABFoIUgYGB1wWGhRLTEZSUlVmXwZDXlBVAVAeFk1GB0Q5ClwVDRMGVgQPAwEaGBVHUVRTQFtVVlACXAACCgxTGkQTUVMVCxdWAgMDGhQWUktMXEQMAAg8AFQTW1ddF1hYEw9UGxVeWztQU1tZVlAVCRoJFE5DDRAUE18QdkpcFl8VCxhjUl1QB1tbW01WXVRSTFBZDBJEMyhyRx4WWlwWRAcXXRUNEw1SAw8UFBpXWEZWTUQbQ15BI3NHHhZdTRZTCBBRWFkTD0ZARRQUGl1EbEpcRRYTAQIJVBcQDhoFQBpEDllPaFJaClpTVUxRW1lAGgMUU0NIQQleC1tAV0c9Rg8HGg0VAAVdDQQURQ==
-
+#EXTINF:-1,ARGENTINA | Fox Sports 2 HD
+http://live.superteve.com:33527/live/jaimepanama/URjpkjr6fB/695.m3u8
+#EXTINF:-1,ARGENTINA | Fox Sports 1 HD
+http://live.superteve.com:33527/live/jaimepanama/URjpkjr6fB/703.m3u8
+#EXTINF:-1,Bein Sports 1
+http://live.superteve.com:33527/live/jaimepanama/URjpkjr6fB/501.m3u8
+#EXTINF:-1,Bein Sports 10
+http://live.superteve.com:33527/live/jaimepanama/URjpkjr6fB/500.m3u8
+#EXTINF:-1,Box Nation HD
+http://live.superteve.com:33527/live/jaimepanama/URjpkjr6fB/1073.m3u8
+#EXTINF:-1,BIG TEN NETWORK
+http://live.superteve.com:33527/live/jaimepanama/URjpkjr6fB/120.m3u8
+#EXTINF:-1,Bein Sports English
+http://live.superteve.com:33527/live/jaimepanama/URjpkjr6fB/225.m3u8
+#EXTINF:-1,Bein Sports Español USA
+http://live.superteve.com:33527/live/jaimepanama/URjpkjr6fB/428.m3u8
+#EXTINF:-1,Bein Sports 8
+http://live.superteve.com:33527/live/jaimepanama/URjpkjr6fB/491.m3u8
+#EXTINF:-1,Bein Sports 9
+http://live.superteve.com:33527/live/jaimepanama/URjpkjr6fB/490.m3u8
+#EXTINF:-1,Bein Sports 7
+http://live.superteve.com:33527/live/jaimepanama/URjpkjr6fB/492.m3u8
+#EXTINF:-1,Bein Sports 6
+http://live.superteve.com:33527/live/jaimepanama/URjpkjr6fB/493.m3u8
+#EXTINF:-1,Bein Sports 5
+http://live.superteve.com:33527/live/jaimepanama/URjpkjr6fB/494.m3u8
+#EXTINF:-1,Bein Sports 4
+http://live.superteve.com:33527/live/jaimepanama/URjpkjr6fB/495.m3u8
+#EXTINF:-1,Bein Sports 3
+http://live.superteve.com:33527/live/jaimepanama/URjpkjr6fB/496.m3u8
+#EXTINF:-1,CBS Sport Network
+http://live.superteve.com:33527/live/jaimepanama/URjpkjr6fB/423.m3u8
+#EXTINF:-1,CDF BASICO
+http://live.superteve.com:33527/live/jaimepanama/URjpkjr6fB/745.m3u8
+#EXTINF:-1,CDF PREMIUN
+http://live.superteve.com:33527/live/jaimepanama/URjpkjr6fB/744.m3u8
+#EXTINF:-1,Bein Sports 11 
+http://live.superteve.com:33527/live/jaimepanama/URjpkjr6fB/499.m3u8
+#EXTINF:-1,ESPN
+http://live.superteve.com:33527/live/jaimepanama/URjpkjr6fB/411.m3u8
+#EXTINF:-1,ES: LaLigaTV BAR
+http://live.superteve.com:33527/live/jaimepanama/URjpkjr6fB/540.m3u8
+#EXTINF:-1,ES: MOVISTAR DEPORTES 2
+http://live.superteve.com:33527/live/jaimepanama/URjpkjr6fB/532.m3u8
+#EXTINF:-1,ES: Real Madrid TV
+http://live.superteve.com:33527/live/jaimepanama/URjpkjr6fB/512.m3u8
+#EXTINF:-1,ES: MOVISTAR GOLF
+http://live.superteve.com:33527/live/jaimepanama/URjpkjr6fB/528.m3u8
+#EXTINF:-1,ES: MOVISTAR FUTBOL HD
+http://live.superteve.com:33527/live/jaimepanama/URjpkjr6fB/529.m3u8
+#EXTINF:-1,ES: Movistar F1
+http://live.superteve.com:33527/live/jaimepanama/URjpkjr6fB/530.m3u8
+#EXTINF:-1,ES: B31N La Liga HD
+http://live.superteve.com:33527/live/jaimepanama/URjpkjr6fB/564.m3u8
+#EXTINF:-1,ES: BARCA TV
+http://live.superteve.com:33527/live/jaimepanama/URjpkjr6fB/489.m3u8
+#EXTINF:-1,ES: MOVISTAR DEPORTES 1
+http://live.superteve.com:33527/live/jaimepanama/URjpkjr6fB/536.m3u8
+#EXTINF:-1,ES: TOROSTV HD
+http://live.superteve.com:33527/live/jaimepanama/URjpkjr6fB/506.m3u8
+#EXTINF:-1,CO | Winsport
+http://live.superteve.com:33527/live/jaimepanama/URjpkjr6fB/502.m3u8
+#EXTINF:-1,Claro Sports
+http://live.superteve.com:33527/live/jaimepanama/URjpkjr6fB/123.m3u8
+#EXTINF:-1,CO | Win Sports FULL HD
+http://live.superteve.com:33527/live/jaimepanama/URjpkjr6fB/130.m3u8
+#EXTINF:-1,Bein Sports 2
+http://live.superteve.com:33527/live/jaimepanama/URjpkjr6fB/497.m3u8
+#EXTINF:-1,ESPN 1 HD
+http://live.superteve.com:33527/live/jaimepanama/URjpkjr6fB/170.m3u8
+#EXTINF:-1,Bein Sports 12
+http://live.superteve.com:33527/live/jaimepanama/URjpkjr6fB/498.m3u8
+#EXTINF:-1,ESPN 3 HD
+http://live.superteve.com:33527/live/jaimepanama/URjpkjr6fB/184.m3u8
+#EXTINF:-1,ESPN DEPORTES
+http://live.superteve.com:33527/live/jaimepanama/URjpkjr6fB/129.m3u8
+#EXTINF:-1,ESPN 2 HD
+http://live.superteve.com:33527/live/jaimepanama/URjpkjr6fB/183.m3u8
+#EXTINF:-1,Espn 2 HD USA
+http://live.superteve.com:33527/live/jaimepanama/URjpkjr6fB/884.m3u8
+#EXTINF:-1,Fight Network
+http://live.superteve.com:33527/live/jaimepanama/URjpkjr6fB/694.m3u8
+#EXTINF:-1,Espn 1 USA
+http://live.superteve.com:33527/live/jaimepanama/URjpkjr6fB/1016.m3u8
+#EXTINF:-1,Golf Latin America
+http://live.superteve.com:33527/live/jaimepanama/URjpkjr6fB/234.m3u8
+#EXTINF:-1,GOLTV ENG
+http://live.superteve.com:33527/live/jaimepanama/URjpkjr6fB/128.m3u8
+#EXTINF:-1,Fox Sports 1 HD
+http://live.superteve.com:33527/live/jaimepanama/URjpkjr6fB/317.m3u8
+#EXTINF:-1,Fox Sports 1 USA
+http://live.superteve.com:33527/live/jaimepanama/URjpkjr6fB/107.m3u8
+#EXTINF:-1,Fox Sports 2 HD
+http://live.superteve.com:33527/live/jaimepanama/URjpkjr6fB/316.m3u8
+#EXTINF:-1,Fox Sports 2 USA
+http://live.superteve.com:33527/live/jaimepanama/URjpkjr6fB/163.m3u8
+#EXTINF:-1,Fox Sports 3 HD
+http://live.superteve.com:33527/live/jaimepanama/URjpkjr6fB/315.m3u8
+#EXTINF:-1,ES: B31N Sp0rts SPAIN HD
+http://live.superteve.com:33527/live/jaimepanama/URjpkjr6fB/563.m3u8
+#EXTINF:-1,USA | NBC Golf
+http://live.superteve.com:33527/live/jaimepanama/URjpkjr6fB/106.m3u8
+#EXTINF:-1,NBCSN
+http://live.superteve.com:33527/live/jaimepanama/URjpkjr6fB/390.m3u8
+#EXTINF:-1,NFL Network
+http://live.superteve.com:33527/live/jaimepanama/URjpkjr6fB/388.m3u8
+#EXTINF:-1,NBA TV HD
+http://live.superteve.com:33527/live/jaimepanama/URjpkjr6fB/238.m3u8
+#EXTINF:-1,MLB Network 
+http://live.superteve.com:33527/live/jaimepanama/URjpkjr6fB/394.m3u8
+#EXTINF:-1,NHL Network
+http://live.superteve.com:33527/live/jaimepanama/URjpkjr6fB/324.m3u8
+#EXTINF:-1,WWE
+http://live.superteve.com:33527/live/jaimepanama/URjpkjr6fB/361.m3u8
+#EXTINF:-1,TDN HD
+http://live.superteve.com:33527/live/jaimepanama/URjpkjr6fB/605.m3u8
+#EXTINF:-1,ESPN 1 mx
+http://live.superteve.com:33527/live/jaimepanama/URjpkjr6fB/594.m3u8
+#EXTINF:-1,ESPN 2 mx
+http://live.superteve.com:33527/live/jaimepanama/URjpkjr6fB/595.m3u8
+#EXTINF:-1,ESPN 3 mx
+http://live.superteve.com:33527/live/jaimepanama/URjpkjr6fB/596.m3u8
+#EXTINF:-1,Fox Sports 1 SD
+http://live.superteve.com:33527/live/jaimepanama/URjpkjr6fB/597.m3u8
+#EXTINF:-1,Fox Sports 2 SD
+http://live.superteve.com:33527/live/jaimepanama/URjpkjr6fB/598.m3u8
+#EXTINF:-1,Fox Sports 3 SD
+http://live.superteve.com:33527/live/jaimepanama/URjpkjr6fB/599.m3u8
+#EXTINF:-1,Tcm | USA
+http://live.superteve.com:33527/live/jaimepanama/URjpkjr6fB/1637.m3u8
+#EXTINF:-1,Telemundo LA | USA
+http://live.superteve.com:33527/live/jaimepanama/URjpkjr6fB/1638.m3u8
+#EXTINF:-1,Telemundo NY | USA
+http://live.superteve.com:33527/live/jaimepanama/URjpkjr6fB/1639.m3u8
+#EXTINF:-1,Tnt | Claro
+http://live.superteve.com:33527/live/jaimepanama/URjpkjr6fB/1640.m3u8
+#EXTINF:-1,Universal Channel | Claro
+http://live.superteve.com:33527/live/jaimepanama/URjpkjr6fB/1641.m3u8
+#EXTINF:-1,Warner HD | Claro
+http://live.superteve.com:33527/live/jaimepanama/URjpkjr6fB/1642.m3u8
+#EXTINF:-1,MX| Food Network
+http://live.superteve.com:33527/live/jaimepanama/URjpkjr6fB/1643.m3u8
+#EXTINF:-1,Space HD ABR
+http://live.superteve.com:33527/live/jaimepanama/URjpkjr6fB/1644.m3u8
+#EXTINF:-1,Discovery Science | USA
+http://live.superteve.com:33527/live/jaimepanama/URjpkjr6fB/1645.m3u8
+#EXTINF:-1,Multimedios HD
+http://live.superteve.com:33527/live/jaimepanama/URjpkjr6fB/1655.m3u8
+#EXTINF:-1,PAC 12 Mount | USA
+http://live.superteve.com:33527/live/jaimepanama/URjpkjr6fB/1627.m3u8
+#EXTINF:-1,PAC 12 Or | USA
+http://live.superteve.com:33527/live/jaimepanama/URjpkjr6fB/1628.m3u8
+#EXTINF:-1,PAC 12 WA | USA
+http://live.superteve.com:33527/live/jaimepanama/URjpkjr6fB/1629.m3u8
+#EXTINF:-1,PAC 12ar| USA
+http://live.superteve.com:33527/live/jaimepanama/URjpkjr6fB/1624.m3u8
+#EXTINF:-1,Pop
+http://live.superteve.com:33527/live/jaimepanama/URjpkjr6fB/1630.m3u8
+#EXTINF:-1,Showtime West | USA
+http://live.superteve.com:33527/live/jaimepanama/URjpkjr6fB/1631.m3u8
+#EXTINF:-1,Sony | Claro
+http://live.superteve.com:33527/live/jaimepanama/URjpkjr6fB/1632.m3u8
+#EXTINF:-1,Space HD | Claro
+http://live.superteve.com:33527/live/jaimepanama/URjpkjr6fB/1633.m3u8
+#EXTINF:-1,SportsNet Pacific
+http://live.superteve.com:33527/live/jaimepanama/URjpkjr6fB/1634.m3u8
+#EXTINF:-1,Studio Universal | Claro
+http://live.superteve.com:33527/live/jaimepanama/URjpkjr6fB/1635.m3u8
+#EXTINF:-1,Sundance | USA
+http://live.superteve.com:33527/live/jaimepanama/URjpkjr6fB/1636.m3u8
 
 
 #EXTINF:-1,Матч! Футбол 1
@@ -428,26 +592,6 @@ http://b31398aa.ottv.info/iptv/FCU2M3ZSVTTVFR/160/index.m3u8
 #EXTINF:-1,Бокс ТВ
 http://b31398aa.ottv.info/iptv/FCU2M3ZSVTTVFR/870/index.m3u8
 
-#EXTINF:-1,Матч!
-http://xristo2121.ottv.info/iptv/LZBBFSG94BALT2/212/index.m3u8
-#EXTINF:-1,Матч! Арена
-http://xristo2121.ottv.info/iptv/LZBBFSG94BALT2/207/index.m3u8
-#EXTINF:-1,Матч! Игра
-http://xristo2121.ottv.info/iptv/LZBBFSG94BALT2/225/index.m3u8
-#EXTINF:-1,Матч! Наш спорт
-http://xristo2121.ottv.info/iptv/LZBBFSG94BALT2/107/index.m3u8
-#EXTINF:-1,Матч! Планета
-http://xristo2121.ottv.info/iptv/LZBBFSG94BALT2/123/index.m3u8
-#EXTINF:-1,Матч Наш футбол
-http://xristo2121.ottv.info/iptv/LZBBFSG94BALT2/220/index.m3u8
-#EXTINF:-1,Матч Футбол 1
-http://xristo2121.ottv.info/iptv/LZBBFSG94BALT2/222/index.m3u8
-#EXTINF:-1,Матч Футбол 2
-http://xristo2121.ottv.info/iptv/LZBBFSG94BALT2/211/index.m3u8
-#EXTINF:-1,Матч Футбол 3
-http://xristo2121.ottv.info/iptv/LZBBFSG94BALT2/206/index.m3u8
-#EXTINF:-1,EuroSport 1
-http://xristo2121.ottv.info/iptv/LZBBFSG94BALT2/141/index.m3u8
 
 #EXTINF:-1,Arena
 http://persik.by/stream/176/296165/261.m3u8
@@ -836,30 +980,7 @@ https://www.youtube.com/watch?v=s2W8CoNP4z0&feature=youtu.be
 #EXTINF:-1,klape i tambure tv
 https://www.youtube.com/watch?v=CG9D8KJi6VA&feature=youtu.be
 
-#EXTINF:0,Mezzo
-http://grytsyk.iptvbot.biz/iptv/N7WN8AA7LC8CK9/707/index.m3u8
-#EXTINF:0,MTV
-http://grytsyk.iptvbot.biz/iptv/N7WN8AA7LC8CK9/142/index.m3u8
-#EXTINF:0,MTV Dance
-http://grytsyk.iptvbot.biz/iptv/N7WN8AA7LC8CK9/558/index.m3u8
-#EXTINF:0,MTV Hits
-http://grytsyk.iptvbot.biz/iptv/N7WN8AA7LC8CK9/153/index.m3u8
-#EXTINF:0,MTV Live HD
-http://grytsyk.iptvbot.biz/iptv/N7WN8AA7LC8CK9/221/index.m3u8
-#EXTINF:0,MTV Rocks
-http://grytsyk.iptvbot.biz/iptv/N7WN8AA7LC8CK9/1038/index.m3u8
-#EXTINF:0,Music Box UA
-http://grytsyk.iptvbot.biz/iptv/N7WN8AA7LC8CK9/1018/index.m3u8
-#EXTINF:0,Music Box UA HD
-http://grytsyk.iptvbot.biz/iptv/N7WN8AA7LC8CK9/1036/index.m3u8
-#EXTINF:0,VH1 Classic
-http://grytsyk.iptvbot.biz/iptv/N7WN8AA7LC8CK9/724/index.m3u8
-#EXTINF:0,VH1 European
-http://grytsyk.iptvbot.biz/iptv/N7WN8AA7LC8CK9/536/index.m3u8
-#EXTINF:0,ТНТ MUSIC
-http://grytsyk.iptvbot.biz/iptv/N7WN8AA7LC8CK9/710/index.m3u8
-#EXTINF:0,BRIDGE TV DANCE
-http://grytsyk.iptvbot.biz/iptv/N7WN8AA7LC8CK9/711/index.m3u8
+
 
 
 
@@ -885,6 +1006,12 @@ http://www.djing.com/tv/buster-poindexter-his-banshees-of-blue-hot-hot-hot/index
 https://www.djing.com/tv/live.m3u8
 #EXTINF:-1,DJing Summer Vibes
 https://www.djing.com/tv/session_summer-vibes.m3u8
+
+
+#EXTINF:-1,IndieWave
+https://vcnindiewave.teleosmedia.com/stream/indiewave/indiewave/seglist_720p.m3u8
+#EXTINF:-1,Stargaze Music
+http://vcnstargazemuzik.teleosmedia.com/stream/stargazemuzik/asianmusic/seglist_720p.m3u8
 
 
 #EXTINF:-1,TheBuffalo
