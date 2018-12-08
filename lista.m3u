@@ -605,7 +605,10 @@ http://persik.by/stream/176/296165/10267.m3u8
 http://persik.by/stream/6431/299492/10268.m3u8
 
 
-
+#EXTINF:-1,Матч! Боец
+http://157d378f.ottv.biz/iptv/QGFAXXMYLBRMQH/150/index.m3u8
+#EXTINF:-1,Бокс ТВ
+http://157d378f.ottv.biz/iptv/QGFAXXMYLBRMQH/870/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SS 1 HD" tvg-logo="http://www.firstonetv.net/images/logos/al/SUPERSPORT1.png" group-title="SPORT",SS 1 HD
 http://premiumtv.eu:8000/live/JEVBNMFKhr/jB57piplxg/215.m3u8
@@ -894,12 +897,6 @@ http://109.232.71.249/stream/stream_fighttime/fighttimehd.m3u8
 #EXTINF:0 group-title="(UA) Ukraine",XSPORT | SD (UA)
 http://95.67.103.251/hls/xsport_ua_hi/index.m3u8
 
-#EXTINF:0 group-title="(UK) United Kingdom",ELEVEN SPORTS 1 | SD (UK)
-http://61.58.60.230:9000/live/75.m3u8
-
-#EXTINF:0 group-title="(UK) United Kingdom",ELEVEN SPORTS 2 | SD (UK)
-http://61.58.60.230:9000/live/102.m3u8
-
 #EXTINF:0 group-title="(UK) United Kingdom",FLOW SPORTS | SD (UK)
 http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
 
@@ -979,9 +976,6 @@ https://www.youtube.com/watch?v=s2W8CoNP4z0&feature=youtu.be
 
 #EXTINF:-1,klape i tambure tv
 https://www.youtube.com/watch?v=CG9D8KJi6VA&feature=youtu.be
-
-
-
 
 
 #EXTINF:-1,DJing Dancefloor
