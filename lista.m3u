@@ -368,6 +368,9 @@ skip
 
 #EXTINF:0,eurosport germany 1
 http://78.94.43.134:8000/play/a015/index.m3u8
+#EXTINF:0,eurosport 1 russia
+http://95.174.96.15:8030/play/370
+
 
 
 #EXTINF:0,BEIN SPORTS1 HD
