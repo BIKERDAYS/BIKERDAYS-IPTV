@@ -581,6 +581,35 @@ http://b31398aa.ottv.info/iptv/FCU2M3ZSVTTVFR/160/index.m3u8
 http://b31398aa.ottv.info/iptv/FCU2M3ZSVTTVFR/870/index.m3u8
 
 
+#EXTINF:-1,Nova Sport 4
+http://145.239.65.29:6511/live/novaspert4x45/mpegts?token=fotmpe1
+#EXTINF:-1,Nova Sport 3
+http://145.239.65.29:6511/live/nova37654355/mpegts?token=fotmpe1
+#EXTINF:-1,Nova Sport 2
+http://145.239.65.29:6511/live/nova254355/mpegts?token=fotmpe1
+#EXTINF:-1,Nova Sport 1
+http://145.239.65.29:6511/live/NovasporALL1276432/mpegts?token=fotmpe1
+#EXTINF:-1,OteSportHighlight
+http://145.239.65.29:6511/live/othalits/mpegts?token=fotmpe1
+#EXTINF:-1,Ote Sport 8
+http://145.239.65.29:6511/live/OteSport8as/mpegts?token=fotmpe1
+#EXTINF:-1,Ote Sport 7
+http://145.239.65.29:6511/live/OteSport7as/mpegts?token=fotmpe1
+#EXTINF:-1,Ote Sport 6
+http://145.239.65.29:6511/live/otesport612321/mpegts?token=fotmpe1
+#EXTINF:-1,Ote Sport 5
+http://145.239.65.29:6511/live/OteSport5as/mpegts?token=fotmpe1
+#EXTINF:-1,Ote Sport 4
+http://145.239.65.29:6511/live/OteSport4as/mpegts?token=fotmpe1
+#EXTINF:-1,Ote Sport 3
+http://145.239.65.29:6511/live/OteSport3as/mpegts?token=fotmpe1
+#EXTINF:-1,Ote Sport 2 https://iptv.zone
+http://145.239.65.29:6511/live/OteSport2as/mpegts?token=fotmpe1
+#EXTINF:-1,Ote Sport 1
+http://145.239.65.29:6511/live/OteSport1as/mpegts?token=fotmpe1
+
+
+
 #EXTINF:-1,Arena
 http://persik.by/stream/176/296165/261.m3u8
 #EXTINF:-1,Match
