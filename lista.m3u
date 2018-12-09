@@ -366,6 +366,69 @@ http://158.69.162.115:51846/out/u/fdhghpsdfhdhfadfh.m3u8
 skip
 
 
+
+#EXTINF:0,BEIN SPORTS1 HD
+http://190.2.132.7:8080/atlasuk/i1ukulG3h1/55
+#EXTINF:0,BEIN SPORTS2 HD
+http://190.2.132.7:8080/atlasuk/i1ukulG3h1/41
+#EXTINF:0,BEIN SPORTS3 HD
+http://190.2.132.7:8080/atlasuk/i1ukulG3h1/39
+#EXTINF:0,BEIN SPORTS4 HD
+http://190.2.132.7:8080/atlasuk/i1ukulG3h1/37
+#EXTINF:0,BEIN SPORTS5 HD
+http://190.2.132.7:8080/atlasuk/i1ukulG3h1/35
+#EXTINF:0,BEIN SPORTS6 HD
+http://190.2.132.7:8080/atlasuk/i1ukulG3h1/33
+#EXTINF:0,BEIN SPORTS7 HD
+http://190.2.132.7:8080/atlasuk/i1ukulG3h1/31
+#EXTINF:0,BEIN SPORTS8 HD
+http://190.2.132.7:8080/atlasuk/i1ukulG3h1/29
+#EXTINF:0,BEIN SPORTS9 HD
+http://190.2.132.7:8080/atlasuk/i1ukulG3h1/27
+#EXTINF:0,BEIN SPORTS10 HD
+http://190.2.132.7:8080/atlasuk/i1ukulG3h1/53
+#EXTINF:0,BEIN SPORTS 11 HD
+http://190.2.132.7:8080/atlasuk/i1ukulG3h1/51
+#EXTINF:0,BEIN SPORTS 12 HD
+http://190.2.132.7:8080/atlasuk/i1ukulG3h1/49
+#EXTINF:0,BEIN SPORTS FR 1
+http://190.2.132.7:8080/atlasuk/i1ukulG3h1/47
+#EXTINF:0,BEIN SPORTS FR 2
+http://190.2.132.7:8080/atlasuk/i1ukulG3h1/45
+#EXTINF:0,BEIN SPORTS FR 3
+http://190.2.132.7:8080/atlasuk/i1ukulG3h1/43
+#EXTINF:0,BEIN SPORTS 1 SD
+http://190.2.132.7:8080/atlasuk/i1ukulG3h1/54
+#EXTINF:0,BEIN SPORTS 2 SD
+http://190.2.132.7:8080/atlasuk/i1ukulG3h1/40
+#EXTINF:0,BEIN SPORTS 3 SD
+http://190.2.132.7:8080/atlasuk/i1ukulG3h1/38
+#EXTINF:0,BEIN SPORTS 4 SD
+http://190.2.132.7:8080/atlasuk/i1ukulG3h1/36
+#EXTINF:0,BEIN SPORTS 5 SD
+http://190.2.132.7:8080/atlasuk/i1ukulG3h1/34
+#EXTINF:0,BEIN SPORTS 6 SD 
+http://190.2.132.7:8080/atlasuk/i1ukulG3h1/32
+#EXTINF:0,BEIN SPORTS 7 SD 
+http://190.2.132.7:8080/atlasuk/i1ukulG3h1/30
+#EXTINF:0,BEIN SPORTS 8 SD
+http://190.2.132.7:8080/atlasuk/i1ukulG3h1/28
+#EXTINF:0,BEIN SPORTS 9 SD
+http://190.2.132.7:8080/atlasuk/i1ukulG3h1/26
+#EXTINF:0,BEIN SPORTS 10 SD
+http://190.2.132.7:8080/atlasuk/i1ukulG3h1/52
+#EXTINF:0,BEIN SPORTS 11 SD
+http://190.2.132.7:8080/atlasuk/i1ukulG3h1/50
+#EXTINF:0,BEIN SPORTS 12 SD
+http://190.2.132.7:8080/atlasuk/i1ukulG3h1/48
+#EXTINF:0,BEIN SPORTS 13 SD
+http://190.2.132.7:8080/atlasuk/i1ukulG3h1/46
+#EXTINF:0,BEIN SPORTS 14 SD
+http://190.2.132.7:8080/atlasuk/i1ukulG3h1/44
+#EXTINF:0,BEIN SPORTS 15 SD
+http://190.2.132.7:8080/atlasuk/i1ukulG3h1/42
+
+
 #EXTINF:-1,nbatv
 http://ne002.nscache.info/live/nbatv/chunks.m3u8
 
