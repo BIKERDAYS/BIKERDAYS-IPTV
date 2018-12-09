@@ -606,7 +606,7 @@ http://145.239.65.29:6511/live/OteSport5as/mpegts?token=fotmpe1
 http://145.239.65.29:6511/live/OteSport4as/mpegts?token=fotmpe1
 #EXTINF:-1,Ote Sport 3
 http://145.239.65.29:6511/live/OteSport3as/mpegts?token=fotmpe1
-#EXTINF:-1,Ote Sport 2 https://iptv.zone
+#EXTINF:-1,Ote Sport 2 
 http://145.239.65.29:6511/live/OteSport2as/mpegts?token=fotmpe1
 #EXTINF:-1,Ote Sport 1
 http://145.239.65.29:6511/live/OteSport1as/mpegts?token=fotmpe1
