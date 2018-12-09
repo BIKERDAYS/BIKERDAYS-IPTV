@@ -366,6 +366,9 @@ http://158.69.162.115:51846/out/u/fdhghpsdfhdhfadfh.m3u8
 skip
 
 
+#EXTINF:0,eurosport germany 1
+http://78.94.43.134:8000/play/a015/index.m3u8
+
 
 #EXTINF:0,BEIN SPORTS1 HD
 http://190.2.132.7:8080/atlasuk/i1ukulG3h1/55
