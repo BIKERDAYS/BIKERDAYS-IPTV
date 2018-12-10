@@ -373,66 +373,7 @@ http://95.174.96.15:8030/play/370
 
 
 
-#EXTINF:0,BEIN SPORTS1 HD
-http://190.2.132.7:8080/atlasuk/i1ukulG3h1/55
-#EXTINF:0,BEIN SPORTS2 HD
-http://190.2.132.7:8080/atlasuk/i1ukulG3h1/41
-#EXTINF:0,BEIN SPORTS3 HD
-http://190.2.132.7:8080/atlasuk/i1ukulG3h1/39
-#EXTINF:0,BEIN SPORTS4 HD
-http://190.2.132.7:8080/atlasuk/i1ukulG3h1/37
-#EXTINF:0,BEIN SPORTS5 HD
-http://190.2.132.7:8080/atlasuk/i1ukulG3h1/35
-#EXTINF:0,BEIN SPORTS6 HD
-http://190.2.132.7:8080/atlasuk/i1ukulG3h1/33
-#EXTINF:0,BEIN SPORTS7 HD
-http://190.2.132.7:8080/atlasuk/i1ukulG3h1/31
-#EXTINF:0,BEIN SPORTS8 HD
-http://190.2.132.7:8080/atlasuk/i1ukulG3h1/29
-#EXTINF:0,BEIN SPORTS9 HD
-http://190.2.132.7:8080/atlasuk/i1ukulG3h1/27
-#EXTINF:0,BEIN SPORTS10 HD
-http://190.2.132.7:8080/atlasuk/i1ukulG3h1/53
-#EXTINF:0,BEIN SPORTS 11 HD
-http://190.2.132.7:8080/atlasuk/i1ukulG3h1/51
-#EXTINF:0,BEIN SPORTS 12 HD
-http://190.2.132.7:8080/atlasuk/i1ukulG3h1/49
-#EXTINF:0,BEIN SPORTS FR 1
-http://190.2.132.7:8080/atlasuk/i1ukulG3h1/47
-#EXTINF:0,BEIN SPORTS FR 2
-http://190.2.132.7:8080/atlasuk/i1ukulG3h1/45
-#EXTINF:0,BEIN SPORTS FR 3
-http://190.2.132.7:8080/atlasuk/i1ukulG3h1/43
-#EXTINF:0,BEIN SPORTS 1 SD
-http://190.2.132.7:8080/atlasuk/i1ukulG3h1/54
-#EXTINF:0,BEIN SPORTS 2 SD
-http://190.2.132.7:8080/atlasuk/i1ukulG3h1/40
-#EXTINF:0,BEIN SPORTS 3 SD
-http://190.2.132.7:8080/atlasuk/i1ukulG3h1/38
-#EXTINF:0,BEIN SPORTS 4 SD
-http://190.2.132.7:8080/atlasuk/i1ukulG3h1/36
-#EXTINF:0,BEIN SPORTS 5 SD
-http://190.2.132.7:8080/atlasuk/i1ukulG3h1/34
-#EXTINF:0,BEIN SPORTS 6 SD 
-http://190.2.132.7:8080/atlasuk/i1ukulG3h1/32
-#EXTINF:0,BEIN SPORTS 7 SD 
-http://190.2.132.7:8080/atlasuk/i1ukulG3h1/30
-#EXTINF:0,BEIN SPORTS 8 SD
-http://190.2.132.7:8080/atlasuk/i1ukulG3h1/28
-#EXTINF:0,BEIN SPORTS 9 SD
-http://190.2.132.7:8080/atlasuk/i1ukulG3h1/26
-#EXTINF:0,BEIN SPORTS 10 SD
-http://190.2.132.7:8080/atlasuk/i1ukulG3h1/52
-#EXTINF:0,BEIN SPORTS 11 SD
-http://190.2.132.7:8080/atlasuk/i1ukulG3h1/50
-#EXTINF:0,BEIN SPORTS 12 SD
-http://190.2.132.7:8080/atlasuk/i1ukulG3h1/48
-#EXTINF:0,BEIN SPORTS 13 SD
-http://190.2.132.7:8080/atlasuk/i1ukulG3h1/46
-#EXTINF:0,BEIN SPORTS 14 SD
-http://190.2.132.7:8080/atlasuk/i1ukulG3h1/44
-#EXTINF:0,BEIN SPORTS 15 SD
-http://190.2.132.7:8080/atlasuk/i1ukulG3h1/42
+
 
 
 #EXTINF:-1,nbatv
@@ -476,84 +417,7 @@ http://203.154.243.32:8088/live/foxsporthd/index.m3u8
 
 
 
-#EXTINF:-1,beINSport 1 ARB
-http://restream.geniptv.com:8080/frenchdubai_new/XC3cdx1v443/995
-#EXTINF:-1,beINSport 1 HD ARB
-http://restream.geniptv.com:8080/frenchdubai_new/XC3cdx1v443/979
-#EXTINF:-1,beINSport 1 HD VIP ARB
-http://restream.geniptv.com:8080/frenchdubai_new/XC3cdx1v443/6963
-#EXTINF:-1,beINSport 10 ARB
-http://restream.geniptv.com:8080/frenchdubai_new/XC3cdx1v443/986
-#EXTINF:-1,beINSport 10 HD ARB
-http://restream.geniptv.com:8080/frenchdubai_new/XC3cdx1v443/970
-#EXTINF:-1,beINSport 10 HD VIP ARB
-http://restream.geniptv.com:8080/frenchdubai_new/XC3cdx1v443/6954
-#EXTINF:-1,beINSport 11 ARB
-http://restream.geniptv.com:8080/frenchdubai_new/XC3cdx1v443/985
-#EXTINF:-1,beINSport 11 HD ARB
-http://restream.geniptv.com:8080/frenchdubai_new/XC3cdx1v443/969
-#EXTINF:-1,beINSport 12 ARB
-http://restream.geniptv.com:8080/frenchdubai_new/XC3cdx1v443/984
-#EXTINF:-1,beINSport 12 HD ARB
-http://restream.geniptv.com:8080/frenchdubai_new/XC3cdx1v443/968
-#EXTINF:-1,beINSport 2 ARB
-http://restream.geniptv.com:8080/frenchdubai_new/XC3cdx1v443/994
-#EXTINF:-1,beINSport 2 HD ARB
-http://restream.geniptv.com:8080/frenchdubai_new/XC3cdx1v443/978
-#EXTINF:-1,beINSport 2 HD VIP ARB
-http://restream.geniptv.com:8080/frenchdubai_new/XC3cdx1v443/6962
-#EXTINF:-1,beINSport 3 ARB
-http://restream.geniptv.com:8080/frenchdubai_new/XC3cdx1v443/993
-#EXTINF:-1,beINSport 3 HD ARB
-http://restream.geniptv.com:8080/frenchdubai_new/XC3cdx1v443/977
-#EXTINF:-1,beINSport 3 HD VIP ARB
-http://restream.geniptv.com:8080/frenchdubai_new/XC3cdx1v443/6961
-#EXTINF:-1,beINSport 4 ARB
-http://restream.geniptv.com:8080/frenchdubai_new/XC3cdx1v443/992
-#EXTINF:-1,beINSport 4 HD ARB
-http://restream.geniptv.com:8080/frenchdubai_new/XC3cdx1v443/976
-#EXTINF:-1,beINSport 4 HD VIP ARB
-http://restream.geniptv.com:8080/frenchdubai_new/XC3cdx1v443/6960
-#EXTINF:-1,beINSport 5 ARB
-http://restream.geniptv.com:8080/frenchdubai_new/XC3cdx1v443/991
-#EXTINF:-1,beINSport 5 HD ARB
-http://restream.geniptv.com:8080/frenchdubai_new/XC3cdx1v443/975
-#EXTINF:-1,beINSport 5 HD VIP ARB
-http://restream.geniptv.com:8080/frenchdubai_new/XC3cdx1v443/6959
-#EXTINF:-1,beINSport 6 ARB
-http://restream.geniptv.com:8080/frenchdubai_new/XC3cdx1v443/990
-#EXTINF:-1,beINSport 6 HD ARB
-http://restream.geniptv.com:8080/frenchdubai_new/XC3cdx1v443/974
-#EXTINF:-1,beINSport 6 HD VIP ARB
-http://restream.geniptv.com:8080/frenchdubai_new/XC3cdx1v443/6958
-#EXTINF:-1,beINSport 7 ARB
-http://restream.geniptv.com:8080/frenchdubai_new/XC3cdx1v443/989
-#EXTINF:-1,beINSport 7 HD ARB
-http://restream.geniptv.com:8080/frenchdubai_new/XC3cdx1v443/973
-#EXTINF:-1,beINSport 7 HD VIP ARB
-http://restream.geniptv.com:8080/frenchdubai_new/XC3cdx1v443/6957
-#EXTINF:-1,beINSport 8 ARB
-http://restream.geniptv.com:8080/frenchdubai_new/XC3cdx1v443/988
-#EXTINF:-1,beINSport 8 HD ARB
-http://restream.geniptv.com:8080/frenchdubai_new/XC3cdx1v443/972
-#EXTINF:-1,beINSport 8 HD VIP ARB
-http://restream.geniptv.com:8080/frenchdubai_new/XC3cdx1v443/6956
-#EXTINF:-1,beINSport 9 ARB
-http://restream.geniptv.com:8080/frenchdubai_new/XC3cdx1v443/987
-#EXTINF:-1,beINSport 9 HD ARB
-http://restream.geniptv.com:8080/frenchdubai_new/XC3cdx1v443/971
-#EXTINF:-1,beINSport 9 HD VIP ARB
-http://restream.geniptv.com:8080/frenchdubai_new/XC3cdx1v443/6955
-#EXTINF:-1,beINSport AlKass 1 HD ARB
-http://restream.geniptv.com:8080/frenchdubai_new/XC3cdx1v443/967
-#EXTINF:-1,beINSport AlKass 2 HD ARB
-http://restream.geniptv.com:8080/frenchdubai_new/XC3cdx1v443/966
-#EXTINF:-1,beINSport AlKass 3 HD ARB
-http://restream.geniptv.com:8080/frenchdubai_new/XC3cdx1v443/965
-#EXTINF:-1,beINSport AlKass 4 HD ARB
-http://restream.geniptv.com:8080/frenchdubai_new/XC3cdx1v443/964
-#EXTINF:-1,beINSport News HD ARB
-http://restream.geniptv.com:8080/frenchdubai_new/XC3cdx1v443/998
+
 
 
 #EXTINF:-1,матч
