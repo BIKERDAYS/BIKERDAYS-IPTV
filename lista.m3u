@@ -636,7 +636,7 @@ http://195.144.21.159/match_futbol1_hd/index.m3u8?token=sportmir
 http://195.144.21.159/match_futbol2_hd/video.m3u8?token=sportmir
 #EXTINF:-1,Матч! Футбол 3 HD
 http://195.144.21.159/match_futbol3_hd/video.m3u8?token=sportmir
-#EXTINF:0,Матч! Футбол 1HD  www.iptvbin.com
+#EXTINF:0,Матч! Футбол 1HD  
 http://persik.by/stream/3602/287583/10266.m3u8
 #EXTINF:-1,Матч! Футбол 2HD
 http://178.49.102.170:81/udp/239.1.23.2:1234
