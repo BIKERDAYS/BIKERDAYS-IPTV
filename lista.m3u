@@ -344,20 +344,7 @@ http://141.136.14.18/kanal1/kanal1_1500/index.m3u8
 http://185.20.36.234:8080/stream?i=5NASdkA7imQ74SExK5xMGA&a=C2J-KsfDNkQ43uzstG1HaN69IIuhN8yyI7y66f5VFXyKNHJa4BWz0vNyVKDNmEDe7TCowHwegw-ti8G-IpqZY1SbsEvP6LLd9NXPkDaF1TpEzzRyQQVmwd5FNBt5ScRbY6a2FzzfKEefyJwEeRBgFDO97f_bEZXeeEaltcMJNnNhOK7Q3lFZrpPoT4hfqkT4F7MR0hfjqj_G_R0a8s1fPiEzqTU1eQ4qvYOFwr7wEmo7P1fF9D9RJlrD3r4SapoDHtEp2fOIhL-kIj4ygfwY7Vwhpbu5cYgjrQNyN7L40wQ&sp=n1info&u=n1info&session=e6ec35e2-496f-4e93-92eb-8a5aa9edf3c6&player=m3u8
 
 
-#EXTINF:-1,Top Channel
-http://158.69.162.115:39125/out/u/ffhfsfhfsfhgsfhsdfh.m3u8
-#EXTINF:-1,Vizion Plus HD
-http://158.69.162.115:42628/out/u/wjfidshgosg.m3u8
-#EXTINF:-1,KTV HD
-http://158.69.162.115:51846/out/u/afhfhfgahfahafh.m3u8
-#EXTINF:-1,RTK 2
-http://158.69.162.115:51846/out/u/gytrvtcwuergf5wrgw.m3u8
-#EXTINF:-1,Tring Histori
-http://158.69.162.115:51846/out/u/fjhgjfhlajhfglajhf.m3u8
-#EXTINF:-1,Tring Super
-http://158.69.162.115:51846/out/u/dgsghodahgohga.m3u8
-#EXTINF:-1,Tring 3 Plus
-http://158.69.162.115:51846/out/u/fdhghpsdfhdhfadfh.m3u8
+
 
 
 
@@ -651,32 +638,6 @@ http://ott-cdn.ucom.am/s81/index.m3u8
 #EXTINF:0,Setanta Sport Plus
 http://ott-cdn.ucom.am/s82/index.m3u8
 
-#EXTINF:-1,Nova Sport 4
-http://145.239.65.29:6511/live/novaspert4x45/mpegts?token=fotmpe1
-#EXTINF:-1,Nova Sport 3
-http://145.239.65.29:6511/live/nova37654355/mpegts?token=fotmpe1
-#EXTINF:-1,Nova Sport 2
-http://145.239.65.29:6511/live/nova254355/mpegts?token=fotmpe1
-#EXTINF:-1,Nova Sport 1
-http://145.239.65.29:6511/live/NovasporALL1276432/mpegts?token=fotmpe1
-#EXTINF:-1,OteSportHighlight
-http://145.239.65.29:6511/live/othalits/mpegts?token=fotmpe1
-#EXTINF:-1,Ote Sport 8
-http://145.239.65.29:6511/live/OteSport8as/mpegts?token=fotmpe1
-#EXTINF:-1,Ote Sport 7
-http://145.239.65.29:6511/live/OteSport7as/mpegts?token=fotmpe1
-#EXTINF:-1,Ote Sport 6
-http://145.239.65.29:6511/live/otesport612321/mpegts?token=fotmpe1
-#EXTINF:-1,Ote Sport 5
-http://145.239.65.29:6511/live/OteSport5as/mpegts?token=fotmpe1
-#EXTINF:-1,Ote Sport 4
-http://145.239.65.29:6511/live/OteSport4as/mpegts?token=fotmpe1
-#EXTINF:-1,Ote Sport 3
-http://145.239.65.29:6511/live/OteSport3as/mpegts?token=fotmpe1
-#EXTINF:-1,Ote Sport 2 
-http://145.239.65.29:6511/live/OteSport2as/mpegts?token=fotmpe1
-#EXTINF:-1,Ote Sport 1
-http://145.239.65.29:6511/live/OteSport1as/mpegts?token=fotmpe1
 
 
 
@@ -954,34 +915,7 @@ http://vcnstargazemuzik.teleosmedia.com/stream/stargazemuzik/asianmusic/seglist_
 
 
 
-#EXTINF:-1,FRANCE Music-Hit
-https://stream-07.ix7.dailymotion.com/dm/3/x2jbbrx/live-2.m3u8
-#EXTINF:-1,FRANCE Generation
-https://stream-05.ix7.dailymotion.com/dm/3/x2fxcwq/live-2.m3u8
-#EXTINF:-1,FRANCE C-STARS
-https://stream-05.ix7.dailymotion.com/dm/3/x5gv5v0/live-2.m3u8
-#EXTINF:-1,FRANCE OUI-tele
-https://stream-13.dc3.dailymotion.com/dm/3/x10990v/live-2.m3u8
-#EXTINF:-1,FRANCE Music-Hit TV [1280x720]
-https://stream-07.ix7.dailymotion.com/dm/3/x2jbbrx/live-3.m3u8
-#EXTINF:-1,FRANCE Generations TV [1280x720]
-https://stream-05.ix7.dailymotion.com/dm/3/x2fxcwq/live-3.m3u8
-#EXTINF:-1,FRANCE C-STARS [1280x720]
-https://stream-05.ix7.dailymotion.com/dm/3/x5gv5v0/live-3.m3u8
-#EXTINF:-1,FRANCE OUI FM TV [1280x720]
-https://stream-13.dc3.dailymotion.com/dm/3/x10990v/live-3.m3u8
-#EXTINF:-1,FRANCE Music-Hit TV [512x288]
-https://stream-07.ix7.dailymotion.com/dm/3/x2jbbrx/live-1.m3u8
-#EXTINF:-1,FRANCE Generations TV [512x288]
-https://stream-05.ix7.dailymotion.com/dm/3/x2fxcwq/live-1.m3u8
-#EXTINF:-1,FRANCE C-STARS [512x288]
-https://stream-05.ix7.dailymotion.com/dm/3/x5gv5v0/live-1.m3u8
-#EXTINF:-1,FRANCE OUI FM TV [512x288]
-https://stream-13.dc3.dailymotion.com/dm/3/x10990v/live-1.m3u8
-#EXTINF:-1,NR1 Dance
-https://stream-02.nyc.dailymotion.com/dm/3/x67chco/live-2.m3u8
-#EXTINF:-1,Generations TV HD
-https://stream-05.ix7.dailymotion.com/dm/3/x2fxcwq/live-2.m3u8
+
 
 
 #EXTINF:0,MTV (norg)
