@@ -393,6 +393,190 @@ http://tumarcadorcdn01.azureedge.net/live/t5/chunks.m3u8
 
 
 
+
+#EXTINF:-1 group-title="Спорт",Xsport UA
+http://95.67.103.251/hls/xsport_ua_mid/index.m3u8
+#EXTINF:-1 group-title="Спорт",Xsport UA HD
+http://95.67.103.251/hls/xsport_ua_hi/index.m3u8
+#EXTINF:-1 group-title="Спорт",MostVideo UA HD
+http://w4.mostvideo.tv/tv/ch1.m3u8
+#EXTINF:-1 group-title="Спорт",футбол 1 UA
+http://176.120.119.93:805/224/index.m3u8
+#EXTINF:-1 group-title="Спорт",футбол 2 UA
+http://176.120.119.93:805/1203/index.m3u8
+#EXTINF:-1 group-title="Спорт",Футбол 1 HD UA
+http://195.144.21.159/futbol1_ukr_hd/index.m3u8?token=sportmir
+#EXTINF:-1 group-title="Спорт",Футбол 2 HD UA
+http://195.144.21.159/futbol2_ukr_hd/index.m3u8?token=sportmir
+#EXTINF:-1 group-title="Спорт",Спорт 1 UA
+https://livebar.pw/lba/123/g5/sport1ukraine.m3u8
+#EXTINF:-1 group-title="Спорт",Спорт 2 UA
+https://185-8-178-140.livesports24.online/uasport2ua.m3u8
+#EXTINF:-1 group-title="Спорт",Viasat Sport HD
+http://hls-viasat.cdnvideo.ru/hls/relay/1502288421056/index.m3u8
+#EXTINF:-1 group-title="Спорт",Viasat Football HD
+http://livebar.pw/lba/123/g1/sweviafootball.m3u8
+#EXTINF:-1 group-title="Спорт",Viasat Premium
+http://livebar.pw/lba/123/g3/viasatpremiumsw.m3u8
+#EXTINF:-1 group-title="Спорт",Viasat Golf
+http://hls-viasat.cdnvideo.ru/hls/relay/1502288404097/index.m3u8
+#EXTINF:-1 group-title="Спорт",Eurosport 1
+http://livebar.pw/lba/123/g3/eurosport1rus.m3u8
+#EXTINF:-1 group-title="Спорт",Eurosport 2
+http://livebar.pw/lba/123/g4/ruseuro2.m3u8
+#EXTINF:-1 group-title="Спорт",Матч! iptvbin
+http://livebar.pw/lba/123/g1/rusmatchtv.m3u8
+#EXTINF:-1 group-title="Спорт",Матч! Игра
+http://livebar.pw/lba/123/g2/igrarus.m3u8
+#EXTINF:-1 group-title="Спорт",Матч! Арена
+http://livebar.pw/lba/123/g5/rumatcharena.m3u8
+#EXTINF:-1 group-title="Спорт",Матч! Наш Спорт
+http://livebar.pw/lba/123/g4/mnsport.m3u8
+#EXTINF:-1 group-title="Спорт",Матч! Премьер
+http://livebar.pw/lba/123/g3/mpremier.m3u8
+#EXTINF:-1 group-title="Спорт",Матч! Футбол 1
+http://livebar.pw/lba/123/g2/mfootball1.m3u8
+#EXTINF:-1 group-title="Спорт",Матч! Футбол 2
+http://livebar.pw/lba/123/g5/rumatchf2.m3u8
+#EXTINF:-1 group-title="Спорт",Матч! Футбол 3
+http://livebar.pw/lba/123/g4/matfoot3.m3u8
+#EXTINF:-1 group-title="Спорт",Футбол RU
+http://livebar.pw/lba/123/g1/rusfootball.m3u8
+#EXTINF:-1 group-title="Спорт",Setanta Sports
+http://livebar.pw/lba/123/g6/setantarus.m3u8
+#EXTINF:-1 group-title="Спорт",Setanta Sports +
+http://livebar.pw/lba/123/g1/seteurasiaplus.m3u8
+#EXTINF:-1 group-title="Спорт",КХЛ
+http://livebar.pw/lba/123/g6/khlll.m3u8
+#EXTINF:-1 group-title="Спорт",КХЛ HD
+http://livebar.pw/lba/123/g8/hdkhl.m3u8
+#EXTINF:-1 group-title="Спорт",Бокс ТВ
+http://hls.boxingtvru.cdnvideo.ru/boxingtvru/smil:boxingtvru.smil/playlist.m3u8
+#EXTINF:-1 group-title="Спорт",Бокс ТВ HD
+http://hls.boxingtvru.cdnvideo.ru/boxingtvru/boxingtvru_hq/playlist.m3u8
+#EXTINF:-1 group-title="Спорт",Русский экстрим
+http://rusextrimretroorigin.platinumstream.ru/rusextrimretro/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Спорт",Горная Страна ТВ HD
+http://hls-sneg-pull2.cdnvideo.ru/sneg-pull2/KTS/playlist.m3u8
+#EXTINF:-1 group-title="Спорт",Беларусь 5 Спорт
+http://95.46.208.76:9898/belarus5 https://www.iptvbin.com
+#EXTINF:-1 group-title="Спорт",М-1 Global HD
+http://live-m1globaltv.cdnvideo.ru/m1globaltv/smil:m1globaltv-rtmp-ru.smil/chunklist_b4628001.m3u8
+#EXTINF:-1 group-title="Спорт",Астрахань.Ru Sport HD
+http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v2a1/index.m3u8
+#EXTINF:-1 group-title="Спорт",SuperTennis
+http://livebar.pw/lba/123/g5/itsupertennis.m3u8
+#EXTINF:-1 group-title="Спорт",Canal+ Sport (Poland)
+http://livebar.pw/lba/123/g10/plcanalplus.m3u8
+#EXTINF:-1 group-title="Спорт",Digi Sport 1 (ROMANIA)
+http://livebar.pw/lba/123/g4/ds1ro.m3u8
+#EXTINF:-1 group-title="Спорт",Digi Sport 2 (ROMANIA)
+http://livebar.pw/lba/123/g1/digisport2ro.m3u8
+#EXTINF:-1 group-title="Спорт",TSN1 (Canada)
+http://livebar.pw/lba/123/g9/ca1tsn.m3u8
+#EXTINF:-1 group-title="Спорт",Kazsport
+http://livebar.pw/lba/123/g2/qazsportkz.m3u8
+#EXTINF:-1 group-title="Спорт",Supersport 2 (ALBANIA)
+http://livebar.pw/lba/123/g7/ss2al.m3u8
+#EXTINF:-1 group-title="Спорт",Supersport 3 (ALBANIA)
+http://livebar.pw/lba/123/g5/albaniasport3.m3u8
+#EXTINF:-1 group-title="Спорт",Supersport 4 (ALBANIA)
+http://livebar.pw/lba/123/g7/super4sport.m3u8
+#EXTINF:-1 group-title="Спорт",Sport TV 1 (Portugal)
+http://livebar.pw/lba/123/g5/tv1pt.m3u8
+#EXTINF:-1 group-title="Спорт",Sport TV 2 (Portugal)
+http://livebar.pw/lba/123/g7/sport2port.m3u8
+#EXTINF:-1 group-title="Спорт",Sport TV 3 (Portugal)
+http://livebar.pw/lba/123/g3/pt3sport.m3u8
+#EXTINF:-1 group-title="Спорт",Sport TV 4 (Portugal)
+http://livebar.pw/lba/123/g3/arenaserbia4.m3u8
+#EXTINF:-1 group-title="Спорт",Sport TV 5 (Portugal)
+http://livebar.pw/lba/123/g7/ar5sport.m3u8
+#EXTINF:-1 group-title="Спорт",SK 1HD
+http://livebar.pw/lba/123/g1/sportklub1rs.m3u8
+#EXTINF:-1 group-title="Спорт",SK 2HD
+http://livebar.pw/lba/123/g3/sk2serbia.m3u8
+#EXTINF:-1 group-title="Спорт",SK 3HD
+http://livebar.pw/lba/123/g9/rs3sk.m3u8
+#EXTINF:-1 group-title="Спорт",BT Sport 1
+http://livebar.pw/lba/123/g2/ukbtsport1.m3u8
+#EXTINF:-1 group-title="Спорт",BT Sport 2
+http://livebar.pw/lba/123/g3/bt2.m3u8
+#EXTINF:-1 group-title="Спорт",BT Sport 3
+http://livebar.pw/lba/123/g4/bt3sport.m3u8
+#EXTINF:-1 group-title="Спорт",BEIN SPORTS 1 TK
+http://livebar.pw/lba/123/g8/bein3turkey.m3u8
+#EXTINF:-1 group-title="Спорт",BEIN SPORTS 2 TK
+http://livebar.pw/lba/123/g6/turbein2sport.m3u8
+#EXTINF:-1 group-title="Спорт",Arena Sport 1
+http://livebar.pw/lba/123/g7/arena1rs.m3u8
+#EXTINF:-1 group-title="Спорт",Arena Sport 2
+http://livebar.pw/lba/123/g10/arena2sport.m3u8
+#EXTINF:-1 group-title="Спорт",Arena Sport 3
+http://livebar.pw/lba/123/g6/sportarena3rs.m3u8
+#EXTINF:-1 group-title="Спорт",Arena Sport 4
+http://livebar.pw/lba/123/g3/arenaserbia4.m3u8
+#EXTINF:-1 group-title="Спорт",Arena Sport 5
+http://livebar.pw/lba/123/g7/ar5sport.m3u8
+#EXTINF:-1 group-title="Спорт",Cars & Stars TV HD
+http://cars-and-stars-tv-hls1.cosmonova.net.ua/hls/cars-and-stars-tv_ua_hi/index.m3u8
+#EXTINF:-1 group-title="Спорт",Centrs TV Sports
+http://217.145.218.30:8403/ch403
+#EXTINF:-1 group-title="Спорт",Combat Go
+http://bcoveliveios-i.akamaihd.net/hls/live/632424/5725327446001_02/playlist.m3u8
+#EXTINF:-1 group-title="Спорт",NBC GOLF
+http://161.0.157.9/PLTV/88888888/224/3221226812/index.m3u8
+#EXTINF:-1 group-title="Спорт",TV ALL SPORTS
+http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
+#EXTINF:-1 group-title="Спорт",Матч Премьер
+http://91.210.117.80:919/1922
+#EXTINF:-1 group-title="Спорт",Матч! Футбол 1
+http://91.210.117.80:919/1914
+#EXTINF:-1 group-title="Спорт",Футбол
+http://92.243.113.179:8080/Futbol/index.m3u8?token=nts_tv
+#EXTINF:-1 group-title="Спорт",Матч! Футбол1
+http://92.243.113.179:8080/Match!Futbol1/index.m3u8?token=nts_tv
+#EXTINF:-1 group-title="Спорт",футбол 1 UA
+http://livebar.pw/lba/123/g1/ukrfoot1.m3u8
+#EXTINF:-1 group-title="Спорт",футбол 2 UA
+http://livebar.pw/lba/123/g2/football2ukraine.m3u8
+#EXTINF:-1 group-title="Спорт",Футбол 1 ru
+http://190-2-146-87.livesports24.online/matchfoot1.m3u8
+#EXTINF:-1 group-title="Спорт",Футбол 2 ru
+http://185-8-178-140.livesports24.online/mfootball2rus.m3u8
+#EXTINF:-1 group-title="Спорт",Футбол 3 ru
+http://185-8-178-140.livesports24.online/rumatchf3.m3u8
+#EXTINF:-1 group-title="Спорт",MATCH Премьер / Наш Футбол
+http://185-8-178-140.livesports24.online/mpremierrus.m3u8
+#EXTINF:-1 group-title="Спорт",Setanta Sports
+http://185-132-179-146.livesports24.online/rusetantaeurasia.m3u8
+#EXTINF:-1 group-title="Спорт",Матч! HD
+http://195.144.21.159/match_hd/index.m3u8?token=sportmir
+#EXTINF:-1 group-title="Спорт",Матч! Футбол 1 HD
+http://195.144.21.159/match_futbol1_hd/index.m3u8?token=sportmir
+#EXTINF:-1 group-title="Спорт",Матч! Футбол 2 HD
+http://195.144.21.159/match_futbol2_hd/index.m3u8?token=sportmir
+#EXTINF:-1 group-title="Спорт",Матч! Футбол 3 HD
+http://195.144.21.159/match_futbol3_hd/index.m3u8?token=sportmir
+#EXTINF:-1 group-title="Спорт",Матч! Премьер HD
+http://195.144.21.159/match_premier_hd/index.m3u8?token=sportmir
+#EXTINF:-1 group-title="Спорт",UEFA Channel
+http://uefaliveshow-lh.akamaihd.net/i/20150827_1@64648/index_2000_av-p.m3u8?sd=10&rebase=on
+
+
+
+#EXTINF:-1 group-title="Спорт",Arena Sport 1
+http://livebar.pw/lba/123/g7/arena1rs.m3u8
+#EXTINF:-1 group-title="Спорт",Arena Sport 2
+http://livebar.pw/lba/123/g10/arena2sport.m3u8
+#EXTINF:-1 group-title="Спорт",Arena Sport 3
+http://livebar.pw/lba/123/g6/sportarena3rs.m3u8
+#EXTINF:-1 group-title="Спорт",Arena Sport 4
+http://livebar.pw/lba/123/g3/arenaserbia4.m3u8
+#EXTINF:-1 group-title="Спорт",Arena Sport 5
+http://livebar.pw/lba/123/g7/ar5sport.m3u8
+
+
 #EXTINF:-1,Arena Sport 1 
 http://46.40.5.99:8000/arena_1_high
 #EXTINF:-1,Arena Sport 2 
@@ -451,6 +635,32 @@ http://b31398aa.ottv.info/iptv/FCU2M3ZSVTTVFR/160/index.m3u8
 http://b31398aa.ottv.info/iptv/FCU2M3ZSVTTVFR/870/index.m3u8
 
 
+
+#EXTINF:-1,Матч! Футбол 3
+https://livebar.pw/lba/123/g4/matfoot3.m3u8
+#EXTINF:-1,Матч! Футбол 1 HD
+https://livebar.pw/lba/123/g2/mfootball1.m3u8
+#EXTINF:-1,Матч! Футбол 1 HD
+http://195.144.21.159/match_futbol1_hd/index.m3u8?token=sportmir
+#EXTINF:-1,Матч! Футбол 2 HD
+http://195.144.21.159/match_futbol2_hd/video.m3u8?token=sportmir
+#EXTINF:-1,Матч! Футбол 3 HD
+http://195.144.21.159/match_futbol3_hd/video.m3u8?token=sportmir
+#EXTINF:0,Матч! Футбол 1HD  www.iptvbin.com
+http://persik.by/stream/3602/287583/10266.m3u8
+#EXTINF:-1,Матч! Футбол 2HD
+http://178.49.102.170:81/udp/239.1.23.2:1234
+#EXTINF:-1,Матч! Футбол 3HD
+https://185-132-179-146.livesports24.online/rumatchf3.m3u8
+#EXTINF:-1,Футбол 1 HD
+http://195.144.21.159/futbol1_ukr_hd/index.m3u8?token=sportmir
+#EXTINF:-1,Футбол 2 HD
+http://195.144.21.159/futbol2_ukr_hd/index.m3u8?token=sportmir
+#EXTINF:0,Setanta Sport
+http://ott-cdn.ucom.am/s81/index.m3u8
+#EXTINF:0,Setanta Sport Plus
+http://ott-cdn.ucom.am/s82/index.m3u8
+
 #EXTINF:-1,Nova Sport 4
 http://145.239.65.29:6511/live/novaspert4x45/mpegts?token=fotmpe1
 #EXTINF:-1,Nova Sport 3
@@ -498,7 +708,16 @@ http://157d378f.ottv.biz/iptv/QGFAXXMYLBRMQH/150/index.m3u8
 http://157d378f.ottv.biz/iptv/QGFAXXMYLBRMQH/870/index.m3u8
 
 
-
+#EXTINF:-1 group-title="Спорт",Sport TV 1 (Portugal)
+http://livebar.pw/lba/123/g5/tv1pt.m3u8
+#EXTINF:-1 group-title="Спорт",Sport TV 2 (Portugal)
+http://livebar.pw/lba/123/g7/sport2port.m3u8
+#EXTINF:-1 group-title="Спорт",Sport TV 3 (Portugal)
+http://livebar.pw/lba/123/g3/pt3sport.m3u8
+#EXTINF:-1 group-title="Спорт",Sport TV 4 (Portugal)
+http://livebar.pw/lba/123/g3/arenaserbia4.m3u8
+#EXTINF:-1 group-title="Спорт",Sport TV 5 (Portugal)
+http://livebar.pw/lba/123/g7/ar5sport.m3u8
 
 
 #EXTINF:-1,DE:: Telekom Fussball 1
@@ -1202,6 +1421,148 @@ http://wms.shared.streamshow.it:1935/canale7/canale7/live.m3u8
 
 #EXTINF:-1,[COLOR yellow]>>>  ENGLESKA I USA  <<<[/COLOR]
 skip
+
+
+
+
+#EXTINF:-1,A&E
+http://198.251.99.4:8764/hls/m3u8/226-2005.m3u8
+#EXTINF:-1,ABC
+http://198.251.99.4:8764/hls/m3u8/224-2004.m3u8
+#EXTINF:-1,BBC America
+http://198.251.99.4:8764/hls/m3u8/228-2006.m3u8
+#EXTINF:-1,BET
+http://198.251.99.4:8764/hls/m3u8/228-2001.m3u8
+#EXTINF:-1,Bloomberg
+http://198.251.99.4:8764/hls/m3u8/225-2002.m3u8
+#EXTINF:-1,Bounce
+http://198.251.99.4:8764/hls/m3u8/221-2008.m3u8
+#EXTINF:-1,Bravo
+http://198.251.99.4:8764/hls/m3u8/226-2001.m3u8
+#EXTINF:-1,Brian Houston TV
+http://198.251.99.4:8764/hls/m3u8/221-2017.m3u8
+#EXTINF:-1,C-Span
+http://198.251.99.4:8764/hls/m3u8/225-2006.m3u8
+#EXTINF:-1,Cartoon Network
+http://198.251.99.4:8764/hls/m3u8/224-2001.m3u8
+#EXTINF:-1,CBS
+http://198.251.99.4:8764/hls/m3u8/224-2003.m3u8
+#EXTINF:-1,CMT
+http://198.251.99.4:8764/hls/m3u8/227-2006.m3u8
+#EXTINF:-1,CNBC
+http://198.251.99.4:8764/hls/m3u8/225-2004.m3u8
+#EXTINF:-1,CNBC World
+http://198.251.99.4:8764/hls/m3u8/225-2003.m3u8
+#EXTINF:-1,CNN
+http://198.251.99.4:8764/hls/m3u8/222-2002.m3u8
+#EXTINF:-1,Comedy Central
+http://198.251.99.4:8764/hls/m3u8/226-2004.m3u8
+#EXTINF:-1,Create
+http://198.251.99.4:8764/hls/m3u8/221-2015.m3u8
+#EXTINF:-1,Discovery Channel
+http://198.251.99.4:8764/hls/m3u8/223-2004.m3u8
+#EXTINF:-1,Discovery Investigation 
+http://198.251.99.4:8764/hls/m3u8/226-2008.m3u8
+#EXTINF:-1,Discovery Science
+http://198.251.99.4:8764/hls/m3u8/2211-3002.m3u8
+#EXTINF:-1,Disney Channel
+http://198.251.99.4:8764/hls/m3u8/224-2002.m3u8
+#EXTINF:-1,Disney Junior
+http://198.251.99.4:8764/hls/m3u8/2211-3015.m3u8
+#EXTINF:-1,Enlace
+http://198.251.99.4:8764/hls/m3u8/221-2012.m3u8
+#EXTINF:-1,ESPN
+http://198.251.99.4:8764/hls/m3u8/222-2003.m3u8
+#EXTINF:-1,ESPN 2
+http://198.251.99.4:8764/hls/m3u8/222-2004.m3u8
+#EXTINF:-1,ESPNEWS
+http://198.251.99.4:8764/hls/m3u8/225-2008.m3u8
+#EXTINF:-1,ESPN SEC Network
+http://198.251.99.4:8764/hls/m3u8/223-2001.m3u8
+#EXTINF:-1,ESPN U
+http://198.251.99.4:8764/hls/m3u8/225-2007.m3u8
+#EXTINF:-1,Food Network
+http://198.251.99.4:8764/hls/m3u8/229-2007.m3u8
+#EXTINF:-1,Fox
+http://198.251.99.4:8764/hls/m3u8/225-2001.m3u8
+#EXTINF:-1,Fox News
+http://198.251.99.4:8764/hls/m3u8/222-2001.m3u8
+#EXTINF:-1,FreeForm
+http://198.251.99.4:8764/hls/m3u8/228-2003.m3u8
+#EXTINF:-1,FXX
+http://198.251.99.4:8764/hls/m3u8/2211-3013.m3u8
+#EXTINF:-1,GetTV
+http://198.251.99.4:8764/hls/m3u8/221-2020.m3u8
+#EXTINF:-1,Golf Channel
+http://198.251.99.4:8764/hls/m3u8/229-2006.m3u8
+#EXTINF:-1,Hallmark Channel
+http://198.251.99.4:8764/hls/m3u8/2211-3003.m3u8
+#EXTINF:-1,HBO
+http://198.251.99.4:8764/hls/m3u8/221-2001.m3u8
+#EXTINF:-1,HGTV
+http://198.251.99.4:8764/hls/m3u8/227-2001.m3u8
+#EXTINF:-1,Hillsong Channel
+http://198.251.99.4:8764/hls/m3u8/221-2010.m3u8
+#EXTINF:-1,History Channel
+http://198.251.99.4:8764/hls/m3u8/223-2002.m3u8
+#EXTINF:-1,HLN
+http://198.251.99.4:8764/hls/m3u8/225-2005.m3u8
+#EXTINF:-1,ion Television
+http://198.251.99.4:8764/hls/m3u8/221-2004.m3u8
+#EXTINF:-1,Juce TV (Smile)
+http://198.251.99.4:8764/hls/m3u8/221-2011.m3u8
+#EXTINF:-1,Lifetime
+http://198.251.99.4:8764/hls/m3u8/228-2005.m3u8
+#EXTINF:-1,MeTV
+http://198.251.99.4:8764/hls/m3u8/221-2005.m3u8
+#EXTINF:-1,MLB Network
+http://198.251.99.4:8764/hls/m3u8/229-2001.m3u8
+#EXTINF:-1,MSNBC
+http://198.251.99.4:8764/hls/m3u8/2211-3009.m3u8
+#EXTINF:-1,MTV
+http://198.251.99.4:8764/hls/m3u8/227-2007.m3u8
+#EXTINF:-1,N/A
+http://198.251.99.4:8764/hls/m3u8/221-2003.m3u8
+#EXTINF:-1,N/A
+http://198.251.99.4:8764/hls/m3u8/2211-3012.m3u8
+#EXTINF:-1,NBA TV
+http://198.251.99.4:8764/hls/m3u8/229-2004.m3u8
+#EXTINF:-1,NBC
+http://198.251.99.4:8764/hls/m3u8/221-2006.m3u8
+#EXTINF:-1,NBC 15 Weather Channel
+http://198.251.99.4:8764/hls/m3u8/221-2007.m3u8
+#EXTINF:-1,NFL Network
+http://198.251.99.4:8764/hls/m3u8/229-2002.m3u8
+#EXTINF:-1,NHL Network 
+http://198.251.99.4:8764/hls/m3u8/229-2003.m3u8
+#EXTINF:-1,Nickelodeon
+http://198.251.99.4:8764/hls/m3u8/228-2002.m3u8
+#EXTINF:-1,PBS
+http://198.251.99.4:8764/hls/m3u8/221-2013.m3u8
+#EXTINF:-1,PBS Kids
+http://198.251.99.4:8764/hls/m3u8/221-2016.m3u8
+#EXTINF:-1,QVC
+http://198.251.99.4:8764/hls/m3u8/228-2008.m3u8
+#EXTINF:-1,TBD
+http://198.251.99.4:8764/hls/m3u8/221-2002.m3u8
+#EXTINF:-1,TBS
+http://198.251.99.4:8764/hls/m3u8/226-2007.m3u8
+#EXTINF:-1,TLC
+http://198.251.99.4:8764/hls/m3u8/227-2003.m3u8
+#EXTINF:-1,Travel Channel
+http://198.251.99.4:8764/hls/m3u8/226-2003.m3u8
+#EXTINF:-1,truTV
+http://198.251.99.4:8764/hls/m3u8/227-2005.m3u8
+#EXTINF:-1,USA Network
+http://198.251.99.4:8764/hls/m3u8/223-2003.m3u8
+#EXTINF:-1,VH1
+http://198.251.99.4:8764/hls/m3u8/227-2008.m3u8
+#EXTINF:-1,The Weather Channel
+http://198.251.99.4:8764/hls/m3u8/226-2002.m3u8
+#EXTINF:-1,World
+http://198.251.99.4:8764/hls/m3u8/221-2014.m3u8
+
+
 
 #EXTINF:-1,BBC Radio One
 http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlow/ak/bbc_radio_one.m3u8
