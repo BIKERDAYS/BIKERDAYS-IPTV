@@ -380,16 +380,6 @@ http://95.174.96.15:8030/play/370
 http://ne002.nscache.info/live/nbatv/chunks.m3u8
 
 
-#EXTINF:-1,sports
-http://tumarcadorcdn01.azureedge.net/live/t4/chunks.m3u8
-#EXTINF:-1,sports
-http://tumarcadorcdn01.azureedge.net/live/t3/chunks.m3u8
-#EXTINF:-1,sports
-http://tumarcadorcdn01.azureedge.net/live/t2/chunks.m3u8
-#EXTINF:-1,sports
-http://tumarcadorcdn01.azureedge.net/live/t1/chunks.m3u8
-#EXTINF:-1,sports
-http://tumarcadorcdn01.azureedge.net/live/t5/chunks.m3u8
 
 
 
