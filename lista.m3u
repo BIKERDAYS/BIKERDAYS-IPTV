@@ -463,10 +463,6 @@ http://w4.mostvideo.tv/tv/ch1.m3u8
 http://176.120.119.93:805/224/index.m3u8
 #EXTINF:-1 group-title="Спорт",футбол 2 UA
 http://176.120.119.93:805/1203/index.m3u8
-#EXTINF:-1 group-title="Спорт",Футбол 1 HD UA
-http://195.144.21.159/futbol1_ukr_hd/index.m3u8?token=sportmir
-#EXTINF:-1 group-title="Спорт",Футбол 2 HD UA
-http://195.144.21.159/futbol2_ukr_hd/index.m3u8?token=sportmir
 #EXTINF:-1 group-title="Спорт",Спорт 1 UA
 https://livebar.pw/lba/123/g5/sport1ukraine.m3u8
 #EXTINF:-1 group-title="Спорт",Спорт 2 UA
@@ -579,8 +575,6 @@ http://livebar.pw/lba/123/g3/arenaserbia4.m3u8
 http://livebar.pw/lba/123/g7/ar5sport.m3u8
 #EXTINF:-1 group-title="Спорт",Cars & Stars TV HD
 http://cars-and-stars-tv-hls1.cosmonova.net.ua/hls/cars-and-stars-tv_ua_hi/index.m3u8
-#EXTINF:-1 group-title="Спорт",Centrs TV Sports
-http://217.145.218.30:8403/ch403
 #EXTINF:-1 group-title="Спорт",Combat Go
 http://bcoveliveios-i.akamaihd.net/hls/live/632424/5725327446001_02/playlist.m3u8
 #EXTINF:-1 group-title="Спорт",NBC GOLF
@@ -597,10 +591,6 @@ http://92.243.113.179:8080/Futbol/index.m3u8?token=nts_tv
 http://92.243.113.179:8080/Match!Futbol1/index.m3u8?token=nts_tv
 #EXTINF:-1 group-title="Спорт",футбол 1 UA
 http://livebar.pw/lba/123/g1/ukrfoot1.m3u8
-#EXTINF:-1 group-title="Спорт",футбол 2 UA
-http://livebar.pw/lba/123/g2/football2ukraine.m3u8
-#EXTINF:-1 group-title="Спорт",Футбол 1 ru
-http://190-2-146-87.livesports24.online/matchfoot1.m3u8
 #EXTINF:-1 group-title="Спорт",Футбол 2 ru
 http://185-8-178-140.livesports24.online/mfootball2rus.m3u8
 #EXTINF:-1 group-title="Спорт",Футбол 3 ru
@@ -609,16 +599,6 @@ http://185-8-178-140.livesports24.online/rumatchf3.m3u8
 http://185-8-178-140.livesports24.online/mpremierrus.m3u8
 #EXTINF:-1 group-title="Спорт",Setanta Sports
 http://185-132-179-146.livesports24.online/rusetantaeurasia.m3u8
-#EXTINF:-1 group-title="Спорт",Матч! HD
-http://195.144.21.159/match_hd/index.m3u8?token=sportmir
-#EXTINF:-1 group-title="Спорт",Матч! Футбол 1 HD
-http://195.144.21.159/match_futbol1_hd/index.m3u8?token=sportmir
-#EXTINF:-1 group-title="Спорт",Матч! Футбол 2 HD
-http://195.144.21.159/match_futbol2_hd/index.m3u8?token=sportmir
-#EXTINF:-1 group-title="Спорт",Матч! Футбол 3 HD
-http://195.144.21.159/match_futbol3_hd/index.m3u8?token=sportmir
-#EXTINF:-1 group-title="Спорт",Матч! Премьер HD
-http://195.144.21.159/match_premier_hd/index.m3u8?token=sportmir
 #EXTINF:-1 group-title="Спорт",UEFA Channel
 http://uefaliveshow-lh.akamaihd.net/i/20150827_1@64648/index_2000_av-p.m3u8?sd=10&rebase=on
 
@@ -644,13 +624,6 @@ http://46.40.5.99:8000/arena_2_high
 http://46.40.5.99:8000/arena_3_high
 #EXTINF:-1,Arena Sport 4 
 http://46.40.5.99:8000/arena_4_high
-#EXTINF:-1,Sport Klub 1 
-http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/7072.m3u8
-#EXTINF:-1,Sport Klub 2 
-http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/7073.m3u8
-#EXTINF:-1,Sport Klub 3 
-http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/7074.m3u8
-
 
 
 #EXTINF:-1,Fox Sports2
@@ -813,18 +786,10 @@ http://wma07.fluidstream.net:1935/TeleArena/livestream/playlist.m3u8
 
 #EXTINF:0,IT: TELEROMAGNA SPORT
 http://livetr.teleromagna.it/sport/live/playlist.m3u8
-
-#EXTINF:0,SP: EUROSPORT 1 HD
-http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/749.m3u8
-
 #EXTINF:0,SP: FIGHT TIME
 http://109.232.71.249/stream/stream_fighttime/fighttimehd.m3u8
 
-#EXTINF:0,SP: M GOLF HD
-http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/750.m3u8
 
-#EXTINF:0,SP: MOVISTAR F1 HD
-http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/757.m3u8
 
 #EXTINF:0,TR: ASTRO BOY
 http://1290922571.rsc.cdn77.org/moviesnew/tr/animation/AstroBoy.mp4/playlist.m3u8
