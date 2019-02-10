@@ -300,6 +300,16 @@ http://b31398aa.ottv.info/iptv/FCU2M3ZSVTTVFR/160/index.m3u8
 #EXTINF:-1,Бокс ТВ
 http://b31398aa.ottv.info/iptv/FCU2M3ZSVTTVFR/870/index.m3u8
 
+
+#EXTINF:-1,Eurosport 1
+http://6dfbb588.melpakomn.ru/iptv/QZH6CQVGHR6Z99/141/index.m3u8
+#EXTINF:-1,Eurosport 2 North-East
+http://6dfbb588.melpakomn.ru/iptv/QZH6CQVGHR6Z99/234/index.m3u8
+#EXTINF:-1,Eurosport 1
+http://6dfbb588.melpakomn.ru/iptv/QZH6CQVGHR6Z99/228/index.m3u8
+#EXTINF:-1,Extreme Sports
+http://6dfbb588.melpakomn.ru/iptv/QZH6CQVGHR6Z99/144/index.m3u8
+
 #EXTINF:-1,Матч! Футбол 2HD
 http://178.49.102.170:81/udp/239.1.23.2:1234
 
@@ -314,7 +324,38 @@ http://persik.by/stream/2734/382797/10314.m3u8
 http://persik.by/stream/2734/382797/10315.m3u8
 #EXTINF:-1,Setanta sports HD
 http://persik.by/stream/2734/382797/10316.m3u8
-
+#EXTINF:-1,КХЛ HD
+http://persik.by/stream/2734/382797/10242.m3u8
+#EXTINF:-1,КХЛ ТВ
+http://persik.by/stream/2734/382797/604.m3u8
+#EXTINF:-1,Матч!
+http://persik.by/stream/2734/382797/276.m3u8
+#EXTINF:-1,Матч! Арена
+http://persik.by/stream/2734/382797/261.m3u8
+#EXTINF:-1,Матч! Игра
+http://persik.by/stream/2734/382797/10270.m3u8
+#EXTINF:-1,Матч! Наш спорт
+http://persik.by/stream/2734/382797/10271.m3u8
+#EXTINF:-1,Матч! Футбол 1 
+http://persik.by/stream/2734/382797/346.m3u8
+#EXTINF:-1,Матч! Футбол 1 HD
+http://persik.by/stream/2734/382797/10266.m3u8
+#EXTINF:-1,Матч! Футбол 2
+http://persik.by/stream/2734/382797/10217.m3u8
+#EXTINF:-1,Матч! Футбол 2 HD
+http://persik.by/stream/2734/382797/10267.m3u8
+#EXTINF:-1,Матч! Футбол 3
+http://persik.by/stream/2734/382797/10218.m3u8
+#EXTINF:-1,Матч! Футбол 3 HD
+http://persik.by/stream/2734/382797/10268.m3u8
+#EXTINF:-1,Наш футбол
+http://persik.by/stream/2734/382797/284.m3u8
+#EXTINF:-1,Спорт 1 
+http://persik.by/stream/2734/382797/270.m3u8
+#EXTINF:-1,Спорт 2
+http://persik.by/stream/2734/382797/309.m3u8
+#EXTINF:-1,НАШ Футбол ESPORTE
+http://persik.by/stream/2734/382797/10264.m3u8
 
 #EXTINF:0,Setanta Sport
 http://ott-cdn.ucom.am/s81/index.m3u8
