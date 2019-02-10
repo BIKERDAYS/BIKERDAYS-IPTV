@@ -306,6 +306,16 @@ http://178.49.102.170:81/udp/239.1.23.2:1234
 #EXTINF:-1,Матч! Футбол 3HD
 https://185-132-179-146.livesports24.online/rumatchf3.m3u8
 
+#EXTINF:-1,Setanta sports
+http://persik.by/stream/2734/382797/10313.m3u8
+#EXTINF:-1,Setanta sports HD
+http://persik.by/stream/2734/382797/10314.m3u8
+#EXTINF:-1,Setanta sports
+http://persik.by/stream/2734/382797/10315.m3u8
+#EXTINF:-1,Setanta sports HD
+http://persik.by/stream/2734/382797/10316.m3u8
+
+
 #EXTINF:0,Setanta Sport
 http://ott-cdn.ucom.am/s81/index.m3u8
 
