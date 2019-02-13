@@ -133,6 +133,156 @@ http://195.29.70.67/PLTV/88888888/224/3221226460/index.m3u8
 http://195.29.70.67/PLTV/88888888/224/3221226491/index.m3u8
 
 
+#EXTINF:-1 tvg-ID="SLO1" tvg-name="SLO1" tvg-logo="http://tvprofil.net/img/kanali-logo/rtv-slo1-logo.png",[COLOR pink]Slovenia>[/COLOR] SLO 1
+https://tv.si/ts/Slo1/stream_wifi_1200k.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)&mode=12"
+#EXTINF:-1 tvg-ID="SLO 2 HD" tvg-name="SLO 2 HD" tvg-logo="http://tvprofil.net/img/kanali-logo/rtv-slo2-logo.png",[COLOR pink]Slovenia>[/COLOR] SLO 2
+https://tv.si/ts/Slo2/stream_wifi_1200k.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)&mode=12"
+#EXTINF:-1 tvg-ID="SLO 3" tvg-name="SLO 3" tvg-logo="http://tvprofil.net/img/kanali-logo/rtv-slo3-logo.png",[COLOR pink]Slovenia>[/COLOR] SLO 3
+https://tv.si/ts/Slo3/stream_wifi_1200k.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)&mode=12"
+#EXTINF:-1 tvg-ID="Kanal A HD" tvg-name="Kanal A HD" tvg-logo="http://tvprofil.net/img/kanali-logo/KANAL-A-logo_veliki.png",[COLOR pink]Slovenia>[/COLOR] Kanal A
+https://tv.si/ts/AKanal/stream_wifi_1200k.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)&mode=12"
+#EXTINF:-1 tvg-ID="POP TV HD" tvg-name="POP TV HD" tvg-logo="http://tvprofil.net/img/kanali-logo/pop-tv-logo.png",[COLOR pink]Slovenia>[/COLOR] POP TV
+https://tv.si/ts/PopTV/stream_wifi_1200k.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)&mode=12"
+#EXTINF:-1 tvg-ID="Planet TV HD" tvg-name="Planet TV HD" tvg-logo="http://www.rap-ing.si/modules/uploader/uploads/references1/pics/planet-tv_logo.jpg",[COLOR pink]Slovenia>[/COLOR] Planet TV
+https://tv.si/ts/PlanetTV/stream_wifi_1200k.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)&mode=12"
+#EXTINF:-1 tvg-ID="TV3 Medias" tvg-name="TV3 Medias" tvg-logo="http://shrani.si/f/2c/Bk/1ooU6j55/tv-3-m.jpg",[COLOR pink]Slovenia>[/COLOR] TV 3 Medias
+https://tv.si/ts/PinkTV3/stream_wifi_1200k.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)&mode=12"
+#EXTINF:-1 tvg-ID="Nova 24 TV HD" tvg-name="Nova 24 TV HD" tvg-logo="http://nova24tv.si/wp-content/uploads/2017/01/Nova24TV-logo.jpg",[COLOR pink]Slovenia>[/COLOR] Nova24TV
+https://tv.si/ts/Nova24TV/stream_wifi_1200k.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)&mode=12"
+#EXTINF:-1 tvg-ID="Vaš Kanal" tvg-name="Vaš Kanal" tvg-logo="http://www.gs-mkozine.si/tl_files/logo/vas%20kanal.jpg",[COLOR pink]Slovenia>[/COLOR] Vas kanal
+https://tv.si/ts/VASKANAL/stream_wifi_1200k.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)&mode=12"
+#EXTINF:-1 tvg-ID="FOX HD" tvg-name="FOX HD" tvg-logo="http://tvprofil.net/img/kanali-logo/fox-logo.png"group-title="FILMSKI PROGRAMI" ,[COLOR pink]Slovenia>[/COLOR] FOX
+https://tv.si/ts/FOX/stream_wifi_1200k.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)&mode=12"
+#EXTINF:-1 tvg-ID="FOX Life HD" tvg-name="FOX Life HD" tvg-logo="http://tvprofil.net/img/kanali-logo/fox-life-logo.png"group-title="FILMSKI PROGRAMI",[COLOR pink]Slovenia>[/COLOR] FOX Life
+https://tv.si/ts/FoxLife/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)&mode=12"
+#EXTINF:-1 tvg-ID="FOX Movies HD" tvg-name="FOX Movies HD" tvg-logo="http://nextgen-iptv.com/logo/FOXMovies_HR.png" group-title="FILMSKI PROGRAMI",[COLOR pink]Slovenia>[/COLOR] FOX Movies
+https://tv.si/ts/FOXMOVIES/stream_wifi_1200k.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)&mode=12"
+#EXTINF:-1 tvg-ID="FOX Crime HD" tvg-name="FOX Crime HD" tvg-logo="http://nextgen-iptv.com/logo/FOXCrime_HR.png" group-title="FILMSKI PROGRAMI",[COLOR pink]Slovenia>[/COLOR] FOX Crime
+https://tv.si/ts/FoxCrime/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)&mode=12"
+#EXTINF:-1 tvg-ID="HBO HD" tvg-name="HBO HD" tvg-logo="http://freeweb.t-2.net/kibtu/logo/HBO.png" group-title="FILMSKI PROGRAMI",[COLOR pink]Slovenia>[/COLOR] HBO
+https://tv.si/ts/HBO/stream_wifi_1200k.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)&mode=12"
+#EXTINF:-1 tvg-ID="HBO 2 HD" tvg-name="HBO 2 HD" tvg-logo="http://freeweb.t-2.net/kibtu/logo/HBO_2.png" group-title="FILMSKI PROGRAMI",[COLOR pink]Slovenia>[/COLOR] HBO 2
+https://tv.si/ts/HBOC/stream_wifi_1200k.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)&mode=12"
+#EXTINF:-1 tvg-ID="HBO 3 HD" tvg-name="HBO 3 HD" tvg-logo="http://freeweb.t-2.net/kibtu/logo/HBO_3.png" group-title="FILMSKI PROGRAMI",[COLOR pink]Slovenia>[/COLOR] HBO 3
+https://tv.si/ts/HBO3/stream_wifi_1200k.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)&mode=12"
+#EXTINF:-1 tvg-ID="AXN" tvg-name="AXN" tvg-logo="http://images.marketing-interactive.com.s3.amazonaws.com/wp-content/uploads/2015/09/AXN-e1442895163596.jpg",[COLOR pink]Slovenia>[/COLOR] AXN
+https://tv.si/ts/AXN/stream_wifi_1200k.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)&mode=12"
+#EXTINF:-1 tvg-ID="TV 1000" tvg-name="TV 1000" tvg-logo="http://tvprofil.net/img/kanali-logo/viasat-tv-1000.png" group-title="FILMSKI PROGRAMI",[COLOR pink]Slovenia>[/COLOR]TV 1000
+https://tv.si/ts/TV1000/stream_wifi_1200k.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)&mode=12"
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="http://tvprofil.net/img/kanali-logo/AMC-logo.png" group-title="FILMSKI PROGRAMI",[COLOR pink]Slovenia>[/COLOR] AMC
+https://tv.si/ts/MGM/stream_wifi_1200k.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)&mode=12"
+#EXTINF:-1 tvg-ID="Kino HD" tvg-name="Kino HD" tvg-logo="http://tvprofil.net/img/kanali-logo/LOGO-KINO_logo2.png" group-title="FILMSKI PROGRAMI",[COLOR pink]Slovenia>[/COLOR] Kino
+https://tv.si/ts/PopKino/stream_wifi_1200k.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)&mode=12"
+#EXTINF:-1 tvg-ID="Brio HD" tvg-name="Brio HD" tvg-logo="http://tvprofil.net/img/kanali-logo/LOGO-BRIO_logo.png" group-title="FILMSKI PROGRAMI",[COLOR pink]Slovenia>[/COLOR] Brio
+https://tv.si/ts/Brio/stream_wifi_1200k.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)&mode=12"
+#EXTINF:-1 tvg-logo="http://shrani.si/f/3R/O0/1t0NB8p6/diva.png" group-title="FILMSKI PROGRAMI",[COLOR pink]Slovenia>[/COLOR] Diva
+https://tv.si/ts/Hallmark/stream_wifi_1200k.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)&mode=12"
+#EXTINF:-1 tvg-ID="Gold TV" tvg-name="Gold TV" tvg-logo="http://tvprofil.net/img/kanali-logo/goldtv_si_logo.jpg",[COLOR pink]Slovenia>[/COLOR] Gold TV
+https://tv.si/ts/GOLDTV/stream_wifi_1200k.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)&mode=12"
+#EXTINF:-1 tvg-ID="Klasik TV" tvg-name="Klasik TV" tvg-logo="https://www.ion.tv/america/img/logoch/balkan21.jpg",[COLOR pink]Slovenia>[/COLOR] KLASIKTV
+https://tv.si/ts/KLASIKTV/stream_multi.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)&mode=12"
+#EXTINF:-1 tvg-ID="Animal Planet HD" tvg-name="Animal Planet HD" tvg-logo="https://goodlogo.com/images/logos/animal_planet_logo_2942.gif" group-title="DOKUMENTARNI PROGRAMI",[COLOR pink]Slovenia>[/COLOR] Animal Planet
+https://tv.si/ts/Animal/stream_wifi_1200k.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)&mode=12"
+#EXTINF:-1 tvg-ID="Discovery Channel" tvg-name="Discovery Channel" tvg-logo="https://www.waterstudio.nl/wp-content/uploads/2010/03/Waterstudio-news-discoverychannel1.png" group-title="DOKUMENTARNI PROGRAMI",[COLOR pink]Slovenia>[/COLOR] Discovery Channel
+https://tv.si/ts/Discovery/stream_wifi_1200k.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)&mode=12"
+#EXTINF:-1 tvg-logo="http://tvprofil.net/img/kanali-logo/history-logo.png" group-title="DOKUMENTARNI PROGRAMI",[COLOR pink]Slovenia>[/COLOR] History Channel
+https://tv.si/ts/History/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)&mode=12"
+#EXTINF:-1 tvg-ID="Travel Channel HD" tvg-name="Travel Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Travel_Channel_NEW_LOGO.svg/2000px-Travel_Channel_NEW_LOGO.svg.png" group-title="DOKUMENTARNI PROGRAMI",[COLOR pink]Slovenia>[/COLOR]Travel Channel
+https://tv.si/ts/Travel/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)&mode=12"
+#EXTINF:-1 tvg-ID="National Geographic HD" tvg-name="National Geographic HD" tvg-logo="http://www.quadia.ch/uploads/news/id159/National-Geographic-Logo.jpg" group-title="DOKUMENTARNI PROGRAMI",[COLOR pink]Slovenia>[/COLOR] National Geographic
+https://tv.si/ts/NatGeo/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)&mode=12"
+#EXTINF:-1 tvg-ID="National Geographic Wild HD" tvg-name="National Geographic Wild HD" tvg-logo="https://www.paulickreport.com/wp-content/uploads/2015/09/nat-geo-wild-34d22bd9cfeb208abd0e802c83d08489.png" group-title="DOKUMENTARNI PROGRAMI",[COLOR pink]Slovenia>[/COLOR]Nat Geo Wild
+https://tv.si/ts/NatGeoW/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)&mode=12"
+#EXTINF:-1 tvg-ID="Viasat History" tvg-name="Viasat History" tvg-logo="http://nextgen-iptv.com/logo/viasathistory.png" group-title="DOKUMENTARNI PROGRAMI",[COLOR pink]Slovenia>[/COLOR]Viasat History
+https://tv.si/ts/History/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)&mode=12"
+#EXTINF:-1 tvg-ID="Viasat Explorer" tvg-name="Viasat Explorer" tvg-logo="http://nextgen-iptv.com/logo/viasatexplorer.png" group-title="DOKUMENTARNI PROGRAMI",[COLOR pink]Slovenia>[/COLOR] Viasat Explorer
+https://tv.si/ts/ViasatExplorer/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)&mode=12"
+#EXTINF:-1 tvg-ID="Da Vinci Learning" tvg-name="Da Vinci Learning" tvg-logo="http://boomtv.club/logo/davinci.png" group-title="DOKUMENTARNI PROGRAMI",[COLOR pink]Slovenia>[/COLOR]Da Vinci Learning
+https://tv.si/ts/DaVinciLear/stream_wifi_1200k.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)&mode=12"
+#EXTINF:-1 tvg-ID="TLC" tvg-name="TLC" tvg-logo="http://www.blog.uporabnastran.si/wp-content/uploads/2016/05/TLC-3.0-Ceemea-Logo-540x280.png" group-title="DOKUMENTARNI PROGRAMI",[COLOR pink]Slovenia>[/COLOR] TLC
+https://tv.si/ts/DISCTLC/stream_wifi_1200k.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)&mode=12"
+#EXTINF:-1 tvg-id="ID Xtra" tvg-name="ID Xtra" tvg-logo="https://pbs.twimg.com/profile_images/890679019758342144/t1ifF4LF_400x400.jpg" group-title="DOKUMENTARNI PROGRAMI",[COLOR pink]Slovenia>[/COLOR]Discovery ID Xtra
+https://tv.si/ts/DISCIDX/stream_wifi_1200k.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)&mode=12"
+#EXTINF:-1 tvg-ID="24Kitchen Adria HD" tvg-name="24Kitchen Adria HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/24Kitchen.png" group-title="DOKUMENTARNI PROGRAMI",[COLOR pink]Slovenia>[/COLOR] 24Kitchen
+https://tv.si/ts/DOQ/stream_wifi_1200k.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)&mode=12"
+
+#EXTINF:-1 tvg-ID="Šport TV 1 HD" tvg-name="Šport TV 1 HD" tvg-logo="http://tvprofil.net/img/kanali-logo/Sport_TV1_logo.png" group-title="ŠPORTNI PROGRAMI",[COLOR pink]Slovenia>[/COLOR] Šport TV 1
+https://tv.si/ts/SportKlub/stream_wifi_1200k.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)&mode=12"
+#EXTINF:-1 tvg-ID="Šport TV 2 HD" tvg-name="Šport TV 2 HD" tvg-logo="http://freeweb.t-2.net/kibtu/logo/Sport_TV_2.png" group-title="ŠPORTNI PROGRAMI",[COLOR pink]Slovenia>[/COLOR] Šport TV 2
+https://tv.si/ts/SportKlub2/stream_wifi_1200k.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)&mode=12"
+#EXTINF:-1 tvg-ID="Eurosport" tvg-name="Eurosport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Eurosport_logo.svg/2000px-Eurosport_logo.svg.png" group-title="ŠPORTNI PROGRAMI",[COLOR pink]Slovenia>[/COLOR] Eurosport 1
+https://tv.si/ts/EUROSPORT/stream_multi.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)&mode=12"
+#EXTINF:-1 tvg-ID="Extreme Sports" tvg-name="Extreme Sports" tvg-logo="https://banner2.kisspng.com/20180906/awg/kisspng-logo-extreme-sports-channel-television-extreme-sports-channel-logo-svg-vector-amp-png-t-5b918417b81cc5.8047221815362631917541.jpg" group-title="ŠPORTNI PROGRAMI",[COLOR pink]Slovenia>[/COLOR] Extreme sport
+https://tv.si/ts/EXTREME/stream_multi.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)&mode=12"
+#EXTINF:-1 tvg-id="OTO HD" tvg-name="OTO HD" tvg-logo="http://tvprofil.net/img/kanali-logo/LOGO-OTO_logo.png" group-title="OTROŠKI PROGRAMI",[COLOR pink]Slovenia>[/COLOR] OTO
+https://tv.si/ts/PopOto/stream_wifi_1200k.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)&mode=12"
+#EXTINF:-1 tvg-id="Nickelodeon HD" tvg-name="Nickelodeon HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/62/NICKELODEON_Logo.png" group-title="OTROŠKI PROGRAMI",[COLOR pink]Slovenia>[/COLOR]Nickelodeon
+https://tv.si/ts/NICKLEODEON/stream_multi.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)&mode=12"
+#EXTINF:-1 tvg-ID="Minimax" tvg-name="Minimax" tvg-logo="https://totaltv.tv/oec/images/tv_channels/fffde94ae7ae03e12163b4a8a9200b05.png" group-title="OTROŠKI PROGRAMI",[COLOR pink]Slovenia>[/COLOR] Minimax
+https://tv.si/ts/Minimax/stream_multi.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)&mode=12"
+#EXTINF:-1 tvg-ID="Ginx" tvg-name="Ginx" tvg-logo="http://broadbandtvnews.broadbandtvnews.netdna-cdn.com/wp-content/uploads/2013/07/GINX_LOGO-VIDEOGAMINGTV_CMYK-e1373448095242.jpg" group-title="OTROŠKI PROGRAMI",[COLOR pink]Slovenia>[/COLOR] Ginx
+https://tv.si/ts/Ginx/stream_multi.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)&mode=12"
+#EXTINF:-1 tvg-ID="Disney Channel" tvg-name="Disney Channel" tvg-logo="https://cdn1.thr.com/sites/default/files/2014/05/disney_channel_logo_a_l.jpg" group-title="OTROŠKI PROGRAMI",[COLOR pink]Slovenia>[/COLOR]Disney Channel
+https://tv.si/ts/DisneyChannel/stream_multi.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)&mode=12"
+#EXTINF:-1 tvg-ID="Disney XD" tvg-name="Disney XD" tvg-logo="http://tvprofil.net/img/kanali-logo/disney-xd-logo.png" group-title="OTROŠKI PROGRAMI",[COLOR pink]Slovenia>[/COLOR] Disney XD
+https://tv.si/ts/DisneyXD/stream_multi.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)&mode=12"
+#EXTINF:-1 tvg-ID="Boomerang" tvg-name="Boomerang" tvg-logo="http://tvprofil.net/img/kanali-logo/boomerang_it_logo.png" group-title="OTROŠKI PROGRAMI",[COLOR pink]Slovenia>[/COLOR] Boomerang
+https://tv.si/ts/Boomerang/stream_multi.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)&mode=12"
+#EXTINF:-1 tvg-ID="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="http://tvprofil.net/img/kanali-logo/cartoon_network_logo.png" group-title="OTROŠKI PROGRAMI",[COLOR pink]Slovenia>[/COLOR] Cartoon Network
+https://tv.si/ts/Cartoon/stream_multi.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)&mode=12"
+#EXTINF:-1 tvg-ID="Baby TV" tvg-name="Baby TV" tvg-logo="http://tvprofil.net/img/kanali-logo/babatv-logo.png" group-title="OTROŠKI PROGRAMI",[COLOR pink]Slovenia>[/COLOR] BabyTV
+https://tv.si/ts/BabyTV/stream_multi.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)&mode=12"
+#EXTINF:-1 tvg-ID="Golica TV" tvg-name="Golica TV" tvg-logo="http://golica.si/wp-content/uploads/logo3-300x200.png",[COLOR pink]Slovenia>[/COLOR] Golica
+https://tv.si/ts/GOLICA/stream_multi.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)&mode=12"
+#EXTINF:-1 tvg-ID="TV Čarli" tvg-name="TV Čarli" tvg-logo="http://www.satelitv.net//uploads/images/logotip_carli_tv.jpg",[COLOR pink]Slovenia>[/COLOR] Carli TV
+https://tv.si/ts/Carli/stream_multi.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)&mode=12"
+#EXTINF:-1 tvg-ID="VTV Velenje" tvg-name="VTV Velenje" tvg-logo="http://www.pikinfestival.si/files/file/vtvcopy_1.png",[COLOR pink]Slovenia>[/COLOR] VTV
+https://tv.si/ts/VTV/stream_multi.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)&mode=12"
+#EXTINF:-1 tvg-ID="Pink SI" tvg-name="Pink SI" tvg-logo="http://www.tvpink.si/images/pink_logo.png",[COLOR pink]Slovenia>[/COLOR] Pink Si
+https://tv.si/ts/PinkSi/stream_multi.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)&mode=12"
+#EXTINF:-1 tvg-ID="Net TV" tvg-name="Net TV" tvg-logo="http://tvprofil.net/img/kanali-logo/net-tv-logo.png",[COLOR pink]Slovenia>[/COLOR] NET TV
+https://tv.si/ts/NET/stream_multi.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)&mode=12"
+#EXTINF:-1 tvg-ID="RTS Maribor" tvg-name="RTS Maribor" tvg-logo="http://tvprofil.net/img/kanali-logo/tv-maribor-logo.png",[COLOR pink]Slovenia>[/COLOR] RTV Maribor
+https://tv.si/ts/RTSM/stream_multi.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)&mode=12"
+#EXTINF:-1 tvg-ID="Tele M" tvg-name="Tele M" tvg-logo="http://img.rtvslo.si/_up/ava/ava_misc/show_logos/173250581/telem_wide1.jpg",[COLOR pink]Slovenia>[/COLOR] TELE M
+https://tv.si/ts/TELEM/stream_multi.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)&mode=12"
+#EXTINF:-1 tvg-ID="TV AS" tvg-name="TV AS" tvg-logo="http://tvprofil.net/img/kanali-logo/tv-as-logo.jpg",[COLOR pink]Slovenia>[/COLOR] TV AS
+https://tv.si/ts/TVAS/stream_multi.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)&mode=12"
+#EXTINF:-1 tvg-id="EEntertainment" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="E!" tvg-logo="http://nextgen-iptv.com/logo/E!_HR.png",[COLOR pink]Slovenia>[/COLOR] E!
+https://tv.si/ts/EEUROPE/stream_multi.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)&mode=12"
+#EXTINF:-1 tvg-ID="TV Veseljak" tvg-name="TV Veseljak" tvg-logo="http://freeweb.t-2.net/kibtu/logo/TV_Veseljak.png",[COLOR pink]Slovenia>[/COLOR] TV Veseljak
+https://tv.si/ts/PAPRIKA/stream_multi.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)&mode=12"
+#EXTINF:-1 tvg-ID="TV Petelin" tvg-name="TV Petelin" tvg-logo="http://freeweb.t-2.net/kibtu/logo/TV_Petelin.png",[COLOR pink]Slovenia>[/COLOR] TV Petelin
+https://tv.si/ts/PETELIN/stream_multi.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)&mode=12"
+#EXTINF:-1 tvg-ID="TV Koper" tvg-name="TV Koper" tvg-logo="http://shrani.si/f/1Y/G1/4VzgOTM6/koper.jpg",[COLOR pink]Slovenia>[/COLOR] TV Koper-Capodistria
+https://tv.si/ts/KOPER/stream_multi.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)&mode=12"
+#EXTINF:-1 tvg-ID="Koroska TV" tvg-name="Koroska TV" tvg-logo="https://www.koroskenovice.si/wp-content/uploads/2014/06/2039f9c06c46d5e4b5d871c0089d076b.jpg",[COLOR pink]Slovenia>[/COLOR] Koroska TV
+https://tv.si/ts/KOROSKATV/stream_multi.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)&mode=12"
+#EXTINF:-1 tvg-ID="TV Celje" tvg-name="TV Celje" tvg-logo="http://www.sentjur.si/Datoteke/Slike/Novice/134957/l_134957_1.gif",[COLOR pink]Slovenia>[/COLOR] TV Celje
+https://tv.si/ts/TVCELJE/stream_multi.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)&mode=12"
+#EXTINF:-1 tvg-ID="VH1" tvg-name="VH1" tvg-logo="https://totaltv.hr/oec/images/tv_channels/a1573ede9145e2a596348263ff8cae6c.png",[COLOR pink]Slovenia>[/COLOR]VH1
+https://tv.si/ts/VH1/stream_multi.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)&mode=12"
+#EXTINF:-1 tvg-ID="VH1 Classic" tvg-name="VH1 Classic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/VH1_Classic_UK.svg/1200px-VH1_Classic_UK.svg.png",[COLOR pink]Slovenia>[/COLOR] VH1 CLASSIC
+https://tv.si/ts/VH1CLA/stream_multi.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)&mode=12"
+#EXTINF:-1 tvg-ID="MTV Adria" tvg-name="MTV Adria" tvg-logo="https://upload.wikimedia.org/wikipedia/hr/4/4e/Mtv_adria_logo.jpg",[COLOR pink]Slovenia>[/COLOR] MTV Adria
+https://tv.si/ts/MTV/stream_multi.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)&mode=12"
+#EXTINF:-1 tvg-ID="DM SAT TV" tvg-name="DM SAT TV" tvg-logo="http://www.dmsat.tv/download/DMSAT_LOGO_3D_BIG.jpg",[COLOR pink]Slovenia>[/COLOR] DM SAT
+https://tv.si/ts/DMSAT/stream_multi.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)&mode=12"
+#EXTINF:-1 tvg-ID="Mezzo" tvg-name="Mezzo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Mezzo_Logo.svg/2000px-Mezzo_Logo.svg.png",[COLOR pink]Slovenia>[/COLOR] Mezzo
+https://tv.si/ts/Mezzo/stream_multi.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)&mode=12"
+#EXTINF:-1 tvg-ID="CMC" tvg-name="CMC" tvg-logo="https://www.vecernji.hr/media/img/8b/79/11e6ef90a7c33577e6fe.jpeg",[COLOR pink]Slovenia>[/COLOR] CMC
+https://tv.si/ts/CMC/stream_multi.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)&mode=12"
+#EXTINF:-1 tvg-ID="CNN International" tvg-name="CNN International" tvg-logo="https://www.ermenihaber.am/news_images/24/71228_2/cnn_768kbps_360p.jpg",[COLOR pink]Slovenia>[/COLOR] CNN International
+https://tv.si/ts/CNN/stream_multi.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)&mode=12"
+#EXTINF:-1 tvg-logo="https://bilder-a.akamaihd.net/spiele15/images/rtlspiele-logo.jpg",[COLOR pink]Slovenia>[/COLOR] RTL
+https://tv.si/ts/RTL/stream_multi.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)&mode=12"
+#EXTINF:-1 tvg-logo="http://anka.tv/uploads/tvlogo/rtl2.png",[COLOR pink]Slovenia>[/COLOR] RTL 2
+https://tv.si/ts/RTL2/stream_multi.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)&mode=12"
+#EXTINF:-1 tvg-logo="https://totaltv.tv/oec/images/tv_channels/bc6b0f411301758dc3c93f94f10be395.png",[COLOR pink]Slovenia>[/COLOR] Cinestar Tv
+https://tv.si/ts/Cinestar1/stream_multi.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)&mode=12"
+
+
+
 #EXTINF:-1,BHT1
 http://tv1linija.ddns.net:25461/live/V3vwubTcvH/y6K5coi411/9.m3u8
 #EXTINF:-1,BHT1 HD
