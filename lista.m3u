@@ -528,20 +528,7 @@ http://tv1linija.ddns.net:25461/live/V3vwubTcvH/y6K5coi411/1004.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://balkanius.net/logo/hr/rtl.png",[COLOR silver]Hrvatska>[/COLOR][COLOR red]RTL (L2)[/COLOR]
-http://balkanius.xyz:12974/justiceligue/6lu0rSBXL8/109
 
-#EXTINF:-1 tvg-logo="http://balkanius.net/logo/hr/RTL_Crime.png",[COLOR silver]Hrvatska>[/COLOR][COLOR red]RTL Crime[/COLOR]
-http://balkanius.xyz:12974/justiceligue/6lu0rSBXL8/42
-
-#EXTINF:-1 tvg-logo="http://balkanius.net/logo/hr/novatv.png",[COLOR silver]Hrvatska>[/COLOR][COLOR red]Nova TV[/COLOR]
-http://balkanius.xyz:12974/justiceligue/6lu0rSBXL8/47
-
-#EXTINF:-1 tvg-logo="http://balkanius.net/logo/hr/RTL2.png",[COLOR silver]Hrvatska>[/COLOR][COLOR red]RTL 2[/COLOR]
-http://balkanius.xyz:12974/justiceligue/6lu0rSBXL8/41
-
-#EXTINF:-1 tvg-logo="http://balkanius.net/logo/hr/doma.png",[COLOR silver]Hrvatska>[/COLOR][COLOR red]Doma TV[/COLOR]
-http://balkanius.xyz:12974/justiceligue/6lu0rSBXL8/46
 
 #EXTINF:-1 tvg-logo="https://epg.serbianforum.org/logo_znaci/HRT%201.png",[COLOR silver]Hrvatska>[/COLOR][COLOR red]HRT 1[/COLOR]
 http://best-str.xtim.tv:8080/stream?stream=orig&channel=hrt1
