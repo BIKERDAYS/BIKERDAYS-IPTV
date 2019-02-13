@@ -132,6 +132,79 @@ http://195.29.70.67/PLTV/88888888/224/3221226460/index.m3u8
 #EXTINF:-1,E! Entertainment TV HD 720p
 http://195.29.70.67/PLTV/88888888/224/3221226491/index.m3u8
 
+
+#EXTINF:-1 tvg-logo="http://balkanius.net/logo/hr/rtl.png",[COLOR silver]Hrvatska>[/COLOR][COLOR red]RTL (L2)[/COLOR]
+http://balkanius.xyz:12974/justiceligue/6lu0rSBXL8/109
+
+#EXTINF:-1 tvg-logo="http://balkanius.net/logo/hr/RTL_Crime.png",[COLOR silver]Hrvatska>[/COLOR][COLOR red]RTL Crime[/COLOR]
+http://balkanius.xyz:12974/justiceligue/6lu0rSBXL8/42
+
+#EXTINF:-1 tvg-logo="http://balkanius.net/logo/hr/novatv.png",[COLOR silver]Hrvatska>[/COLOR][COLOR red]Nova TV[/COLOR]
+http://balkanius.xyz:12974/justiceligue/6lu0rSBXL8/47
+
+#EXTINF:-1 tvg-logo="http://balkanius.net/logo/hr/RTL2.png",[COLOR silver]Hrvatska>[/COLOR][COLOR red]RTL 2[/COLOR]
+http://balkanius.xyz:12974/justiceligue/6lu0rSBXL8/41
+
+#EXTINF:-1 tvg-logo="http://balkanius.net/logo/hr/doma.png",[COLOR silver]Hrvatska>[/COLOR][COLOR red]Doma TV[/COLOR]
+http://balkanius.xyz:12974/justiceligue/6lu0rSBXL8/46
+
+#EXTINF:-1 tvg-logo="https://epg.serbianforum.org/logo_znaci/HRT%201.png",[COLOR silver]Hrvatska>[/COLOR][COLOR red]HRT 1[/COLOR]
+http://best-str.xtim.tv:8080/stream?stream=orig&channel=hrt1
+
+#EXTINF:-1 tvg-logo="https://epg.serbianforum.org/logo_znaci/HRT%203.png",[COLOR silver]Hrvatska>[/COLOR][COLOR red]HRT 3[/COLOR]
+http://best-str.xtim.tv:8080/stream?stream=orig&channel=hrt3
+
+#EXTINF:-1 tvg-logo="https://epg.serbianforum.org/logo_znaci/HRT%204.png",[COLOR silver]Hrvatska>[/COLOR][COLOR red]HRT 4[/COLOR]
+http://best-str.xtim.tv:8080/stream?stream=orig&channel=hrt4
+
+#EXTINF:-1 tvg- logo="https://epg.serbianforum.org/logo_znaci/Nova%20TV.png",[COLOR silver]Hrvatska>[/COLOR][COLOR red]Nova TV[/COLOR]
+http://best-str.xtim.tv:8080/stream?stream=orig&channel=hrt5
+
+
+#EXTINF:-1 tvg-logo="http://epg.serbianforum.org/logo_znaci_2/Filmbox%20plus.png",[COLOR red]FILM>[/COLOR]FilmBox Plus
+http://mobilesrbija.gcdn.co/livecacheloworigin/filmplus.stream/chunklist.m3u8?md5=s_FLPpqpPR2w5hFSvq6O9g&expires=1549801638
+
+#EXTINF:-1 tvg-logo="https://epg.serbianforum.org/logo_znaci/FOX%20Crime.png",[COLOR red]FILM>[/COLOR]Foc Crime BG
+http://87.246.0.155:5286/tv_Fox_Crime
+
+#EXTINF:-1 tvg-logo="https://epg.serbianforum.org/logo_znaci/HBO.png",[COLOR red]FILM>[/COLOR]HBO EN/BG
+http://87.246.0.155:5286/tv_HBO
+
+#EXTINF:-1 tvg-logo="https://epg.serbianforum.org/logo_znaci/HBO%202.png",[COLOR red]FILM>[/COLOR]HBO 2 EN/BG
+http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://epg.serbianforum.org/logo_znaci/HBO%202.png",[COLOR red]FILM>[/COLOR]HBO 2 EN/BG
+http://87.246.0.155:5286/tv_HBO_2
+
+#EXTINF:-1 tvg-logo="https://epg.serbianforum.org/logo_znaci/HBO%203%20HD.png",[COLOR red]FILM>[/COLOR]HBO 3 EN/BG
+http://87.246.0.155:5286/tv_HBO_3
+
+#EXTINF:-1 tvg-logo="https://epg.serbianforum.org/logo_znaci/Discovery%20Channel.png",[COLOR gold]Doku.>[/COLOR]Discovery[COLOR red] ukljuci titl[/COLOR]
+http://37.26.71.125:19201
+
+#EXTINF:-1 tvg-logo="https://epg.serbianforum.org/logo_znaci/Discovery%20Channel.png",[COLOR gold]Doku.>[/COLOR]Discovery
+http://best-str.xtim.tv:8080/stream?stream=orig&channel=discovery
+
+#EXTINF:-1 tvg-logo="https://epg.serbianforum.org/logo_znaci/Discovery%20Showcase.png",[COLOR gold]Doku.>[/COLOR]Discovery Show Case
+http://194.54.183.122:8000/play/a01g
+
+#EXTINF:-1 tvg-logo="https://epg.serbianforum.org/logo_znaci/TLC.png",[COLOR gold]Doku.>[/COLOR]TLC
+http://194.54.183.122:8000/play/a01j
+
+#EXTINF:-1 tvg-logo="https://epg.serbianforum.org/logo_znaci/Animal%20Planet.png",[COLOR gold]Doku.>[/COLOR]Animal Planet[COLOR red] ukljuci titl[/COLOR]
+http://37.26.71.125:19202
+
+#EXTINF:-1 tvg-logo="https://epg.serbianforum.org/logo_znaci/Animal%20Planet.png",[COLOR gold]Doku.>[/COLOR]Animal Planet
+http://194.54.183.122:8000/play/a01h
+
+#EXTINF:-1 tvg-logo="https://epg.serbianforum.org/logo_znaci/Animal%20Planet.png",[COLOR gold]Doku.>[/COLOR]Animal Planet
+http://best-str.xtim.tv:8080/stream?stream=orig&channel=animalplanet
+
+#EXTINF:-1 tvg-logo="https://epg.serbianforum.org/logo_znaci/Docubox.png",[COLOR gold]Doku.>[/COLOR]DocuBox
+http://mobilesrbija.gcdn.co/livecacheloworigin/docubox.stream/chunklist.m3u8?md5=mWa3qGDnTUJ0A3-B60HrIQ&expires=1549803139
+
+
+
 #EXTINF:-1,FACE TV
 http://178.132.6.97:8080/FACETV1/playlist.m3u8
 
@@ -299,6 +372,28 @@ http://b31398aa.ottv.info/iptv/FCU2M3ZSVTTVFR/160/index.m3u8
 
 #EXTINF:-1,Бокс ТВ
 http://b31398aa.ottv.info/iptv/FCU2M3ZSVTTVFR/870/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://epg.serbianforum.org/logo_znaci/Eurosport%202.png",[COLOR green]Sport >[/COLOR]Euro Sport 2
+http://195.206.253.157:8001/eurosport2hd
+
+#EXTINF:-1 tvg-logo="https://epg.serbianforum.org/logo_znaci/Arena%20Sport%201.png",[COLOR green]Sport >[/COLOR]Arena Sport 1
+http://89.163.225.55:8080/Arena-Sport1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://epg.serbianforum.org/logo_znaci/Arena%20Sport%201.png",[COLOR green]Sport >[/COLOR]Arena Sport 1
+http://213.91.124.113:9001/play/a002
+
+#EXTINF:-1 tvg-logo="https://epg.serbianforum.org/logo_znaci/Arena%20Sport%202.png",[COLOR green]Sport >[/COLOR]Arena Sport 2
+http://213.91.124.113:9001/play/a003
+
+#EXTINF:-1 tvg-logo="https://epg.serbianforum.org/logo_znaci/Arena%20Sport%203.png",[COLOR green]Sport >[/COLOR]Arena Sport 3
+http://213.91.124.113:9001/play/a02n
+
+#EXTINF:-1 tvg-logo="https://epg.serbianforum.org/logo_znaci/Arena%20Sport%204.png",[COLOR green]Sport >[/COLOR]Arena Sport 4
+http://213.91.124.113:9001/play/a02o
+
+
 
 
 #EXTINF:-1,Eurosport 1
