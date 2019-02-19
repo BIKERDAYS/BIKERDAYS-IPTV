@@ -789,6 +789,10 @@ http://213.91.124.113:9001/play/a02n
 #EXTINF:-1 tvg-logo="https://epg.serbianforum.org/logo_znaci/Arena%20Sport%204.png",[COLOR green]Sport >[/COLOR]Arena Sport 4
 http://213.91.124.113:9001/play/a02o
 
+#EXTINF:-1,Eurosport 1
+http://123orca.com:25461/live/amina2/amina2/3277.m3u8
+#EXTINF:-1,Eurosport 2
+http://123orca.com:25461/live/amina2/amina2/3276.m3u8
 
 
 
@@ -800,6 +804,14 @@ http://6dfbb588.melpakomn.ru/iptv/QZH6CQVGHR6Z99/234/index.m3u8
 http://6dfbb588.melpakomn.ru/iptv/QZH6CQVGHR6Z99/228/index.m3u8
 #EXTINF:-1,Extreme Sports
 http://6dfbb588.melpakomn.ru/iptv/QZH6CQVGHR6Z99/144/index.m3u8
+
+
+#EXTINF:-1,Eurosport 1 HD
+http://524bcc33.iptvspy.ru/iptv/C2DN7UA3ABGLLR/228/index.m3u8
+#EXTINF:-1,Eurosport 2 North-East HD
+http://524bcc33.iptvspy.ru/iptv/C2DN7UA3ABGLLR/234/index.m3u8
+#EXTINF:-1,Eurosport 1
+http://524bcc33.iptvspy.ru/iptv/C2DN7UA3ABGLLR/141/index.m3u8
 
 #EXTINF:-1,Матч! Футбол 2HD
 http://178.49.102.170:81/udp/239.1.23.2:1234
