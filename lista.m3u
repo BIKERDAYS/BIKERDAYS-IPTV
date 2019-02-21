@@ -545,24 +545,8 @@ http://best-str.xtim.tv:8080/stream?stream=orig&channel=hrt4
 #EXTINF:-1 tvg- logo="https://epg.serbianforum.org/logo_znaci/Nova%20TV.png",[COLOR silver]Hrvatska>[/COLOR][COLOR red]Nova TV[/COLOR]
 http://best-str.xtim.tv:8080/stream?stream=orig&channel=hrt5
 
-
-#EXTINF:-1 tvg-logo="http://epg.serbianforum.org/logo_znaci_2/Filmbox%20plus.png",[COLOR red]FILM>[/COLOR]FilmBox Plus
-http://mobilesrbija.gcdn.co/livecacheloworigin/filmplus.stream/chunklist.m3u8?md5=s_FLPpqpPR2w5hFSvq6O9g&expires=1549801638
-
-#EXTINF:-1 tvg-logo="https://epg.serbianforum.org/logo_znaci/FOX%20Crime.png",[COLOR red]FILM>[/COLOR]Foc Crime BG
-http://87.246.0.155:5286/tv_Fox_Crime
-
-#EXTINF:-1 tvg-logo="https://epg.serbianforum.org/logo_znaci/HBO.png",[COLOR red]FILM>[/COLOR]HBO EN/BG
-http://87.246.0.155:5286/tv_HBO
-
 #EXTINF:-1 tvg-logo="https://epg.serbianforum.org/logo_znaci/HBO%202.png",[COLOR red]FILM>[/COLOR]HBO 2 EN/BG
 http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8
-
-#EXTINF:-1 tvg-logo="https://epg.serbianforum.org/logo_znaci/HBO%202.png",[COLOR red]FILM>[/COLOR]HBO 2 EN/BG
-http://87.246.0.155:5286/tv_HBO_2
-
-#EXTINF:-1 tvg-logo="https://epg.serbianforum.org/logo_znaci/HBO%203%20HD.png",[COLOR red]FILM>[/COLOR]HBO 3 EN/BG
-http://87.246.0.155:5286/tv_HBO_3
 
 #EXTINF:-1 tvg-logo="https://epg.serbianforum.org/logo_znaci/Discovery%20Channel.png",[COLOR gold]Doku.>[/COLOR]Discovery[COLOR red] ukljuci titl[/COLOR]
 http://37.26.71.125:19201
@@ -585,8 +569,7 @@ http://194.54.183.122:8000/play/a01h
 #EXTINF:-1 tvg-logo="https://epg.serbianforum.org/logo_znaci/Animal%20Planet.png",[COLOR gold]Doku.>[/COLOR]Animal Planet
 http://best-str.xtim.tv:8080/stream?stream=orig&channel=animalplanet
 
-#EXTINF:-1 tvg-logo="https://epg.serbianforum.org/logo_znaci/Docubox.png",[COLOR gold]Doku.>[/COLOR]DocuBox
-http://mobilesrbija.gcdn.co/livecacheloworigin/docubox.stream/chunklist.m3u8?md5=mWa3qGDnTUJ0A3-B60HrIQ&expires=1549803139
+
 
 
 
@@ -778,11 +761,7 @@ http://103.205.133.14/hls/ten2.m3u8
 http://103.205.133.14/hls/sonyespn.m3u8
 
 
-#EXTINF:-1 group-title="Спорт",Xsport UA
-http://95.67.103.251/hls/xsport_ua_mid/index.m3u8
 
-#EXTINF:-1 group-title="Спорт",Xsport UA HD
-http://95.67.103.251/hls/xsport_ua_hi/index.m3u8
 
 #EXTINF:-1 group-title="Спорт",MostVideo UA HD
 http://w4.mostvideo.tv/tv/ch1.m3u8
@@ -864,22 +843,6 @@ http://195.206.253.157:8001/eurosport2hd
 #EXTINF:-1 tvg-logo="https://epg.serbianforum.org/logo_znaci/Arena%20Sport%201.png",[COLOR green]Sport >[/COLOR]Arena Sport 1
 http://89.163.225.55:8080/Arena-Sport1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://epg.serbianforum.org/logo_znaci/Arena%20Sport%201.png",[COLOR green]Sport >[/COLOR]Arena Sport 1
-http://213.91.124.113:9001/play/a002
-
-#EXTINF:-1 tvg-logo="https://epg.serbianforum.org/logo_znaci/Arena%20Sport%202.png",[COLOR green]Sport >[/COLOR]Arena Sport 2
-http://213.91.124.113:9001/play/a003
-
-#EXTINF:-1 tvg-logo="https://epg.serbianforum.org/logo_znaci/Arena%20Sport%203.png",[COLOR green]Sport >[/COLOR]Arena Sport 3
-http://213.91.124.113:9001/play/a02n
-
-#EXTINF:-1 tvg-logo="https://epg.serbianforum.org/logo_znaci/Arena%20Sport%204.png",[COLOR green]Sport >[/COLOR]Arena Sport 4
-http://213.91.124.113:9001/play/a02o
-
-#EXTINF:-1,Eurosport 1
-http://123orca.com:25461/live/amina2/amina2/3277.m3u8
-#EXTINF:-1,Eurosport 2
-http://123orca.com:25461/live/amina2/amina2/3276.m3u8
 
 
 
@@ -1023,9 +986,6 @@ http://rmtv24hweblive-lh.akamaihd.net:80/i/rmtv24hwebes_1@300661/index_3_av-p.m3
 #EXTINF:-1,Real Madrid TV
 http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_1_av-b.m3u8
 
-#EXTINF:-1,Sevilla fc
-http://sevillafc_live-lh.akamaihd.net:80/i/video_0@354142/master.m3u8
-
 #EXTINF:-1,RED BULL TV
 http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8
 
@@ -1143,9 +1103,6 @@ http://www.djing.com/tv/hothothot.m3u8
 #EXTINF:-1,RADIO MONTE CARLO
 http://wow01.105.net/live/rmc1/playlist.m3u8
 
-#EXTINF:-1,O!2
-http://hls.mycdn0633430096.cdnvideo.ru/mycdn0633430096/stream1_sd.sdp/playlist.m3u8
-
 #EXTINF:-1,RADIO ITALIA TV
 http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p.m3u8
 
@@ -1166,9 +1123,6 @@ http://wma10.fluidstream.net/CompanyTV/_definst_/mp4:livestream_720p/playlist.m3
 
 #EXTINF:-1, Hit Music Channel
 http://1mstream.digicable.hu/hitmusic/hitmusic.m3u8
-
-#EXTINF:-1, O 2
-http://hls.mycdn0633430096.cdnvideo.ru/mycdn0633430096/stream1_sd.sdp/chunklist.m3u8
 
 #EXTINF:-1, Radio Contact Vision
 http://contact-lh.akamaihd.net/i/CONTACT_1@321283/index_1200_av-p.m3u8
@@ -1310,9 +1264,6 @@ https://liveprodeuwest.global.ssl.fastly.net/btv/desktop/eu_live.m3u8
 
 #EXTINF:-1,ABC News
 https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/50345bf35f664739912f0b255c172ae9/index_1.m3u8
-
-#EXTINF:-1,abc news
-http://188.138.1.137:8080/abc/index.m3u8
 
 #EXTINF:-1,FOX 11
 http://api.new.livestream.com/accounts/6140873/events/live/live.m3u8
@@ -1685,9 +1636,6 @@ http://vod.tv7.fi:1935/tv7-se/_definst_/mp4:tv7-se.stream_360p/playlist.m3u8
 
 #EXTINF:0,24 corren
 http://lw-ntm-live.lwcdn.com/live/amlst:2df87a73-e998-4be4-b469-8e1614976f3c_all/playlist.m3u8
-
-#EXTINF:-1,HD Fashion UA
-http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 
 #EXTINF:-1,ID Fashion TV
 http://idfashion-hls1.cosmonova.net.ua/hls/idfashion_ua_low/index.m3u8
