@@ -158,7 +158,6 @@ https://tv.si/ts/DISCTLC/stream_wifi_1200k.m3u8|User-Agent=AppleCoreMedia/1.0.0.
 https://tv.si/ts/DISCIDX/stream_wifi_1200k.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)&mode=12"
 #EXTINF:-1 tvg-ID="24Kitchen Adria HD" tvg-name="24Kitchen Adria HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/24Kitchen.png" group-title="DOKUMENTARNI PROGRAMI",[COLOR pink]Slovenia>[/COLOR] 24Kitchen
 https://tv.si/ts/DOQ/stream_wifi_1200k.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)&mode=12"
-
 #EXTINF:-1 tvg-ID="Šport TV 1 HD" tvg-name="Šport TV 1 HD" tvg-logo="http://tvprofil.net/img/kanali-logo/Sport_TV1_logo.png" group-title="ŠPORTNI PROGRAMI",[COLOR pink]Slovenia>[/COLOR] Šport TV 1
 https://tv.si/ts/SportKlub/stream_wifi_1200k.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)&mode=12"
 #EXTINF:-1 tvg-ID="Šport TV 2 HD" tvg-name="Šport TV 2 HD" tvg-logo="http://freeweb.t-2.net/kibtu/logo/Sport_TV_2.png" group-title="ŠPORTNI PROGRAMI",[COLOR pink]Slovenia>[/COLOR] Šport TV 2
@@ -277,6 +276,36 @@ http://tvstream.rtvbn.com:1935/live/stream/chunklist_w1957700324.m3u8
 #EXTINF:-1,plus tv
 http://141.136.14.18/kanal1/kanal1_1500/index.m3u8
 
+
+
+#EXTINF:-1,Bein 1 AR 1080p
+http://4ever.biz:80/live/fi6ePKbPVt/Wi0ejDor8h/9271.m3u8
+#EXTINF:-1,Bein 2 AR 1080p
+http://4ever.biz:80/live/fi6ePKbPVt/Wi0ejDor8h/9270.m3u8
+#EXTINF:-1,Bein 3 AR 1080p
+http://4ever.biz:80/live/fi6ePKbPVt/Wi0ejDor8h/9269.m3u8
+#EXTINF:-1,Bein 4 AR 1080p
+http://4ever.biz:80/live/fi6ePKbPVt/Wi0ejDor8h/9268.m3u8
+#EXTINF:-1,Bein 5 AR 1080p
+http://4ever.biz:80/live/fi6ePKbPVt/Wi0ejDor8h/9267.m3u8
+#EXTINF:-1,Bein 6 AR 1080p
+http://4ever.biz:80/live/fi6ePKbPVt/Wi0ejDor8h/9266.m3u8
+#EXTINF:-1,Bein 7 AR 1080p
+http://4ever.biz:80/live/fi6ePKbPVt/Wi0ejDor8h/9265.m3u8
+#EXTINF:-1,Bein 8 AR 1080p
+http://4ever.biz:80/live/fi6ePKbPVt/Wi0ejDor8h/9264.m3u8
+#EXTINF:-1,Bein 9 AR 1080p
+http://4ever.biz:80/live/fi6ePKbPVt/Wi0ejDor8h/1707.m3u8
+#EXTINF:-1,Bein 10 AR 1080p
+http://4ever.biz:80/live/fi6ePKbPVt/Wi0ejDor8h/1799.m3u8
+#EXTINF:-1,Bein 11 AR 1080p
+http://4ever.biz:80/live/fi6ePKbPVt/Wi0ejDor8h/2160.m3u8
+#EXTINF:-1,Bein 12 AR 1080p 
+http://4ever.biz:80/live/fi6ePKbPVt/Wi0ejDor8h/2161.m3u8
+#EXTINF:-1,Bein 13 AR 1080p
+http://4ever.biz:80/live/fi6ePKbPVt/Wi0ejDor8h/2673.m3u8
+#EXTINF:-1,Bein 14 AR 1080p
+http://4ever.biz:80/live/fi6ePKbPVt/Wi0ejDor8h/22439.m3u8
 
 
 
@@ -648,6 +677,173 @@ http://streamcast.oc3n.net:1935/TVPI/myStream700.sdp/live.m3u8
 
 #EXTINF:-1,M2O Music
 http://m2otv-lh.akamaihd.net:80/i/m2oTv_1@186074/index_600_av-b.m3u8
+
+
+
+
+#EXTINF:-1,МУЖСКОЕ КИНО
+http://moscow-commpass.cdnvideo.ru:80/muzh_kino-mb/hls-00/mono.m3u8
+#EXTINF:-1,КИНОХИТ
+http://moscow-commpass.cdnvideo.ru:80/kinohit-mb/hls-00/mono.m3u8
+#EXTINF:-1,КИНОМИКС
+http://moscow-commpass.cdnvideo.ru:80/kino_plus-mb/hls-00/mono.m3u8
+#EXTINF:-1,КИНОКОМЕДИЯ
+http://moscow-commpass.cdnvideo.ru:80/comediatv-mb/hls-00/mono.m3u8
+#EXTINF:-1,НАШЕ НОВОЕ КИНО
+http://moscow-commpass.cdnvideo.ru:80/nashe_novoe_kino-mb/hls-00/index.m3u8
+#EXTINF:-1,КИНОСВИДИНИЕ
+http://moscow-commpass.cdnvideo.ru:80/kinoklub/hls-00/index.m3u8
+#EXTINF:-1,AMC
+http://moscow-commpass.cdnvideo.ru/amc/hls-00/index.m3u8
+#EXTINF:-1,TV1000 РУССКОЕ КИНО
+http://moscow-commpass.cdnvideo.ru:80/tv1000_ru/hls-00/mono.m3u8
+#EXTINF:-1,DISNEY
+http://moscow-commpass.cdnvideo.ru:80/disney-mb/hls-00/mono.m3u8
+#EXTINF:-1,NICKELODEON
+http://moscow-commpass.cdnvideo.ru:80/nickelodeon/hls-00/mono.m3u8
+#EXTINF:-1,O!
+http://moscow-commpass.cdnvideo.ru:80/o/hls-00/mono.m3u8
+#EXTINF:-1,NICK JR.
+http://moscow-commpass.cdnvideo.ru:80/nick_jr-mb/hls-00/mono.m3u8
+#EXTINF:-1,МАТЧ ИГРА
+http://moscow-commpass.cdnvideo.ru:80/sport/hls-00/mono.m3u8
+#EXTINF:-1,МАТЧ НАШ СПОРТ
+http://moscow-commpass.cdnvideo.ru:80/sport-plus/hls-00/mono.m3u8
+#EXTINF:-1,МАТЧ ФУТБОЛ 1
+http://moscow-commpass.cdnvideo.ru:80/futbol1-mb/hls-00/mono.m3u8
+#EXTINF:-1,БОЕЦ
+http://moscow-commpass.cdnvideo.ru:80/boetc/hls-00/mono.m3u8
+#EXTINF:-1,КХЛ ТВ
+http://moscow-commpass.cdnvideo.ru:80/khl/hls-00/mono.m3u8
+#EXTINF:-1,МАТЧ ФУТБОЛ 3
+http://moscow-commpass.cdnvideo.ru:80/sporthit-mb/hls-00/mono.m3u8
+#EXTINF:-1,МАТЧ ФУТБОЛ 2 
+http://moscow-commpass.cdnvideo.ru:80/futbol2-mb/hls-00/mono.m3u8
+#EXTINF:-1,НАШ ФУТБОЛ
+http://moscow-commpass.cdnvideo.ru:80/nashfutbol/hls-00/mono.m3u8
+#EXTINF:-1,НТВ
+http://moscow-commpass.cdnvideo.ru:80/ntv/hls-00/mono.m3u8
+#EXTINF:-1,Матч ТВ
+http://moscow-commpass.cdnvideo.ru:80/russia2/hls-00/mono.m3u8
+#EXTINF:-1,Россия 24
+http://moscow-commpass.cdnvideo.ru:80/rossia24/hls-00/mono.m3u8
+#EXTINF:-1,Карусель
+http://moscow-commpass.cdnvideo.ru:80/karusel/hls-00/mono.m3u8
+#EXTINF:-1,Домашний
+http://moscow-commpass.cdnvideo.ru:80/domashny/hls-00/mono.m3u8
+#EXTINF:-1,Звезда
+http://moscow-commpass.cdnvideo.ru:80/zvezda/hls-00/mono.m3u8
+#EXTINF:-1,Ю ТВ
+http://moscow-commpass.cdnvideo.ru:80/utv/hls-00/mono.m3u8
+#EXTINF:-1,ТВ3
+http://moscow-commpass.cdnvideo.ru:80/tv3/hls-00/mono.m3u8
+#EXTINF:-1,ТНТ
+http://moscow-commpass.cdnvideo.ru:80/tnt/hls-00/mono.m3u8
+#EXTINF:-1,Пятница
+http://moscow-commpass.cdnvideo.ru:80/friday/hls-00/mono.m3u8
+#EXTINF:-1,Мир
+http://moscow-commpass.cdnvideo.ru:80/mir/hls-00/mono.m3u8
+#EXTINF:-1,Мир 24
+http://moscow-commpass.cdnvideo.ru:80/mir24/hls-00/mono.m3u8
+#EXTINF:-1,Спас
+http://moscow-commpass.cdnvideo.ru:80/spas/hls-00/mono.m3u8
+#EXTINF:-1,Еврокино
+http://moscow-commpass.cdnvideo.ru:80/evrokino/hls-00/mono.m3u8
+#EXTINF:-1,TV1000
+http://moscow-commpass.cdnvideo.ru:80/tv1000/hls-00/mono.m3u8
+#EXTINF:-1,Дом кино
+http://moscow-commpass.cdnvideo.ru:80/dom_kino/hls-00/mono.m3u8
+#EXTINF:-1,Телекафе
+http://moscow-commpass.cdnvideo.ru:80/telecafe/hls-00/mono.m3u8
+#EXTINF:-1,Ретро ТВ
+http://moscow-commpass.cdnvideo.ru:80/retro/hls-00/mono.m3u8
+#EXTINF:-1,Ностальгия
+http://moscow-commpass.cdnvideo.ru:80/nostalgy/hls-00/mono.m3u8
+#EXTINF:-1,Киносерия
+http://moscow-commpass.cdnvideo.ru:80/mnogotv/hls-00/mono.m3u8
+#EXTINF:-1,Родное кино
+http://moscow-commpass.cdnvideo.ru:80/nashe_kino/hls-00/mono.m3u8
+#EXTINF:-1,Киномикс
+http://moscow-commpass.cdnvideo.ru:80/kino_plus/hls-00/mono.m3u8
+#EXTINF:-1,Индийское кино
+http://moscow-commpass.cdnvideo.ru:80/indiatv/hls-00/mono.m3u8
+#EXTINF:-1,A1
+http://moscow-commpass.cdnvideo.ru:80/amedia1/hls-00/mono.m3u8
+#EXTINF:-1,Travel Channel
+http://moscow-commpass.cdnvideo.ru:80/travelchannel/hls-00/mono.m3u8
+#EXTINF:-1,National Geographic Channel
+http://moscow-commpass.cdnvideo.ru:80/natgeo/hls-00/mono.m3u8
+#EXTINF:-1,Discovery World
+http://moscow-commpass.cdnvideo.ru:80/discovery-world/hls-00/mono.m3u8
+#EXTINF:-1,Discovery Channel
+http://moscow-commpass.cdnvideo.ru:80/discovery/hls-00/mono.m3u8
+#EXTINF:-1,Nat Geo Wild HD
+http://moscow-commpass.cdnvideo.ru:80/natgeowildhd/hls-00/mono.m3u8
+#EXTINF:-1,National Geographic Channel HD
+http://moscow-commpass.cdnvideo.ru:80/natgeohd/hls-00/mono.m3u8
+#EXTINF:-1,Мультимания
+http://moscow-commpass.cdnvideo.ru:80/multimania/hls-00/mono.m3u8
+#EXTINF:-1,TiJi
+http://moscow-commpass.cdnvideo.ru:80/tiji/hls-00/mono.m3u8
+#EXTINF:-1,Cartoon Network
+http://moscow-commpass.cdnvideo.ru:80/cartoon/hls-00/mono.m3u8
+#EXTINF:-1,Disney Channel
+http://moscow-commpass.cdnvideo.ru:80/disney/hls-00/mono.m3u8
+#EXTINF:-1,N/A
+http://moscow-commpass.cdnvideo.ru:80/rutv/hls-00/mono.m3u8
+#EXTINF:-1,Муз ТВ
+http://moscow-commpass.cdnvideo.ru:80/muztv/hls-00/mono.m3u8
+#EXTINF:-1,RUSONG TV
+http://moscow-commpass.cdnvideo.ru:80/rusong/hls-00/mono.m3u8
+#EXTINF:-1,Матч! Арена
+http://moscow-commpass.cdnvideo.ru:80/sport1/hls-00/mono.m3u8
+#EXTINF:-1,Eurosport 1
+http://moscow-commpass.cdnvideo.ru:80/eurosport/hls-00/mono.m3u8
+#EXTINF:-1,Здоровье ТВ
+http://moscow-commpass.cdnvideo.ru:80/zdorovoetv/hls-00/mono.m3u8
+#EXTINF:-1,Усадьба ТВ
+http://moscow-commpass.cdnvideo.ru:80/usadba/hls-00/mono.m3u8
+#EXTINF:-1,Драйв
+http://moscow-commpass.cdnvideo.ru:80/drive/hls-00/mono.m3u8
+#EXTINF:-1,TV5Monde Europe
+http://moscow-commpass.cdnvideo.ru:80/tv5/hls-00/mono.m3u8
+#EXTINF:-1,ТДК
+http://moscow-commpass.cdnvideo.ru:80/tdk/hls-00/mono.m3u8
+#EXTINF:-1,Сарафан
+http://moscow-commpass.cdnvideo.ru:80/sarafan/hls-00/mono.m3u8
+#EXTINF:-1,РжД HD
+http://moscow-commpass.cdnvideo.ru:80/rzd/hls-00/mono.m3u8
+#EXTINF:-1,RTG TV
+http://moscow-commpass.cdnvideo.ru:80/rtg/hls-00/mono.m3u8
+#EXTINF:-1,RT Doc HD
+http://moscow-commpass.cdnvideo.ru:80/rtd/hls-00/mono.m3u8
+#EXTINF:-1,РБК
+http://moscow-commpass.cdnvideo.ru:80/rbc/hls-00/mono.m3u8
+#EXTINF:-1,Дождь
+http://moscow-commpass.cdnvideo.ru:80/rain/hls-00/mono.m3u8
+#EXTINF:-1,Раз ТВ
+http://moscow-commpass.cdnvideo.ru:80/raztv/hls-00/mono.m3u8
+#EXTINF:-1,Наука 2.0
+http://moscow-commpass.cdnvideo.ru:80/nauka/hls-00/mono.m3u8
+#EXTINF:-1,Нано ТВ
+http://moscow-commpass.cdnvideo.ru:80/nano/hls-00/mono.m3u8
+#EXTINF:-1,Iнтер
+http://moscow-commpass.cdnvideo.ru:80/inter/hls-00/mono.m3u8
+#EXTINF:-1,Fox Life
+http://moscow-commpass.cdnvideo.ru:80/foxlife/hls-00/mono.m3u8
+#EXTINF:-1,Euronews
+http://moscow-commpass.cdnvideo.ru:80/euronews/hls-00/mono.m3u8
+#EXTINF:-1,DWTV
+http://moscow-commpass.cdnvideo.ru:80/dw/hls-00/mono.m3u8
+#EXTINF:-1,CNN
+http://moscow-commpass.cdnvideo.ru:80/cnn/hls-00/mono.m3u8
+#EXTINF:-1,TV7 Moldova
+http://moscow-commpass.cdnvideo.ru:80/7tv/hls-00/mono.m3u8
+#EXTINF:-1,TV1000 ACTION
+http://moscow-commpass.cdnvideo.ru:80/tv1000_action/hls-00/mono.m3u8
+
+
+
 
 
 #EXTINF:-1,Rik
