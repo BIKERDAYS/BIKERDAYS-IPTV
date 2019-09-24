@@ -278,34 +278,15 @@ http://141.136.14.18/kanal1/kanal1_1500/index.m3u8
 
 
 
-#EXTINF:-1,Bein 1 AR 1080p
-http://4ever.biz:80/live/fi6ePKbPVt/Wi0ejDor8h/9271.m3u8
-#EXTINF:-1,Bein 2 AR 1080p
-http://4ever.biz:80/live/fi6ePKbPVt/Wi0ejDor8h/9270.m3u8
-#EXTINF:-1,Bein 3 AR 1080p
-http://4ever.biz:80/live/fi6ePKbPVt/Wi0ejDor8h/9269.m3u8
-#EXTINF:-1,Bein 4 AR 1080p
-http://4ever.biz:80/live/fi6ePKbPVt/Wi0ejDor8h/9268.m3u8
-#EXTINF:-1,Bein 5 AR 1080p
-http://4ever.biz:80/live/fi6ePKbPVt/Wi0ejDor8h/9267.m3u8
-#EXTINF:-1,Bein 6 AR 1080p
-http://4ever.biz:80/live/fi6ePKbPVt/Wi0ejDor8h/9266.m3u8
-#EXTINF:-1,Bein 7 AR 1080p
-http://4ever.biz:80/live/fi6ePKbPVt/Wi0ejDor8h/9265.m3u8
-#EXTINF:-1,Bein 8 AR 1080p
-http://4ever.biz:80/live/fi6ePKbPVt/Wi0ejDor8h/9264.m3u8
-#EXTINF:-1,Bein 9 AR 1080p
-http://4ever.biz:80/live/fi6ePKbPVt/Wi0ejDor8h/1707.m3u8
-#EXTINF:-1,Bein 10 AR 1080p
-http://4ever.biz:80/live/fi6ePKbPVt/Wi0ejDor8h/1799.m3u8
-#EXTINF:-1,Bein 11 AR 1080p
-http://4ever.biz:80/live/fi6ePKbPVt/Wi0ejDor8h/2160.m3u8
-#EXTINF:-1,Bein 12 AR 1080p 
-http://4ever.biz:80/live/fi6ePKbPVt/Wi0ejDor8h/2161.m3u8
-#EXTINF:-1,Bein 13 AR 1080p
-http://4ever.biz:80/live/fi6ePKbPVt/Wi0ejDor8h/2673.m3u8
-#EXTINF:-1,Bein 14 AR 1080p
-http://4ever.biz:80/live/fi6ePKbPVt/Wi0ejDor8h/22439.m3u8
+
+#EXTINF:-1,eurosport1
+http://213.174.8.7:8000/play/15/index.m3u8
+
+
+#EXTINF:-1,eurosport1
+https://tinyurl.com/yxlortze
+#EXTINF:-1,eurosport2
+https://tinyurl.com/y6jd6joe
 
 
 
@@ -636,9 +617,6 @@ http://orfs.orf.cdn.ors.at/orfs/q8c.sdp/chunklist.m3u8
 #EXTINF:-1,ÖS-ORF-1HD+ (vpn austria)
 http://orf1.orf.cdn.ors.at/orf1/q8c.sdp/chunklist.m3u8
 
-#EXTINF:-1,blizz tv
-http://familytvblizz-lh.akamaihd.net/i/familytv_1@458351/master.m3u8
-
 #EXTINF:-1,tirol tv
 http://lb.hd-livestream.de:1935/live/TirolTV/playlist.m3u8
 
@@ -665,9 +643,6 @@ http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master.m3u8
 
 #EXTINF:-1,Alsace20
 http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
-
-#EXTINF:-1,tebeo
-http://live2.awedia.com/hls/tebeo.m3u8
 
 #EXTINF:-1,Gong
 http://ec.playmedia.fr/gong-base/live/playlist.m3u8
@@ -915,36 +890,7 @@ http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
 
 
-#EXTINF:-1,PLAYBOY
-http://51.15.125.186:8081/live/playboy/chunks.m3u8
-#EXTINF:-1,DARK
-http://51.15.125.186:8081/live/platino/chunks.m3u8
-#EXTINF:-1,BARLEY LEGAL
-http://51.15.125.186:8081/live/barelylegal/chunks.m3u8
-#EXTINF:-1,REDLIGHT HD
-http://51.15.125.186:8081/live/privatespice/chunks.m3u8
-#EXTINF:-1,MAX
-http://51.15.125.186:8081/live/hustlerhd/chunks.m3u8
-#EXTINF:-1,2
-http://51.15.125.186:8081/live/pinkerotic2/chunks.m3u8
-#EXTINF:-1,3
-http://51.15.125.186:8081/live/pinkerotic3/chunks.m3u8
-#EXTINF:-1,4
-http://51.15.125.186:8081/live/pinkerotic4/chunks.m3u8
-#EXTINF:-1,5
-http://51.15.125.186:8081/live/faptvteens/chunks.m3u8
-#EXTINF:-1,BRAZZERS
-http://51.15.125.186:8081/live/bhls/chunks.m3u8
-#EXTINF:-1,PENYHOUSE BLACK
-http://51.15.125.186:8081/live/nuart/chunks.m3u8
-#EXTINF:-1,OLALA
-http://51.15.125.186:8081/live/ola/chunks.m3u8
-#EXTINF:-1,PENTHOUSE PASSION
-http://51.15.125.186:8081/live/penthouse/chunks.m3u8
-#EXTINF:-1,PASSIONXXX
-http://51.15.125.186:8081/live/passionx/chunks.m3u8
-#EXTINF:-1,SLITH XXX
-http://51.15.125.186:8081/live/zestnew/chunks.m3u8
+
 
 
 
