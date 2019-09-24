@@ -294,15 +294,13 @@ http://best-str.xtim.tv:8082/stream?stream=orig&channel=obn
 
 #EXTINF:-1,eurosport1
 http://213.174.8.7:8000/play/15/index.m3u8
-
-
 #EXTINF:-1,eurosport1
 https://tinyurl.com/yxlortze
 #EXTINF:-1,eurosport2
 https://tinyurl.com/y6jd6joe
 
-
-
+#EXTINF:-1,sky sport f1
+http://portal.zonictv.com:9090/load/d23hywwappx9/349.mpegts
 
 #EXTINF:0,US: RED BULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
@@ -310,8 +308,15 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1,RED BULL TV
 http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8
 
+#EXTINF:-1,fight box
+http://92.43.140.200/s86/index.m3u8
 
 
+
+
+
+#EXTINF:-1,mtv hd
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8?seg-user-4pda-denms-ru-v1-a1
 
 #EXTINF:-1,VH 1
 http://148.251.183.213:8080/VH1/mpegts
@@ -379,8 +384,13 @@ http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
 #EXTINF:0,Music Channel Hungary
 http://stream.1music.hu/stream/1music.m3u8
 
+#EXTINF:0,NRJ tv
+http://energytv.vedge.infomaniak.com/livecast/energytv/playlist.m3u8
 #EXTINF:0,NRJ Hits
 http://5.196.138.6:1935/live/nrjbelgique_720p/chunklist_w1562122761.m3u8
+#EXTINF:0,NRJ Hits
+http://5be019f0d8c6e.streamlock.net:1935/ngroup/NRJHitsTV_720p/playlist.m3u8
+
 
 #EXTINF:-1,Music Box
 http://94.43.239.178:8080/CHANNEL470/BITRATE0/playlist.m3u8
@@ -444,12 +454,17 @@ https://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/master.m3u8
 
 #EXTINF:-1,travel hd
 http://31.13.223.103/travel/community.stream/playlist.m3u8?hash=943212345
+#EXTINF:-1,travel tv guide
+http://cdn10.live-tv.od.ua:8081/leonovtv/1080i/playlist.m3u8
+
 
 #EXTINF:-1,NASA ISS VIEWS
 http://iphone-streaming.ustream.tv/uhls/17074538/streams/live/iphone/playlist.m3u8
 
 #EXTINF:-1,Smile of a Child
 http://acaooyalahd2-lh.akamaihd.net/i/TBN04_delivery@186242/master.m3u8
+#EXTINF:-1,duck tv
+http://51.15.190.120:38099/duckhd/live.m3u8
 
 #EXTINF:-1,BBC
 http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
@@ -892,6 +907,10 @@ http://idfashion-hls1.cosmonova.net.ua/hls/idfashion_ua_mid/index.m3u8
 
 #EXTINF:-1,ID Fashion TV [FHD]
 http://idfashion-hls1.cosmonova.net.ua/hls/idfashion_ua_hi/index.m3u8
+
+#EXTINF:-1,Fashion TV 
+http://strm.yandex.ru/kal/fashiontv/fashiontv0_169_480p.json/index-v1-a1.m3u8
+
 
 #EXTINF:-1,YouPorn 24H
 http://iptvnation.com/porn/video.mp4
