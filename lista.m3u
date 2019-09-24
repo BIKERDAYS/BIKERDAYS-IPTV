@@ -276,7 +276,20 @@ http://tvstream.rtvbn.com:1935/live/stream/chunklist_w1957700324.m3u8
 #EXTINF:-1,plus tv
 http://141.136.14.18/kanal1/kanal1_1500/index.m3u8
 
-
+#EXTINF:-1,RTS 1
+http://best-str.xtim.tv:8082/stream?stream=orig&channel=rts1
+#EXTINF:-1,RTS 2
+http://best-str.xtim.tv:8082/stream?stream=orig&channel=rts2
+#EXTINF:-1,RTS 3
+http://best-str.xtim.tv:8082/stream?stream=orig&channel=rts3
+#EXTINF:-1,RTS HD
+http://best-str.xtim.tv:8082/stream?stream=orig&channel=rtshd
+#EXTINF:-1,ANIMAL PLANET
+http://best-str.xtim.tv:8082/stream?stream=orig&channel=animalplanet
+#EXTINF:-1,arte HD
+http://best-str.xtim.tv:8082/stream?stream=orig&channel=artehd
+#EXTINF:-1,obn
+http://best-str.xtim.tv:8082/stream?stream=orig&channel=obn
 
 
 #EXTINF:-1,eurosport1
@@ -890,7 +903,41 @@ http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
 
 
+#EXTINF:-1,PRIVATE TV
+http://best-str.xtim.tv:8082/stream?stream=orig&channel=privatetv
 
 
+#EXTINF:0,RedTraffic MILF
+http://live.redtraffic.xyz/milf.m3u8
+#EXTINF:0,RedTraffic Big Dick
+http://live.redtraffic.xyz/bigdick.m3u8
+#EXTINF:0,RedTraffic Big Tits
+http://live.redtraffic.xyz/bigtits.m3u8
+#EXTINF:0,RedTraffic Fetish
+http://live.redtraffic.xyz/fetish.m3u8
+#EXTINF:0,RedTraffic Pornstar
+http://live.redtraffic.xyz/pornstar.m3u8
+#EXTINF:0,RedTraffic Big Ass
+http://live.redtraffic.xyz/bigass.m3u8
+#EXTINF:0,RedTraffic Interracial
+http://live.redtraffic.xyz/interracial.m3u8
+#EXTINF:0,RedTraffic Latina
+http://live.redtraffic.xyz/latina.m3u8
+#EXTINF:0,RedTraffic POV
+http://live.redtraffic.xyz/pov.m3u8
+#EXTINF:0,RedTraffic Blowjob
+http://live.redtraffic.xyz/blowjob.m3u8
+#EXTINF:0,RedTraffic Teen
+http://live.redtraffic.xyz/teen.m3u8
+#EXTINF:0,RedTraffic Hardcore
+http://live.redtraffic.xyz/hardcore.m3u8
+#EXTINF:0,RedTraffic Cuckold
+http://live.redtraffic.xyz/cuckold.m3u8
+#EXTINF:0,RedTraffic Threesome
+http://live.redtraffic.xyz/threesome.m3u8
+#EXTINF:0,RedTraffic Russian
+http://live.redtraffic.xyz/russian.m3u8
+#EXTINF:0,RedTraffic Lesbian
+http://live.redtraffic.xyz/lesbian.m3u8
 
 
