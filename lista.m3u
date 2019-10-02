@@ -234,23 +234,10 @@ https://tv.si/ts/RTL2/stream_multi.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148 (i
 https://tv.si/ts/Cinestar1/stream_multi.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)&mode=12"
 
 
-#EXTINF:-1 tvg-logo="https://epg.serbianforum.org/logo_znaci/HRT%201.png",[COLOR silver]Hrvatska>[/COLOR][COLOR red]HRT 1[/COLOR]
-http://best-str.xtim.tv:8080/stream?stream=orig&channel=hrt1
 
-#EXTINF:-1 tvg-logo="https://epg.serbianforum.org/logo_znaci/HRT%203.png",[COLOR silver]Hrvatska>[/COLOR][COLOR red]HRT 3[/COLOR]
-http://best-str.xtim.tv:8080/stream?stream=orig&channel=hrt3
-
-#EXTINF:-1 tvg-logo="https://epg.serbianforum.org/logo_znaci/HRT%204.png",[COLOR silver]Hrvatska>[/COLOR][COLOR red]HRT 4[/COLOR]
-http://best-str.xtim.tv:8080/stream?stream=orig&channel=hrt4
-
-#EXTINF:-1 tvg- logo="https://epg.serbianforum.org/logo_znaci/Nova%20TV.png",[COLOR silver]Hrvatska>[/COLOR][COLOR red]Nova TV[/COLOR]
-http://best-str.xtim.tv:8080/stream?stream=orig&channel=hrt5
 
 #EXTINF:-1 tvg-logo="https://epg.serbianforum.org/logo_znaci/HBO%202.png",[COLOR red]FILM>[/COLOR]HBO 2 EN/BG
 http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8
-
-#EXTINF:-1 tvg-logo="https://epg.serbianforum.org/logo_znaci/Discovery%20Channel.png",[COLOR gold]Doku.>[/COLOR]Discovery
-http://best-str.xtim.tv:8080/stream?stream=orig&channel=discovery
 
 #EXTINF:-1 tvg-logo="https://epg.serbianforum.org/logo_znaci/Discovery%20Showcase.png",[COLOR gold]Doku.>[/COLOR]Discovery Show Case
 http://194.54.183.122:8000/play/a01g
@@ -260,9 +247,6 @@ http://194.54.183.122:8000/play/a01j
 
 #EXTINF:-1 tvg-logo="https://epg.serbianforum.org/logo_znaci/Animal%20Planet.png",[COLOR gold]Doku.>[/COLOR]Animal Planet
 http://194.54.183.122:8000/play/a01h
-
-#EXTINF:-1 tvg-logo="https://epg.serbianforum.org/logo_znaci/Animal%20Planet.png",[COLOR gold]Doku.>[/COLOR]Animal Planet
-http://best-str.xtim.tv:8080/stream?stream=orig&channel=animalplanet
 
 #EXTINF:0,TV LESKOVAC
 http://best.str.nettvplus.com:8080/stream/?channel=tvleskovac&stream=1mb&sp=nettvplus?u=X0B2YB95
@@ -276,20 +260,6 @@ http://tvstream.rtvbn.com:1935/live/stream/chunklist_w1957700324.m3u8
 #EXTINF:-1,plus tv
 http://141.136.14.18/kanal1/kanal1_1500/index.m3u8
 
-#EXTINF:-1,RTS 1
-http://best-str.xtim.tv:8082/stream?stream=orig&channel=rts1
-#EXTINF:-1,RTS 2
-http://best-str.xtim.tv:8082/stream?stream=orig&channel=rts2
-#EXTINF:-1,RTS 3
-http://best-str.xtim.tv:8082/stream?stream=orig&channel=rts3
-#EXTINF:-1,RTS HD
-http://best-str.xtim.tv:8082/stream?stream=orig&channel=rtshd
-#EXTINF:-1,ANIMAL PLANET
-http://best-str.xtim.tv:8082/stream?stream=orig&channel=animalplanet
-#EXTINF:-1,arte HD
-http://best-str.xtim.tv:8082/stream?stream=orig&channel=artehd
-#EXTINF:-1,obn
-http://best-str.xtim.tv:8082/stream?stream=orig&channel=obn
 
 
 #EXTINF:-1,eurosport1
