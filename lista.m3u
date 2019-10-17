@@ -86,6 +86,93 @@ http://62.210.205.41:8080/OBN/index.m3u8
 http://62.210.205.41:8080/RTL/index.m3u8
 
 
+
+
+
+#EXTINF:-1 tvg-logo="http://katoona.com/iimg/PLUS-TV.jpg",Plus Hd Makedonija Tv
+http://141.136.14.18/kanal1/kanal1_1500/index.m3u8
+
+#EXTINF:-1 group-title="Makedonija",Kavadarci Hd Makedonija Tv
+http://95.86.27.228/rtklive/rtklive_1500/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvmannen.es/iptv_channels/2258111_files/skyfolkmk.png",Sky Folk Hd Music Makedonija Tv
+http://www.skyfolk.mk/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/balkan_music.png",Balkan Hd Music Makedonija Tv
+http://51.254.45.61:8080/hls/balkanmusic.m3u8
+
+#EXTINF:-1 tvg-logo="https://i42.servimg.com/u/f42/14/19/88/25/folk_t10.png",Starfolk Hd Music Makedonija Tv
+https://live.muzickatv.mk/hls/Starmusic.m3u8
+
+#EXTINF:0 tvg-logo="http://logo.exyu.xyz/tv_s1.png" tvg-id="TV S1" tvg-name="TV S1" group-title="Regionalni kanali",Sarajevo 1 Music Bosna Tv
+http://91.148.117.134:1935/radios/radiosweb.stream/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i42.servimg.com/u/f42/14/19/88/25/kopern11.png",K::CN 2 Music Tv
+http://212.200.102.3:5000/rtp/239.0.0.2:5000
+
+#EXTINF:-1 tvg-logo="https://i42.servimg.com/u/f42/14/19/88/25/kopern12.png",K::CN 3 Music Tv
+http://212.200.102.3:5000/rtp/239.0.0.3:5000
+
+#EXTINF:-1 tvg-id="" tvg-name="IDJ TV HD  " tvg-logo="http://rem.rs/uploads/attachment/pruzalac/1385/idjtv_k.png" group-title=",Vitezevo Radio Tv
+http://live.cast-control.eu:1935/VitezevoTv/VitezevoTv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVDuga" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="Duga TV" tvg-logo="http://nextgen-iptv.com/logo/rtv-duga-logo.png" group-title="Music",Duga Music Srbija Tv
+http://w10.streamgb.com:1935/dugaplus/dugaplus/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TV Sehara HD ex-Yu" tvg-logo="http://195.154.221.171/picons/tvseharahdexyu.png" group-title="ex-Yu",Sehara Music Bosna Tv
+http://ip2.xxlservices.com:8081/seharatv/mpegts/mpeg.2ts
+
+#EXTINF:-1 tvg-name="NTV JATA" tvg-logo="https://i1.wp.com/umetnikfotograf.files.wordpress.com/2018/01/tvjata.png?ssl=1&w=450",Jata Music Bosna Tv
+http://109.175.31.2:8525
+
+#EXTINF:-1 tvg-ID="StudioB" tvg-name="Studio B" tvg-logo="https://ocdn.eu/pulscms-transforms/1/fabktkpTURBXy83MGZiMDAyYzMyZWFkMTAwNGY2NTYyZTY1NDgzZmU0MS5qcGeSlQLNAxQAwsOVAs0B1gDCww" group-title="EX-YU", Studio B Srbija Tv
+http://195.252.96.7:1935/webstudiob/webstudiob.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TV Leskovac" tvg-logo="http://titaniptv.com/epg/logo/TV%20Leskovac.png" group-title="Srbija",Leskovac Srbija Tv
+http://best.str.nettvplus.com:8080/stream/?channel=tvleskovac&stream=1mb&sp=nettvplus?u=X0B2YB95
+
+#EXTINF: -1 tvg-id="HRAM"
+http://178.253.194.75:1935/live/hram.stream/.m3u8
+
+#EXTINF:-1 tvg-id="PARACIN
+http://176.67.210.1:8888/
+
+#EXTINF:-1 tvg-id="RTBTV" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="Banovina TV" tvg-logo="http://nextgen-iptv.com/logo/RTVBanovina_HR.png" group-title="HRVATSKI PROGRAMI",Banovina Hrvatska Tv
+http://video.radio-banovina.hr:1935/live/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SlavonskaTv.hr" tvg-name="CR: SLAVONSKA TV" tvg-logo="https://img.endole.co.uk/?t=e72754f0431279b57d0cebaaffe782d2&l=" group-title="CROATIAN -//- SLOVENIJA",Slavonska Hrvatska Tv
+http://89.201.163.244:8080/hls/hdmi.m3u8
+
+#EXTINF:-1 tvg-logo="http://makarska-post.com/wp-content/uploads/2014/07/LOGO-ZA-SLANJE-TZM1.jpg",Makarska live Kamera
+http://146.185.16.10:1935/makarska/makarska.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BN" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="BN" tvg-logo="http://nextgen-iptv.com/logo/BN_BiH.png" group-title=",Bn Bosna Tv
+http://tvstream.rtvbn.com:1935/live/stream/chunklist_w1957700324.m3u8
+
+#EXTINF:-1 tvg-id="RTRS" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="RTRS" tvg-logo="http://nextgen-iptv.com/logo/RTRS_BiH.png" group-title="Ex-YU",Srpska 1 Bosna Tv
+https://parh.rtrs.tv/tv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-name="RTRS PLUS" tvg-logo="https://i0.wp.com/umetnikfotograf.files.wordpress.com/2017/12/rtrsplus.png?ssl=1&w=450",Srpska Plus Bosna Tv
+http://parh.rtrs.tv:1935/plus/plus/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hema Tv" tvg-link="http://epg.iptvhr.net/"tvg-name="Hema Tv" tvg-logo="http://hematv.ba/wp-content/uploads/HEMA-LOGO-1-300x97.png" group-title="BIH",Hema Bosna Tv
+http://77.238.209.50:8080/hema1
+
+#EXTINF:-1 tvg-id="Vikom" tvg-link="http://epg.iptvhr.net/"tvg-name="Vikom" tvg-logo="http://tvprofil.net/img/kanali-logo/vikom_tv_ba.png" group-title="BIH",Vikom Bosna Tv
+http://91.191.42.74:8080/
+
+#EXTINF:-1 tvg-name="RTV SLON" tvg-logo="https://i2.wp.com/umetnikfotograf.files.wordpress.com/2018/01/tvslon.png?ssl=1&w=450",Slon Bosna Tv
+http://31.47.0.130:8082
+
+#EXTINF:-1 tvg-ID="777 TV" tvg-name="Ex-Yu: TV 777" tvg-logo="http://boomtv.club/logo/777.png" group-title="Crna Gora",Kanal 777 Crna Gora Tv
+http://109.123.70.27:1935/tehnikatv777/tehnikatv777/playlist.m3u8
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-ID="SLO1" tvg-name="SLO1" tvg-logo="http://tvprofil.net/img/kanali-logo/rtv-slo1-logo.png",[COLOR pink]Slovenia>[/COLOR] SLO 1
 https://tv.si/ts/Slo1/stream_wifi_1200k.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)&mode=12"
 #EXTINF:-1 tvg-ID="SLO 2 HD" tvg-name="SLO 2 HD" tvg-logo="http://tvprofil.net/img/kanali-logo/rtv-slo2-logo.png",[COLOR pink]Slovenia>[/COLOR] SLO 2
