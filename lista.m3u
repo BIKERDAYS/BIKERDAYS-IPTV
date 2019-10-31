@@ -1370,7 +1370,20 @@ http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D0WeMID.png" group-title="24/7 ADULT IPTV",Private HD (New!)
+https://fluxustv.blogspot.com@bit.ly/PrivateHD?.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MBGOQkC.png" group-title="24/7 ADULT IPTV",Privé TV (New!)
+http://08139e2f.ottv.info/iptv/S9824PT3RW2E72/877/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zX6fCMT.png" group-title="24/7 ADULT IPTV",Shemale Tube TV 1
+http://www.ast.tv/stream/1/master.m3u8?fluxuslust.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zX6fCMT.png" group-title="24/7 ADULT IPTV",Shemale Tube TV 2
+http://www.ast.tv/stream/2/master.m3u8?fluxuslust.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JbXaM3b.png" group-title="24/7 ADULT IPTV",Super One HD (New!)
+https://fluxustv.blogspot.com@bit.ly/SuperOneHD?.m3u8
 
 #EXTINF:0,RedTraffic MILF
 http://live.redtraffic.xyz/milf.m3u8
