@@ -1450,6 +1450,31 @@ http://live.redtraffic.xyz/russian.m3u8
 http://live.redtraffic.xyz/lesbian.m3u8
 
 
+#EXTINF:0,Channel 1
+rtmp://62.210.55.60/stream3xVJ/3x14
+#EXTINF:0,Channel 2
+rtmp://62.210.55.60/stream3xVJ/3x13
+#EXTINF:0,Channel 3
+rtmp://62.210.55.60/stream3xVJ/3x12
+#EXTINF:0,Channel 4
+rtmp://62.210.55.60/stream3xVJ/3x08
+#EXTINF:0,Channel 5
+rtmp://62.210.55.60/stream3xVJ/3x07
+#EXTINF:0,Channel 6
+rtmp://62.210.55.60/stream3xVJ/3x03
+#EXTINF:0,Channel 7
+rtmp://62.210.55.60/stream3xVJ/3x06
+#EXTINF:0,Channel 8
+rtmp://62.210.55.60/stream3xVJ/3x05
+#EXTINF:0,Channel 9
+rtmp://62.210.55.60/stream3xVJ/3x04
+#EXTINF:0,Channel 10
+rtmp://62.210.55.60/stream3xVJ/3x02
+#EXTINF:0,Channel 11
+rtmp://62.210.55.60/stream3xVJ/3x01
+
+
+
 #EXTINF:0,Playboy
 http://cdn-de1.aovivobrasil.tk/live/ab3nhq4k/playlist.m3u8
 #EXTINF:0,SexPrive
