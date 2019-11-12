@@ -918,8 +918,8 @@ https://liveprodeuwest.global.ssl.fastly.net/btv/desktop/eu_live.m3u8
 https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/50345bf35f664739912f0b255c172ae9/index_1.m3u8
 
 
-
-
+#EXTINF:-1,RAI 2 (vpn italia)
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=180116
 
 #EXTINF:-1,RAI 3 (vpn italia)
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709&dem=3
