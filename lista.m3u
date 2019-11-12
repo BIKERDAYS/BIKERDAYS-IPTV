@@ -467,12 +467,6 @@ http://ott-live.olympicchannel.com/out/u/OC1_3.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IpssJvp.png" group-title="Sport",Olympic Channel (UHD)
 http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8?fluxustv.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/EIqkKxU.jpg" group-title="Sport",ON Sport
-http://149.100.10.162:8011/play/s234
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/EIqkKxU.jpg" group-title="Sport",ON Sport
-http://149.100.10.162:8018/play/s213
-
 #EXTINF:-1 tvg-id="Rai Sport IT" tvg-name="Rai Sport IT" tvg-logo="https://i.imgur.com/Lqtz4tS.jpg" group-title="Sport",Rai Sport
 http://everyrai-lh.akamaihd.net/i/raisportjolly1_1@177967/index_400_av-p.m3u8
 
@@ -616,9 +610,6 @@ http://telecaribe-deportes.gcdn.anvato.net/hls/live/telecaribedeporteshd2/2196k/
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/mJGCqkD.png" group-title="Sport",TJK TV
 http://tjktv.ercdn.net/tjktv.m3u8
-
-#EXTINF:-1 tvg-id="TRT Spor TR" tvg-name="TRT Spor TR" tvg-logo="https://i.imgur.com/hxXWsTf.jpg" group-title="Sport",TRT Spor
-https://mn-nl.mncdn.com/blutv_live/trtsporhd/trtsporhd.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/eg3yHM8.jpg" group-title="Sport",TV 2 Play
 https://tv2-play-cl2-live-hls-nt.akamaized.net/out/u/tv2play1/crsvkedv/0/master.m3u8
