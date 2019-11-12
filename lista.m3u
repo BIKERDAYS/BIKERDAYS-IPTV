@@ -933,8 +933,38 @@ http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=75708
 #EXTINF:-1,rai5 (vpn italia)
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276
 
+#EXTINF:-1,rai5
+http://b2everyrai-lh.akamaihd.net:80/i/rai5_1@182695/master.m3u8
+
 #EXTINF:-1,Rai Movie
 http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
+
+#EXTINF:-1,Rai Premium
+http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8
+
+#EXTINF:-1,Rai Yoyo
+http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/master.m3u8
+
+#EXTINF:-1,Rai Gulp
+http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/master.m3u8
+
+#EXTINF:-1,Rai Sport (vpn italia)
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=179975
+
+#EXTINF:-1,Rai Sport Plus (vpn italia)
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=4145
+
+#EXTINF:-1,Rai News
+http://mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=0000001
+
+#EXTINF:-1,La 7
+http://la7-vh.akamaihd.net/i/content/entry/data/0/299/0_b7o9lvba_0_kyyr8vxz_1.mp4/master.m3u8
+
+#EXTINF:-1,Donna tv
+http://wms.shared.streamshow.it/okitalia/okitalia/playlist.m3u8
+
+#EXTINF:-1,VH 1
+https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8?ct=c&expand=simulcast_standard&exp=1529767847&rn=-811303751&cid=36953f5b6546464590d2fcd954bc89cf&tc=1&sig=
 
 #EXTINF:-1,qvc italia
 http://qvcitalia.mmdlive.lldns.net/qvcitalia/66f8359ae9c046bb8aa92144511b450a/manifest.m3u8
@@ -945,26 +975,6 @@ http://wms.shared.streamshow.it/carinatv/carinatv/playlist.m3u8
 #EXTINF:-1,HISTORY LAB – ITÁLIA
 http://wma10.fluidstream.net/HistoryLab/livestream/playlist.m3u8
 
-#EXTINF:-1,CANALE 7
-http://wms.shared.streamshow.it:1935/canale7/canale7/live.m3u8
-
-#EXTINF:-1,BBC Radio One
-http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlow/ak/bbc_radio_one.m3u8
-
-#EXTINF:-1,BBC Radio Two
-http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlow/ak/bbc_radio_two.m3u8
-
-#EXTINF:-1,BBC Radio Four
-http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlow/ak/bbc_radio_fourfm.m3u8
-
-#EXTINF:-1,Jewellery Maker
-http://edge01.cdn.aws.subset.host/JewelleryMakerLive/JewelleryMakerLive/playlist.m3u8
-
-#EXTINF:-1,Kool London Radio
-http://w10.streamgb.com:1935/kool/kool/playlist.m3u8
-
-#EXTINF:-1,London Live
-http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master.m3u8
 
 
 
