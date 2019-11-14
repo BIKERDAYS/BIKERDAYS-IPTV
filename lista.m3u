@@ -350,7 +350,10 @@ http://141.136.14.18/kanal1/kanal1_1500/index.m3u8
 
 
 
-
+#EXTINF:-1,|BE| Eleven Sports 1 HD
+http://iptv6.premium-stv.com:25461/sourcebelgiquesnow/4550109412/1874
+#EXTINF:-1,|BE| Eleven Sports 2 HD
+http://iptv6.premium-stv.com:25461/sourcebelgiquesnow/4550109412/1875
 
 
 
