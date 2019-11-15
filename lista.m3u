@@ -97,9 +97,6 @@ http://95.86.27.228/rtklive/rtklive_1500/index.m3u8
 #EXTINF:-1 tvg-logo="https://tvmannen.es/iptv_channels/2258111_files/skyfolkmk.png",Sky Folk Hd Music Makedonija Tv
 http://www.skyfolk.mk/live.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/balkan_music.png",Balkan Hd Music Makedonija Tv
-http://51.254.45.61:8080/hls/balkanmusic.m3u8
-
 #EXTINF:-1 tvg-logo="https://i42.servimg.com/u/f42/14/19/88/25/folk_t10.png",Starfolk Hd Music Makedonija Tv
 https://live.muzickatv.mk/hls/Starmusic.m3u8
 
@@ -121,9 +118,6 @@ http://w10.streamgb.com:1935/dugaplus/dugaplus/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Sehara HD ex-Yu" tvg-logo="http://195.154.221.171/picons/tvseharahdexyu.png" group-title="ex-Yu",Sehara Music Bosna Tv
 http://ip2.xxlservices.com:8081/seharatv/mpegts/mpeg.2ts
 
-#EXTINF:-1 tvg-name="NTV JATA" tvg-logo="https://i1.wp.com/umetnikfotograf.files.wordpress.com/2018/01/tvjata.png?ssl=1&w=450",Jata Music Bosna Tv
-http://109.175.31.2:8525
-
 #EXTINF:-1 tvg-ID="StudioB" tvg-name="Studio B" tvg-logo="https://ocdn.eu/pulscms-transforms/1/fabktkpTURBXy83MGZiMDAyYzMyZWFkMTAwNGY2NTYyZTY1NDgzZmU0MS5qcGeSlQLNAxQAwsOVAs0B1gDCww" group-title="EX-YU", Studio B Srbija Tv
 http://195.252.96.7:1935/webstudiob/webstudiob.stream/playlist.m3u8
 
@@ -132,9 +126,6 @@ http://best.str.nettvplus.com:8080/stream/?channel=tvleskovac&stream=1mb&sp=nett
 
 #EXTINF: -1 tvg-id="HRAM"
 http://178.253.194.75:1935/live/hram.stream/.m3u8
-
-#EXTINF:-1 tvg-id="PARACIN
-http://176.67.210.1:8888/
 
 #EXTINF:-1 tvg-id="RTBTV" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="Banovina TV" tvg-logo="http://nextgen-iptv.com/logo/RTVBanovina_HR.png" group-title="HRVATSKI PROGRAMI",Banovina Hrvatska Tv
 http://video.radio-banovina.hr:1935/live/myStream/playlist.m3u8
@@ -350,10 +341,6 @@ http://141.136.14.18/kanal1/kanal1_1500/index.m3u8
 
 
 
-#EXTINF:-1,|BE| Eleven Sports 1 HD
-http://iptv6.premium-stv.com:25461/sourcebelgiquesnow/4550109412/1874
-#EXTINF:-1,|BE| Eleven Sports 2 HD
-http://iptv6.premium-stv.com:25461/sourcebelgiquesnow/4550109412/1875
 
 
 
@@ -378,9 +365,6 @@ https://sportbar.biz/lba/123/g7/btse.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i2.wp.com/directostv.teleame.com/wp-content/uploads/2018/06/cdo.png?fit=800%2C500" group-title="Sport",CDO
 http://edge1.cl.grupoz.cl/cdofree/live/chunklist_w822432298.m3u8?GrupoTopIptv
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/vL0VnBZ.png" group-title="Sport",Channel 9 Sport
-http://27.147.156.14:1935/Channel-9/Channel-9.stream/chunks.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/Dsports-channel-hd-img_logo.jpg" group-title="Sport",D Sport
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD.m3u8
 
@@ -394,15 +378,6 @@ https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/1920x1080_
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ye3ckSd.png" group-title="Sport",EDGEsport
 https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/pHkW8og.png" group-title="Sport",ESport3
-http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:es3_web/chunklist_b1296000_DVR.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/pHkW8og.png" group-title="Sport",ESport3
-https://ccma-tva-int-cellnex-live-hls.secure.footprint.net/int/ngrp:es3_web/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/pHkW8og.png" group-title="Sport",ESport3
-https://ccma-tva-int-cellnex-live-hls.secure.footprint.net/int/ngrp:es3_web/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/djeM9yx.png" group-title="Sport",Flow Sports 1
 http://161.0.157.5/PLTV/88888888/224/3221226899/01.m3u8
@@ -457,9 +432,6 @@ http://223.110.243.170/PLTV/2/224/3221226807/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2PoLaXw.png" group-title="Sport",NewTV Super sports HD
 http://111.40.205.107/PLTV/88888888/224/3221225715/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2PoLaXw.png" group-title="Sport",NewTV精品体育
-http://183.207.249.16/PLTV/3/224/3221225543/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IpssJvp.png" group-title="Sport",Olympic Channel
 http://ott-live.olympicchannel.com/out/u/OC1_3.m3u8
@@ -536,9 +508,6 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Red Bull TV" tvg-logo="https://i.imgur.com/7NeBmWX.jpg" group-title="Sport",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png" group-title="Sport",RTM Sports
-http://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b3696000.m3u8
-
 #EXTINF:-1 tvg-id="RTSH Sport AL" tvg-name="RTSH Sport AL" tvg-logo="https://i.imgur.com/yQCzUi4.png" group-title="Sport",RTSH Sport
 http://79.106.48.2/live/rtsh_sport_ott_p3/playlist.m3u8
 
@@ -553,9 +522,6 @@ http://92.46.127.146:8080/SetantaSportPlus/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/j61KLbq.jpg" group-title="Sport",Setanta Sports 1
 http://92.46.127.146:8080/SetantaSport/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/mixRJCe.jpg" group-title="Sport",Setanta Казахстан
-https://sportbar.biz/lba/123/g5/setqz.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/J65R1Vh.png" group-title="Sport",SPORT TV 3
 https://sportbar.biz/lba/123/g2/pt3sport.m3u8
@@ -604,9 +570,6 @@ https://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/Stadium_TV_network_logo.png" group-title="Sport",Stadium
 https://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/37f5dd6d-5713-4998-8354-8c6675612b42/1.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/S0WUoFW.png" group-title="Sport",Supersport 3
-https://sportbar.biz/lba/123/g8/albaniasport3.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/5FTCFRj.png" group-title="Sport",TDM Sports Macau
 http://live4.tdm.com.mo:80/ch4/_definst_/sport_ch4.live/playlist.m3u8
@@ -831,9 +794,6 @@ http://flash2.streaming.xdevel.com:80/radiouniversaltv/radiouniversaltv/playlist
 
 #EXTINF:-1,RETRO MUSIC
 http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
-
-#EXTINF:-1,THE COUNTRY NETWORK
-https://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/master.m3u8
 
 #EXTINF:-1,travel hd
 http://31.13.223.103/travel/community.stream/playlist.m3u8?hash=943212345
