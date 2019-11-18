@@ -630,6 +630,86 @@ http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8
 
 
 
+#EXTINF:-1 group-title="ФУТБОЛ" tvg-logo="http://ekzot.ucoz.net/ch_icons/s/setanta_sports_2.png",Setanta Sports 2 [FHD]
+http://178.124.183.12/hls/5T3FNFICQ4/variant.m3u8
+
+#EXTINF:-1 group-title="ФУТБОЛ" tvg-logo="http://ekzot.ucoz.net/ch_icons/s/setanta_sports_2.png",Setanta Sports 2 [FHD]
+http://178.124.183.5/hls/5T3FNFICQ4/variant.m3u8
+
+#EXTINF:-1 group-title="ФУТБОЛ" tvg-logo="http://ekzot.ucoz.net/ch_icons/m/match_premer.png",Матч! Премьер
+http://178.124.183.5/hls/HNBMWPATWZ/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="ФУТБОЛ" tvg-logo="http://ekzot.ucoz.net/ch_icons/m/match_premer.png",Матч! Премьер
+http://178.124.183.14:80/hls/HNBMWPATWZ/variant.m3u8
+
+#EXTINF:-1 group-title="ФУТБОЛ" tvg-logo="http://ekzot.ucoz.net/ch_icons/m/match_premer.png",Матч! Премьер [SD]
+http://195.162.90.141:8080/b8b5b3c064847325faa5f1f68ac34231
+
+#EXTINF:-1 group-title="ФУТБОЛ" tvg-logo="http://ekzot.ucoz.net/ch_icons/m/match_futbol_1.png",Матч! Футбол 1 [FHD]
+http://persik.by/stream/0264/420211/10266.m3u8
+
+#EXTINF:-1 group-title="ФУТБОЛ" tvg-logo="http://ekzot.ucoz.net/ch_icons/m/match_futbol_1.png",Матч! Футбол 1 [FHD]
+http://persik.by/stream/3931/396361/10266.m3u8
+
+#EXTINF:-1 group-title="ФУТБОЛ" tvg-logo="http://ekzot.ucoz.net/ch_icons/m/match_futbol_1.png",Матч! Футбол 1 [FHD]
+http://persik.tv/stream/3602/287583/10266.m3u8
+
+#EXTINF:-1 group-title="ФУТБОЛ" tvg-logo="http://ekzot.ucoz.net/ch_icons/m/match_futbol_1.png",Матч! Футбол 1 [FHD]
+http://188.35.9.11:2010
+
+#EXTINF:-1 group-title="ФУТБОЛ" tvg-logo="http://ekzot.ucoz.net/ch_icons/m/match_futbol_1.png",Матч! Футбол 1 [SD]
+http://188.35.9.11:2025
+
+#EXTINF:-1 group-title="ФУТБОЛ" tvg-logo="http://ekzot.ucoz.net/ch_icons/m/match_futbol_1.png",Матч! Футбол 1 [SD]
+http://195.162.90.141:8080/8b804b43f839479e0671340cf37e8555
+
+#EXTINF:-1 group-title="ФУТБОЛ" tvg-logo="http://ekzot.ucoz.net/ch_icons/m/match_futbol_2.png",Матч! Футбол 2 [FHD]
+http://188.35.9.11:2011
+
+#EXTINF:-1 group-title="ФУТБОЛ" tvg-logo="http://ekzot.ucoz.net/ch_icons/m/match_futbol_2.png",Матч! Футбол 2 [SD]
+http://46.19.43.248:9981/stream/channelid/1669396465
+
+#EXTINF:-1 group-title="ФУТБОЛ" tvg-logo="http://ekzot.ucoz.net/ch_icons/m/match_futbol_2.png",Матч! Футбол 2 [SD]
+http://188.35.9.11:2026
+
+#EXTINF:-1 group-title="ФУТБОЛ" tvg-logo="http://ekzot.ucoz.net/ch_icons/m/match_futbol_2.png",Матч! Футбол 2 [SD]
+http://195.162.90.141:8080/36efbb6e1af7983ec59ae790498692ce
+
+#EXTINF:-1 group-title="ФУТБОЛ" tvg-logo="http://ekzot.ucoz.net/ch_icons/m/match_futbol_3.png",Матч! Футбол 3 [HD]
+http://telesfor.kartoshkaka.ru/iptv/FBTD4P2R5Q8KFE/206/index.m3u8
+
+#EXTINF:-1 group-title="ФУТБОЛ" tvg-logo="http://ekzot.ucoz.net/ch_icons/m/match_futbol_3.png",Матч! Футбол 3 [FHD]
+http://188.35.9.11:2012
+
+#EXTINF:-1 group-title="ФУТБОЛ" tvg-logo="http://ekzot.ucoz.net/ch_icons/m/match_futbol_3.png",Матч! Футбол 3 [FHD]
+http://188.35.9.15:2012
+
+#EXTINF:-1 group-title="ФУТБОЛ" tvg-logo="http://ekzot.ucoz.net/ch_icons/m/match_futbol_3.png",Матч! Футбол 3 [SD]
+http://188.35.9.11:2027
+
+#EXTINF:-1 group-title="ФУТБОЛ" tvg-logo="http://ekzot.ucoz.net/ch_icons/t/telekanal_futbol.png",Телеканал Футбол [SD]
+http://5.129.5.77:81/udp/239.1.12.5:1234
+
+#EXTINF:-1 group-title="ФУТБОЛ" tvg-logo="http://ekzot.ucoz.net/ch_icons/f/futbol_1.png",Футбол 1 [FHD]
+http://persik.by/stream/3602/287583/10266.m3u8
+
+#EXTINF:-1 group-title="ФУТБОЛ" tvg-logo="http://ekzot.ucoz.net/ch_icons/f/futbol_1.png",Футбол 1 [FHD]
+http://188.35.9.11:2007
+
+#EXTINF:-1 group-title="ФУТБОЛ" tvg-logo="http://ekzot.ucoz.net/ch_icons/f/futbol_1.png",Футбол 1 [FHD]
+http://188.35.9.10:2007
+
+#EXTINF:-1 group-title="ФУТБОЛ" tvg-logo="http://ekzot.ucoz.net/ch_icons/f/futbol_1_ukraina.png",Футбол 1 Украина [SD]
+http://93.170.188.3:8989/index.m3u8
+
+#EXTINF:-1 group-title="ФУТБОЛ" tvg-logo="http://ekzot.ucoz.net/ch_icons/f/futbol_2.png",Футбол 2 [FHD]
+http://188.35.9.11:2008
+
+#EXTINF:-1 group-title="ФУТБОЛ" tvg-logo="http://ekzot.ucoz.net/ch_icons/f/futbol_2.png",Футбол 2 [FHD]
+http://188.35.9.10:2008
+
+
+
 
 
 #EXTINF:-1,Polsat Sport HD
