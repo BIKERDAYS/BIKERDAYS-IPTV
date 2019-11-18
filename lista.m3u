@@ -962,6 +962,137 @@ http://62.113.210.250/medienasa-live/_definst_/mp4:elbe_high/chunklist_w11465644
 
 
 
+#EXTINF:-1,Pro7 MAXX HD
+http://5.101.137.66:1027
+#EXTINF:-1,Deluxe Music
+http://5.101.137.66:2003
+#EXTINF:-1,Eurosport 2 HD
+http://5.101.137.66:2005
+#EXTINF:-1,ANIXE
+http://5.101.137.66:2040
+#EXTINF:-1,WELT
+http://5.101.137.66:2041
+#EXTINF:-1,Comedy Central
+http://5.101.137.66:2042
+#EXTINF:-1,Disney Channel
+http://5.101.137.66:2069
+#EXTINF:-1,DELUXE MUSIC
+http://5.101.137.66:2347
+#EXTINF:-1,DMAX Austria
+http://5.101.137.66:3048
+#EXTINF:-1,kabel eins HD
+http://5.101.137.66:3472
+#EXTINF:-1,Sky Cinema Action HD
+http://5.101.137.66:4327
+#EXTINF:-1,SPORT1
+http://5.101.137.66:5073
+#EXTINF:-1,RTL HD
+http://5.101.137.66:5095
+#EXTINF:-1,VOX HD
+http://5.101.137.66:5096
+#EXTINF:-1,RTLII HD
+http://5.101.137.66:5098
+#EXTINF:-1,SUPER RTL
+http://5.101.137.66:5179
+#EXTINF:-1,NITRO HD
+http://5.101.137.66:5279
+#EXTINF:-1,Sky Sport 2
+http://5.101.137.66:5641
+#EXTINF:-1,ZDFinfo
+http://5.101.137.66:6011
+#EXTINF:-1,RTL Television
+http://5.101.137.66:6012
+#EXTINF:-1,SAT.1
+http://5.101.137.66:6014
+#EXTINF:-1,Sky Krimi HD
+http://5.101.137.66:6018
+#EXTINF:-1,SAT.1 Gold
+http://5.101.137.66:6019
+#EXTINF:-1,kabel eins Doku
+http://5.101.137.66:6029
+#EXTINF:-1,N24 DOKU
+http://5.101.137.66:6031
+#EXTINF:-1,TLC
+http://5.101.137.66:6035
+#EXTINF:-1,SIXX
+http://5.101.137.66:6037
+#EXTINF:-1,Cartoon Network
+http://5.101.137.66:6038
+#EXTINF:-1,SUPER RTL
+http://5.101.137.66:6042
+#EXTINF:-1,VOX
+http://5.101.137.66:6043
+#EXTINF:-1,KiKA
+http://5.101.137.66:6044
+#EXTINF:-1,n-tv
+http://5.101.137.66:6045
+#EXTINF:-1,Pro7 MAXX
+http://5.101.137.66:6046
+#EXTINF:-1,TOGGO plus
+http://5.101.137.66:6050
+#EXTINF:-1,NITRO
+http://5.101.137.66:6054
+#EXTINF:-1,RTLplus
+http://5.101.137.66:6056
+#EXTINF:-1,RTL2
+http://5.101.137.66:7003
+#EXTINF:-1,Sky Cinema Family
+http://5.101.137.66:7004
+#EXTINF:-1,ANIXE+
+http://5.101.137.66:7005
+#EXTINF:-1,Sky Cinema Hits
+http://5.101.137.66:7013
+#EXTINF:-1,Sky Sport 1
+http://5.101.137.66:7016
+#EXTINF:-1,Sky Cinema Nostalgie
+http://5.101.137.66:7017
+#EXTINF:-1,Sky Cinema
+http://5.101.137.66:7026
+#EXTINF:-1,3sat
+http://5.101.137.66:7029
+#EXTINF:-1,Motorvision TV
+http://5.101.137.66:7031
+#EXTINF:-1,Sky Sport Bundesliga 1
+http://5.101.137.66:7037
+#EXTINF:-1,zdf_neo
+http://5.101.137.66:7043
+#EXTINF:-1,ZDF
+http://5.101.137.66:7044
+#EXTINF:-1,ProSieben
+http://5.101.137.66:7045
+#EXTINF:-1,kabel eins
+http://5.101.137.66:7046
+#EXTINF:-1,Disney Channel
+http://5.101.137.66:7047
+#EXTINF:-1,WELT
+http://5.101.137.66:7051
+#EXTINF:-1,Eurosport 1 HD
+http://5.101.137.66:7643
+#EXTINF:-1,Eurosport 2 HD Xtra
+http://5.101.137.66:7644
+#EXTINF:-1,SAT.1 Gold HD
+http://5.101.137.66:7646
+#EXTINF:-1,Sky Cinema Comedy
+http://5.101.137.66:9002
+#EXTINF:-1,Sky Cinema Action
+http://5.101.137.66:9003
+#EXTINF:-1,ProSieben HD
+http://5.101.137.66:9028
+#EXTINF:-1,SAT.1 HD
+http://5.101.137.66:9030
+#EXTINF:-1,Kinowelt TV
+http://5.101.137.66:9036
+#EXTINF:-1,Sky Sport Austria 1
+http://5.101.137.66:9045
+#EXTINF:-1,NICKELODEON AT
+http://5.101.137.66:9046
+#EXTINF:-1,Comedy Central Austria
+http://5.101.137.66:9146
+
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://4.bp.blogspot.com/-BAcecuCPkK4/VGjDw1zsTdI/AAAAAAAACeE/eSgTcT9nY7Y/s1600/123tv.jpg" group-title="GERMANY",1-2-3 TV
 http://123tv.cdn.ses-ps.com/index.m3u8
 
