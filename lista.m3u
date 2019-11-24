@@ -745,11 +745,14 @@ http://188.35.9.14:21161/udp/170z
 
 
 
-
-
+#EXTINF:-1,mtv USA
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 
 #EXTINF:-1,mtv hd
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8?seg-user-4pda-denms-ru-v1-a1
+
+#EXTINF:-1,MELODY CHANNEL
+http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8?iptvm3uplaylists.com.m3u8
 
 #EXTINF:-1,DJing Dancefloor
 https://www.djing.com/tv/dancefloor.m3u8?sd=10&rebase=on
@@ -795,6 +798,9 @@ http://skyfolk.mk/live.m3u8
 
 #EXTINF:0,ROMA TV
 http://185.46.161.3/hls/sd.m3u8
+#EXTINF:0,ERA TV
+http://82.214.119.228:8080/era/mpegts
+
 
 #EXTINF:-1,Retro TV
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
@@ -857,6 +863,8 @@ http://wma02.fluidstream.net/RN1TV/livestream/playlist.m3u8
 #EXTINF:-1,MVTV
 http://www.evoiptv.com/hlsmvtv/hlsmvtv.m3u8
 
+#EXTINF:-1,TOP LATINO
+http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist_w430979689.m3u8
 
 #EXTINF:-1 tvg-logo=”https://i.imgur.com/OXgDjwN.png” group-title=”MUSICA”, Radio Bruno (Italia) | SD
 http://37.48.83.34:80/radiobrunotv/radiobrunotv/playlist.m3u8
