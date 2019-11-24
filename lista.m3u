@@ -342,8 +342,6 @@ http://141.136.14.18/kanal1/kanal1_1500/index.m3u8
 
 
 
-
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/oKLqSYI.png" group-title="Sport",ARENA SPORT 4
 https://sportbar.biz/lba/123/g3/arenaserbia4.m3u8
 
@@ -370,8 +368,6 @@ http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport",DD Sports
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
-
-
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ye3ckSd.png" group-title="Sport",EDGEsport
 https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/1920x1080_5628000/index.m3u8
@@ -535,9 +531,6 @@ http://185.176.117.243/live/eds/Sport1/HLS_encr/Sport1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/uL98NGs.png" group-title="Sport",Sportacentrs
 http://194.204.46.137/live/eds/SportaCentrs/HLS_encr/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/GAmKpO6.png" group-title="Sport",Sports TV
-https://mn-nl.mncdn.com/blutv_live/sportstv/sportstv.smil/chunklist_b1596000_sltur.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/1ZKpTT5.jpg" group-title="Sport",Sportskool
 https://a.jsrdn.com/broadcast/22697/+0000/hi/c.m3u8
 
@@ -561,9 +554,6 @@ https://dcunilive36-lh.akamaihd.net/i/dclive_1@662153/master.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Acyl3az.jpg" group-title="Sport",STAD'AFRIC
 https://stadafric.streamakaci.tv/str_stadafric_stadafric/str_stadafric_multi/str_stadafric_stadafric/str_stadafric_player_1080p/chunks.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Acyl3az.jpg" group-title="Sport",STAD'AFRIC
-https://stadafric.streamakaci.tv/str_stadafric_stadafric/str_stadafric_multi/str_stadafric_stadafric/str_stadafric_player_480p/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/n38w3FD.png" group-title="Sport",Stadium
 https://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/37f5dd6d-5713-4998-8354-8c6675612b42/0.m3u8
@@ -610,25 +600,14 @@ http://uiptv.do.am/1ufc/000000003/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/vSC5JvL.png" group-title="Sport",Футбол 1
 https://sportbar.biz/lba/123/g6/ukrfoot1.m3u8
 
-
-
-
-
 #EXTINF:-1,eurosport1
 https://tinyurl.com/yxlortze
+
 #EXTINF:-1,eurosport2
 https://tinyurl.com/y6jd6joe
 
-
-#EXTINF:0,US: RED BULL TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-
 #EXTINF:-1,RED BULL TV
 http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8
-
-
-
-
 
 #EXTINF:-1 group-title="ФУТБОЛ" tvg-logo="http://ekzot.ucoz.net/ch_icons/s/setanta_sports_2.png",Setanta Sports 2 [FHD]
 http://178.124.183.12/hls/5T3FNFICQ4/variant.m3u8
@@ -687,9 +666,6 @@ http://188.35.9.15:2012
 #EXTINF:-1 group-title="ФУТБОЛ" tvg-logo="http://ekzot.ucoz.net/ch_icons/m/match_futbol_3.png",Матч! Футбол 3 [SD]
 http://188.35.9.11:2027
 
-#EXTINF:-1 group-title="ФУТБОЛ" tvg-logo="http://ekzot.ucoz.net/ch_icons/t/telekanal_futbol.png",Телеканал Футбол [SD]
-http://5.129.5.77:81/udp/239.1.12.5:1234
-
 #EXTINF:-1 group-title="ФУТБОЛ" tvg-logo="http://ekzot.ucoz.net/ch_icons/f/futbol_1.png",Футбол 1 [FHD]
 http://persik.by/stream/3602/287583/10266.m3u8
 
@@ -708,10 +684,6 @@ http://188.35.9.11:2008
 #EXTINF:-1 group-title="ФУТБОЛ" tvg-logo="http://ekzot.ucoz.net/ch_icons/f/futbol_2.png",Футбол 2 [FHD]
 http://188.35.9.10:2008
 
-
-
-
-
 #EXTINF:-1,Polsat Sport HD
 http://188.35.9.14:21161/udp/172r
 
@@ -724,11 +696,8 @@ http://188.35.9.14:21151/udp/193i
 #EXTINF:-1,Viasat Sport (RU)
 http://188.35.9.14:2030/udp/035l
 
-
-
 #EXTINF:-1,Rai Sport HD
 http://188.35.9.14:21031/udp/088c
-
 
 #EXTINF:-1,M. Deportes HD
 http://188.35.9.14:21031/udp/106z
@@ -741,6 +710,9 @@ http://188.35.9.14:21081/udp/098t
 
 #EXTINF:-1,Sportklub HD
 http://188.35.9.14:21161/udp/170z
+
+
+
 
 
 
