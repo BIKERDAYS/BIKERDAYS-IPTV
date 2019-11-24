@@ -857,6 +857,14 @@ http://wma02.fluidstream.net/RN1TV/livestream/playlist.m3u8
 #EXTINF:-1,MVTV
 http://www.evoiptv.com/hlsmvtv/hlsmvtv.m3u8
 
+
+#EXTINF:-1 tvg-logo=”https://i.imgur.com/OXgDjwN.png” group-title=”MUSICA”, Radio Bruno (Italia) | SD
+http://37.48.83.34:80/radiobrunotv/radiobrunotv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo=”https://i.imgur.com/63s1k43.png” group-title=”MUSICA”, Portal FoxMix | HD
+http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
+
 #EXTINF:-1,Company Tv
 http://wma10.fluidstream.net/CompanyTV/_definst_/mp4:livestream_720p/playlist.m3u8
 
