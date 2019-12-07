@@ -341,50 +341,15 @@ http://141.136.14.18/kanal1/kanal1_1500/index.m3u8
 
 
 
-#EXTINF:-1 ,US: WWE NETWORK 7/24
-http://hemn2.xyz:8000/live/w539/3258745872/2046.m3u8
-#EXTINF:-1 ,TR: beIN Sports 1 SD
-http://hemn2.xyz:8000/live/w539/3258745872/1.m3u8
-#EXTINF:-1 ,TR: beIN Sports 1 HQ
-http://hemn2.xyz:8000/live/w539/3258745872/447.m3u8
-#EXTINF:-1 ,TR: beIN Sports 1 HD
-http://hemn2.xyz:8000/live/w539/3258745872/2.m3u8
-#EXTINF:-1 ,TR: beIN Sports 1 UHD
-http://hemn2.xyz:8000/live/w539/3258745872/8903.m3u8
-#EXTINF:-1 ,TR: beIN Sports 1 HD 1080P
-http://hemn2.xyz:8000/live/w539/3258745872/4614.m3u8
-#EXTINF:-1 ,TR: beIN Sports 2 HD
-http://hemn2.xyz:8000/live/w539/3258745872/3.m3u8
-#EXTINF:-1 ,TR: beIN Sports 3 HD
-http://hemn2.xyz:8000/live/w539/3258745872/4.m3u8
-#EXTINF:-1 ,TR: beIN Sports 4 HD
-http://hemn2.xyz:8000/live/w539/3258745872/630.m3u8
-#EXTINF:-1 ,TR: beIN Sports 5 HD
-http://hemn2.xyz:8000/live/w539/3258745872/33.m3u8
-#EXTINF:-1 ,TR: beIN Sports Max 1
-http://hemn2.xyz:8000/live/w539/3258745872/4553.m3u8
-#EXTINF:-1 ,TR: beIN Sports Max 2
-http://hemn2.xyz:8000/live/w539/3258745872/4557.m3u8
-#EXTINF:-1 ,TR: beIN Sport Haber HQ
-http://hemn2.xyz:8000/live/w539/3258745872/5675.m3u8
-#EXTINF:-1 ,TR: Saran Sport
-http://hemn2.xyz:8000/live/w539/3258745872/21782.m3u8
-#EXTINF:-1 ,TR: Saran Sport 2 HD
-http://hemn2.xyz:8000/live/w539/3258745872/21947.m3u8
-#EXTINF:-1 ,US: Nba HD
-http://hemn2.xyz:8000/live/w539/3258745872/86.m3u8
-#EXTINF:-1 ,US: Sport US
-http://hemn2.xyz:8000/live/w539/3258745872/9557.m3u8
-#EXTINF:-1 ,TR: Tivibu Spor 1 HQ
-http://hemn2.xyz:8000/live/w539/3258745872/445.m3u8
-#EXTINF:-1 ,TR: Tivibu Spor 1 HD
-http://hemn2.xyz:8000/live/w539/3258745872/9686.m3u8
-#EXTINF:-1 ,TR: Tivibu Spor 2 HQ
-http://hemn2.xyz:8000/live/w539/3258745872/444.m3u8
-#EXTINF:-1 ,TR: Tivibu Spor 3 HQ
-http://hemn2.xyz:8000/live/w539/3258745872/2526.m3u8
-#EXTINF:-1 ,TR: Tivibu Spor 4 HQ
-http://hemn2.xyz:8000/live/w539/3258745872/2527.m3u8
+
+
+
+#EXTINF:-1,EuroSport 1
+http://78.129.228.178/iptv/SAYZ5SQS5T3XQM/141/index.m3u8
+#EXTINF:-1,Eurosport 1 HD
+http://78.129.228.178/iptv/SAYZ5SQS5T3XQM/228/index.m3u8
+#EXTINF:-1,Eurosport 2 North-East HD
+http://78.129.228.178/iptv/SAYZ5SQS5T3XQM/234/index.m3u8
 
 
 
